@@ -15,15 +15,11 @@
 
         body {
             font-family: 'Minecraft', 'Courier New', monospace;
-            background-color: #3c3c3c;
-            background-image:
-                linear-gradient(rgba(0, 0, 0, 0.1) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(0, 0, 0, 0.1) 1px, transparent 1px),
-                repeating-linear-gradient(0deg, #3c3c3c 0px, #4a4a4a 2px, #5a5a5a 4px, #6a6a6a 6px, #5a5a5a 8px, #4a4a4a 10px, #3c3c3c 12px);
-            background-size: 
-                4px 4px,
-                4px 4px,
-                16px 16px;
+            /* DIRT BACKGROUND - Replace this with your texture */
+            background-color: #5a4c3e;
+            background-image: url('data:image/png;base64,YOUR_BASE64_HERE');
+            background-repeat: repeat;
+            background-size: 64px 64px; /* Adjust based on your texture size */
             color: #ffffff;
             min-height: 100vh;
             padding: 20px;
@@ -43,7 +39,6 @@
             color: #ffffff;
             text-shadow: 3px 3px 0px #3f3f3f;
             margin-bottom: 10px;
-            letter-spacing: 1px;
         }
 
         .subtitle {
@@ -52,23 +47,37 @@
             text-shadow: 2px 2px 0px #3f3f3f;
         }
 
+        /* Minecraft Container Styling */
         .streamers-list {
-            background-color: rgba(0, 0, 0, 0.25);
-            border: 2px solid #000000;
+            background-color: #c6c6c6;
             padding: 20px;
             margin: 0 auto 20px;
             max-width: 900px;
+            /* Exact Minecraft box-shadow for 3D effect */
             box-shadow: 
-                inset -2px -2px 0px rgba(0, 0, 0, 0.5),
-                inset 2px 2px 0px rgba(255, 255, 255, 0.25);
+                8px 0 0 0 #555555,
+                0 8px 0 0 #555555,
+                4px 4px 0 0 #555555,
+                -8px 0 0 0 #e8e8e8,
+                0 -8px 0 0 #e8e8e8,
+                -4px -4px 0 0 #e8e8e8,
+                0 0 0 4px #b5b4b5,
+                4px 8px 0 0 #555555,
+                8px 4px 0 0 #555555,
+                -4px -8px 0 0 #e8e8e8,
+                -8px -4px 0 0 #e8e8e8,
+                8px -4px 0 0 #000000,
+                4px -8px 0 0 #000000,
+                -8px 4px 0 0 #000000,
+                -4px 8px 0 0 #000000;
         }
 
         .streamers-list h2 {
-            color: #ffffff;
+            color: #404040;
             margin-bottom: 20px;
             font-size: 1.2em;
             text-align: center;
-            text-shadow: 2px 2px 0px #3f3f3f;
+            text-shadow: none;
         }
 
         .streamers-container {
@@ -78,33 +87,39 @@
             gap: 8px;
         }
 
+        /* Minecraft Button - Pixel Perfect */
         .streamer-name {
             display: inline-block;
-            background: linear-gradient(180deg, #ffffff 0%, #c6c6c6 3%, #8b8b8b 97%, #555555 100%);
-            color: #ffffff;
+            position: relative;
+            background-color: #c6c6c6;
+            color: #e0e0e0;
             padding: 10px 20px;
             text-decoration: none;
-            border: 2px solid #000000;
-            box-shadow: 
-                inset -2px -2px 0px rgba(0, 0, 0, 0.5),
-                inset 2px 2px 0px rgba(255, 255, 255, 0.25);
-            text-shadow: 2px 2px 0px #3f3f3f;
             cursor: pointer;
             transition: all 0.05s;
             image-rendering: pixelated;
+            text-shadow: 2px 2px 0px #3f3f3f;
+            /* Minecraft button 3D effect */
+            box-shadow: 
+                0 4px 0 0 #7b7b7b,
+                0 0 0 2px #000000,
+                0 0 0 3px #ffffff,
+                inset 0 -4px 0 0 rgba(0, 0, 0, 0.2);
         }
 
         .streamer-name:hover {
-            background: linear-gradient(180deg, #a0a0ff 0%, #8080ff 50%, #6060ff 100%);
+            background-color: #a0cfff;
             color: #ffffa0;
-            text-shadow: 2px 2px 0px rgba(32, 32, 19, 0.8);
+            text-shadow: 2px 2px 0px rgba(32, 32, 128, 0.5);
         }
 
         .streamer-name:active {
+            transform: translateY(2px);
             box-shadow: 
-                inset 2px 2px 0px rgba(0, 0, 0, 0.5),
-                inset -2px -2px 0px rgba(255, 255, 255, 0.1);
-            transform: translateY(1px);
+                0 2px 0 0 #7b7b7b,
+                0 0 0 2px #000000,
+                0 0 0 3px #ffffff,
+                inset 0 2px 0 0 rgba(0, 0, 0, 0.3);
         }
 
         .streams-grid {
@@ -117,31 +132,40 @@
 
         .stream-container {
             display: none;
-            background-color: rgba(0, 0, 0, 0.25);
-            border: 2px solid #000000;
+            background-color: #c6c6c6;
             padding: 10px;
             box-shadow: 
-                inset -2px -2px 0px rgba(0, 0, 0, 0.5),
-                inset 2px 2px 0px rgba(255, 255, 255, 0.25);
+                8px 0 0 0 #555555,
+                0 8px 0 0 #555555,
+                4px 4px 0 0 #555555,
+                -8px 0 0 0 #e8e8e8,
+                0 -8px 0 0 #e8e8e8,
+                -4px -4px 0 0 #e8e8e8,
+                0 0 0 4px #b5b4b5,
+                4px 8px 0 0 #555555,
+                8px 4px 0 0 #555555,
+                -4px -8px 0 0 #e8e8e8,
+                -8px -4px 0 0 #e8e8e8,
+                8px -4px 0 0 #000000,
+                4px -8px 0 0 #000000,
+                -8px 4px 0 0 #000000,
+                -4px 8px 0 0 #000000;
         }
 
         .stream-header {
-            background: linear-gradient(180deg, #ffffff 0%, #c6c6c6 3%, #8b8b8b 97%, #555555 100%);
-            color: #ffffff;
+            background-color: #c6c6c6;
+            color: #404040;
             padding: 10px;
             text-align: center;
             font-size: 1em;
             margin-bottom: 10px;
             text-transform: capitalize;
-            border: 2px solid #000000;
-            text-shadow: 2px 2px 0px #3f3f3f;
+            text-shadow: none;
             box-shadow: 
-                inset -2px -2px 0px rgba(0, 0, 0, 0.5),
-                inset 2px 2px 0px rgba(255, 255, 255, 0.25);
-        }
-
-        #twitch-embed-container {
-            border: 2px solid #000000;
+                0 4px 0 0 #7b7b7b,
+                0 0 0 2px #000000,
+                0 0 0 3px #ffffff,
+                inset 0 -4px 0 0 rgba(0, 0, 0, 0.2);
         }
 
         footer {
