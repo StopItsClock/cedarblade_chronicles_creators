@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cedarblade Chronicles - Content Creators</title>
+    <title>Cedarblade Chronicles SMP - Content Creators</title>
     <script src="https://embed.twitch.tv/embed/v1.js"></script>
-    <link href="https://fonts.cdnfonts.com/css/minecraft-4" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -14,15 +16,19 @@
         }
 
         body {
-            font-family: 'Minecraft', 'Courier New', monospace;
-            /* DIRT BACKGROUND - Replace this with your texture */
+            /* Minecraft font */
+            font-family: 'Press Start 2P', 'Courier New', monospace;
+            
+            /* DIRT BACKGROUND TEXTURE - 64x64 pixelated */
             background-color: #5a4c3e;
-            background-image: url('data:image/png;base64,YOUR_BASE64_HERE');
+            background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIySURBVHhe7dpNaxRBEMbxHV03G9yQ4CIKQsCLR7//R8olEslKYlxdr1u/AR/m4Kn6f6vq7pqhqKe652X6+vnDaXXG88vx3JyRxm9222Kn+Xn8V7G3mzfFFq//cHgutuOvitWQkQAd3Zhu31+XHrDdrM/N1cPhqdhJg64/XlwX+3B/V2zjqVF7hLZ4fe9f2lfASICObkyeA9w3xX3547urYqf1ouaXrvd+JN1f+woYCdDRjenLp33pAT9WVZP7Td131VDad5fu8+K413M8xdduXwEjATq6MesBakTNad99eyz2ze6y2MYT46Ue8nuzK/brl0Oxl8ZrXwEjATq6MXsf4NlaTYsaTxpMqFHx/tJ88ZzQvgJGAnR0Y/Y+wH09aWx9tS/28fG+2KIGxWeNpfPtQalHta+AkQAd3Zj1ADWVNKjGJI2rSc8NS88hYnxpXwEjATq6Ed8HiJpyfhpPZ3nXi/ES6XrtK2AkQEc3Zj1A3JfVkKg5SeuXks4pnmvsMe0rYCRARzdiD3DfXao55xvPHuP3fDG+mhb/UfJ9RfsKGAnQ0Y1ZD1CjkjTneNKs/yO8Xf37HyHvz3OH7w/S/PYVMBKgoxuLvw2qKTUtjtsT/jeeQ6R9BYwE6OjGrAeoWTUvp6nmcDr9KbbxxPj2IJ8N0rdLNW98aV8BIwE6uhGfBZIm3dedr0bTeGLp+tSD2lfASICObsQesHRfddx/iNY/vxc7YTxJGne9PaR9BYwE6OjGX+vEHx1mSlkiAAAAAElFTkSuQmCC);
             background-repeat: repeat;
-            background-size: 64px 64px; /* Adjust based on your texture size */
+            background-size: 64px 64px;
             color: #ffffff;
             min-height: 100vh;
             padding: 20px;
+            
+            /* Pixelated rendering for crisp textures */
             image-rendering: pixelated;
             image-rendering: -moz-crisp-edges;
             image-rendering: crisp-edges;
@@ -37,8 +43,10 @@
         h1 {
             font-size: 2em;
             color: #ffffff;
+            /* Exact Minecraft text shadow - dark gray offset */
             text-shadow: 3px 3px 0px #3f3f3f;
             margin-bottom: 10px;
+            line-height: 1.4;
         }
 
         .subtitle {
@@ -47,29 +55,23 @@
             text-shadow: 2px 2px 0px #3f3f3f;
         }
 
-        /* Minecraft Container Styling */
+        /* Minecraft Container - Exact colors from Minecraft GUI */
         .streamers-list {
+            /* Main GUI background color */
             background-color: #c6c6c6;
             padding: 20px;
             margin: 0 auto 20px;
             max-width: 900px;
-            /* Exact Minecraft box-shadow for 3D effect */
+            
+            /* Exact Minecraft GUI 3D border effect */
+            border: 2px solid #000000;
             box-shadow: 
-                8px 0 0 0 #555555,
-                0 8px 0 0 #555555,
-                4px 4px 0 0 #555555,
-                -8px 0 0 0 #e8e8e8,
-                0 -8px 0 0 #e8e8e8,
-                -4px -4px 0 0 #e8e8e8,
-                0 0 0 4px #b5b4b5,
-                4px 8px 0 0 #555555,
-                8px 4px 0 0 #555555,
-                -4px -8px 0 0 #e8e8e8,
-                -8px -4px 0 0 #e8e8e8,
-                8px -4px 0 0 #000000,
-                4px -8px 0 0 #000000,
-                -8px 4px 0 0 #000000,
-                -4px 8px 0 0 #000000;
+                /* Inner borders for 3D effect */
+                inset -2px -2px 0 0 #373737,
+                inset 2px 2px 0 0 #ffffff,
+                inset -4px -4px 0 0 #8b8b8b,
+                /* Outer shadow */
+                4px 4px 0 0 rgba(0, 0, 0, 0.25);
         }
 
         .streamers-list h2 {
@@ -84,42 +86,58 @@
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            gap: 8px;
+            gap: 12px;
         }
 
-        /* Minecraft Button - Pixel Perfect */
+        /* EXACT Minecraft Button Styling */
         .streamer-name {
             display: inline-block;
             position: relative;
-            background-color: #c6c6c6;
-            color: #e0e0e0;
-            padding: 10px 20px;
-            text-decoration: none;
+            
+            /* Minecraft button base color */
+            background: linear-gradient(180deg, #ffffff 0%, #c6c6c6 50%, #8b8b8b 100%);
+            
+            color: #ffffff;
+            padding: 12px 24px;
+            border: none;
             cursor: pointer;
-            transition: all 0.05s;
-            image-rendering: pixelated;
-            text-shadow: 2px 2px 0px #3f3f3f;
-            /* Minecraft button 3D effect */
+            
+            /* Minecraft button border */
             box-shadow: 
-                0 4px 0 0 #7b7b7b,
+                /* Black outer border */
                 0 0 0 2px #000000,
-                0 0 0 3px #ffffff,
-                inset 0 -4px 0 0 rgba(0, 0, 0, 0.2);
+                /* White top-left highlight */
+                inset 2px 2px 0 0 #ffffff,
+                /* Dark bottom-right shadow */
+                inset -2px -2px 0 0 #555555,
+                /* Bottom shadow for 3D effect */
+                0 4px 0 0 #373737,
+                /* Additional depth */
+                0 6px 0 0 #000000;
+            
+            /* Minecraft text shadow */
+            text-shadow: 2px 2px 0px #3f3f3f;
+            
+            transition: all 0.05s;
+            font-size: 0.7em;
+            text-transform: lowercase;
         }
 
+        /* Minecraft hover effect - lighter green tint */
         .streamer-name:hover {
-            background-color: #a0cfff;
+            background: linear-gradient(180deg, #ffffa0 0%, #a0cfff 50%, #8eb5d6 100%);
             color: #ffffa0;
             text-shadow: 2px 2px 0px rgba(32, 32, 128, 0.5);
         }
 
+        /* Minecraft button press effect */
         .streamer-name:active {
-            transform: translateY(2px);
+            transform: translateY(4px);
             box-shadow: 
-                0 2px 0 0 #7b7b7b,
                 0 0 0 2px #000000,
-                0 0 0 3px #ffffff,
-                inset 0 2px 0 0 rgba(0, 0, 0, 0.3);
+                inset 2px 2px 0 0 #555555,
+                inset -2px -2px 0 0 #ffffff,
+                0 2px 0 0 #373737;
         }
 
         .streams-grid {
@@ -134,38 +152,31 @@
             display: none;
             background-color: #c6c6c6;
             padding: 10px;
+            
+            /* Same 3D border as main container */
+            border: 2px solid #000000;
             box-shadow: 
-                8px 0 0 0 #555555,
-                0 8px 0 0 #555555,
-                4px 4px 0 0 #555555,
-                -8px 0 0 0 #e8e8e8,
-                0 -8px 0 0 #e8e8e8,
-                -4px -4px 0 0 #e8e8e8,
-                0 0 0 4px #b5b4b5,
-                4px 8px 0 0 #555555,
-                8px 4px 0 0 #555555,
-                -4px -8px 0 0 #e8e8e8,
-                -8px -4px 0 0 #e8e8e8,
-                8px -4px 0 0 #000000,
-                4px -8px 0 0 #000000,
-                -8px 4px 0 0 #000000,
-                -4px 8px 0 0 #000000;
+                inset -2px -2px 0 0 #373737,
+                inset 2px 2px 0 0 #ffffff,
+                inset -4px -4px 0 0 #8b8b8b,
+                4px 4px 0 0 rgba(0, 0, 0, 0.25);
         }
 
         .stream-header {
-            background-color: #c6c6c6;
+            background: linear-gradient(180deg, #ffffff 0%, #c6c6c6 50%, #8b8b8b 100%);
             color: #404040;
-            padding: 10px;
+            padding: 12px;
             text-align: center;
-            font-size: 1em;
+            font-size: 0.7em;
             margin-bottom: 10px;
             text-transform: capitalize;
-            text-shadow: none;
+            text-shadow: 1px 1px 0px #ffffff;
+            
+            border: 2px solid #000000;
             box-shadow: 
-                0 4px 0 0 #7b7b7b,
-                0 0 0 2px #000000,
-                0 0 0 3px #ffffff,
-                inset 0 -4px 0 0 rgba(0, 0, 0, 0.2);
+                inset 2px 2px 0 0 #ffffff,
+                inset -2px -2px 0 0 #555555,
+                0 3px 0 0 #373737;
         }
 
         footer {
@@ -174,7 +185,7 @@
             padding: 20px;
             color: #ffffff;
             text-shadow: 2px 2px 0px #3f3f3f;
-            font-size: 0.9em;
+            font-size: 0.6em;
         }
 
         @media (max-width: 768px) {
@@ -183,12 +194,20 @@
             }
 
             h1 {
-                font-size: 1.5em;
+                font-size: 1.2em;
+            }
+
+            .subtitle {
+                font-size: 0.8em;
             }
 
             .streamer-name {
-                font-size: 0.9em;
-                padding: 8px 16px;
+                font-size: 0.6em;
+                padding: 10px 18px;
+            }
+
+            .streamers-list h2 {
+                font-size: 1em;
             }
         }
     </style>
@@ -202,40 +221,40 @@
     <div class="streamers-list">
         <h2>All SMP Streamers</h2>
         <div class="streamers-container">
-                <a href="https://www.twitch.tv/66grimdemise66" target="_blank" class="streamer-name">66grimdemise66</a>
-                <a href="https://www.twitch.tv/cedarvt" target="_blank" class="streamer-name">cedarvt</a>
-                <a href="https://www.twitch.tv/cyberdragonvt" target="_blank" class="streamer-name">cyberdragonvt</a>
-                <a href="https://www.twitch.tv/karaleuatomic" target="_blank" class="streamer-name">karaleuatomic</a>
-                <a href="https://www.twitch.tv/rams_404" target="_blank" class="streamer-name">rams_404</a>
-                <a href="https://www.twitch.tv/stopitsclock" target="_blank" class="streamer-name">stopitsclock</a>
+            <button class="streamer-name" onclick="window.open('https://twitch.tv/66grimdemise66', '_blank')">66grimdemise66</button>
+            <button class="streamer-name" onclick="window.open('https://twitch.tv/cedarvt', '_blank')">cedarvt</button>
+            <button class="streamer-name" onclick="window.open('https://twitch.tv/cyberdragonvt', '_blank')">cyberdragonvt</button>
+            <button class="streamer-name" onclick="window.open('https://twitch.tv/karaleuatomic', '_blank')">karaleuatomic</button>
+            <button class="streamer-name" onclick="window.open('https://twitch.tv/rams_404', '_blank')">rams_404</button>
+            <button class="streamer-name" onclick="window.open('https://twitch.tv/stopitsclock', '_blank')">stopitsclock</button>
         </div>
     </div>
 
     <div class="streams-grid">
-            <div class="stream-container" id="stream-66grimdemise66">
-                <div class="stream-header">66grimdemise66</div>
-                <div id="twitch-embed-66grimdemise66"></div>
-            </div>
-            <div class="stream-container" id="stream-cedarvt">
-                <div class="stream-header">cedarvt</div>
-                <div id="twitch-embed-cedarvt"></div>
-            </div>
-            <div class="stream-container" id="stream-cyberdragonvt">
-                <div class="stream-header">cyberdragonvt</div>
-                <div id="twitch-embed-cyberdragonvt"></div>
-            </div>
-            <div class="stream-container" id="stream-karaleuatomic">
-                <div class="stream-header">karaleuatomic</div>
-                <div id="twitch-embed-karaleuatomic"></div>
-            </div>
-            <div class="stream-container" id="stream-rams_404">
-                <div class="stream-header">rams_404</div>
-                <div id="twitch-embed-rams_404"></div>
-            </div>
-            <div class="stream-container" id="stream-stopitsclock">
-                <div class="stream-header">stopitsclock</div>
-                <div id="twitch-embed-stopitsclock"></div>
-            </div>
+        <div id="stream-66grimdemise66" class="stream-container">
+            <div class="stream-header">66grimdemise66's Stream</div>
+            <div id="twitch-embed-66grimdemise66"></div>
+        </div>
+        <div id="stream-cedarvt" class="stream-container">
+            <div class="stream-header">cedarvt's Stream</div>
+            <div id="twitch-embed-cedarvt"></div>
+        </div>
+        <div id="stream-cyberdragonvt" class="stream-container">
+            <div class="stream-header">cyberdragonvt's Stream</div>
+            <div id="twitch-embed-cyberdragonvt"></div>
+        </div>
+        <div id="stream-karaleuatomic" class="stream-container">
+            <div class="stream-header">karaleuatomic's Stream</div>
+            <div id="twitch-embed-karaleuatomic"></div>
+        </div>
+        <div id="stream-rams_404" class="stream-container">
+            <div class="stream-header">rams_404's Stream</div>
+            <div id="twitch-embed-rams_404"></div>
+        </div>
+        <div id="stream-stopitsclock" class="stream-container">
+            <div class="stream-header">stopitsclock's Stream</div>
+            <div id="twitch-embed-stopitsclock"></div>
+        </div>
     </div>
 
     <footer>
