@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cedarblade Chronicles - Content Creators</title>
     <script src="https://embed.twitch.tv/embed/v1.js"></script>
+    <link href="https://fonts.cdnfonts.com/css/minecraft-4" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -13,7 +14,7 @@
         }
 
         body {
-            font-family: 'Courier New', monospace;
+            font-family: 'Minecraft', 'Courier New', monospace;
             background: linear-gradient(135deg, #1a0f0a 0%, #2c1810 50%, #1a0f0a 100%);
             color: #f0e6d2;
             min-height: 100vh;
@@ -144,6 +145,7 @@
         <div class="streamers-container">
                 <a href="https://www.twitch.tv/66grimdemise66" target="_blank" class="streamer-name">66grimdemise66</a>
                 <a href="https://www.twitch.tv/cedarvt" target="_blank" class="streamer-name">cedarvt</a>
+                <a href="https://www.twitch.tv/cyberdragonvt" target="_blank" class="streamer-name">cyberdragonvt</a>
                 <a href="https://www.twitch.tv/karaleuatomic" target="_blank" class="streamer-name">karaleuatomic</a>
                 <a href="https://www.twitch.tv/rams_404" target="_blank" class="streamer-name">rams_404</a>
                 <a href="https://www.twitch.tv/stopitsclock" target="_blank" class="streamer-name">stopitsclock</a>
@@ -158,6 +160,10 @@
             <div class="stream-container" id="stream-cedarvt">
                 <div class="stream-header">cedarvt</div>
                 <div id="twitch-embed-cedarvt"></div>
+            </div>
+            <div class="stream-container" id="stream-cyberdragonvt">
+                <div class="stream-header">cyberdragonvt</div>
+                <div id="twitch-embed-cyberdragonvt"></div>
             </div>
             <div class="stream-container" id="stream-karaleuatomic">
                 <div class="stream-header">karaleuatomic</div>
@@ -187,7 +193,7 @@
                 channel: channel,
                 layout: 'video',
                 autoplay: false,
-                muted: false,
+                muted: true,
                 parent: ['stopitsclock.github.io', 'localhost']
             });
 
@@ -214,6 +220,7 @@
         // Initialize all embeds
         initTwitchEmbed('66grimdemise66');
         initTwitchEmbed('cedarvt');
+        initTwitchEmbed('cyberdragonvt');
         initTwitchEmbed('karaleuatomic');
         initTwitchEmbed('rams_404');
         initTwitchEmbed('stopitsclock');
