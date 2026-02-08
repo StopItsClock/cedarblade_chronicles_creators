@@ -55,31 +55,25 @@
             text-shadow: 2px 2px 0px #3f3f3f;
         }
 
-        /* Minecraft Container - Exact colors from Minecraft GUI */
+        /* Minecraft Container - Settings Menu Style (darker) */
         .streamers-list {
-            /* Main GUI background color */
-            background-color: #c6c6c6;
+            /* Dark semi-transparent background like Settings menu */
+            background-color: rgba(0, 0, 0, 0.65);
             padding: 20px;
             margin: 0 auto 20px;
             max-width: 900px;
             
-            /* Exact Minecraft GUI 3D border effect */
-            border: 2px solid #000000;
-            box-shadow: 
-                /* Inner borders for 3D effect */
-                inset -2px -2px 0 0 #373737,
-                inset 2px 2px 0 0 #ffffff,
-                inset -4px -4px 0 0 #8b8b8b,
-                /* Outer shadow */
-                4px 4px 0 0 rgba(0, 0, 0, 0.25);
+            /* Subtle border for Settings menu */
+            border: 1px solid rgba(0, 0, 0, 0.5);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
         }
 
         .streamers-list h2 {
-            color: #404040;
+            color: #e0e0e0;
             margin-bottom: 20px;
             font-size: 1.2em;
             text-align: center;
-            text-shadow: none;
+            text-shadow: 2px 2px 0px #3f3f3f;
         }
 
         .streamers-container {
@@ -89,45 +83,43 @@
             gap: 12px;
         }
 
-        /* EXACT Minecraft Button Styling */
+        /* Settings Menu Button - Dark Style */
         .streamer-name {
             display: inline-block;
             position: relative;
             
-            /* Minecraft button base color */
-            background: linear-gradient(180deg, #ffffff 0%, #c6c6c6 50%, #8b8b8b 100%);
+            /* Settings menu button color - darker gray (#999) */
+            background: #999;
             
-            color: #ffffff;
+            color: #e0e0e0;
             padding: 12px 24px;
-            border: none;
+            border: 2px solid #000000;
             cursor: pointer;
             
-            /* Minecraft button border */
+            /* Settings menu button 3D effect */
             box-shadow: 
-                /* Black outer border */
-                0 0 0 2px #000000,
-                /* White top-left highlight */
-                inset 2px 2px 0 0 #ffffff,
-                /* Dark bottom-right shadow */
-                inset -2px -2px 0 0 #555555,
-                /* Bottom shadow for 3D effect */
-                0 4px 0 0 #373737,
-                /* Additional depth */
-                0 6px 0 0 #000000;
+                /* Inner highlight */
+                inset 2px 2px 0 0 rgba(255, 255, 255, 0.3),
+                /* Inner shadow */
+                inset -2px -2px 0 0 rgba(0, 0, 0, 0.5),
+                /* Bottom depth */
+                0 4px 0 0 rgba(0, 0, 0, 0.5);
             
             /* Minecraft text shadow */
-            text-shadow: 2px 2px 0px #3f3f3f;
+            text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.6);
             
             transition: all 0.05s;
             font-size: 0.7em;
             text-transform: lowercase;
+            image-rendering: pixelated;
         }
 
-        /* Minecraft hover effect - lighter green tint */
+        /* Settings menu hover effect - semi-transparent blue */
         .streamer-name:hover {
-            background: linear-gradient(180deg, #ffffa0 0%, #a0cfff 50%, #8eb5d6 100%);
+            background-color: rgba(100, 100, 255, 0.45);
+            background-blend-mode: overlay;
             color: #ffffa0;
-            text-shadow: 2px 2px 0px rgba(32, 32, 128, 0.5);
+            text-shadow: 2px 2px 0px rgba(32, 32, 19, 0.8);
         }
 
         /* Minecraft button press effect */
@@ -150,33 +142,28 @@
 
         .stream-container {
             display: none;
-            background-color: #c6c6c6;
+            background-color: rgba(0, 0, 0, 0.65);
             padding: 10px;
             
-            /* Same 3D border as main container */
-            border: 2px solid #000000;
-            box-shadow: 
-                inset -2px -2px 0 0 #373737,
-                inset 2px 2px 0 0 #ffffff,
-                inset -4px -4px 0 0 #8b8b8b,
-                4px 4px 0 0 rgba(0, 0, 0, 0.25);
+            border: 1px solid rgba(0, 0, 0, 0.5);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
         }
 
         .stream-header {
-            background: linear-gradient(180deg, #ffffff 0%, #c6c6c6 50%, #8b8b8b 100%);
-            color: #404040;
+            background: #999;
+            color: #e0e0e0;
             padding: 12px;
             text-align: center;
             font-size: 0.7em;
             margin-bottom: 10px;
             text-transform: capitalize;
-            text-shadow: 1px 1px 0px #ffffff;
+            text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.6);
             
             border: 2px solid #000000;
             box-shadow: 
-                inset 2px 2px 0 0 #ffffff,
-                inset -2px -2px 0 0 #555555,
-                0 3px 0 0 #373737;
+                inset 2px 2px 0 0 rgba(255, 255, 255, 0.3),
+                inset -2px -2px 0 0 rgba(0, 0, 0, 0.5),
+                0 3px 0 0 rgba(0, 0, 0, 0.5);
         }
 
         footer {
