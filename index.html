@@ -18,7 +18,7 @@
         /* Import Minecraft Font from working CDN */
         @font-face {
             font-family: 'Minecraft';
-            src: url('https://cdn.jsdelivr.net/gh/IdreesInc/Monocraft@main/dist/Monocraft.woff2') format('woff2');
+            src: url('https://fonts.cdnfonts.com/s/29230/Minecraft.woff') format('woff');
             font-weight: normal;
             font-style: normal;
             font-display: swap;  /* Show fallback font immediately, swap when loaded */
@@ -345,13 +345,13 @@
         // List of all streamers to monitor
         const ALL_STREAMERS = ["66grimdemise66", "ashetonne", "cedarvt", "cosmosslayer1994", "cyberdragonvt", "cyraoctavia", "dracolicheren", "eepysoma", "enigmaticslime", "gilded_wolfe", "heyjustjackie", "heyvelleity", "huanyavt", "illustriousmyth", "ironmouse", "karaleuatomic", "kingthekeeper", "kuumortuf", "leyonlagure", "mimiluna2", "miyuwanchan", "nanami_eiko", "nokoadragon", "plompers", "rams_404", "slushieghost", "starfastwolf", "stopitsclock", "sybil_theoracle", "thatuserkai", "theomenclature", "thetactician", "thorn_fey_vt", "triagesylphiel", "tw_jett", "vaneros_lunpo", "wallowsett", "zecosmiccrow", "zippingyeti"];
         
-        // Track active streams
+        // Track active streams and embeds
         const activeStreams = new Set();
-        const checkedStreams = new Set();
-        
-        // Reference to streams grid
+        const embedInstances = new Map(); // Store embed references to destroy them
         let streamsGrid;
         let noStreamsMessage;
+        let checkQueue = [];
+        let isChecking = false;
         
         // Update no-streams message visibility
         function updateNoStreamsMessage() {
@@ -365,7 +365,7 @@
             const container = document.createElement('div');
             container.id = `stream-${channel}`;
             container.className = 'stream-container';
-            container.style.display = 'none'; // Hidden until we confirm it's live
+            container.style.display = 'none';
             
             container.innerHTML = `
                 <a href="https://www.twitch.tv/${channel}" target="_blank" class="stream-header">${channel}'s Stream</a>
@@ -376,95 +376,149 @@
             return container;
         }
         
-        // Check if a stream is live and create embed if yes
-        function checkAndLoadStream(channel) {
-            if (checkedStreams.has(channel)) return;
-            checkedStreams.add(channel);
-            
-            // Create container
-            const container = createStreamContainer(channel);
-            
-            // Try to create embed
-            try {
-                const embed = new Twitch.Embed(`twitch-embed-${channel}`, {
-                    width: '100%',
-                    height: 264,
-                    channel: channel,
-                    layout: 'video',
-                    autoplay: false,
-                    muted: true,
-                    parent: ['stopitsclock.github.io']
-                });
-                
-                // Listen for ONLINE event - only show if stream is live
-                embed.addEventListener(Twitch.Player.ONLINE, () => {
-                    container.style.display = 'block';
-                    activeStreams.add(channel);
-                    updateNoStreamsMessage();
-                    console.log(`✅ ${channel} is LIVE!`);
-                });
-                
-                // Listen for READY event to check initial state
-                embed.addEventListener(Twitch.Player.READY, () => {
+        // Destroy an embed to free resources
+        function destroyEmbed(channel) {
+            const embed = embedInstances.get(channel);
+            if (embed) {
+                try {
+                    // Try to get the player and pause it
                     const player = embed.getPlayer();
-                    
-                    // Small delay to let player fully initialize
-                    setTimeout(() => {
-                        try {
-                            const quality = player.getQualities();
-                            // If we can get qualities, stream is live
-                            if (quality && quality.length > 0) {
-                                container.style.display = 'block';
-                                activeStreams.add(channel);
-                                updateNoStreamsMessage();
-                                console.log(`✅ ${channel} is LIVE!`);
-                            } else {
-                                // Stream is offline, remove the container
-                                container.remove();
-                                checkedStreams.delete(channel);
-                            }
-                        } catch (e) {
-                            // Error getting qualities means offline
-                            container.remove();
-                            checkedStreams.delete(channel);
-                        }
-                    }, 500);  // Reduced from 1000ms for faster detection
-                });
-                
-                // If stream goes offline, remove it
-                embed.addEventListener(Twitch.Player.OFFLINE, () => {
-                    container.remove();
-                    activeStreams.delete(channel);
-                    checkedStreams.delete(channel);
-                    updateNoStreamsMessage();
-                    console.log(`❌ ${channel} went offline`);
-                });
-                
-            } catch (e) {
-                console.error(`Error loading ${channel}:`, e);
+                    if (player && typeof player.pause === 'function') {
+                        player.pause();
+                    }
+                } catch (e) {
+                    // Ignore errors
+                }
+                embedInstances.delete(channel);
+            }
+            
+            // Remove container
+            const container = document.getElementById(`stream-${channel}`);
+            if (container) {
                 container.remove();
-                checkedStreams.delete(channel);
             }
         }
         
-        // Check all streamers for live status
-        function checkAllStreams() {
-            console.log('Checking all streams for live status...');
-            
-            // Check 5 streams at a time for faster loading
-            const BATCH_SIZE = 5;
-            const BATCH_DELAY = 200; // Delay between batches
-            
-            for (let i = 0; i < ALL_STREAMERS.length; i += BATCH_SIZE) {
-                const batch = ALL_STREAMERS.slice(i, i + BATCH_SIZE);
-                const batchIndex = Math.floor(i / BATCH_SIZE);
+        // Check a single stream - called sequentially
+        function checkStream(channel) {
+            return new Promise((resolve) => {
+                const container = createStreamContainer(channel);
                 
-                setTimeout(() => {
-                    batch.forEach(channel => {
-                        checkAndLoadStream(channel);
+                try {
+                    const embed = new Twitch.Embed(`twitch-embed-${channel}`, {
+                        width: '100%',
+                        height: 264,
+                        channel: channel,
+                        layout: 'video',
+                        autoplay: false,
+                        muted: true,
+                        parent: ['stopitsclock.github.io']
                     });
-                }, batchIndex * BATCH_DELAY);
+                    
+                    embedInstances.set(channel, embed);
+                    let resolved = false;
+                    
+                    // Timeout to prevent hanging
+                    const timeout = setTimeout(() => {
+                        if (!resolved) {
+                            resolved = true;
+                            destroyEmbed(channel);
+                            resolve(false);
+                        }
+                    }, 3000); // 3 second timeout per stream
+                    
+                    embed.addEventListener(Twitch.Player.READY, () => {
+                        const player = embed.getPlayer();
+                        
+                        setTimeout(() => {
+                            try {
+                                const quality = player.getQualities();
+                                if (quality && quality.length > 0) {
+                                    // Stream is LIVE!
+                                    clearTimeout(timeout);
+                                    if (!resolved) {
+                                        resolved = true;
+                                        container.style.display = 'block';
+                                        activeStreams.add(channel);
+                                        updateNoStreamsMessage();
+                                        console.log(`✅ ${channel} is LIVE!`);
+                                        
+                                        // Listen for offline
+                                        embed.addEventListener(Twitch.Player.OFFLINE, () => {
+                                            activeStreams.delete(channel);
+                                            destroyEmbed(channel);
+                                            updateNoStreamsMessage();
+                                            console.log(`❌ ${channel} went offline`);
+                                        });
+                                        
+                                        resolve(true);
+                                    }
+                                } else {
+                                    // Stream is offline
+                                    clearTimeout(timeout);
+                                    if (!resolved) {
+                                        resolved = true;
+                                        destroyEmbed(channel);
+                                        resolve(false);
+                                    }
+                                }
+                            } catch (e) {
+                                clearTimeout(timeout);
+                                if (!resolved) {
+                                    resolved = true;
+                                    destroyEmbed(channel);
+                                    resolve(false);
+                                }
+                            }
+                        }, 800);
+                    });
+                    
+                    embed.addEventListener(Twitch.Player.ONLINE, () => {
+                        if (!resolved) {
+                            clearTimeout(timeout);
+                            resolved = true;
+                            container.style.display = 'block';
+                            activeStreams.add(channel);
+                            updateNoStreamsMessage();
+                            resolve(true);
+                        }
+                    });
+                    
+                } catch (e) {
+                    console.error(`Error checking ${channel}:`, e);
+                    destroyEmbed(channel);
+                    resolve(false);
+                }
+            });
+        }
+        
+        // Process queue one at a time
+        async function processQueue() {
+            if (isChecking || checkQueue.length === 0) return;
+            
+            isChecking = true;
+            console.log(`Checking streams... (${checkQueue.length} remaining)`);
+            
+            while (checkQueue.length > 0) {
+                const channel = checkQueue.shift();
+                await checkStream(channel);
+                // Small delay between checks to prevent overwhelming the browser
+                await new Promise(resolve => setTimeout(resolve, 100));
             }
+            
+            isChecking = false;
+            console.log('✓ Finished checking all streams');
+        }
+        
+        // Queue all streamers for checking
+        function checkAllStreams() {
+            // Add all streamers to queue if not already checked
+            ALL_STREAMERS.forEach(channel => {
+                if (!activeStreams.has(channel) && !embedInstances.has(channel)) {
+                    checkQueue.push(channel);
+                }
+            });
+            processQueue();
         }
         
         // Initialize when page loads
@@ -476,8 +530,8 @@
                     noStreamsMessage = document.getElementById('no-streams-message');
                     checkAllStreams();
                     
-                    // Recheck every 2 minutes for new live streams
-                    setInterval(checkAllStreams, 120000);
+                    // Recheck every 3 minutes for new live streams
+                    setInterval(checkAllStreams, 180000);
                 } else {
                     setTimeout(initWhenReady, 100);
                 }
