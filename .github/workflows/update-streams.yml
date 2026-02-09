@@ -2,9 +2,12 @@ name: Update Live Streams
 
 on:
   schedule:
-    # Run every 3 minutes
-    - cron: '*/3 * * * *'
+    # Run every 5 minutes (more reliable than 3 on GitHub)
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write  # Allow workflow to commit and push changes
 
 jobs:
   update-streams:

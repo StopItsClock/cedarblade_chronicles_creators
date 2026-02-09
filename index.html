@@ -274,8 +274,8 @@
                 const streamers = await response.json();
                 const container = document.getElementById('streamers-container');
                 
-                // Sort streamers alphabetically
-                streamers.sort();
+                // Sort streamers alphabetically (case-insensitive)
+                streamers.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
                 
                 // Create buttons dynamically
                 streamers.forEach(streamer => {
