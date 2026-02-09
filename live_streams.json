@@ -8,7 +8,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] Baldur's Gate with Wyll's Beautiful Dragon (Baldur's Gate 3 w/ @Regina_Kardinal)",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-02-09T20:49:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -26,30 +26,6 @@
     "is_mature": false
   },
   {
-    "id": "317619464922",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1135492840",
-    "game_name": "Sonic Racing: CrossWorlds",
-    "type": "live",
-    "title": "SUBATHON DAY 12!! Racing around at the speed of sound|| Sonic Racing: Crossworlds (!lurk, !links, !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-02-09T22:00:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "316685287127",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -58,7 +34,7 @@
     "game_name": "Cult of the Lamb",
     "type": "live",
     "title": "ITS SO COLDDD! Cult of Crypt Woolhaven pt 5",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-02-09T22:05:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -71,6 +47,30 @@
       "Cozy",
       "cultofthelamb",
       "Woolhaven"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317619464922",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1135492840",
+    "game_name": "Sonic Racing: CrossWorlds",
+    "type": "live",
+    "title": "SUBATHON DAY 12!! Racing around at the speed of sound|| Sonic Racing: Crossworlds (!lurk, !links, !discord)",
+    "viewer_count": 3,
+    "started_at": "2026-02-09T22:00:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
     ],
     "is_mature": false
   },
