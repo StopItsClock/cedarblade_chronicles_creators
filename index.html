@@ -144,9 +144,9 @@
 
         .streams-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(470px, 1fr));
             gap: 15px;
-            max-width: 1200px;
+            max-width: 1500px;  /* Increased to use more screen space */
             margin: 0 auto;
             padding: 0 10px;
         }
@@ -156,7 +156,7 @@
             background-color: rgba(0, 0, 0, 0.65);
             padding: 10px;
             width: 100%;
-            max-width: 380px;  /* 360px embed + 20px padding for 3-column layout */
+            max-width: 490px;  /* 470px embed + 20px padding */
             
             border: 1px solid rgba(0, 0, 0, 0.5);
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -165,13 +165,13 @@
         /* Ensure Twitch embed divs and iframes are properly sized */
         .stream-container > div[id^="twitch-embed-"] {
             width: 100%;
-            max-width: 360px;
+            max-width: 470px;
             margin: 0 auto;
         }
         
         .stream-container iframe {
             width: 100% !important;
-            max-width: 360px !important;
+            max-width: 470px !important;
         }
 
         .stream-header {
@@ -312,7 +312,7 @@
             
             const embed = new Twitch.Embed(`twitch-embed-${channel}`, {
                 width: '100%',
-                height: 203,  /* 16:9 ratio for 360px width (360 × 9/16 ≈ 203) */
+                height: 264,  /* 16:9 ratio for 470px width (470 × 9/16 = 264) */
                 channel: channel,
                 layout: 'video',
                 autoplay: false,
