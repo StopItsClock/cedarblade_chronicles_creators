@@ -50,6 +50,31 @@
     "is_mature": true
   },
   {
+    "id": "316685287127",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "516173984",
+    "game_name": "Cult of the Lamb",
+    "type": "live",
+    "title": "ITS SO COLDDD! Cult of Crypt Woolhaven pt 5",
+    "viewer_count": 1,
+    "started_at": "2026-02-09T22:05:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "cultofthelamb",
+      "Woolhaven"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317619464922",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -58,7 +83,7 @@
     "game_name": "Sonic Racing: CrossWorlds",
     "type": "live",
     "title": "SUBATHON DAY 12!! Racing around at the speed of sound|| Sonic Racing: Crossworlds (!lurk, !links, !discord)",
-    "viewer_count": 0,
+    "viewer_count": 1,
     "started_at": "2026-02-09T22:00:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
