@@ -146,7 +146,7 @@
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
             gap: 15px;
-            max-width: 1400px;
+            max-width: 1200px;  /* Constrain total width */
             margin: 0 auto;
         }
 
@@ -154,6 +154,8 @@
             display: none;
             background-color: rgba(0, 0, 0, 0.65);
             padding: 10px;
+            max-width: 600px;  /* Constrain individual stream width */
+            margin: 0 auto;  /* Center the stream */
             
             border: 1px solid rgba(0, 0, 0, 0.5);
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -191,6 +193,10 @@
         @media (max-width: 768px) {
             .streams-grid {
                 grid-template-columns: 1fr;
+            }
+            
+            .stream-container {
+                max-width: 100%;  /* Full width on mobile */
             }
 
             h1 {
