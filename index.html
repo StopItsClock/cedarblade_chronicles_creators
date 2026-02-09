@@ -4,18 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cedarblade Chronicles SMP - Content Creators</title>
-    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+    
+    <!-- Preload critical resources -->
+    <link rel="preconnect" href="https://embed.twitch.tv">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="dns-prefetch" href="https://player.twitch.tv">
+    
+    <script src="https://embed.twitch.tv/embed/v1.js" async></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     <style>
-        /* Import Minecraft Font */
+        /* Import Minecraft Font from working CDN */
         @font-face {
             font-family: 'Minecraft';
-            src: url('https://raw.githubusercontent.com/South-Paw/Minecraft-Webfont-and-Colors/master/font/Minecraft-Regular.woff2') format('woff2'),
-                 url('https://raw.githubusercontent.com/South-Paw/Minecraft-Webfont-and-Colors/master/font/Minecraft-Regular.woff') format('woff');
+            src: url('https://cdn.jsdelivr.net/gh/IdreesInc/Monocraft@main/dist/Monocraft.woff2') format('woff2');
             font-weight: normal;
             font-style: normal;
+            font-display: swap;  /* Show fallback font immediately, swap when loaded */
         }
 
         * {
@@ -177,6 +183,8 @@
             width: 100%;
             max-width: 470px;
             margin: 0 auto;
+            min-height: 264px;  /* Reserve space while loading */
+            background: rgba(0, 0, 0, 0.3);  /* Subtle background while loading */
         }
         
         .stream-container iframe {
@@ -316,162 +324,16 @@
         </div>
     </div>
 
-    <div class="streams-grid">
-        <div id="stream-66grimdemise66" class="stream-container">
-            <a href="https://www.twitch.tv/66grimdemise66" target="_blank" class="stream-header">66grimdemise66's Stream</a>
-            <div id="twitch-embed-66grimdemise66"></div>
-        </div>
-        <div id="stream-ashetonne" class="stream-container">
-            <a href="https://www.twitch.tv/ashetonne" target="_blank" class="stream-header">ashetonne's Stream</a>
-            <div id="twitch-embed-ashetonne"></div>
-        </div>
-        <div id="stream-cedarvt" class="stream-container">
-            <a href="https://www.twitch.tv/cedarvt" target="_blank" class="stream-header">cedarvt's Stream</a>
-            <div id="twitch-embed-cedarvt"></div>
-        </div>
-        <div id="stream-cosmosslayer1994" class="stream-container">
-            <a href="https://www.twitch.tv/cosmosslayer1994" target="_blank" class="stream-header">cosmosslayer1994's Stream</a>
-            <div id="twitch-embed-cosmosslayer1994"></div>
-        </div>
-        <div id="stream-cyberdragonvt" class="stream-container">
-            <a href="https://www.twitch.tv/cyberdragonvt" target="_blank" class="stream-header">cyberdragonvt's Stream</a>
-            <div id="twitch-embed-cyberdragonvt"></div>
-        </div>
-        <div id="stream-cyraoctavia" class="stream-container">
-            <a href="https://www.twitch.tv/cyraoctavia" target="_blank" class="stream-header">cyraoctavia's Stream</a>
-            <div id="twitch-embed-cyraoctavia"></div>
-        </div>
-        <div id="stream-dracolicheren" class="stream-container">
-            <a href="https://www.twitch.tv/dracolicheren" target="_blank" class="stream-header">dracolicheren's Stream</a>
-            <div id="twitch-embed-dracolicheren"></div>
-        </div>
-        <div id="stream-eepysoma" class="stream-container">
-            <a href="https://www.twitch.tv/eepysoma" target="_blank" class="stream-header">eepysoma's Stream</a>
-            <div id="twitch-embed-eepysoma"></div>
-        </div>
-        <div id="stream-enigmaticslime" class="stream-container">
-            <a href="https://www.twitch.tv/enigmaticslime" target="_blank" class="stream-header">enigmaticslime's Stream</a>
-            <div id="twitch-embed-enigmaticslime"></div>
-        </div>
-        <div id="stream-gilded_wolfe" class="stream-container">
-            <a href="https://www.twitch.tv/gilded_wolfe" target="_blank" class="stream-header">gilded_wolfe's Stream</a>
-            <div id="twitch-embed-gilded_wolfe"></div>
-        </div>
-        <div id="stream-heyjustjackie" class="stream-container">
-            <a href="https://www.twitch.tv/heyjustjackie" target="_blank" class="stream-header">heyjustjackie's Stream</a>
-            <div id="twitch-embed-heyjustjackie"></div>
-        </div>
-        <div id="stream-heyvelleity" class="stream-container">
-            <a href="https://www.twitch.tv/heyvelleity" target="_blank" class="stream-header">heyvelleity's Stream</a>
-            <div id="twitch-embed-heyvelleity"></div>
-        </div>
-        <div id="stream-huanyavt" class="stream-container">
-            <a href="https://www.twitch.tv/huanyavt" target="_blank" class="stream-header">huanyavt's Stream</a>
-            <div id="twitch-embed-huanyavt"></div>
-        </div>
-        <div id="stream-illustriousmyth" class="stream-container">
-            <a href="https://www.twitch.tv/illustriousmyth" target="_blank" class="stream-header">illustriousmyth's Stream</a>
-            <div id="twitch-embed-illustriousmyth"></div>
-        </div>
-        <div id="stream-ironmouse" class="stream-container">
-            <a href="https://www.twitch.tv/ironmouse" target="_blank" class="stream-header">ironmouse's Stream</a>
-            <div id="twitch-embed-ironmouse"></div>
-        </div>
-        <div id="stream-karaleuatomic" class="stream-container">
-            <a href="https://www.twitch.tv/karaleuatomic" target="_blank" class="stream-header">karaleuatomic's Stream</a>
-            <div id="twitch-embed-karaleuatomic"></div>
-        </div>
-        <div id="stream-kingthekeeper" class="stream-container">
-            <a href="https://www.twitch.tv/kingthekeeper" target="_blank" class="stream-header">kingthekeeper's Stream</a>
-            <div id="twitch-embed-kingthekeeper"></div>
-        </div>
-        <div id="stream-kuumortuf" class="stream-container">
-            <a href="https://www.twitch.tv/kuumortuf" target="_blank" class="stream-header">kuumortuf's Stream</a>
-            <div id="twitch-embed-kuumortuf"></div>
-        </div>
-        <div id="stream-leyonlagure" class="stream-container">
-            <a href="https://www.twitch.tv/leyonlagure" target="_blank" class="stream-header">leyonlagure's Stream</a>
-            <div id="twitch-embed-leyonlagure"></div>
-        </div>
-        <div id="stream-mimiluna2" class="stream-container">
-            <a href="https://www.twitch.tv/mimiluna2" target="_blank" class="stream-header">mimiluna2's Stream</a>
-            <div id="twitch-embed-mimiluna2"></div>
-        </div>
-        <div id="stream-miyuwanchan" class="stream-container">
-            <a href="https://www.twitch.tv/miyuwanchan" target="_blank" class="stream-header">miyuwanchan's Stream</a>
-            <div id="twitch-embed-miyuwanchan"></div>
-        </div>
-        <div id="stream-nanami_eiko" class="stream-container">
-            <a href="https://www.twitch.tv/nanami_eiko" target="_blank" class="stream-header">nanami_eiko's Stream</a>
-            <div id="twitch-embed-nanami_eiko"></div>
-        </div>
-        <div id="stream-nokoadragon" class="stream-container">
-            <a href="https://www.twitch.tv/nokoadragon" target="_blank" class="stream-header">nokoadragon's Stream</a>
-            <div id="twitch-embed-nokoadragon"></div>
-        </div>
-        <div id="stream-plompers" class="stream-container">
-            <a href="https://www.twitch.tv/plompers" target="_blank" class="stream-header">plompers's Stream</a>
-            <div id="twitch-embed-plompers"></div>
-        </div>
-        <div id="stream-rams_404" class="stream-container">
-            <a href="https://www.twitch.tv/rams_404" target="_blank" class="stream-header">rams_404's Stream</a>
-            <div id="twitch-embed-rams_404"></div>
-        </div>
-        <div id="stream-slushieghost" class="stream-container">
-            <a href="https://www.twitch.tv/slushieghost" target="_blank" class="stream-header">slushieghost's Stream</a>
-            <div id="twitch-embed-slushieghost"></div>
-        </div>
-        <div id="stream-starfastwolf" class="stream-container">
-            <a href="https://www.twitch.tv/starfastwolf" target="_blank" class="stream-header">starfastwolf's Stream</a>
-            <div id="twitch-embed-starfastwolf"></div>
-        </div>
-        <div id="stream-stopitsclock" class="stream-container">
-            <a href="https://www.twitch.tv/stopitsclock" target="_blank" class="stream-header">stopitsclock's Stream</a>
-            <div id="twitch-embed-stopitsclock"></div>
-        </div>
-        <div id="stream-sybil_theoracle" class="stream-container">
-            <a href="https://www.twitch.tv/sybil_theoracle" target="_blank" class="stream-header">sybil_theoracle's Stream</a>
-            <div id="twitch-embed-sybil_theoracle"></div>
-        </div>
-        <div id="stream-thatuserkai" class="stream-container">
-            <a href="https://www.twitch.tv/thatuserkai" target="_blank" class="stream-header">thatuserkai's Stream</a>
-            <div id="twitch-embed-thatuserkai"></div>
-        </div>
-        <div id="stream-theomenclature" class="stream-container">
-            <a href="https://www.twitch.tv/theomenclature" target="_blank" class="stream-header">theomenclature's Stream</a>
-            <div id="twitch-embed-theomenclature"></div>
-        </div>
-        <div id="stream-thetactician" class="stream-container">
-            <a href="https://www.twitch.tv/thetactician" target="_blank" class="stream-header">thetactician's Stream</a>
-            <div id="twitch-embed-thetactician"></div>
-        </div>
-        <div id="stream-thorn_fey_vt" class="stream-container">
-            <a href="https://www.twitch.tv/thorn_fey_vt" target="_blank" class="stream-header">thorn_fey_vt's Stream</a>
-            <div id="twitch-embed-thorn_fey_vt"></div>
-        </div>
-        <div id="stream-triagesylphiel" class="stream-container">
-            <a href="https://www.twitch.tv/triagesylphiel" target="_blank" class="stream-header">triagesylphiel's Stream</a>
-            <div id="twitch-embed-triagesylphiel"></div>
-        </div>
-        <div id="stream-tw_jett" class="stream-container">
-            <a href="https://www.twitch.tv/tw_jett" target="_blank" class="stream-header">tw_jett's Stream</a>
-            <div id="twitch-embed-tw_jett"></div>
-        </div>
-        <div id="stream-vaneros_lunpo" class="stream-container">
-            <a href="https://www.twitch.tv/vaneros_lunpo" target="_blank" class="stream-header">vaneros_lunpo's Stream</a>
-            <div id="twitch-embed-vaneros_lunpo"></div>
-        </div>
-        <div id="stream-wallowsett" class="stream-container">
-            <a href="https://www.twitch.tv/wallowsett" target="_blank" class="stream-header">wallowsett's Stream</a>
-            <div id="twitch-embed-wallowsett"></div>
-        </div>
-        <div id="stream-zecosmiccrow" class="stream-container">
-            <a href="https://www.twitch.tv/zecosmiccrow" target="_blank" class="stream-header">zecosmiccrow's Stream</a>
-            <div id="twitch-embed-zecosmiccrow"></div>
-        </div>
-        <div id="stream-zippingyeti" class="stream-container">
-            <a href="https://www.twitch.tv/zippingyeti" target="_blank" class="stream-header">zippingyeti's Stream</a>
-            <div id="twitch-embed-zippingyeti"></div>
+    <div class="streams-grid" id="streams-grid">
+        <div id="no-streams-message" style="
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 40px 20px;
+            color: #ffffff;
+            font-size: 1.2em;
+            text-shadow: 2px 2px 0px #3f3f3f;
+        ">
+            🎮 No one is streaming right now. Check back later!
         </div>
     </div>
 
@@ -480,94 +342,139 @@
     </footer>
 
     <script>
-        function initTwitchEmbed(channel) {
-            const container = document.getElementById(`stream-${channel}`);
+        // List of all streamers to monitor
+        const ALL_STREAMERS = ["66grimdemise66", "ashetonne", "cedarvt", "cosmosslayer1994", "cyberdragonvt", "cyraoctavia", "dracolicheren", "eepysoma", "enigmaticslime", "gilded_wolfe", "heyjustjackie", "heyvelleity", "huanyavt", "illustriousmyth", "ironmouse", "karaleuatomic", "kingthekeeper", "kuumortuf", "leyonlagure", "mimiluna2", "miyuwanchan", "nanami_eiko", "nokoadragon", "plompers", "rams_404", "slushieghost", "starfastwolf", "stopitsclock", "sybil_theoracle", "thatuserkai", "theomenclature", "thetactician", "thorn_fey_vt", "triagesylphiel", "tw_jett", "vaneros_lunpo", "wallowsett", "zecosmiccrow", "zippingyeti"];
+        
+        // Track active streams
+        const activeStreams = new Set();
+        const checkedStreams = new Set();
+        
+        // Reference to streams grid
+        let streamsGrid;
+        let noStreamsMessage;
+        
+        // Update no-streams message visibility
+        function updateNoStreamsMessage() {
+            if (noStreamsMessage) {
+                noStreamsMessage.style.display = activeStreams.size > 0 ? 'none' : 'block';
+            }
+        }
+        
+        // Create embed container dynamically
+        function createStreamContainer(channel) {
+            const container = document.createElement('div');
+            container.id = `stream-${channel}`;
+            container.className = 'stream-container';
+            container.style.display = 'none'; // Hidden until we confirm it's live
             
-            const embed = new Twitch.Embed(`twitch-embed-${channel}`, {
-                width: '100%',
-                height: 264,  /* 16:9 ratio for 470px width (470 × 9/16 = 264) */
-                channel: channel,
-                layout: 'video',
-                autoplay: false,
-                muted: true,
-                parent: ['stopitsclock.github.io', 'localhost']
-            });
-
-            // Listen for player events through the embed object
-            embed.addEventListener(Twitch.Player.READY, () => {
-                // When player is ready, check if stream is live by checking for video
-                const player = embed.getPlayer();
+            container.innerHTML = `
+                <a href="https://www.twitch.tv/${channel}" target="_blank" class="stream-header">${channel}'s Stream</a>
+                <div id="twitch-embed-${channel}"></div>
+            `;
+            
+            streamsGrid.appendChild(container);
+            return container;
+        }
+        
+        // Check if a stream is live and create embed if yes
+        function checkAndLoadStream(channel) {
+            if (checkedStreams.has(channel)) return;
+            checkedStreams.add(channel);
+            
+            // Create container
+            const container = createStreamContainer(channel);
+            
+            // Try to create embed
+            try {
+                const embed = new Twitch.Embed(`twitch-embed-${channel}`, {
+                    width: '100%',
+                    height: 264,
+                    channel: channel,
+                    layout: 'video',
+                    autoplay: false,
+                    muted: true,
+                    parent: ['stopitsclock.github.io']
+                });
                 
-                // Try to detect if stream is live by checking if there's a channel
-                try {
-                    const channelName = player.getChannel();
-                    if (channelName) {
-                        container.style.display = 'block';
-                    } else {
-                        container.style.display = 'none';
-                    }
-                } catch (e) {
-                    // If we can't determine, hide by default
-                    container.style.display = 'none';
-                }
-            });
-            
-            // Show when stream goes online
-            embed.addEventListener(Twitch.Player.ONLINE, () => {
-                container.style.display = 'block';
-            });
-
-            // Hide when stream goes offline
-            embed.addEventListener(Twitch.Player.OFFLINE, () => {
-                container.style.display = 'none';
-            });
-            
-            // Also check playing state
-            embed.addEventListener(Twitch.Player.PLAYING, () => {
-                container.style.display = 'block';
+                // Listen for ONLINE event - only show if stream is live
+                embed.addEventListener(Twitch.Player.ONLINE, () => {
+                    container.style.display = 'block';
+                    activeStreams.add(channel);
+                    updateNoStreamsMessage();
+                    console.log(`✅ ${channel} is LIVE!`);
+                });
+                
+                // Listen for READY event to check initial state
+                embed.addEventListener(Twitch.Player.READY, () => {
+                    const player = embed.getPlayer();
+                    
+                    // Small delay to let player fully initialize
+                    setTimeout(() => {
+                        try {
+                            const quality = player.getQualities();
+                            // If we can get qualities, stream is live
+                            if (quality && quality.length > 0) {
+                                container.style.display = 'block';
+                                activeStreams.add(channel);
+                                updateNoStreamsMessage();
+                                console.log(`✅ ${channel} is LIVE!`);
+                            } else {
+                                // Stream is offline, remove the container
+                                container.remove();
+                                checkedStreams.delete(channel);
+                            }
+                        } catch (e) {
+                            // Error getting qualities means offline
+                            container.remove();
+                            checkedStreams.delete(channel);
+                        }
+                    }, 1000);
+                });
+                
+                // If stream goes offline, remove it
+                embed.addEventListener(Twitch.Player.OFFLINE, () => {
+                    container.remove();
+                    activeStreams.delete(channel);
+                    checkedStreams.delete(channel);
+                    updateNoStreamsMessage();
+                    console.log(`❌ ${channel} went offline`);
+                });
+                
+            } catch (e) {
+                console.error(`Error loading ${channel}:`, e);
+                container.remove();
+                checkedStreams.delete(channel);
+            }
+        }
+        
+        // Check all streamers for live status
+        function checkAllStreams() {
+            console.log('🔍 Checking all streams for live status...');
+            ALL_STREAMERS.forEach((channel, index) => {
+                // Stagger checks to avoid overloading
+                setTimeout(() => {
+                    checkAndLoadStream(channel);
+                }, index * 500); // 500ms between each check
             });
         }
-
-        // Initialize all embeds
-        initTwitchEmbed('66grimdemise66');
-        initTwitchEmbed('ashetonne');
-        initTwitchEmbed('cedarvt');
-        initTwitchEmbed('cosmosslayer1994');
-        initTwitchEmbed('cyberdragonvt');
-        initTwitchEmbed('cyraoctavia');
-        initTwitchEmbed('dracolicheren');
-        initTwitchEmbed('eepysoma');
-        initTwitchEmbed('enigmaticslime');
-        initTwitchEmbed('gilded_wolfe');
-        initTwitchEmbed('heyjustjackie');
-        initTwitchEmbed('heyvelleity');
-        initTwitchEmbed('huanyavt');
-        initTwitchEmbed('illustriousmyth');
-        initTwitchEmbed('ironmouse');
-        initTwitchEmbed('karaleuatomic');
-        initTwitchEmbed('kingthekeeper');
-        initTwitchEmbed('kuumortuf');
-        initTwitchEmbed('leyonlagure');
-        initTwitchEmbed('mimiluna2');
-        initTwitchEmbed('miyuwanchan');
-        initTwitchEmbed('nanami_eiko');
-        initTwitchEmbed('nokoadragon');
-        initTwitchEmbed('plompers');
-        initTwitchEmbed('rams_404');
-        initTwitchEmbed('slushieghost');
-        initTwitchEmbed('starfastwolf');
-        initTwitchEmbed('stopitsclock');
-        initTwitchEmbed('sybil_theoracle');
-        initTwitchEmbed('thatuserkai');
-        initTwitchEmbed('theomenclature');
-        initTwitchEmbed('thetactician');
-        initTwitchEmbed('thorn_fey_vt');
-        initTwitchEmbed('triagesylphiel');
-        initTwitchEmbed('tw_jett');
-        initTwitchEmbed('vaneros_lunpo');
-        initTwitchEmbed('wallowsett');
-        initTwitchEmbed('zecosmiccrow');
-        initTwitchEmbed('zippingyeti');
+        
+        // Initialize when page loads
+        window.addEventListener('load', () => {
+            // Wait for Twitch embed library to load
+            const initWhenReady = () => {
+                if (typeof Twitch !== 'undefined' && Twitch.Embed) {
+                    streamsGrid = document.querySelector('.streams-grid');
+                    noStreamsMessage = document.getElementById('no-streams-message');
+                    checkAllStreams();
+                    
+                    // Recheck every 2 minutes for new live streams
+                    setInterval(checkAllStreams, 120000);
+                } else {
+                    setTimeout(initWhenReady, 100);
+                }
+            };
+            initWhenReady();
+        });
     </script>
 </body>
 </html>
