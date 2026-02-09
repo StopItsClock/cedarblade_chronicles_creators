@@ -48,5 +48,29 @@
       "18PlusStreamer"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317619464922",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1135492840",
+    "game_name": "Sonic Racing: CrossWorlds",
+    "type": "live",
+    "title": "SUBATHON DAY 12!! Racing around at the speed of sound|| Sonic Racing: Crossworlds (!lurk, !links, !discord)",
+    "viewer_count": 0,
+    "started_at": "2026-02-09T22:00:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false
   }
 ]
