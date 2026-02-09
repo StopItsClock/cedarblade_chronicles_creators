@@ -280,40 +280,38 @@
                 parent: ['stopitsclock.github.io', 'localhost']
             });
 
-            embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
+            // Listen for player events through the embed object
+            embed.addEventListener(Twitch.Player.READY, () => {
+                // When player is ready, check if stream is live by checking for video
                 const player = embed.getPlayer();
                 
-                // Function to check if stream is live
-                function checkStreamStatus() {
-                    // If player has quality options, stream is live
-                    const qualities = player.getQualityOptions();
-                    if (qualities && qualities.length > 0) {
+                // Try to detect if stream is live by checking if there's a channel
+                try {
+                    const channelName = player.getChannel();
+                    if (channelName) {
                         container.style.display = 'block';
                     } else {
                         container.style.display = 'none';
                     }
-                }
-                
-                // Check initial status after a short delay
-                setTimeout(checkStreamStatus, 1000);
-                
-                // Listen for player ready event
-                player.addEventListener(Twitch.Player.READY, () => {
-                    checkStreamStatus();
-                });
-                
-                // Show container when stream goes live
-                player.addEventListener(Twitch.Player.ONLINE, () => {
-                    container.style.display = 'block';
-                });
-
-                // Hide container when stream goes offline
-                player.addEventListener(Twitch.Player.OFFLINE, () => {
+                } catch (e) {
+                    // If we can't determine, hide by default
                     container.style.display = 'none';
-                });
-                
-                // Periodically check stream status (every 30 seconds)
-                setInterval(checkStreamStatus, 30000);
+                }
+            });
+            
+            // Show when stream goes online
+            embed.addEventListener(Twitch.Player.ONLINE, () => {
+                container.style.display = 'block';
+            });
+
+            // Hide when stream goes offline
+            embed.addEventListener(Twitch.Player.OFFLINE, () => {
+                container.style.display = 'none';
+            });
+            
+            // Also check playing state
+            embed.addEventListener(Twitch.Player.PLAYING, () => {
+                container.style.display = 'block';
             });
         }
 
