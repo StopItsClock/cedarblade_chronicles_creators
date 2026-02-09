@@ -143,13 +143,12 @@
         }
 
         .streams-grid {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
             gap: 15px;
             max-width: 1200px;
             margin: 0 auto;
-            width: 100%;
+            padding: 0 10px;
         }
 
         .stream-container {
@@ -157,7 +156,7 @@
             background-color: rgba(0, 0, 0, 0.65);
             padding: 10px;
             width: 100%;
-            max-width: 740px;  /* 720px embed + 20px padding for perfect 16:9 */
+            max-width: 380px;  /* 360px embed + 20px padding for 3-column layout */
             
             border: 1px solid rgba(0, 0, 0, 0.5);
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -166,16 +165,17 @@
         /* Ensure Twitch embed divs and iframes are properly sized */
         .stream-container > div[id^="twitch-embed-"] {
             width: 100%;
-            max-width: 720px;
+            max-width: 360px;
             margin: 0 auto;
         }
         
         .stream-container iframe {
             width: 100% !important;
-            max-width: 720px !important;
+            max-width: 360px !important;
         }
 
         .stream-header {
+            display: block;
             background: #6f6f6f;  /* Match button color */
             color: #ffffff;  /* White text */
             padding: 10px 12px;
@@ -183,6 +183,7 @@
             margin-bottom: 10px;
             text-transform: capitalize;
             text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.6);
+            text-decoration: none;  /* Remove underline from link */
             
             /* Explicitly use Minecraft font */
             font-family: 'Minecraft', 'Press Start 2P', 'Courier New', monospace;
@@ -193,6 +194,13 @@
                 inset 2px 2px 0 0 #a8a8a8,
                 inset -2px -2px 0 0 #565656,
                 0 3px 0 0 rgba(0, 0, 0, 0.5);
+            
+            transition: all 0.1s;
+        }
+        
+        .stream-header:hover {
+            border: 2px solid #ffffff;
+            outline: 2px solid #ffffff;
         }
 
         footer {
@@ -206,6 +214,7 @@
 
         @media (max-width: 768px) {
             .streams-grid {
+                grid-template-columns: 1fr;
                 padding: 0 10px;
             }
             
@@ -256,39 +265,39 @@
 
     <div class="streams-grid">
         <div id="stream-66grimdemise66" class="stream-container">
-            <div class="stream-header">66grimdemise66's Stream</div>
+            <a href="https://www.twitch.tv/66grimdemise66" target="_blank" class="stream-header">66grimdemise66's Stream</a>
             <div id="twitch-embed-66grimdemise66"></div>
         </div>
         <div id="stream-cedarvt" class="stream-container">
-            <div class="stream-header">cedarvt's Stream</div>
+            <a href="https://www.twitch.tv/cedarvt" target="_blank" class="stream-header">cedarvt's Stream</a>
             <div id="twitch-embed-cedarvt"></div>
         </div>
         <div id="stream-cyberdragonvt" class="stream-container">
-            <div class="stream-header">cyberdragonvt's Stream</div>
+            <a href="https://www.twitch.tv/cyberdragonvt" target="_blank" class="stream-header">cyberdragonvt's Stream</a>
             <div id="twitch-embed-cyberdragonvt"></div>
         </div>
         <div id="stream-juniperactias" class="stream-container">
-            <div class="stream-header">juniperactias's Stream</div>
+            <a href="https://www.twitch.tv/juniperactias" target="_blank" class="stream-header">juniperactias's Stream</a>
             <div id="twitch-embed-juniperactias"></div>
         </div>
         <div id="stream-karaleuatomic" class="stream-container">
-            <div class="stream-header">karaleuatomic's Stream</div>
+            <a href="https://www.twitch.tv/karaleuatomic" target="_blank" class="stream-header">karaleuatomic's Stream</a>
             <div id="twitch-embed-karaleuatomic"></div>
         </div>
         <div id="stream-nyanners" class="stream-container">
-            <div class="stream-header">nyanners's Stream</div>
+            <a href="https://www.twitch.tv/nyanners" target="_blank" class="stream-header">nyanners's Stream</a>
             <div id="twitch-embed-nyanners"></div>
         </div>
         <div id="stream-rams_404" class="stream-container">
-            <div class="stream-header">rams_404's Stream</div>
+            <a href="https://www.twitch.tv/rams_404" target="_blank" class="stream-header">rams_404's Stream</a>
             <div id="twitch-embed-rams_404"></div>
         </div>
         <div id="stream-stopitsclock" class="stream-container">
-            <div class="stream-header">stopitsclock's Stream</div>
+            <a href="https://www.twitch.tv/stopitsclock" target="_blank" class="stream-header">stopitsclock's Stream</a>
             <div id="twitch-embed-stopitsclock"></div>
         </div>
         <div id="stream-zentreya" class="stream-container">
-            <div class="stream-header">zentreya's Stream</div>
+            <a href="https://www.twitch.tv/zentreya" target="_blank" class="stream-header">zentreya's Stream</a>
             <div id="twitch-embed-zentreya"></div>
         </div>
     </div>
@@ -303,7 +312,7 @@
             
             const embed = new Twitch.Embed(`twitch-embed-${channel}`, {
                 width: '100%',
-                height: 405,  /* Perfect 16:9 ratio: 720px × 405px */
+                height: 203,  /* 16:9 ratio for 360px width (360 × 9/16 ≈ 203) */
                 channel: channel,
                 layout: 'video',
                 autoplay: false,
