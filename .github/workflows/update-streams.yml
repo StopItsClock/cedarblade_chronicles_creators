@@ -1,0 +1,81 @@
+name: Update Live Streams
+
+on:
+  schedule:
+    # Run every 3 minutes
+    - cron: '*/3 * * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-streams:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install requests
+        run: pip install requests
+      
+      - name: Check live streams
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+        run: |
+          python << 'EOF'
+          import requests
+          import json
+          import os
+
+          # Get credentials from environment
+          CLIENT_ID = os.environ.get('TWITCH_CLIENT_ID')
+          CLIENT_SECRET = os.environ.get('TWITCH_CLIENT_SECRET')
+
+          # Get OAuth token
+          token_response = requests.post(
+              'https://id.twitch.tv/oauth2/token',
+              data={
+                  'client_id': CLIENT_ID,
+                  'client_secret': CLIENT_SECRET,
+                  'grant_type': 'client_credentials'
+              }
+          )
+          access_token = token_response.json()['access_token']
+
+          # Load streamers list
+          with open('streamers.json', 'r') as f:
+              streamers = json.load(f)
+
+          # Check who's live (can query up to 100 at once)
+          query_params = '&'.join([f'user_login={s}' for s in streamers])
+          
+          response = requests.get(
+              f'https://api.twitch.tv/helix/streams?{query_params}',
+              headers={
+                  'Client-ID': CLIENT_ID,
+                  'Authorization': f'Bearer {access_token}'
+              }
+          )
+
+          live_streams = response.json()['data']
+
+          # Save to file
+          with open('live_streams.json', 'w') as f:
+              json.dump(live_streams, f, indent=2)
+
+          print(f"Found {len(live_streams)} live stream(s)")
+          for stream in live_streams:
+              print(f"  - {stream['user_name']}: {stream['viewer_count']} viewers")
+          EOF
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add live_streams.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update live streams [skip ci]" && git push)
