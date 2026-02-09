@@ -78,7 +78,7 @@
         }
 
         .streamers-list h2 {
-            color: #e0e0e0;
+            color: #ffffff;  /* Lighter white text */
             margin-bottom: 20px;
             font-size: 1.4em;  /* BIGGER */
             text-align: center;
@@ -283,7 +283,26 @@
             embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
                 const player = embed.getPlayer();
                 
-                // Show container only when stream is live
+                // Function to check if stream is live
+                function checkStreamStatus() {
+                    // If player has quality options, stream is live
+                    const qualities = player.getQualityOptions();
+                    if (qualities && qualities.length > 0) {
+                        container.style.display = 'block';
+                    } else {
+                        container.style.display = 'none';
+                    }
+                }
+                
+                // Check initial status after a short delay
+                setTimeout(checkStreamStatus, 1000);
+                
+                // Listen for player ready event
+                player.addEventListener(Twitch.Player.READY, () => {
+                    checkStreamStatus();
+                });
+                
+                // Show container when stream goes live
                 player.addEventListener(Twitch.Player.ONLINE, () => {
                     container.style.display = 'block';
                 });
@@ -292,11 +311,9 @@
                 player.addEventListener(Twitch.Player.OFFLINE, () => {
                     container.style.display = 'none';
                 });
-
-                // Initial check - hide if offline
-                if (player.getChannelId() === null) {
-                    container.style.display = 'none';
-                }
+                
+                // Periodically check stream status (every 30 seconds)
+                setInterval(checkStreamStatus, 30000);
             });
         }
 
