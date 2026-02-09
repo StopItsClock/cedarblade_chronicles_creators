@@ -8,7 +8,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] Baldur's Gate with Wyll's Beautiful Dragon (Baldur's Gate 3 w/ @Regina_Kardinal)",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-02-09T20:49:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "Cult of the Lamb",
     "type": "live",
     "title": "ITS SO COLDDD! Cult of Crypt Woolhaven pt 5",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-02-09T22:05:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -97,5 +97,33 @@
       "18PlusStreamer"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317766128347",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "BACK TO IT! Stardew Monday's continue! \u2307 +18 \u2307 !discord !social",
+    "viewer_count": 2,
+    "started_at": "2026-02-09T22:56:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
+    ],
+    "is_mature": false
   }
 ]
