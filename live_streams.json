@@ -1,5 +1,31 @@
 [
   {
+    "id": "317288865376",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512923",
+    "game_name": "Baldur's Gate 3",
+    "type": "live",
+    "title": "[Subathon] Baldur's Gate with Wyll's Beautiful Dragon (Baldur's Gate 3 w/ @Regina_Kardinal)",
+    "viewer_count": 4,
+    "started_at": "2026-02-09T20:49:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "EN",
+      "Shenanigans",
+      "girlfailure",
+      "subathon",
+      "Chaos",
+      "BaldursGate3",
+      "Seatuber"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317617798618",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -8,7 +34,7 @@
     "game_name": "HASTE",
     "type": "live",
     "title": "GOTTA GO FAST || !puppers !discord",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-02-09T19:59:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
