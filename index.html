@@ -333,7 +333,7 @@
             font-size: 1.2em;
             text-shadow: 2px 2px 0px #3f3f3f;
         ">
-            🎮 No one is streaming right now. Check back later!
+            No one is streaming right now. Check back later!
         </div>
     </div>
 
@@ -428,7 +428,7 @@
                             container.remove();
                             checkedStreams.delete(channel);
                         }
-                    }, 1000);
+                    }, 500);  // Reduced from 1000ms for faster detection
                 });
                 
                 // If stream goes offline, remove it
@@ -449,13 +449,22 @@
         
         // Check all streamers for live status
         function checkAllStreams() {
-            console.log('🔍 Checking all streams for live status...');
-            ALL_STREAMERS.forEach((channel, index) => {
-                // Stagger checks to avoid overloading
+            console.log('Checking all streams for live status...');
+            
+            // Check 5 streams at a time for faster loading
+            const BATCH_SIZE = 5;
+            const BATCH_DELAY = 200; // Delay between batches
+            
+            for (let i = 0; i < ALL_STREAMERS.length; i += BATCH_SIZE) {
+                const batch = ALL_STREAMERS.slice(i, i + BATCH_SIZE);
+                const batchIndex = Math.floor(i / BATCH_SIZE);
+                
                 setTimeout(() => {
-                    checkAndLoadStream(channel);
-                }, index * 500); // 500ms between each check
-            });
+                    batch.forEach(channel => {
+                        checkAndLoadStream(channel);
+                    });
+                }, batchIndex * BATCH_DELAY);
+            }
         }
         
         // Initialize when page loads
