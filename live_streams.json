@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "(NEW SEASON) So many new characters! |!Discord !lurk | 🐉🧟",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-02-10T20:33:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -58,7 +58,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Marvel Rivals hopcon",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-02-10T20:30:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -85,7 +85,7 @@
     "game_name": "",
     "type": "live",
     "title": "Overwatch Collab",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-02-10T20:35:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
@@ -95,33 +95,5 @@
       "overwactch2"
     ],
     "is_mature": false
-  },
-  {
-    "id": "317778956891",
-    "user_id": "167298417",
-    "user_login": "gilded_wolfe",
-    "user_name": "Gilded_Wolfe",
-    "game_id": "1294658629",
-    "game_name": "R.E.P.O.",
-    "type": "live",
-    "title": "REPOSSESSION || !puppers !discord",
-    "viewer_count": 1,
-    "started_at": "2026-02-10T18:15:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "catgirl",
-      "english",
-      "cat",
-      "chattingwithviewers",
-      "English",
-      "repo",
-      "repogame",
-      "repogameplay",
-      "repowithfriends",
-      "repofunnymoments"
-    ],
-    "is_mature": true
   }
 ]
