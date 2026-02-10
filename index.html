@@ -62,14 +62,15 @@
         function createStreamEmbed(streamData) {
             const channel = streamData.user_login;
             
-            // Check if container already exists
+            // Check if container already exists - if so, skip (don't recreate)
             let container = document.getElementById(`stream-${channel}`);
             if (container) {
-                // Remove old (possibly failed) embed and retry
-                container.remove();
+                console.log(`Stream embed for ${channel} already exists, skipping recreation`);
+                return; // Stream is already displayed, don't recreate
             }
             
-            // Create new container
+            // Create new container for NEW streams only
+            console.log(`Creating new stream embed for ${channel}`);
             container = document.createElement('div');
             container.id = `stream-${channel}`;
             container.className = 'stream-container';
@@ -107,6 +108,7 @@
             // Remove streams that are no longer live
             currentLiveStreams.forEach(channel => {
                 if (!liveChannelSet.has(channel)) {
+                    console.log(`Stream went offline: ${channel}, removing embed`);
                     const container = document.getElementById(`stream-${channel}`);
                     if (container) {
                         container.remove();
@@ -128,9 +130,13 @@
             // Remove offline streams first
             removeOfflineStreams(liveChannels);
             
-            // Add/update live streams
+            // Add new live streams (existing ones will be skipped in createStreamEmbed)
             liveStreams.forEach(stream => {
-                createStreamEmbed(stream);
+                const wasAlreadyLive = currentLiveStreams.has(stream.user_login);
+                createStreamEmbed(stream); // Will skip if already exists
+                if (!wasAlreadyLive) {
+                    console.log(`New stream detected: ${stream.user_login}`);
+                }
                 currentLiveStreams.add(stream.user_login);
             });
             
