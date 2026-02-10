@@ -8,7 +8,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "✧ MORGANA SKIN COME HOMEEEEE ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 27,
     "started_at": "2026-02-09T23:54:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -80,32 +80,6 @@
     "is_mature": false
   },
   {
-    "id": "317212531957",
-    "user_id": "1275381753",
-    "user_login": "mimiluna2",
-    "user_name": "MimiLuna2",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Milkymon SMP! We're back on the grind!",
-    "viewer_count": 5,
-    "started_at": "2026-02-10T03:06:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ADHD",
-      "Latina",
-      "LGBTQIAPIus",
-      "spanish",
-      "chill",
-      "Español",
-      "Inglés"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317232117214",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -129,6 +103,32 @@
       "ENVtuber",
       "vtubers",
       "CloacaKing"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317212531957",
+    "user_id": "1275381753",
+    "user_login": "mimiluna2",
+    "user_name": "MimiLuna2",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Milkymon SMP! We're back on the grind!",
+    "viewer_count": 4,
+    "started_at": "2026-02-10T03:06:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ADHD",
+      "Latina",
+      "LGBTQIAPIus",
+      "spanish",
+      "chill",
+      "Español",
+      "Inglés"
     ],
     "is_mature": false
   },
