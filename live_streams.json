@@ -129,5 +129,33 @@
       "skibidirizz"
     ],
     "is_mature": false
+  },
+  {
+    "id": "317767433563",
+    "user_id": "87014181",
+    "user_login": "thetactician",
+    "user_name": "TheTactician",
+    "game_id": "508455",
+    "game_name": "Valheim",
+    "type": "live",
+    "title": "We seek to Challenge the Emerald Flame! w/ @cedarvt",
+    "viewer_count": 0,
+    "started_at": "2026-02-10T00:00:47Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NoBackseating",
+      "Anime",
+      "Vtuber",
+      "Collab",
+      "funnymoments",
+      "English",
+      "Valheim",
+      "ValheimMultiplayer",
+      "Valheimchill",
+      "survival"
+    ],
+    "is_mature": true
   }
 ]
