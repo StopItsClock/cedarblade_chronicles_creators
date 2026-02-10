@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "✧ YEAHHH FARMING wooooo we love farming ✧ !lurk !merch !throne !clip",
-    "viewer_count": 24,
+    "viewer_count": 25,
     "started_at": "2026-02-09T23:54:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -26,59 +26,6 @@
       "sillylittleguy"
     ],
     "is_mature": true
-  },
-  {
-    "id": "316685287127",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "516173984",
-    "game_name": "Cult of the Lamb",
-    "type": "live",
-    "title": "ITS SO COLDDD! Cult of Crypt Woolhaven pt 5",
-    "viewer_count": 8,
-    "started_at": "2026-02-09T22:05:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "cultofthelamb",
-      "Woolhaven"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317165641564",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1280007947",
-    "game_name": "Limbus Company",
-    "type": "live",
-    "title": "[18+] Me personally, I wouldn't let this happen to me | DotW + Limbus Company | !lurk !throne !tip !discord",
-    "viewer_count": 6,
-    "started_at": "2026-02-10T00:01:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false
   },
   {
     "id": "317766128347",
@@ -105,6 +52,34 @@
       "Yapper",
       "chill",
       "Chatty"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317165641564",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1280007947",
+    "game_name": "Limbus Company",
+    "type": "live",
+    "title": "[18+] Me personally, I wouldn't let this happen to me | DotW + Limbus Company | !lurk !throne !tip !discord",
+    "viewer_count": 5,
+    "started_at": "2026-02-10T00:01:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
     ],
     "is_mature": false
   },
