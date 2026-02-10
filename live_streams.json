@@ -7,7 +7,7 @@
     "game_id": "490744",
     "game_name": "Stardew Valley",
     "type": "live",
-    "title": "✧ YEAHHH FARMING wooooo we love farming ✧ !lurk !merch !throne !clip",
+    "title": "\u2727 YEAHHH FARMING wooooo we love farming \u2727 !lurk !merch !throne !clip",
     "viewer_count": 27,
     "started_at": "2026-02-09T23:54:01Z",
     "language": "en",
@@ -35,7 +35,7 @@
     "game_id": "508455",
     "game_name": "Valheim",
     "type": "live",
-    "title": "Let's beat Valheim!  :3  ~🍂 !discord !clip !merch",
+    "title": "Let's beat Valheim!  :3  ~\ud83c\udf42 !discord !clip !merch",
     "viewer_count": 8,
     "started_at": "2026-02-09T23:55:44Z",
     "language": "en",
@@ -80,6 +80,34 @@
     "is_mature": false
   },
   {
+    "id": "317766128347",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "BACK TO IT! Stardew Monday's continue! \u2307 +18 \u2307 !discord !social",
+    "viewer_count": 4,
+    "started_at": "2026-02-09T22:56:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317232117214",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -107,34 +135,6 @@
     "is_mature": false
   },
   {
-    "id": "317766128347",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "BACK TO IT! Stardew Monday's continue! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 4,
-    "started_at": "2026-02-09T22:56:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Comfy",
-      "Chaotic",
-      "Yapper",
-      "chill",
-      "Chatty"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317211643253",
     "user_id": "1275381753",
     "user_login": "mimiluna2",
@@ -155,8 +155,8 @@
       "LGBTQIAPIus",
       "spanish",
       "chill",
-      "Español",
-      "Inglés"
+      "Espa\u00f1ol",
+      "Ingl\u00e9s"
     ],
     "is_mature": false
   },
