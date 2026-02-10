@@ -58,7 +58,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Marvel Rivals hopcon",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-02-10T20:30:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -71,7 +71,8 @@
       "clowning",
       "undeadvtuber",
       "cedarmonSMP",
-      "Vtuber"
+      "Vtuber",
+      "DropsEnabled"
     ],
     "is_mature": true
   },
@@ -84,7 +85,7 @@
     "game_name": "",
     "type": "live",
     "title": "Overwatch Collab",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-02-10T20:35:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
