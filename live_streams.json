@@ -28,6 +28,34 @@
     "is_mature": true
   },
   {
+    "id": "317165641564",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1280007947",
+    "game_name": "Limbus Company",
+    "type": "live",
+    "title": "[18+] Me personally, I wouldn't let this happen to me | DotW + Limbus Company | !lurk !throne !tip !discord",
+    "viewer_count": 8,
+    "started_at": "2026-02-10T00:01:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317165497436",
     "user_id": "938069605",
     "user_login": "cedarvt",
@@ -48,34 +76,6 @@
       "ComfyChaotic",
       "leaf",
       "skibidirizz"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317165641564",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1280007947",
-    "game_name": "Limbus Company",
-    "type": "live",
-    "title": "[18+] Me personally, I wouldn't let this happen to me | DotW + Limbus Company | !lurk !throne !tip !discord",
-    "viewer_count": 5,
-    "started_at": "2026-02-10T00:01:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
     ],
     "is_mature": false
   },
@@ -115,7 +115,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Milkymon SMP! We're back on the grind!",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-10T03:06:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
