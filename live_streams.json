@@ -28,6 +28,30 @@
     "is_mature": true
   },
   {
+    "id": "317165497436",
+    "user_id": "938069605",
+    "user_login": "cedarvt",
+    "user_name": "CedarVT",
+    "game_id": "508455",
+    "game_name": "Valheim",
+    "type": "live",
+    "title": "Let's beat Valheim!  :3  ~🍂 !discord !clip !merch",
+    "viewer_count": 5,
+    "started_at": "2026-02-09T23:55:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "ComfyChaotic",
+      "leaf",
+      "skibidirizz"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317165641564",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -52,30 +76,6 @@
       "pngtuber",
       "English",
       "Scuff"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317165497436",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "508455",
-    "game_name": "Valheim",
-    "type": "live",
-    "title": "Let's beat Valheim!  :3  ~🍂 !discord !clip !merch",
-    "viewer_count": 5,
-    "started_at": "2026-02-09T23:55:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz"
     ],
     "is_mature": false
   },
