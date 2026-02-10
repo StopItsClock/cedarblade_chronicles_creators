@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "(NEW SEASON) So many new characters! |!Discord !lurk | 🐉🧟",
-    "viewer_count": 11,
+    "viewer_count": 9,
     "started_at": "2026-02-10T20:33:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -50,35 +50,15 @@
     "is_mature": false
   },
   {
-    "id": "316695958999",
-    "user_id": "114779237",
-    "user_login": "velkais370",
-    "user_name": "velkais370",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "Overwatch Collab",
-    "viewer_count": 2,
-    "started_at": "2026-02-10T20:35:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "overwactch2"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "316695915095",
     "user_id": "495919620",
     "user_login": "66grimdemise66",
     "user_name": "66GrimDemise66",
-    "game_id": "491381",
-    "game_name": "Golf With Your Friends",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
     "type": "live",
-    "title": "Golfing with the goobs",
-    "viewer_count": 2,
+    "title": "Marvel Rivals hopcon",
+    "viewer_count": 3,
     "started_at": "2026-02-10T20:30:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -94,6 +74,26 @@
       "Vtuber"
     ],
     "is_mature": true
+  },
+  {
+    "id": "316695958999",
+    "user_id": "114779237",
+    "user_login": "velkais370",
+    "user_name": "velkais370",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "Overwatch Collab",
+    "viewer_count": 1,
+    "started_at": "2026-02-10T20:35:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "overwactch2"
+    ],
+    "is_mature": false
   },
   {
     "id": "317778956891",
