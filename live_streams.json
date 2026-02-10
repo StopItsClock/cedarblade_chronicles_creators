@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "(NEW SEASON) So many new characters! |!Discord !lurk | 🐉🧟",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-02-10T20:33:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -48,32 +48,6 @@
       "Splatoon"
     ],
     "is_mature": false
-  },
-  {
-    "id": "316695915095",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "491381",
-    "game_name": "Golf With Your Friends",
-    "type": "live",
-    "title": "Golfing with the goobs",
-    "viewer_count": 2,
-    "started_at": "2026-02-10T20:30:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "TheyThem",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "cedarmonSMP",
-      "Vtuber"
-    ],
-    "is_mature": true
   },
   {
     "id": "316695958999",
@@ -120,6 +94,32 @@
       "repogameplay",
       "repowithfriends",
       "repofunnymoments"
+    ],
+    "is_mature": true
+  },
+  {
+    "id": "316695915095",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "491381",
+    "game_name": "Golf With Your Friends",
+    "type": "live",
+    "title": "Golfing with the goobs",
+    "viewer_count": 1,
+    "started_at": "2026-02-10T20:30:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "TheyThem",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "cedarmonSMP",
+      "Vtuber"
     ],
     "is_mature": true
   }
