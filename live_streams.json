@@ -36,7 +36,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "(NEW SEASON) So many new characters! |!Discord !lurk | 🐉🧟",
-    "viewer_count": 11,
+    "viewer_count": 12,
     "started_at": "2026-02-10T20:33:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -83,6 +83,29 @@
     "is_mature": false
   },
   {
+    "id": "317184707804",
+    "user_id": "76857724",
+    "user_login": "kuumortuf",
+    "user_name": "KuuMortuf",
+    "game_id": "18763",
+    "game_name": "Fallout 3",
+    "type": "live",
+    "title": "18+ l MR Coffees Adventure Continues l",
+    "viewer_count": 4,
+    "started_at": "2026-02-11T01:29:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuumortuf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ChallengeRunner",
+      "Vtuber",
+      "INDUSTRY",
+      "ENVtuber"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317248704478",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -91,7 +114,7 @@
     "game_name": "Sons of the Forest",
     "type": "live",
     "title": "VTUBER GOIN FERAL - W/ @slushieghost @8bitnuggetz @kaos_xen | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 1,
     "started_at": "2026-02-11T00:02:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -106,29 +129,6 @@
       "ENVtuber",
       "vtubers",
       "CloacaKing"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317184707804",
-    "user_id": "76857724",
-    "user_login": "kuumortuf",
-    "user_name": "KuuMortuf",
-    "game_id": "18763",
-    "game_name": "Fallout 3",
-    "type": "live",
-    "title": "18+ l MR Coffees Adventure Continues l",
-    "viewer_count": 3,
-    "started_at": "2026-02-11T01:29:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuumortuf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ChallengeRunner",
-      "Vtuber",
-      "INDUSTRY",
-      "ENVtuber"
     ],
     "is_mature": false
   },
