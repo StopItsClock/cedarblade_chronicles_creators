@@ -8,7 +8,7 @@
     "game_name": "Sons of the Forest",
     "type": "live",
     "title": "✧ Driving on down the forest wooo ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 23,
     "started_at": "2026-02-10T23:58:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "RAAAA YAPPING AND SOME OVERWATCH!! !!!! - !discord !lurk",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-02-11T00:05:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "(NEW SEASON) So many new characters! |!Discord !lurk | 🐉🧟",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-02-10T20:33:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -184,26 +184,6 @@
       "ENVtuber",
       "vtubers",
       "CloacaKing"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "316695958999",
-    "user_id": "114779237",
-    "user_login": "velkais370",
-    "user_name": "velkais370",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "Overwatch Collab",
-    "viewer_count": 1,
-    "started_at": "2026-02-10T20:35:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "overwactch2"
     ],
     "is_mature": false
   }
