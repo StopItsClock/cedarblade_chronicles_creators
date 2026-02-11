@@ -7,7 +7,7 @@
     "game_id": "515025",
     "game_name": "Overwatch",
     "type": "live",
-    "title": "(Drops) New season COMP |!Discord !lurk | 🐉🧟",
+    "title": "(Drops) New season COMP |!Discord !lurk | \ud83d\udc09\ud83e\udddf",
     "viewer_count": 9,
     "started_at": "2026-02-11T21:58:36Z",
     "language": "en",
@@ -27,6 +27,31 @@
     "is_mature": false
   },
   {
+    "id": "317652076634",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "[ENVtuber] Back in Dokapon w/ @calmarvt @onetruemink and @azureaetherium | 16+ He/They",
+    "viewer_count": 4,
+    "started_at": "2026-02-11T21:05:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "transmasc",
+      "HeThey",
+      "16plus",
+      "VTuber",
+      "ENVTuber"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317262649438",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -34,7 +59,7 @@
     "game_id": "1081998272",
     "game_name": "PEAK",
     "type": "live",
-    "title": "✨[Collab] ✨WE GO TO THE PEAK✨ !socials !discord !lurk @rams_404_ ✨",
+    "title": "\u2728[Collab] \u2728WE GO TO THE PEAK\u2728 !socials !discord !lurk @rams_404_ \u2728",
     "viewer_count": 4,
     "started_at": "2026-02-11T22:02:51Z",
     "language": "en",
@@ -49,31 +74,6 @@
       "chaos",
       "spanish",
       "feet"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317652076634",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "126296160",
-    "game_name": "Dokapon Kingdom: Connect",
-    "type": "live",
-    "title": "[ENVtuber] Back in Dokapon w/ @calmarvt @onetruemink and @azureaetherium | 16+ He/They",
-    "viewer_count": 3,
-    "started_at": "2026-02-11T21:05:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "transmasc",
-      "HeThey",
-      "16plus",
-      "VTuber",
-      "ENVTuber"
     ],
     "is_mature": false
   },
