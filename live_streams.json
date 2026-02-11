@@ -8,7 +8,7 @@
     "game_name": "Fortnite",
     "type": "live",
     "title": "schedule lied, im playing fortnite with @leonidasterium || !discord !dono !throne",
-    "viewer_count": 12,
+    "viewer_count": 15,
     "started_at": "2026-02-11T19:57:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -107,7 +107,7 @@
     "game_name": "Dokapon Kingdom: Connect",
     "type": "live",
     "title": "[ENVtuber] Back in Dokapon w/ @calmarvt @onetruemink and @azureaetherium | 16+ He/They",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-02-11T21:05:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
@@ -120,6 +120,32 @@
       "16plus",
       "VTuber",
       "ENVTuber"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317196138972",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "(Drops) New season COMP |!Discord !lurk | 🐉🧟",
+    "viewer_count": 1,
+    "started_at": "2026-02-11T21:58:36Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror"
     ],
     "is_mature": false
   }
