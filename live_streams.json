@@ -8,7 +8,7 @@
     "game_name": "Fortnite",
     "type": "live",
     "title": "schedule lied, im playing fortnite with @leonidasterium || !discord !dono !throne",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-02-11T19:57:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -23,6 +23,29 @@
     "is_mature": false
   },
   {
+    "id": "316272581093",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "[ENVtuber] I'm sure we'll still be friends after this :3 @ThatUserKai @OneTrueMink @AzureAetherium",
+    "viewer_count": 4,
+    "started_at": "2026-02-11T21:05:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317194683996",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -31,7 +54,7 @@
     "game_name": "YAPYAP",
     "type": "live",
     "title": "[Subathon] We yap on our yap til we yap again? (yap yap w/ @regina_kardinal @malteaser1310 and @kiba_safir)",
-    "viewer_count": 9,
+    "viewer_count": 4,
     "started_at": "2026-02-11T20:04:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -45,29 +68,6 @@
       "Chaos",
       "Seatuber",
       "yapyap"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "316272581093",
-    "user_id": "176717390",
-    "user_login": "calmarvt",
-    "user_name": "CalmarVT",
-    "game_id": "126296160",
-    "game_name": "Dokapon Kingdom: Connect",
-    "type": "live",
-    "title": "[ENVtuber] I'm sure we'll still be friends after this :3 @ThatUserKai @OneTrueMink @AzureAetherium",
-    "viewer_count": 5,
-    "started_at": "2026-02-11T21:05:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "GERVtuber",
-      "ENVtuber",
-      "English",
-      "Splatoon"
     ],
     "is_mature": false
   },
