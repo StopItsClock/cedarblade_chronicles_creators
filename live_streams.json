@@ -48,6 +48,29 @@
     "is_mature": false
   },
   {
+    "id": "316272581093",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "[ENVtuber] I'm sure we'll still be friends after this :3 @ThatUserKai @OneTrueMink @AzureAetherium",
+    "viewer_count": 6,
+    "started_at": "2026-02-11T21:05:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317194683996",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -70,29 +93,6 @@
       "Chaos",
       "Seatuber",
       "yapyap"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "316272581093",
-    "user_id": "176717390",
-    "user_login": "calmarvt",
-    "user_name": "CalmarVT",
-    "game_id": "126296160",
-    "game_name": "Dokapon Kingdom: Connect",
-    "type": "live",
-    "title": "[ENVtuber] I'm sure we'll still be friends after this :3 @ThatUserKai @OneTrueMink @AzureAetherium",
-    "viewer_count": 5,
-    "started_at": "2026-02-11T21:05:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "GERVtuber",
-      "ENVtuber",
-      "English",
-      "Splatoon"
     ],
     "is_mature": false
   },
