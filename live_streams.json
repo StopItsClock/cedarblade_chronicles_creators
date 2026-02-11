@@ -8,7 +8,7 @@
     "game_name": "Sons of the Forest",
     "type": "live",
     "title": "✧ Driving on down the forest wooo ✧ !lurk !merch !throne !clip",
-    "viewer_count": 10,
+    "viewer_count": 14,
     "started_at": "2026-02-10T23:58:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -26,6 +26,33 @@
       "sillylittleguy"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317182334300",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "RAAAA YAPPING AND SOME OVERWATCH!! !!!! - !discord !lurk",
+    "viewer_count": 12,
+    "started_at": "2026-02-11T00:05:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "ENGLISH",
+      "Vtuber",
+      "brat",
+      "twinkmaxxing",
+      "yappingstreamer",
+      "newVTuber",
+      "English",
+      "Gremlin"
+    ],
+    "is_mature": false
   },
   {
     "id": "317245508446",
@@ -51,6 +78,34 @@
       "undeadvtuber",
       "Horror",
       "DropsEnabled"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317308840288",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "976777994",
+    "game_name": "YAPYAP",
+    "type": "live",
+    "title": "[18+] I'm yapping with cute girls and a melon! (idk what this game is about) | YapYap | !lurk !throne !tip !discord",
+    "viewer_count": 4,
+    "started_at": "2026-02-11T00:01:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
     ],
     "is_mature": false
   },
@@ -82,34 +137,6 @@
     "is_mature": false
   },
   {
-    "id": "317308840288",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "976777994",
-    "game_name": "YAPYAP",
-    "type": "live",
-    "title": "[18+] I'm yapping with cute girls and a melon! (idk what this game is about) | YapYap | !lurk !throne !tip !discord",
-    "viewer_count": 1,
-    "started_at": "2026-02-11T00:01:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "316695958999",
     "user_id": "114779237",
     "user_login": "velkais370",
@@ -126,33 +153,6 @@
     "tags": [
       "English",
       "overwactch2"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317182334300",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "RAAAA YAPPING AND SOME OVERWATCH!! !!!! - !discord !lurk",
-    "viewer_count": 0,
-    "started_at": "2026-02-11T00:05:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "ENGLISH",
-      "Vtuber",
-      "brat",
-      "twinkmaxxing",
-      "yappingstreamer",
-      "newVTuber",
-      "English",
-      "Gremlin"
     ],
     "is_mature": false
   }
