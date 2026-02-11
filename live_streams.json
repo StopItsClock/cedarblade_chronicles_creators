@@ -8,7 +8,7 @@
     "game_name": "Sons of the Forest",
     "type": "live",
     "title": "✧ Driving on down the forest wooo ✧ !lurk !merch !throne !clip",
-    "viewer_count": 23,
+    "viewer_count": 22,
     "started_at": "2026-02-10T23:58:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -56,6 +56,33 @@
     "is_mature": false
   },
   {
+    "id": "317245508446",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "(NEW SEASON) So many new characters! |!Discord !lurk | 🐉🧟",
+    "viewer_count": 7,
+    "started_at": "2026-02-10T20:33:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror",
+      "DropsEnabled"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317308840288",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -64,7 +91,7 @@
     "game_name": "YAPYAP",
     "type": "live",
     "title": "[18+] I'm yapping with cute girls and a melon! (idk what this game is about) | YapYap | !lurk !throne !tip !discord",
-    "viewer_count": 8,
+    "viewer_count": 5,
     "started_at": "2026-02-11T00:01:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -84,33 +111,6 @@
     "is_mature": false
   },
   {
-    "id": "317245508446",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "(NEW SEASON) So many new characters! |!Discord !lurk | 🐉🧟",
-    "viewer_count": 6,
-    "started_at": "2026-02-10T20:33:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror",
-      "DropsEnabled"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317248704478",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -119,7 +119,7 @@
     "game_name": "Sons of the Forest",
     "type": "live",
     "title": "VTUBER GOIN FERAL - W/ @slushieghost @8bitnuggetz @kaos_xen | !Clip !Discord",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-02-11T00:02:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -134,26 +134,6 @@
       "ENVtuber",
       "vtubers",
       "CloacaKing"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "316695958999",
-    "user_id": "114779237",
-    "user_login": "velkais370",
-    "user_name": "velkais370",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "Overwatch Collab",
-    "viewer_count": 1,
-    "started_at": "2026-02-10T20:35:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "overwactch2"
     ],
     "is_mature": false
   },
@@ -181,6 +161,26 @@
       "Rerun",
       "minecraftstream",
       "DropsEnabled"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "316695958999",
+    "user_id": "114779237",
+    "user_login": "velkais370",
+    "user_name": "velkais370",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "Overwatch Collab",
+    "viewer_count": 1,
+    "started_at": "2026-02-10T20:35:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "overwactch2"
     ],
     "is_mature": false
   }
