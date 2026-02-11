@@ -8,7 +8,7 @@
     "game_name": "Sons of the Forest",
     "type": "live",
     "title": "✧ Driving on down the forest wooo ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 23,
     "started_at": "2026-02-10T23:58:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -56,6 +56,34 @@
     "is_mature": false
   },
   {
+    "id": "317308840288",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "976777994",
+    "game_name": "YAPYAP",
+    "type": "live",
+    "title": "[18+] I'm yapping with cute girls and a melon! (idk what this game is about) | YapYap | !lurk !throne !tip !discord",
+    "viewer_count": 8,
+    "started_at": "2026-02-11T00:01:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317245508446",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -83,61 +111,6 @@
     "is_mature": false
   },
   {
-    "id": "317308840288",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "976777994",
-    "game_name": "YAPYAP",
-    "type": "live",
-    "title": "[18+] I'm yapping with cute girls and a melon! (idk what this game is about) | YapYap | !lurk !throne !tip !discord",
-    "viewer_count": 6,
-    "started_at": "2026-02-11T00:01:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317639176794",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "209738946",
-    "game_name": "Wuthering Waves",
-    "type": "live",
-    "title": "Catching up on wuwa story quest pt 1 of 3.1☆ | !discord !18+ (゜▽゜*)",
-    "viewer_count": 4,
-    "started_at": "2026-02-11T00:32:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Mature",
-      "18pluschannel",
-      "18plusstream",
-      "Mature",
-      "maturecontent",
-      "Rerun",
-      "minecraftstream",
-      "DropsEnabled"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317248704478",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -146,7 +119,7 @@
     "game_name": "Sons of the Forest",
     "type": "live",
     "title": "VTUBER GOIN FERAL - W/ @slushieghost @8bitnuggetz @kaos_xen | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-02-11T00:02:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -181,6 +154,33 @@
     "tags": [
       "English",
       "overwactch2"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317639176794",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "starfastwolf",
+    "game_id": "209738946",
+    "game_name": "Wuthering Waves",
+    "type": "live",
+    "title": "Catching up on wuwa story quest pt 1 of 3.1☆ | !discord !18+ (゜▽゜*)",
+    "viewer_count": 1,
+    "started_at": "2026-02-11T00:32:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Mature",
+      "18pluschannel",
+      "18plusstream",
+      "Mature",
+      "maturecontent",
+      "Rerun",
+      "minecraftstream",
+      "DropsEnabled"
     ],
     "is_mature": false
   }
