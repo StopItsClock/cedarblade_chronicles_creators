@@ -8,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Grinding For Relics then MSQ | !socials !naa",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-02-11T18:04:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -24,6 +24,30 @@
       "Twunk",
       "VtuberEN",
       "18pluschannel"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "315953892579",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CRAB OR PEW PEWS?! | 18+ | !fishcord !throne !kofi !waifu !artcord |",
+    "viewer_count": 1,
+    "started_at": "2026-02-11T18:50:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber"
     ],
     "is_mature": false
   }
