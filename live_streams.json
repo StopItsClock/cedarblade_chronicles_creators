@@ -33,7 +33,7 @@
     "game_id": "1081998272",
     "game_name": "PEAK",
     "type": "live",
-    "title": "\u2728[Collab] \u2728WE GO TO THE PEAK\u2728 !socials !discord !lurk @rams_404_ \u2728",
+    "title": "✨[Collab] ✨WE GO TO THE PEAK✨ !socials !discord !lurk @rams_404_ ✨",
     "viewer_count": 4,
     "started_at": "2026-02-11T22:02:51Z",
     "language": "en",
@@ -84,7 +84,7 @@
     "game_id": "515025",
     "game_name": "Overwatch",
     "type": "live",
-    "title": "(Drops) New season COMP |!Discord !lurk | \ud83d\udc09\ud83e\udddf",
+    "title": "(Drops) New season COMP |!Discord !lurk | 🐉🧟",
     "viewer_count": 3,
     "started_at": "2026-02-11T21:58:36Z",
     "language": "en",
@@ -100,29 +100,6 @@
       "undeadvtuber",
       "Horror",
       "DropsEnabled"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "316272581093",
-    "user_id": "176717390",
-    "user_login": "calmarvt",
-    "user_name": "CalmarVT",
-    "game_id": "126296160",
-    "game_name": "Dokapon Kingdom: Connect",
-    "type": "live",
-    "title": "[ENVtuber] I'm sure we'll still be friends after this :3 @ThatUserKai @OneTrueMink @AzureAetherium",
-    "viewer_count": 2,
-    "started_at": "2026-02-11T21:05:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "GERVtuber",
-      "ENVtuber",
-      "English",
-      "Splatoon"
     ],
     "is_mature": false
   },
@@ -148,6 +125,29 @@
       "16plus",
       "VTuber",
       "ENVTuber"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "316272581093",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "[ENVtuber] I'm sure we'll still be friends after this :3 @ThatUserKai @OneTrueMink @AzureAetherium",
+    "viewer_count": 2,
+    "started_at": "2026-02-11T21:05:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
     ],
     "is_mature": false
   },
