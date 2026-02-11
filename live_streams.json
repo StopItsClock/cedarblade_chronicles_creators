@@ -8,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Grinding For Relics then MSQ | !socials !naa",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-02-11T18:04:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -49,6 +49,29 @@
       "sharkussy",
       "sharkvtuber",
       "DropsEnabled"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317796782171",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "33214",
+    "game_name": "Fortnite",
+    "type": "live",
+    "title": "schedule lied, im playing fortnite || !discord !dono !throne",
+    "viewer_count": 1,
+    "started_at": "2026-02-11T19:57:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "ZeroBuildFortnite"
     ],
     "is_mature": false
   }
