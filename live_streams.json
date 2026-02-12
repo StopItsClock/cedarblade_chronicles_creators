@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ JETPACK CAT WOOO - New Season? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 20,
     "started_at": "2026-02-11T23:59:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -79,29 +79,6 @@
     "is_mature": false
   },
   {
-    "id": "316272581093",
-    "user_id": "176717390",
-    "user_login": "calmarvt",
-    "user_name": "CalmarVT",
-    "game_id": "126296160",
-    "game_name": "Dokapon Kingdom: Connect",
-    "type": "live",
-    "title": "[ENVtuber] I'm sure we'll still be friends after this :3 @ThatUserKai @OneTrueMink @AzureAetherium",
-    "viewer_count": 2,
-    "started_at": "2026-02-11T21:05:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "GERVtuber",
-      "ENVtuber",
-      "English",
-      "Splatoon"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317264237662",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -126,6 +103,29 @@
       "vtubers",
       "CloacaKing",
       "DropsEnabled"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "316272581093",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "[ENVtuber] I'm sure we'll still be friends after this :3 @ThatUserKai @OneTrueMink @AzureAetherium",
+    "viewer_count": 2,
+    "started_at": "2026-02-11T21:05:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
     ],
     "is_mature": false
   },
