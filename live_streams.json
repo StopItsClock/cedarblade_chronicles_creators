@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ JETPACK CAT WOOO - New Season? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 23,
     "started_at": "2026-02-11T23:59:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -28,6 +28,31 @@
     "is_mature": true
   },
   {
+    "id": "316375309272",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "THE PEAK FREAK IS IN YOUR AREA!! Peak Collab with @66grimdemise66 and @rams_404_",
+    "viewer_count": 4,
+    "started_at": "2026-02-11T22:03:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "peak",
+      "Collab"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "316708990423",
     "user_id": "495919620",
     "user_login": "66grimdemise66",
@@ -36,7 +61,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "We're climbing to the TOP",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-02-11T22:00:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -52,59 +77,6 @@
       "Vtuber"
     ],
     "is_mature": true
-  },
-  {
-    "id": "317264237662",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "HOLY S*** ITS 2016 AND THIS NEW GAME JUST CAME OUT - w/ @slushieghost  | !Clip !Discord",
-    "viewer_count": 4,
-    "started_at": "2026-02-11T23:46:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing",
-      "DropsEnabled"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "316375309272",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "THE PEAK FREAK IS IN YOUR AREA!! Peak Collab with @66grimdemise66 and @rams_404_",
-    "viewer_count": 3,
-    "started_at": "2026-02-11T22:03:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "peak",
-      "Collab"
-    ],
-    "is_mature": false
   },
   {
     "id": "316272581093",
@@ -151,6 +123,34 @@
       "16plus",
       "VTuber",
       "ENVTuber"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317264237662",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "HOLY S*** ITS 2016 AND THIS NEW GAME JUST CAME OUT - w/ @slushieghost  | !Clip !Discord",
+    "viewer_count": 2,
+    "started_at": "2026-02-11T23:46:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing",
+      "DropsEnabled"
     ],
     "is_mature": false
   }
