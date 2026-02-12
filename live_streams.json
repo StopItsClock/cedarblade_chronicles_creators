@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ JETPACK CAT WOOO - New Season? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 13,
+    "viewer_count": 15,
     "started_at": "2026-02-11T23:59:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -26,6 +26,34 @@
       "sillylittleguy"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317264237662",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "HOLY S*** ITS 2016 AND THIS NEW GAME JUST CAME OUT - w/ @slushieghost  | !Clip !Discord",
+    "viewer_count": 5,
+    "started_at": "2026-02-11T23:46:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing",
+      "DropsEnabled"
+    ],
+    "is_mature": false
   },
   {
     "id": "317262649438",
@@ -126,34 +154,6 @@
       "Vtuber"
     ],
     "is_mature": true
-  },
-  {
-    "id": "317264237662",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "HOLY S*** ITS 2016 AND THIS NEW GAME JUST CAME OUT - w/ @slushieghost  | !Clip !Discord",
-    "viewer_count": 2,
-    "started_at": "2026-02-11T23:46:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing",
-      "DropsEnabled"
-    ],
-    "is_mature": false
   },
   {
     "id": "317652076634",
