@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ JETPACK CAT WOOO - New Season? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 19,
     "started_at": "2026-02-11T23:59:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -24,6 +24,32 @@
       "ADHD",
       "Bilingual",
       "sillylittleguy"
+    ],
+    "is_mature": true
+  },
+  {
+    "id": "316708990423",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "We're climbing to the TOP",
+    "viewer_count": 3,
+    "started_at": "2026-02-11T22:00:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "TheyThem",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "cedarmonSMP",
+      "Vtuber"
     ],
     "is_mature": true
   },
@@ -51,32 +77,6 @@
       "Collab"
     ],
     "is_mature": false
-  },
-  {
-    "id": "316708990423",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "We're climbing to the TOP",
-    "viewer_count": 3,
-    "started_at": "2026-02-11T22:00:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "TheyThem",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "cedarmonSMP",
-      "Vtuber"
-    ],
-    "is_mature": true
   },
   {
     "id": "317264237662",
