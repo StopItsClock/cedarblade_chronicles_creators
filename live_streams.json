@@ -8,7 +8,7 @@
     "game_name": "Dead Space 2",
     "type": "live",
     "title": "[Subathon] So the space has died... again (Dead Space 2)",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-02-12T20:57:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -25,32 +25,6 @@
     "is_mature": false
   },
   {
-    "id": "315929148791",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "510117",
-    "game_name": "Outlast II",
-    "type": "live",
-    "title": "Outlast 2/ BATSU",
-    "viewer_count": 5,
-    "started_at": "2026-02-12T18:01:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "TheyThem",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "cedarmonSMP",
-      "Vtuber"
-    ],
-    "is_mature": true
-  },
-  {
     "id": "317279314398",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -59,7 +33,7 @@
     "game_name": "The Elder Scrolls V: Skyrim",
     "type": "live",
     "title": "[18+] i cast TORSION TORSION TORSION [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 4,
+    "viewer_count": 8,
     "started_at": "2026-02-12T23:18:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -75,6 +49,32 @@
       "BRAINROT",
       "Skyrim",
       "CrowdControl"
+    ],
+    "is_mature": true
+  },
+  {
+    "id": "315929148791",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "510117",
+    "game_name": "Outlast II",
+    "type": "live",
+    "title": "Outlast 2/ BATSU",
+    "viewer_count": 6,
+    "started_at": "2026-02-12T18:01:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "TheyThem",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "cedarmonSMP",
+      "Vtuber"
     ],
     "is_mature": true
   }
