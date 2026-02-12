@@ -8,7 +8,7 @@
     "game_name": "Fortnite",
     "type": "live",
     "title": "✧ Miku Miku Squad weeeee ✧ !lurk !merch !throne !clip",
-    "viewer_count": 23,
+    "viewer_count": 19,
     "started_at": "2026-02-11T23:59:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Balatro",
     "type": "live",
     "title": "call me dave. | !hug !merch |",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-02-12T02:05:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -79,34 +79,6 @@
     "is_mature": false
   },
   {
-    "id": "317657857370",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "Let's Try This Again | FFXIV | !socials !naa",
-    "viewer_count": 3,
-    "started_at": "2026-02-12T02:29:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "VtuberEN",
-      "18pluschannel"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317264237662",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -130,6 +102,34 @@
       "ENVtuber",
       "vtubers",
       "CloacaKing"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317657857370",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "Let's Try This Again | FFXIV | !socials !naa",
+    "viewer_count": 1,
+    "started_at": "2026-02-12T02:29:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "VtuberEN",
+      "18pluschannel"
     ],
     "is_mature": false
   }
