@@ -4,11 +4,11 @@
     "user_id": "133400606",
     "user_login": "slushieghost",
     "user_name": "SlushieGhost",
-    "game_id": "33214",
-    "game_name": "Fortnite",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
     "type": "live",
-    "title": "✧ Miku Miku Squad weeeee ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "title": "✧ OMg is that marvel rivals??? ✧ !lurk !merch !throne !clip",
+    "viewer_count": 24,
     "started_at": "2026-02-11T23:59:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -26,34 +26,6 @@
       "sillylittleguy"
     ],
     "is_mature": true
-  },
-  {
-    "id": "317657857370",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "Let's Try This Again | FFXIV | !socials !naa",
-    "viewer_count": 17,
-    "started_at": "2026-02-12T02:29:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "VtuberEN",
-      "18pluschannel"
-    ],
-    "is_mature": false
   },
   {
     "id": "317201284444",
@@ -84,6 +56,34 @@
     "is_mature": false
   },
   {
+    "id": "317657857370",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "Let's Try This Again | FFXIV | !socials !naa",
+    "viewer_count": 10,
+    "started_at": "2026-02-12T02:29:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "VtuberEN",
+      "18pluschannel"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317326931936",
     "user_id": "76857724",
     "user_login": "kuumortuf",
@@ -103,33 +103,6 @@
       "Vtuber",
       "INDUSTRY",
       "ENVtuber"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317264237662",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "33214",
-    "game_name": "Fortnite",
-    "type": "live",
-    "title": "Fortnite I guess - w/ @slushieghost  | !Clip !Discord",
-    "viewer_count": 3,
-    "started_at": "2026-02-11T23:46:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing"
     ],
     "is_mature": false
   }
