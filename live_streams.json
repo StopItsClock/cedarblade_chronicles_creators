@@ -1,30 +1,5 @@
 [
   {
-    "id": "317668450778",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "23017",
-    "game_name": "Dead Space 2",
-    "type": "live",
-    "title": "[Subathon] So the space has died... again (Dead Space 2)",
-    "viewer_count": 6,
-    "started_at": "2026-02-12T20:57:12Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "FirstPlaythrough",
-      "Chaos",
-      "Seatuber",
-      "Gremlin",
-      "SafeSpace",
-      "Horror",
-      "English"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "315929148791",
     "user_id": "495919620",
     "user_login": "66grimdemise66",
@@ -49,5 +24,30 @@
       "Vtuber"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317668450778",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "23017",
+    "game_name": "Dead Space 2",
+    "type": "live",
+    "title": "[Subathon] So the space has died... again (Dead Space 2)",
+    "viewer_count": 4,
+    "started_at": "2026-02-12T20:57:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "FirstPlaythrough",
+      "Chaos",
+      "Seatuber",
+      "Gremlin",
+      "SafeSpace",
+      "Horror",
+      "English"
+    ],
+    "is_mature": false
   }
 ]
