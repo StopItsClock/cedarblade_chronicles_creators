@@ -28,6 +28,30 @@
     "is_mature": false
   },
   {
+    "id": "316393083096",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "143662140",
+    "game_name": "Parasocial",
+    "type": "live",
+    "title": "Getting PARASOCIAL just in time for Valentines Eve~ Parasocial Chillas Art",
+    "viewer_count": 3,
+    "started_at": "2026-02-13T22:06:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "ChillasArt"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "316369314150",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -50,29 +74,5 @@
       "18PlusStreamer"
     ],
     "is_mature": true
-  },
-  {
-    "id": "316393083096",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "143662140",
-    "game_name": "Parasocial",
-    "type": "live",
-    "title": "Getting PARASOCIAL just in time for Valentines Eve~ Parasocial Chillas Art",
-    "viewer_count": 2,
-    "started_at": "2026-02-13T22:06:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "ChillasArt"
-    ],
-    "is_mature": false
   }
 ]
