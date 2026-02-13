@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "We died in hardcore! time for normal minecraft",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-13T18:44:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -22,6 +22,25 @@
       "18plusstream",
       "18pluschannel",
       "18maturelanguage"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317352618208",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Florial SMP - a small favor - (Quick Stream)",
+    "viewer_count": 2,
+    "started_at": "2026-02-13T19:40:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
     ],
     "is_mature": false
   }
