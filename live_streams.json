@@ -27,7 +27,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "We died in hardcore! time for normal minecraft",
-    "viewer_count": 2,
+    "viewer_count": 5,
     "started_at": "2026-02-13T18:44:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -41,29 +41,6 @@
       "18plusstream",
       "18pluschannel",
       "18maturelanguage"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317684781402",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "only roni",
-    "viewer_count": 0,
-    "started_at": "2026-02-13T19:59:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "ValentinesDay"
     ],
     "is_mature": false
   }
