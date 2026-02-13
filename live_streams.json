@@ -1,5 +1,33 @@
 [
   {
+    "id": "315930799479",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "295305996",
+    "game_name": "Don't Stop, Girlypop!",
+    "type": "live",
+    "title": "✧ Get those bedazzled guns out it's pewing time!! ✧ !lurk !merch !throne !clip",
+    "viewer_count": 18,
+    "started_at": "2026-02-13T00:03:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Comfy",
+      "LGBT",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "Bilingual",
+      "sillylittleguy"
+    ],
+    "is_mature": true
+  },
+  {
     "id": "317279314398",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -8,7 +36,7 @@
     "game_name": "The Elder Scrolls V: Skyrim",
     "type": "live",
     "title": "[18+] i cast TORSION TORSION TORSION [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 16,
+    "viewer_count": 15,
     "started_at": "2026-02-12T23:18:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -28,32 +56,32 @@
     "is_mature": true
   },
   {
-    "id": "315930799479",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "295305996",
-    "game_name": "Don't Stop, Girlypop!",
+    "id": "317818228699",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
-    "title": "✧ Get those bedazzled guns out it's pewing time!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 16,
-    "started_at": "2026-02-13T00:03:08Z",
+    "title": "Might Be Addicted | FFXIV | !socials !naa",
+    "viewer_count": 10,
+    "started_at": "2026-02-13T00:44:15Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
       "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "Bilingual",
-      "sillylittleguy"
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "VtuberEN",
+      "18pluschannel"
     ],
-    "is_mature": true
+    "is_mature": false
   },
   {
     "id": "317213947996",
@@ -75,34 +103,6 @@
     "is_mature": false
   },
   {
-    "id": "317818228699",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "Might Be Addicted | FFXIV | !socials !naa",
-    "viewer_count": 8,
-    "started_at": "2026-02-13T00:44:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "VtuberEN",
-      "18pluschannel"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317213567452",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -111,7 +111,7 @@
     "game_name": "Quarantine Zone: The Last Check",
     "type": "live",
     "title": "IS YOU IS ZAMBO? IS OK TRUST  | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-02-13T00:00:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -138,7 +138,7 @@
     "game_name": "Goose Goose Duck",
     "type": "live",
     "title": "HAPPY BDAY @ShivaRoseBloom !!   |!Discord !lurk | 🐉🧟",
-    "viewer_count": 1,
+    "viewer_count": 4,
     "started_at": "2026-02-13T02:34:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -151,8 +151,7 @@
       "VTuberUprising",
       "dragonvtuber",
       "undeadvtuber",
-      "Horror",
-      "DropsEnabled"
+      "Horror"
     ],
     "is_mature": false
   }
