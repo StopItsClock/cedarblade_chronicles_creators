@@ -28,33 +28,6 @@
     "is_mature": true
   },
   {
-    "id": "317281300702",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "COME YAP WITH ME <3!! !!!! - !discord !lurk",
-    "viewer_count": 15,
-    "started_at": "2026-02-13T00:58:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "ENGLISH",
-      "Vtuber",
-      "brat",
-      "twinkmaxxing",
-      "yappingstreamer",
-      "newVTuber",
-      "English",
-      "Gremlin"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317279314398",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -83,6 +56,33 @@
     "is_mature": true
   },
   {
+    "id": "317281300702",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "COME YAP WITH ME <3!! !!!! - !discord !lurk",
+    "viewer_count": 11,
+    "started_at": "2026-02-13T00:58:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "ENGLISH",
+      "Vtuber",
+      "brat",
+      "twinkmaxxing",
+      "yappingstreamer",
+      "newVTuber",
+      "English",
+      "Gremlin"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317213947996",
     "user_id": "174585401",
     "user_login": "yumein",
@@ -102,6 +102,33 @@
     "is_mature": false
   },
   {
+    "id": "317213567452",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "569438345",
+    "game_name": "Quarantine Zone: The Last Check",
+    "type": "live",
+    "title": "IS YOU IS ZAMBO? IS OK TRUST  | !Clip !Discord",
+    "viewer_count": 5,
+    "started_at": "2026-02-13T00:00:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317818228699",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -110,7 +137,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Might Be Addicted | FFXIV | !socials !naa",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-13T00:44:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -126,33 +153,6 @@
       "Twunk",
       "VtuberEN",
       "18pluschannel"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317213567452",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "569438345",
-    "game_name": "Quarantine Zone: The Last Check",
-    "type": "live",
-    "title": "IS YOU IS ZAMBO? IS OK TRUST  | !Clip !Discord",
-    "viewer_count": 4,
-    "started_at": "2026-02-13T00:00:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing"
     ],
     "is_mature": false
   }
