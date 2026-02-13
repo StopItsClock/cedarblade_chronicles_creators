@@ -103,34 +103,6 @@
     "is_mature": false
   },
   {
-    "id": "317281300702",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "COME YAP WITH ME <3!! !!!! - !discord !lurk",
-    "viewer_count": 2,
-    "started_at": "2026-02-13T00:58:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "ENGLISH",
-      "Vtuber",
-      "brat",
-      "twinkmaxxing",
-      "yappingstreamer",
-      "newVTuber",
-      "English",
-      "Gremlin",
-      "DropsEnabled"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317818228699",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -155,6 +127,34 @@
       "Twunk",
       "VtuberEN",
       "18pluschannel"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317281300702",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "COME YAP WITH ME <3!! !!!! - !discord !lurk",
+    "viewer_count": 2,
+    "started_at": "2026-02-13T00:58:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "ENGLISH",
+      "Vtuber",
+      "brat",
+      "twinkmaxxing",
+      "yappingstreamer",
+      "newVTuber",
+      "English",
+      "Gremlin",
+      "DropsEnabled"
     ],
     "is_mature": false
   }
