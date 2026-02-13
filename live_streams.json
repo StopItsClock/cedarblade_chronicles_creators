@@ -8,7 +8,7 @@
     "game_name": "Don't Stop, Girlypop!",
     "type": "live",
     "title": "✧ Get those bedazzled guns out it's pewing time!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 18,
+    "viewer_count": 24,
     "started_at": "2026-02-13T00:03:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "The Elder Scrolls V: Skyrim",
     "type": "live",
     "title": "[18+] i cast TORSION TORSION TORSION [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 16,
+    "viewer_count": 17,
     "started_at": "2026-02-12T23:18:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "COME YAP WITH ME <3!! !!!! - !discord !lurk",
-    "viewer_count": 13,
+    "viewer_count": 14,
     "started_at": "2026-02-13T00:58:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -83,6 +83,25 @@
     "is_mature": false
   },
   {
+    "id": "317213947996",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 07 - Squad T-1236",
+    "viewer_count": 8,
+    "started_at": "2026-02-13T00:18:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317213567452",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -91,7 +110,7 @@
     "game_name": "Arknights: Endfield",
     "type": "live",
     "title": "MOAR STORY PROG!!! -I make slow progress-  | !Clip !Discord",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-02-13T00:00:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -111,25 +130,6 @@
     "is_mature": false
   },
   {
-    "id": "317213947996",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 07 - Squad T-1236",
-    "viewer_count": 6,
-    "started_at": "2026-02-13T00:18:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317818228699",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -138,7 +138,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Might Be Addicted | FFXIV | !socials !naa",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-02-13T00:44:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
