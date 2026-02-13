@@ -4,11 +4,11 @@
     "user_id": "133400606",
     "user_login": "slushieghost",
     "user_name": "SlushieGhost",
-    "game_id": "295305996",
-    "game_name": "Don't Stop, Girlypop!",
+    "game_id": "1923144012",
+    "game_name": "HELLMART",
     "type": "live",
-    "title": "✧ Get those bedazzled guns out it's pewing time!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 18,
+    "title": "✧ Running spooky walmart wee ✧ !lurk !merch !throne !clip",
+    "viewer_count": 20,
     "started_at": "2026-02-13T00:03:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "The Elder Scrolls V: Skyrim",
     "type": "live",
     "title": "[18+] i cast TORSION TORSION TORSION [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 15,
+    "viewer_count": 17,
     "started_at": "2026-02-12T23:18:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -56,6 +56,25 @@
     "is_mature": true
   },
   {
+    "id": "317213947996",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 07 - Squad T-1236",
+    "viewer_count": 9,
+    "started_at": "2026-02-13T00:18:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "317818228699",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -64,7 +83,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Might Be Addicted | FFXIV | !socials !naa",
-    "viewer_count": 10,
+    "viewer_count": 8,
     "started_at": "2026-02-13T00:44:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -80,25 +99,6 @@
       "Twunk",
       "VtuberEN",
       "18pluschannel"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317213947996",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 07 - Squad T-1236",
-    "viewer_count": 8,
-    "started_at": "2026-02-13T00:18:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
     ],
     "is_mature": false
   },
