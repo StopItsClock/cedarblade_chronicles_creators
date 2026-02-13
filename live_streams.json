@@ -8,7 +8,7 @@
     "game_name": "HELLMART",
     "type": "live",
     "title": "✧ Running spooky walmart wee ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
+    "viewer_count": 31,
     "started_at": "2026-02-13T00:03:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "DEPTH 3 AND I STILL SUCK | !Clip !Discord",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-02-13T00:00:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -53,34 +53,6 @@
       "CloacaKing"
     ],
     "is_mature": false
-  },
-  {
-    "id": "317218011100",
-    "user_id": "39084354",
-    "user_login": "enigmaticslime",
-    "user_name": "enigmaticslime",
-    "game_id": "814316764",
-    "game_name": "Berry Bury Berry",
-    "type": "live",
-    "title": "Time to collect fruit, earn money, and expand that hole. Wait. Pause.",
-    "viewer_count": 2,
-    "started_at": "2026-02-13T03:01:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enigmaticslime-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LGBTAQIAplus",
-      "SlimeVtuber",
-      "prettydumb",
-      "Easilydistracted",
-      "KindOfReallyDumb",
-      "TwoBrainCells",
-      "nonbinanry",
-      "English",
-      "Mature",
-      "18pluschannel"
-    ],
-    "is_mature": true
   },
   {
     "id": "317213947996",
@@ -100,5 +72,33 @@
       "English"
     ],
     "is_mature": false
+  },
+  {
+    "id": "317218011100",
+    "user_id": "39084354",
+    "user_login": "enigmaticslime",
+    "user_name": "enigmaticslime",
+    "game_id": "814316764",
+    "game_name": "Berry Bury Berry",
+    "type": "live",
+    "title": "Time to collect fruit, earn money, and expand that hole. Wait. Pause.",
+    "viewer_count": 1,
+    "started_at": "2026-02-13T03:01:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enigmaticslime-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LGBTAQIAplus",
+      "SlimeVtuber",
+      "prettydumb",
+      "Easilydistracted",
+      "KindOfReallyDumb",
+      "TwoBrainCells",
+      "nonbinanry",
+      "English",
+      "Mature",
+      "18pluschannel"
+    ],
+    "is_mature": true
   }
 ]
