@@ -7,8 +7,8 @@
     "game_id": "1923144012",
     "game_name": "HELLMART",
     "type": "live",
-    "title": "✧ Running spooky walmart wee ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
+    "title": "\u2727 Running spooky walmart wee \u2727 !lurk !merch !throne !clip",
+    "viewer_count": 27,
     "started_at": "2026-02-13T00:03:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -26,25 +26,6 @@
       "sillylittleguy"
     ],
     "is_mature": true
-  },
-  {
-    "id": "317213947996",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 07 - Squad T-1236",
-    "viewer_count": 2,
-    "started_at": "2026-02-13T00:18:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false
   },
   {
     "id": "317213567452",
@@ -70,6 +51,25 @@
       "ENVtuber",
       "vtubers",
       "CloacaKing"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317213947996",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 07 - Squad T-1236",
+    "viewer_count": 2,
+    "started_at": "2026-02-13T00:18:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
     ],
     "is_mature": false
   },
