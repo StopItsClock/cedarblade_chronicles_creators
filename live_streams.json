@@ -7,7 +7,7 @@
     "game_id": "295305996",
     "game_name": "Don't Stop, Girlypop!",
     "type": "live",
-    "title": "\u2727 Get those bedazzled guns out it's pewing time!! \u2727 !lurk !merch !throne !clip",
+    "title": "✧ Get those bedazzled guns out it's pewing time!! ✧ !lurk !merch !throne !clip",
     "viewer_count": 26,
     "started_at": "2026-02-13T00:03:08Z",
     "language": "en",
@@ -103,34 +103,6 @@
     "is_mature": false
   },
   {
-    "id": "317818228699",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "Might Be Addicted | FFXIV | !socials !naa",
-    "viewer_count": 2,
-    "started_at": "2026-02-13T00:44:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "VtuberEN",
-      "18pluschannel"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317281300702",
     "user_id": "883915539",
     "user_login": "tw_jett",
@@ -155,6 +127,34 @@
       "English",
       "Gremlin",
       "DropsEnabled"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317818228699",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "Might Be Addicted | FFXIV | !socials !naa",
+    "viewer_count": 2,
+    "started_at": "2026-02-13T00:44:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "VtuberEN",
+      "18pluschannel"
     ],
     "is_mature": false
   }
