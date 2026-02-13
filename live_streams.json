@@ -1,30 +1,5 @@
 [
   {
-    "id": "315327855338",
-    "user_id": "1106398757",
-    "user_login": "ashetonne",
-    "user_name": "AsheTonne",
-    "game_id": "493048",
-    "game_name": "Fate/Grand Order",
-    "type": "live",
-    "title": "[FGO] VOICE ACTING AGARTHA THIS TIME! | [VTuber] Road to 400 🗣️🔬 | !discord |",
-    "viewer_count": 13,
-    "started_at": "2026-02-13T12:30:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashetonne-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "MaleVtuber",
-      "ENVtuber",
-      "Vtuber",
-      "SwearWarning",
-      "ChaoticChillVibes",
-      "Scientist"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "316289334245",
     "user_id": "176717390",
     "user_login": "calmarvt",
@@ -33,7 +8,7 @@
     "game_name": "REANIMAL",
     "type": "live",
     "title": "[ENVtuber] omg new game :3 @RyoAsada",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-02-13T14:48:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
