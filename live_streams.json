@@ -7,8 +7,8 @@
     "game_id": "569438345",
     "game_name": "Quarantine Zone: The Last Check",
     "type": "live",
-    "title": "NEXT IN LINE! No Zombies allowed! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 5,
+    "title": "NEXT IN LINE! No Zombies allowed! \u2307 +18 \u2307 !discord !social",
+    "viewer_count": 4,
     "started_at": "2026-02-13T21:55:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Parasocial",
     "type": "live",
     "title": "Getting PARASOCIAL just in time for Valentines Eve~ Parasocial Chillas Art",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-02-13T22:06:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -96,6 +96,30 @@
       "Fallout4settlements",
       "fallout",
       "fallout4"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317606562009",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1775804061",
+    "game_name": "Sonic X Shadow Generations",
+    "type": "live",
+    "title": "SUBATHON DAY 13!! Playing one of my favourite sonic games|| Sonic X Shadow Generations (!lurk, !links, !discord)",
+    "viewer_count": 0,
+    "started_at": "2026-02-13T23:00:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
     ],
     "is_mature": false
   }
