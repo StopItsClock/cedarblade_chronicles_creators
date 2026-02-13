@@ -8,7 +8,7 @@
     "game_name": "HELLMART",
     "type": "live",
     "title": "✧ Running spooky walmart wee ✧ !lurk !merch !throne !clip",
-    "viewer_count": 28,
+    "viewer_count": 20,
     "started_at": "2026-02-13T00:03:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -32,11 +32,11 @@
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
     "user_name": "TriageSylphiel",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
-    "title": "IDK WHAT TO DO | !Clip !Discord",
-    "viewer_count": 6,
+    "title": "DEPTH 3 AND I STILL SUCK | !Clip !Discord",
+    "viewer_count": 5,
     "started_at": "2026-02-13T00:00:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -55,25 +55,6 @@
     "is_mature": false
   },
   {
-    "id": "317213947996",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 07 - Squad T-1236",
-    "viewer_count": 6,
-    "started_at": "2026-02-13T00:18:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317283848798",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -82,7 +63,7 @@
     "game_name": "Goose Goose Duck",
     "type": "live",
     "title": "HAPPY BDAY @ShivaRoseBloom !!   |!Discord !lurk | 🐉🧟",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-02-13T02:34:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -96,6 +77,25 @@
       "dragonvtuber",
       "undeadvtuber",
       "Horror"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317213947996",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 07 - Squad T-1236",
+    "viewer_count": 3,
+    "started_at": "2026-02-13T00:18:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
     ],
     "is_mature": false
   },
