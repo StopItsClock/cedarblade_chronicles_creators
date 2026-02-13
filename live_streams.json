@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "only roni",
-    "viewer_count": 18,
+    "viewer_count": 19,
     "started_at": "2026-02-13T20:02:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -31,7 +31,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "[Subathon] Dead by daylight is just suffering in sunlight :3",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-02-13T20:19:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -46,5 +46,29 @@
       "English"
     ],
     "is_mature": false
+  },
+  {
+    "id": "316369314150",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "518213",
+    "game_name": "It Takes Two",
+    "type": "live",
+    "title": "[18+] Finalising the Divorce tonight, should be the final part of the story with @inkedwhite",
+    "viewer_count": 1,
+    "started_at": "2026-02-13T21:09:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer"
+    ],
+    "is_mature": true
   }
 ]
