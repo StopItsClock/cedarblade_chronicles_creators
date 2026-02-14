@@ -23,25 +23,6 @@
     "is_mature": true
   },
   {
-    "id": "317370031968",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Florial SMP - Just a little bit of Magic",
-    "viewer_count": 2,
-    "started_at": "2026-02-14T20:29:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317701418970",
     "user_id": "240610101",
     "user_login": "shatteredsoullive",
@@ -68,5 +49,24 @@
       "twitchprideguild"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317370031968",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Florial SMP - Just a little bit of Magic",
+    "viewer_count": 1,
+    "started_at": "2026-02-14T20:29:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false
   }
 ]
