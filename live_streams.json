@@ -8,7 +8,7 @@
     "game_name": "Lollipop Chainsaw",
     "type": "live",
     "title": "this game made me buy a new controller",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-02-14T18:09:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -23,26 +23,6 @@
     "is_mature": true
   },
   {
-    "id": "317308386014",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "BECOMING A ONE TRICK CAT [Overwatch] [Vtuber stream]",
-    "viewer_count": 2,
-    "started_at": "2026-02-14T19:07:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317701418970",
     "user_id": "240610101",
     "user_login": "shatteredsoullive",
@@ -51,7 +31,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Game of thrones Civilizarion Event",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-02-14T17:38:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
@@ -69,5 +49,25 @@
       "twitchprideguild"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317308386014",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "BECOMING A ONE TRICK CAT [Overwatch] [Vtuber stream]",
+    "viewer_count": 1,
+    "started_at": "2026-02-14T19:07:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false
   }
 ]
