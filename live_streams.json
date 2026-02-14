@@ -7,8 +7,8 @@
     "game_id": "490744",
     "game_name": "Stardew Valley",
     "type": "live",
-    "title": "HAPPY V-DAY!! I need a calm day! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 5,
+    "title": "HAPPY V-DAY!! I need a calm day! \u2307 +18 \u2307 !discord !social",
+    "viewer_count": 6,
     "started_at": "2026-02-14T22:56:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -24,6 +24,30 @@
       "Yapper",
       "chill",
       "Chatty"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317706031706",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "SUBATHON DAY 14!! back in minecraft, maybe may a kitchen? to make a special someone food?|| Minecraft (!lurk, !links, !discord)",
+    "viewer_count": 5,
+    "started_at": "2026-02-14T22:01:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
     ],
     "is_mature": false
   },
@@ -49,30 +73,6 @@
       "deadbydaylight",
       "hilarious",
       "English"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317706031706",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "SUBATHON DAY 14!! back in minecraft, maybe may a kitchen? to make a special someone food?|| Minecraft (!lurk, !links, !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-02-14T22:01:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
     ],
     "is_mature": false
   },
