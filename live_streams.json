@@ -8,7 +8,7 @@
     "game_name": "Lollipop Chainsaw",
     "type": "live",
     "title": "this game made me buy a new controller",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-02-14T18:09:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -21,5 +21,79 @@
       "OhGodWhatAmIDoing"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317371422432",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "26936",
+    "game_name": "Music",
+    "type": "live",
+    "title": "[Subathon] Happy Valentine's Day! (Emo Karaoke night!)",
+    "viewer_count": 6,
+    "started_at": "2026-02-14T22:00:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "Horror",
+      "English",
+      "deadbydaylight",
+      "hilarious",
+      "English"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317706031706",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "SUBATHON DAY 14!! back in minecraft, maybe may a kitchen? to make a special someone food?|| Minecraft (!lurk, !links, !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-02-14T22:01:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "315983333987",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "2070503153",
+    "game_name": "Paddle Paddle Paddle",
+    "type": "live",
+    "title": "Valentine's Date with my Wife @Sableteef | 18+ | !fishcord !throne !kofi !waifu !artcord |",
+    "viewer_count": 2,
+    "started_at": "2026-02-14T22:00:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "ValentinesDay"
+    ],
+    "is_mature": false
   }
 ]
