@@ -8,7 +8,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "✧ One run up the mountain, what could go wrong? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 28,
     "started_at": "2026-02-14T00:00:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] Minecraft YAP then arto ✸Cobblemon Stream✸",
-    "viewer_count": 22,
+    "viewer_count": 20,
     "started_at": "2026-02-14T03:57:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -52,31 +52,6 @@
       "Chıll",
       "ADHD",
       "TentacleMonster"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "315477953777",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "483277575",
-    "game_name": "PokéRogue",
-    "type": "live",
-    "title": "Checking out the Valentines 2026 event! [!lurk !discord]",
-    "viewer_count": 4,
-    "started_at": "2026-02-14T01:35:50Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy"
     ],
     "is_mature": false
   }
