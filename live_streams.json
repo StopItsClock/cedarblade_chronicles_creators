@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "HAPPY V-DAY!! I need a calm day! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-02-14T22:56:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Music",
     "type": "live",
     "title": "[Subathon] Happy Valentine's Day! (Emo Karaoke night!)",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-02-14T22:00:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -53,55 +53,6 @@
     "is_mature": false
   },
   {
-    "id": "315983333987",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "2070503153",
-    "game_name": "Paddle Paddle Paddle",
-    "type": "live",
-    "title": "Valentine's Date with my Wife @Sableteef | 18+ | !fishcord !throne !kofi !waifu !artcord |",
-    "viewer_count": 4,
-    "started_at": "2026-02-14T22:00:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "ValentinesDay"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317706031706",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "SUBATHON DAY 14!! back in minecraft, maybe may a kitchen? to make a special someone food?|| Minecraft (!lurk, !links, !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-02-14T22:01:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317246796636",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -110,7 +61,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "LONELY DAY STREAM!!! | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-14T23:28:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -124,8 +75,32 @@
       "indievtuber",
       "ENVtuber",
       "vtubers",
-      "CloacaKing",
-      "DropsEnabled"
+      "CloacaKing"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "315983333987",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "2070503153",
+    "game_name": "Paddle Paddle Paddle",
+    "type": "live",
+    "title": "Valentine's Date with my Wife @Sableteef | 18+ | !fishcord !throne !kofi !waifu !artcord |",
+    "viewer_count": 3,
+    "started_at": "2026-02-14T22:00:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "ValentinesDay"
     ],
     "is_mature": false
   }
