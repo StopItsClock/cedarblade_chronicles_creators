@@ -8,7 +8,7 @@
     "game_name": "Music",
     "type": "live",
     "title": "[Subathon] Happy Valentine's Day! (Emo Karaoke night!)",
-    "viewer_count": 12,
+    "viewer_count": 7,
     "started_at": "2026-02-14T22:00:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -70,6 +70,34 @@
       "ADHD",
       "LGBTQFriendly",
       "Vtuber"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317707032026",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "HAPPY V-DAY!! I need a calm day! ⌇ +18 ⌇ !discord !social",
+    "viewer_count": 2,
+    "started_at": "2026-02-14T22:56:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
     ],
     "is_mature": false
   }
