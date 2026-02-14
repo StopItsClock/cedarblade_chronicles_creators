@@ -8,7 +8,7 @@
     "game_name": "Doki Doki Literature Club!",
     "type": "live",
     "title": "[18] \ud83d\udc98 Be My -\u1ef2\u0337\u0329\u01cen\u0336\u0329d\u0335er\u0335\u0117\u0337\u0326- Valentine? [Doki Doki Literature Club] | !throne !socials !lurk !discord",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-02-13T23:02:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -26,6 +26,33 @@
       "VoiceActing"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317295456606",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "I THINK I'M IN THE WRONG WORLD | !Clip !Discord",
+    "viewer_count": 6,
+    "started_at": "2026-02-13T23:53:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing"
+    ],
+    "is_mature": false
   },
   {
     "id": "317833249371",
@@ -56,33 +83,6 @@
     "is_mature": false
   },
   {
-    "id": "317295456606",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "I THINK I'M IN THE WRONG WORLD | !Clip !Discord",
-    "viewer_count": 6,
-    "started_at": "2026-02-13T23:53:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "316393083096",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -103,53 +103,6 @@
       "indiegames",
       "Cozy",
       "ChillasArt"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317228619484",
-    "user_id": "76857724",
-    "user_login": "kuumortuf",
-    "user_name": "KuuMortuf",
-    "game_id": "506456",
-    "game_name": "Satisfactory",
-    "type": "live",
-    "title": "18+ l The Final Stretch For the Golden Nut l",
-    "viewer_count": 4,
-    "started_at": "2026-02-13T23:07:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuumortuf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ChallengeRunner",
-      "Vtuber",
-      "INDUSTRY",
-      "ENVtuber"
-    ],
-    "is_mature": false
-  },
-  {
-    "id": "317606562009",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1775804061",
-    "game_name": "Sonic X Shadow Generations",
-    "type": "live",
-    "title": "SUBATHON DAY 13!! Playing one of my favourite sonic games|| Sonic X Shadow Generations (!lurk, !links, !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-02-13T23:00:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
     ],
     "is_mature": false
   },
@@ -182,6 +135,30 @@
     "is_mature": false
   },
   {
+    "id": "317606562009",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1775804061",
+    "game_name": "Sonic X Shadow Generations",
+    "type": "live",
+    "title": "SUBATHON DAY 13!! Playing one of my favourite sonic games|| Sonic X Shadow Generations (!lurk, !links, !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-02-13T23:00:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "315974696419",
     "user_id": "916904675",
     "user_login": "articglow_",
@@ -210,6 +187,29 @@
     "is_mature": false
   },
   {
+    "id": "317228619484",
+    "user_id": "76857724",
+    "user_login": "kuumortuf",
+    "user_name": "KuuMortuf",
+    "game_id": "506456",
+    "game_name": "Satisfactory",
+    "type": "live",
+    "title": "18+ l The Final Stretch For the Golden Nut l",
+    "viewer_count": 4,
+    "started_at": "2026-02-13T23:07:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuumortuf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ChallengeRunner",
+      "Vtuber",
+      "INDUSTRY",
+      "ENVtuber"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "316369314150",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -232,30 +232,6 @@
       "18PlusStreamer"
     ],
     "is_mature": true
-  },
-  {
-    "id": "317832905819",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "489776",
-    "game_name": "Fallout 4",
-    "type": "live",
-    "title": "I want those Bounties, and I will get them || Fallout 4",
-    "viewer_count": 1,
-    "started_at": "2026-02-13T22:46:35Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "RPG",
-      "Fallout4settlements",
-      "fallout",
-      "fallout4"
-    ],
-    "is_mature": false
   },
   {
     "id": "317227458780",
@@ -284,5 +260,29 @@
       "twitchprideguild"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317832905819",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "489776",
+    "game_name": "Fallout 4",
+    "type": "live",
+    "title": "I want those Bounties, and I will get them || Fallout 4",
+    "viewer_count": 1,
+    "started_at": "2026-02-13T22:46:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "RPG",
+      "Fallout4settlements",
+      "fallout",
+      "fallout4"
+    ],
+    "is_mature": false
   }
 ]
