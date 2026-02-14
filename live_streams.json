@@ -8,7 +8,7 @@
     "game_name": "Lollipop Chainsaw",
     "type": "live",
     "title": "this game made me buy a new controller",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-02-14T18:09:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -21,6 +21,26 @@
       "OhGodWhatAmIDoing"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317308386014",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "BECOMING A ONE TRICK CAT",
+    "viewer_count": 1,
+    "started_at": "2026-02-14T19:07:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false
   },
   {
     "id": "317701418970",
@@ -49,25 +69,5 @@
       "twitchprideguild"
     ],
     "is_mature": true
-  },
-  {
-    "id": "317308386014",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "BECOMING A ONE TRICK CAT",
-    "viewer_count": 1,
-    "started_at": "2026-02-14T19:07:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false
   }
 ]
