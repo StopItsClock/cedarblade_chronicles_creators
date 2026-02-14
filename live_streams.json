@@ -7,7 +7,7 @@
     "game_id": "497527",
     "game_name": "Doki Doki Literature Club!",
     "type": "live",
-    "title": "[18] \ud83d\udc98 Be My -\u1ef2\u0337\u0329\u01cen\u0336\u0329d\u0335er\u0335\u0117\u0337\u0326- Valentine? [Doki Doki Literature Club] | !throne !socials !lurk !discord",
+    "title": "[18] 💘 Be My -Ỳ̷̩ǎn̶̩d̵er̵ė̷̦- Valentine? [Doki Doki Literature Club] | !throne !socials !lurk !discord",
     "viewer_count": 11,
     "started_at": "2026-02-13T23:02:17Z",
     "language": "en",
@@ -26,33 +26,6 @@
       "VoiceActing"
     ],
     "is_mature": true
-  },
-  {
-    "id": "317295456606",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "I THINK I'M IN THE WRONG WORLD | !Clip !Discord",
-    "viewer_count": 6,
-    "started_at": "2026-02-13T23:53:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing"
-    ],
-    "is_mature": false
   },
   {
     "id": "317833249371",
@@ -79,6 +52,33 @@
       "Twunk",
       "VtuberEN",
       "18pluschannel"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "317295456606",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "I THINK I'M IN THE WRONG WORLD | !Clip !Discord",
+    "viewer_count": 6,
+    "started_at": "2026-02-13T23:53:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing"
     ],
     "is_mature": false
   },
@@ -114,7 +114,7 @@
     "game_id": "569438345",
     "game_name": "Quarantine Zone: The Last Check",
     "type": "live",
-    "title": "NEXT IN LINE! No Zombies allowed! \u2307 +18 \u2307 !discord !social",
+    "title": "NEXT IN LINE! No Zombies allowed! ⌇ +18 ⌇ !discord !social",
     "viewer_count": 4,
     "started_at": "2026-02-13T21:55:36Z",
     "language": "en",
@@ -159,6 +159,29 @@
     "is_mature": false
   },
   {
+    "id": "317228619484",
+    "user_id": "76857724",
+    "user_login": "kuumortuf",
+    "user_name": "KuuMortuf",
+    "game_id": "506456",
+    "game_name": "Satisfactory",
+    "type": "live",
+    "title": "18+ l The Final Stretch For the Golden Nut l",
+    "viewer_count": 4,
+    "started_at": "2026-02-13T23:07:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuumortuf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ChallengeRunner",
+      "Vtuber",
+      "INDUSTRY",
+      "ENVtuber"
+    ],
+    "is_mature": false
+  },
+  {
     "id": "315974696419",
     "user_id": "916904675",
     "user_login": "articglow_",
@@ -187,29 +210,6 @@
     "is_mature": false
   },
   {
-    "id": "317228619484",
-    "user_id": "76857724",
-    "user_login": "kuumortuf",
-    "user_name": "KuuMortuf",
-    "game_id": "506456",
-    "game_name": "Satisfactory",
-    "type": "live",
-    "title": "18+ l The Final Stretch For the Golden Nut l",
-    "viewer_count": 4,
-    "started_at": "2026-02-13T23:07:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuumortuf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ChallengeRunner",
-      "Vtuber",
-      "INDUSTRY",
-      "ENVtuber"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "316369314150",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -232,6 +232,30 @@
       "18PlusStreamer"
     ],
     "is_mature": true
+  },
+  {
+    "id": "317832905819",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "489776",
+    "game_name": "Fallout 4",
+    "type": "live",
+    "title": "I want those Bounties, and I will get them || Fallout 4",
+    "viewer_count": 1,
+    "started_at": "2026-02-13T22:46:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "RPG",
+      "Fallout4settlements",
+      "fallout",
+      "fallout4"
+    ],
+    "is_mature": false
   },
   {
     "id": "317227458780",
@@ -262,27 +286,31 @@
     "is_mature": true
   },
   {
-    "id": "317832905819",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "489776",
-    "game_name": "Fallout 4",
+    "id": "315937944439",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "1840896223",
+    "game_name": "REANIMAL",
     "type": "live",
-    "title": "I want those Bounties, and I will get them || Fallout 4",
-    "viewer_count": 1,
-    "started_at": "2026-02-13T22:46:35Z",
+    "title": "✧ Happy reanimal launch day OH and friday the 13th ✧ !lurk !merch !throne !clip",
+    "viewer_count": 0,
+    "started_at": "2026-02-14T00:00:39Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Vtuber",
-      "English",
-      "RPG",
-      "Fallout4settlements",
-      "fallout",
-      "fallout4"
+      "Comfy",
+      "LGBT",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "Bilingual",
+      "sillylittleguy"
     ],
-    "is_mature": false
+    "is_mature": true
   }
 ]
