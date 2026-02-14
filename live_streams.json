@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] Minecraft YAP then arto ✸Cobblemon Stream✸",
-    "viewer_count": 28,
+    "viewer_count": 26,
     "started_at": "2026-02-14T03:57:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -26,33 +26,5 @@
       "TentacleMonster"
     ],
     "is_mature": false
-  },
-  {
-    "id": "315937944439",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "✧ One run up the mountain, what could go wrong? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
-    "started_at": "2026-02-14T00:00:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "Bilingual",
-      "sillylittleguy"
-    ],
-    "is_mature": true
   }
 ]
