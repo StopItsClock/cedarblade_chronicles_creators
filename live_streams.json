@@ -25,31 +25,6 @@
     "is_mature": false
   },
   {
-    "id": "315983333987",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "2070503153",
-    "game_name": "Paddle Paddle Paddle",
-    "type": "live",
-    "title": "Valentine's Date with my Wife @Sableteef | 18+ | !fishcord !throne !kofi !waifu !artcord |",
-    "viewer_count": 4,
-    "started_at": "2026-02-14T22:00:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "ValentinesDay"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317706031706",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -70,6 +45,31 @@
       "ADHD",
       "LGBTQFriendly",
       "Vtuber"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "315983333987",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "2070503153",
+    "game_name": "Paddle Paddle Paddle",
+    "type": "live",
+    "title": "Valentine's Date with my Wife @Sableteef | 18+ | !fishcord !throne !kofi !waifu !artcord |",
+    "viewer_count": 1,
+    "started_at": "2026-02-14T22:00:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "ValentinesDay"
     ],
     "is_mature": false
   }
