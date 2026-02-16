@@ -1,33 +1,5 @@
 [
   {
-    "id": "315975464676",
-    "user_id": "916904675",
-    "user_login": "articglow_",
-    "user_name": "ArticGlow_",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Late night Minecraft vibes with friends!!",
-    "viewer_count": 2,
-    "started_at": "2026-02-16T00:29:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "gamer",
-      "SheHer",
-      "Bubbly",
-      "chill",
-      "PositiveVibes",
-      "pngtuber",
-      "Anime",
-      "Vtuber",
-      "Cozy"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317726491226",
     "user_id": "87014181",
     "user_login": "thetactician",
@@ -52,5 +24,33 @@
       "repowithfriends"
     ],
     "is_mature": true
+  },
+  {
+    "id": "315975464676",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Late night Minecraft vibes with friends!!",
+    "viewer_count": 1,
+    "started_at": "2026-02-16T00:29:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "chill",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy"
+    ],
+    "is_mature": false
   }
 ]
