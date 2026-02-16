@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "Drawing Headshots!!!",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-02-16T18:00:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -24,5 +24,28 @@
       "Vtuber"
     ],
     "is_mature": true
+  },
+  {
+    "id": "316174335335",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "[ENVtuber] I'm destroying more friendships with Dokapon :3 @RyoAsada @Lunarprojections @Frozabbit",
+    "viewer_count": 2,
+    "started_at": "2026-02-16T18:29:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
+    ],
+    "is_mature": false
   }
 ]
