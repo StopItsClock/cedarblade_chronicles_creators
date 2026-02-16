@@ -8,7 +8,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] We Ran out of titles, but Astarion my Beloved (Baldur's Gate 3 w/ @regina_kardinal )",
-    "viewer_count": 14,
+    "viewer_count": 15,
     "started_at": "2026-02-16T20:56:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Dokapon Kingdom: Connect",
     "type": "live",
     "title": "[ENVtuber] I'm destroying more friendships with Dokapon :3 @RyoAsada @Lunarprojections @Frozabbit",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-02-16T18:29:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -57,7 +57,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "2.0 REVEAL TRAILER IS OUT! Stardew Monday's back! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-16T21:57:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -76,6 +76,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315950423010",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "620146360",
+    "game_name": "Another Crab's Treasure",
+    "type": "live",
+    "title": "WILL WE GET OUR SHELL BACK?! | 18+ | !fishcord !throne !kofi !waifu",
+    "viewer_count": 3,
+    "started_at": "2026-02-16T19:00:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "ValentinesDay"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
     "id": "315951851874",
@@ -126,31 +152,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "315950423010",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "620146360",
-    "game_name": "Another Crab's Treasure",
-    "type": "live",
-    "title": "WILL WE GET OUR SHELL BACK?! | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 2,
-    "started_at": "2026-02-16T19:00:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "ValentinesDay"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   }
 ]
