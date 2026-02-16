@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "DEBUT!!!! 1.0 Seraphim debut and Birthdaython!",
-    "viewer_count": 35,
+    "viewer_count": 33,
     "started_at": "2026-02-16T22:56:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] We Ran out of titles, but Astarion my Beloved (Baldur's Gate 3 w/ @regina_kardinal )",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-02-16T20:56:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -154,5 +154,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "316770524375",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "394758168",
+    "game_name": "Content Warning",
+    "type": "live",
+    "title": "Ill do anything for content | @deividpolaco",
+    "viewer_count": 1,
+    "started_at": "2026-02-16T23:15:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "EN",
+      "Collab",
+      "ElfVTuber",
+      "Elf",
+      "smallstream"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
