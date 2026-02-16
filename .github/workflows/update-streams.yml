@@ -67,6 +67,28 @@ jobs:
 
           live_streams = response.json()['data']
 
+          # Get user IDs from live streams to fetch profile images
+          if live_streams:
+              user_ids = [stream['user_id'] for stream in live_streams]
+              user_query = '&'.join([f'id={uid}' for uid in user_ids])
+              
+              users_response = requests.get(
+                  f'https://api.twitch.tv/helix/users?{user_query}',
+                  headers={
+                      'Client-ID': CLIENT_ID,
+                      'Authorization': f'Bearer {access_token}'
+                  }
+              )
+              
+              users_data = users_response.json()['data']
+              
+              # Create a mapping of user_id to profile_image_url
+              profile_images = {user['id']: user['profile_image_url'] for user in users_data}
+              
+              # Add profile images to stream data
+              for stream in live_streams:
+                  stream['profile_image_url'] = profile_images.get(stream['user_id'], '')
+
           # Save to file
           with open('live_streams.json', 'w') as f:
               json.dump(live_streams, f, indent=2)

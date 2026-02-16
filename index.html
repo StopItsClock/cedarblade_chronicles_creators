@@ -3,6 +3,61 @@
         let noStreamsMessage;
         let currentLiveStreams = new Set();
         let embedInstances = new Map();
+        const DISCORD_WEBHOOK = 'https://discord.com/api/webhooks/1473042509222514821/KDOHaE0GQvHCh1DSLuVi9Qd2jBCxdsoYvDywu6-XCPw4X6F9G_51kMbjglXzZxgD0xG9
+
+
+:3';
+        
+        // Send Discord notification for new stream
+        async function sendDiscordNotification(streamData) {
+            if (!DISCORD_WEBHOOK || DISCORD_WEBHOOK === '') {
+                console.log('No Discord webhook configured, skipping notification');
+                return;
+            }
+            
+            try {
+                const embed = {
+                    title: `${streamData.user_name} is now live!`,
+                    url: `https://www.twitch.tv/${streamData.user_login}`,
+                    color: 9520895, // Twitch purple (#9146FF)
+                    author: {
+                        name: streamData.user_name,
+                        icon_url: streamData.profile_image_url || 'https://static-cdn.jtvnw.net/jtv_user_pictures/default_profile_pic-50x50.png'
+                    },
+                    description: streamData.title || 'Come watch the stream!',
+                    thumbnail: {
+                        url: streamData.profile_image_url || 'https://static-cdn.jtvnw.net/jtv_user_pictures/default_profile_pic-300x300.png'
+                    },
+                    fields: [
+                        {
+                            name: '🎮 Game',
+                            value: streamData.game_name || 'Not specified',
+                            inline: true
+                        },
+                        {
+                            name: '👥 Viewers',
+                            value: streamData.viewer_count.toString(),
+                            inline: true
+                        }
+                    ],
+                    timestamp: new Date().toISOString()
+                };
+                
+                await fetch(DISCORD_WEBHOOK, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        embeds: [embed]
+                    })
+                });
+                
+                console.log(`Discord notification sent for ${streamData.user_name}`);
+            } catch (error) {
+                console.error('Error sending Discord notification:', error);
+            }
+        }
         
         // Load and display streamer buttons
         async function loadStreamerButtons() {
@@ -96,6 +151,9 @@
                 
                 embedInstances.set(channel, embed);
                 container.style.display = 'block';
+                
+                // Send Discord notification for NEW stream
+                sendDiscordNotification(streamData);
             } catch (error) {
                 console.error(`Error creating embed for ${channel}:`, error);
             }
