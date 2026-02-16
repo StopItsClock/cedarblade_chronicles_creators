@@ -75,6 +75,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
+    "id": "316767372631",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "Drawing Headshots!!!",
+    "viewer_count": 4,
+    "started_at": "2026-02-16T18:00:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "TheyThem",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "Vtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
+  },
+  {
     "id": "317889858011",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -102,32 +128,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
-    "id": "316767372631",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "509660",
-    "game_name": "Art",
-    "type": "live",
-    "title": "Drawing Headshots!!!",
-    "viewer_count": 4,
-    "started_at": "2026-02-16T18:00:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "TheyThem",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   },
   {
     "id": "315951851874",
