@@ -29,6 +29,7 @@ jobs:
         env:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
           python << 'EOF'
           import requests
@@ -38,6 +39,7 @@ jobs:
           # Get credentials from environment
           CLIENT_ID = os.environ.get('TWITCH_CLIENT_ID')
           CLIENT_SECRET = os.environ.get('TWITCH_CLIENT_SECRET')
+          DISCORD_WEBHOOK = os.environ.get('DISCORD_WEBHOOK', '')
 
           # Get OAuth token
           token_response = requests.post(
@@ -89,13 +91,79 @@ jobs:
               for stream in live_streams:
                   stream['profile_image_url'] = profile_images.get(stream['user_id'], '')
 
+          # Load previous streams to detect NEW streams
+          previous_streams = []
+          try:
+              with open('live_streams.json', 'r') as f:
+                  previous_streams = json.load(f)
+          except FileNotFoundError:
+              pass
+
+          # Find newly live streams by comparing started_at timestamps
+          previous_stream_sessions = {s['user_login']: s['started_at'] for s in previous_streams}
+          new_streams = []
+          
+          for stream in live_streams:
+              # Check if this is a NEW stream session (different started_at or not in previous)
+              if stream['user_login'] not in previous_stream_sessions or                  previous_stream_sessions[stream['user_login']] != stream['started_at']:
+                  new_streams.append(stream)
+
+          # Send Discord notifications for NEW streams only
+          if DISCORD_WEBHOOK and new_streams:
+              for stream in new_streams:
+                  try:
+                      embed = {
+                          "title": f"{stream['user_name']} is now live!",
+                          "url": f"https://www.twitch.tv/{stream['user_login']}",
+                          "color": 9520895,  # Twitch purple
+                          "author": {
+                              "name": stream['user_name'],
+                              "icon_url": stream.get('profile_image_url', 'https://static-cdn.jtvnw.net/jtv_user_pictures/default_profile_pic-50x50.png')
+                          },
+                          "description": stream.get('title', 'Come watch the stream!'),
+                          "thumbnail": {
+                              "url": stream.get('profile_image_url', 'https://static-cdn.jtvnw.net/jtv_user_pictures/default_profile_pic-300x300.png')
+                          },
+                          "fields": [
+                              {
+                                  "name": "🎮 Game",
+                                  "value": stream.get('game_name', 'Not specified'),
+                                  "inline": True
+                              },
+                              {
+                                  "name": "👥 Viewers",
+                                  "value": str(stream.get('viewer_count', 0)),
+                                  "inline": True
+                              }
+                          ],
+                          "timestamp": stream['started_at']
+                      }
+                      
+                      discord_response = requests.post(
+                          DISCORD_WEBHOOK,
+                          json={"embeds": [embed]},
+                          headers={"Content-Type": "application/json"}
+                      )
+                      
+                      if discord_response.status_code == 204:
+                          print(f"✅ Discord notification sent for {stream['user_name']}")
+                      else:
+                          print(f"⚠️ Discord notification failed for {stream['user_name']}: {discord_response.status_code}")
+                  except Exception as e:
+                      print(f"⚠️ Error sending Discord notification for {stream['user_name']}: {e}")
+
           # Save to file
           with open('live_streams.json', 'w') as f:
               json.dump(live_streams, f, indent=2)
 
           print(f"Found {len(live_streams)} live stream(s)")
-          for stream in live_streams:
-              print(f"  - {stream['user_name']}: {stream['viewer_count']} viewers")
+          if new_streams:
+              print(f"NEW streams detected: {len(new_streams)}")
+              for stream in new_streams:
+                  print(f"  - {stream['user_name']}: {stream['viewer_count']} viewers")
+          else:
+              for stream in live_streams:
+                  print(f"  - {stream['user_name']}: {stream['viewer_count']} viewers (already notified)")
           EOF
       
       - name: Commit and push if changed
