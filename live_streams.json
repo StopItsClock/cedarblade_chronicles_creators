@@ -1,24 +1,5 @@
 [
   {
-    "id": "317269760348",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Florial SMP Lore - M A G I C",
-    "viewer_count": 3,
-    "started_at": "2026-02-16T03:41:50Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false
-  },
-  {
     "id": "317396090208",
     "user_id": "459187886",
     "user_login": "starryskiesvt",
