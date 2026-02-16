@@ -51,6 +51,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
+    "id": "317666264281",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "2.0 REVEAL TRAILER IS OUT! Stardew Monday's back! \u2307 +18 \u2307 !discord !social",
+    "viewer_count": 5,
+    "started_at": "2026-02-16T21:57:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "317666336729",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -74,35 +103,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "317666264281",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "2.0 REVEAL TRAILER IS OUT! Stardew Monday's back! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 5,
-    "started_at": "2026-02-16T21:57:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Comfy",
-      "Chaotic",
-      "Yapper",
-      "chill",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "315950423010",
