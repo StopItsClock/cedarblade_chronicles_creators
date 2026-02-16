@@ -8,7 +8,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] We Ran out of titles, but Astarion my Beloved (Baldur's Gate 3 w/ @regina_kardinal )",
-    "viewer_count": 39,
+    "viewer_count": 50,
     "started_at": "2026-02-16T20:56:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Dokapon Kingdom: Connect",
     "type": "live",
     "title": "[ENVtuber] I'm destroying more friendships with Dokapon :3 @RyoAsada @Lunarprojections @Frozabbit",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-02-16T18:29:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -86,7 +86,7 @@
     "game_name": "Another Crab's Treasure",
     "type": "live",
     "title": "WILL WE GET OUR SHELL BACK?! | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-02-16T19:00:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -102,6 +102,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "315951851874",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "513143",
+    "game_name": "Teamfight Tactics",
+    "type": "live",
+    "title": "[18+] Let's see how far I can climb",
+    "viewer_count": 4,
+    "started_at": "2026-02-16T20:41:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "316767372631",
@@ -128,30 +153,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
-  },
-  {
-    "id": "315951851874",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "513143",
-    "game_name": "Teamfight Tactics",
-    "type": "live",
-    "title": "[18+] Let's see how far I can climb",
-    "viewer_count": 4,
-    "started_at": "2026-02-16T20:41:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
