@@ -8,7 +8,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] We Ran out of titles, but Astarion my Beloved (Baldur's Gate 3 w/ @regina_kardinal )",
-    "viewer_count": 39,
+    "viewer_count": 35,
     "started_at": "2026-02-16T20:56:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -49,6 +49,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
   },
   {
+    "id": "315950423010",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "620146360",
+    "game_name": "Another Crab's Treasure",
+    "type": "live",
+    "title": "WILL WE GET OUR SHELL BACK?! | 18+ | !fishcord !throne !kofi !waifu",
+    "viewer_count": 6,
+    "started_at": "2026-02-16T19:00:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "ValentinesDay"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
     "id": "317889858011",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -76,32 +102,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
-    "id": "315950423010",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "620146360",
-    "game_name": "Another Crab's Treasure",
-    "type": "live",
-    "title": "WILL WE GET OUR SHELL BACK?! | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 6,
-    "started_at": "2026-02-16T19:00:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "ValentinesDay"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
     "id": "315951851874",
@@ -137,7 +137,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "Drawing Headshots!!!",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-02-16T18:00:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -153,5 +153,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
+  },
+  {
+    "id": "317666264281",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "2.0 REVEAL TRAILER IS OUT! Stardew Monday's back! ⌇ +18 ⌇ !discord !social",
+    "viewer_count": 1,
+    "started_at": "2026-02-16T21:57:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   }
 ]
