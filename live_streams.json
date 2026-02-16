@@ -8,7 +8,7 @@
     "game_name": "Dokapon Kingdom: Connect",
     "type": "live",
     "title": "[ENVtuber] I'm destroying more friendships with Dokapon :3 @RyoAsada @Lunarprojections @Frozabbit",
-    "viewer_count": 15,
+    "viewer_count": 17,
     "started_at": "2026-02-16T18:29:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -19,6 +19,31 @@
       "ENVtuber",
       "English",
       "Splatoon"
+    ],
+    "is_mature": false
+  },
+  {
+    "id": "315950423010",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "620146360",
+    "game_name": "Another Crab's Treasure",
+    "type": "live",
+    "title": "WILL WE GET OUR SHELL BACK?! | 18+ | !fishcord !throne !kofi !waifu",
+    "viewer_count": 7,
+    "started_at": "2026-02-16T19:00:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "ValentinesDay"
     ],
     "is_mature": false
   },
