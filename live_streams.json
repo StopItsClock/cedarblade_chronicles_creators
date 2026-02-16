@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Florial SMP Lore - M A G I C",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-02-16T03:41:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
@@ -17,5 +17,33 @@
       "English"
     ],
     "is_mature": false
+  },
+  {
+    "id": "317396090208",
+    "user_id": "459187886",
+    "user_login": "starryskiesvt",
+    "user_name": "StarrySkiesVT",
+    "game_id": "2132205352",
+    "game_name": "Deadlock",
+    "type": "live",
+    "title": "Deadlock'n it again :3 | !discord !Throne | @Starryskiesvt",
+    "viewer_count": 0,
+    "started_at": "2026-02-16T05:10:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "VTuber",
+      "English",
+      "LGBTQ",
+      "stinky",
+      "mouse",
+      "cottoncandy",
+      "Anime",
+      "yandere",
+      "Trans",
+      "ratgirl"
+    ],
+    "is_mature": true
   }
 ]
