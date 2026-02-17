@@ -1,34 +1,5 @@
 [
   {
-    "id": "317761064410",
-    "user_id": "167298417",
-    "user_login": "gilded_wolfe",
-    "user_name": "Gilded_Wolfe",
-    "game_id": "766571430",
-    "game_name": "HELLDIVERS 2",
-    "type": "live",
-    "title": "WE'RE DIVING WHERE??? || !puppers !discord !dnd",
-    "viewer_count": 3,
-    "started_at": "2026-02-17T18:21:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "catgirl",
-      "english",
-      "cat",
-      "chattingwithviewers",
-      "English",
-      "helldivers2",
-      "helldiver",
-      "helldivers",
-      "helldiversgame",
-      "helldivers2gameplay"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
     "id": "315248049234",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -51,6 +22,35 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "317761064410",
+    "user_id": "167298417",
+    "user_login": "gilded_wolfe",
+    "user_name": "Gilded_Wolfe",
+    "game_id": "766571430",
+    "game_name": "HELLDIVERS 2",
+    "type": "live",
+    "title": "WE'RE DIVING WHERE??? || !puppers !discord !dnd",
+    "viewer_count": 2,
+    "started_at": "2026-02-17T18:21:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "catgirl",
+      "english",
+      "cat",
+      "chattingwithviewers",
+      "English",
+      "helldivers2",
+      "helldiver",
+      "helldivers",
+      "helldiversgame",
+      "helldivers2gameplay"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
     "id": "316340836069",
