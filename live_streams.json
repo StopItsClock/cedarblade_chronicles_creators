@@ -1,29 +1,5 @@
 [
   {
-    "id": "315248049234",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "766571430",
-    "game_name": "HELLDIVERS 2",
-    "type": "live",
-    "title": "Welp let's see how bad this will go",
-    "viewer_count": 1,
-    "started_at": "2026-02-17T18:22:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
     "id": "317761064410",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -32,7 +8,7 @@
     "game_name": "HELLDIVERS 2",
     "type": "live",
     "title": "WE'RE DIVING WHERE??? || !puppers !discord !dnd",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-02-17T18:21:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
@@ -53,6 +29,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
+    "id": "315248049234",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "766571430",
+    "game_name": "HELLDIVERS 2",
+    "type": "live",
+    "title": "Welp let's see how bad this will go",
+    "viewer_count": 2,
+    "started_at": "2026-02-17T18:22:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "316340836069",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -61,7 +61,7 @@
     "game_name": "HELLDIVERS 2",
     "type": "live",
     "title": "The diving of hell 2 W/ @edwardp22 & @gilded_wolfe",
-    "viewer_count": 0,
+    "viewer_count": 1,
     "started_at": "2026-02-17T18:21:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
