@@ -8,7 +8,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "[Subathon] We R.E.P.O. For community night! (REPO w/ @regina_kardinal @steinitainment @malteaser1310)",
-    "viewer_count": 9,
+    "viewer_count": 7,
     "started_at": "2026-02-17T21:10:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Phasmophobia",
     "type": "live",
     "title": "IS that a BONE?! phasmo collab @66grimdemise66 @rams_404_",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-17T21:04:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -50,6 +50,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "316781050711",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "518184",
+    "game_name": "Phasmophobia",
+    "type": "live",
+    "title": "We bustin them ghosts with the crew/ @eepysoma @rams_404_ @stopitsclock",
+    "viewer_count": 3,
+    "started_at": "2026-02-17T21:00:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "TheyThem",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "Vtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   },
   {
     "id": "317295979740",
@@ -75,31 +101,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
-  },
-  {
-    "id": "316781050711",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "518184",
-    "game_name": "Phasmophobia",
-    "type": "live",
-    "title": "We bustin them ghosts with the crew/ @eepysoma @rams_404_ @stopitsclock",
-    "viewer_count": 1,
-    "started_at": "2026-02-17T21:00:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "TheyThem",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   }
 ]
