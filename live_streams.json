@@ -1,5 +1,34 @@
 [
   {
+    "id": "316011816675",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "1418594934",
+    "game_name": "Placid Plastic Duck Simulator",
+    "type": "live",
+    "title": "PLAYING A DUCK GAME and chillin with FRIENDS!!",
+    "viewer_count": 8,
+    "started_at": "2026-02-17T21:30:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "chill",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
+  },
+  {
     "id": "317359321566",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -52,32 +81,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
   },
   {
-    "id": "316781050711",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "518184",
-    "game_name": "Phasmophobia",
-    "type": "live",
-    "title": "We bustin them ghosts with the crew/ @eepysoma @rams_404_ @stopitsclock",
-    "viewer_count": 3,
-    "started_at": "2026-02-17T21:00:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "TheyThem",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
-  },
-  {
     "id": "317295979740",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -101,5 +104,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
+  },
+  {
+    "id": "316781050711",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "518184",
+    "game_name": "Phasmophobia",
+    "type": "live",
+    "title": "We bustin them ghosts with the crew/ @eepysoma @rams_404_ @stopitsclock",
+    "viewer_count": 2,
+    "started_at": "2026-02-17T21:00:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "TheyThem",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "Vtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   }
 ]
