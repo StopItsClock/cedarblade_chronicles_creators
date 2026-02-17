@@ -8,7 +8,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "[18+] Taking horse electrolytes to donkey kick the first boss I see  w/ @divine_arkay 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 12,
+    "viewer_count": 19,
     "started_at": "2026-02-17T23:01:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "[Subathon] We R.E.P.O. For community night! (REPO w/ @regina_kardinal @steinitainment @malteaser1310)",
-    "viewer_count": 7,
+    "viewer_count": 5,
     "started_at": "2026-02-17T21:10:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -52,31 +52,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317295979740",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "518184",
-    "game_name": "Phasmophobia",
-    "type": "live",
-    "title": "✨[Collab] ✨This ghosts are getting freaky✨ !socials !discord !lurk @rams_404_ ✨",
-    "viewer_count": 6,
-    "started_at": "2026-02-17T21:03:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
     "id": "316011816675",
@@ -133,5 +108,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "317295979740",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "518184",
+    "game_name": "Phasmophobia",
+    "type": "live",
+    "title": "✨[Collab] ✨This ghosts are getting freaky✨ !socials !discord !lurk @rams_404_ ✨",
+    "viewer_count": 4,
+    "started_at": "2026-02-17T21:03:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   }
 ]
