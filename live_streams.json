@@ -1,34 +1,5 @@
 [
   {
-    "id": "315961199351",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "226996866",
-    "game_name": "is this seat taken?",
-    "type": "live",
-    "title": "✧ GET IN THE DAMN CHAIR ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
-    "started_at": "2026-02-17T00:00:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "Bilingual",
-      "sillylittleguy"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
-  },
-  {
     "id": "317671429337",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -37,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Cobblemon Yap and Art! ✸Cobble N' Art✸ !lurk !lurkstatus",
-    "viewer_count": 16,
+    "viewer_count": 18,
     "started_at": "2026-02-17T02:01:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
