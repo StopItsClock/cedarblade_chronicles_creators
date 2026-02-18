@@ -87,7 +87,7 @@
     "game_id": "515025",
     "game_name": "Overwatch",
     "type": "live",
-    "title": "Ow with the pals |!Discord !lurk | 🐉🧟",
+    "title": "Ow with the pals |!Discord !lurk | \ud83d\udc09\ud83e\udddf",
     "viewer_count": 2,
     "started_at": "2026-02-18T23:30:37Z",
     "language": "en",
@@ -101,7 +101,8 @@
       "VTuberUprising",
       "dragonvtuber",
       "undeadvtuber",
-      "Horror"
+      "Horror",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
