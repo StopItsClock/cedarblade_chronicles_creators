@@ -31,7 +31,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Finishing the Stormblood MSQ | !socials",
-    "viewer_count": 6,
+    "viewer_count": 10,
     "started_at": "2026-02-18T18:02:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -51,30 +51,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "316353920229",
-    "user_id": "176717390",
-    "user_login": "calmarvt",
-    "user_name": "CalmarVT",
-    "game_id": "126296160",
-    "game_name": "Dokapon Kingdom: Connect",
-    "type": "live",
-    "title": "[ENVtuber] Continuing the Story, surely we wont hate each other :3 @ThatUserKai @AzureAetherium @OneTrueMink",
-    "viewer_count": 5,
-    "started_at": "2026-02-18T21:20:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "GERVtuber",
-      "ENVtuber",
-      "English",
-      "Splatoon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
-  },
-  {
     "id": "317780477530",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -83,7 +59,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "STARDEW YIPPEE || !puppers !discord !dnd",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-02-18T20:09:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
@@ -102,6 +78,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "316353920229",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "[ENVtuber] Continuing the Story, surely we wont hate each other :3 @ThatUserKai @AzureAetherium @OneTrueMink",
+    "viewer_count": 3,
+    "started_at": "2026-02-18T21:20:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
   },
   {
     "id": "316001217380",
@@ -141,7 +141,7 @@
     "game_name": "Dokapon Kingdom: Connect",
     "type": "live",
     "title": "[ENVtuber] Back in Dokapon w/ @calmarvt @onetruemink and @azureaetherium | 16+ He/They",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-02-18T21:21:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
