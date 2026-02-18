@@ -1,31 +1,5 @@
 [
   {
-    "id": "315969117154",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "465902724",
-    "game_name": "Star Trek: Voyager - Across the Unknown",
-    "type": "live",
-    "title": "I'm not a Red Shirt | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 7,
-    "started_at": "2026-02-18T19:00:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "ValentinesDay"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
-  },
-  {
     "id": "317778805594",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -34,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Finishing the Stormblood MSQ | !socials",
-    "viewer_count": 4,
+    "viewer_count": 8,
     "started_at": "2026-02-18T18:02:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -52,5 +26,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "315969117154",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "465902724",
+    "game_name": "Star Trek: Voyager - Across the Unknown",
+    "type": "live",
+    "title": "I'm not a Red Shirt | 18+ | !fishcord !throne !kofi !waifu",
+    "viewer_count": 8,
+    "started_at": "2026-02-18T19:00:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "ValentinesDay"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   }
 ]
