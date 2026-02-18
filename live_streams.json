@@ -8,7 +8,7 @@
     "game_name": "Mewgenics",
     "type": "live",
     "title": "[18+] Cats? Good thing im a lesbian 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 56,
+    "viewer_count": 53,
     "started_at": "2026-02-17T23:01:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "Art with Scary Videos! 18+ Also Maybe Minecraft ✸Art and Stuff✸ !lurk !lurkstatus",
-    "viewer_count": 18,
+    "viewer_count": 17,
     "started_at": "2026-02-18T03:01:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,5 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "315281308648",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "31376",
+    "game_name": "Terraria",
+    "type": "live",
+    "title": "terrararaririririrararia! [!discord] [!dubby] [18+]",
+    "viewer_count": 0,
+    "started_at": "2026-02-18T07:00:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NewZealand",
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   }
 ]
