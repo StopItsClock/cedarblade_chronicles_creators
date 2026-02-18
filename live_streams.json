@@ -31,7 +31,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Finishing the Stormblood MSQ | !socials",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-02-18T18:02:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -59,7 +59,7 @@
     "game_name": "Dokapon Kingdom: Connect",
     "type": "live",
     "title": "[ENVtuber] Continuing the Story, surely we wont hate each other :3 @ThatUserKai @AzureAetherium @OneTrueMink",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-02-18T21:20:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -104,32 +104,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
-    "id": "317781506266",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "126296160",
-    "game_name": "Dokapon Kingdom: Connect",
-    "type": "live",
-    "title": "[ENVtuber] Back in Dokapon w/ @calmarvt @onetruemink and @azureaetherium | 16+ He/They",
-    "viewer_count": 2,
-    "started_at": "2026-02-18T21:21:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "transmasc",
-      "HeThey",
-      "16plus",
-      "VTuber",
-      "ENVTuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
-  },
-  {
     "id": "316426732774",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -150,5 +124,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "317781506266",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "[ENVtuber] Back in Dokapon w/ @calmarvt @onetruemink and @azureaetherium | 16+ He/They",
+    "viewer_count": 1,
+    "started_at": "2026-02-18T21:21:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "transmasc",
+      "HeThey",
+      "16plus",
+      "VTuber",
+      "ENVTuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
