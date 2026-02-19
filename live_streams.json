@@ -7,7 +7,7 @@
     "game_id": "1234011532",
     "game_name": "Maze Creep!!",
     "type": "live",
-    "title": "Im scared of mazes |!Discord !lurk | 🐉🧟",
+    "title": "Im scared of mazes |!Discord !lurk | \ud83d\udc09\ud83e\udddf",
     "viewer_count": 7,
     "started_at": "2026-02-19T21:09:34Z",
     "language": "en",
@@ -56,31 +56,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
-    "id": "317326219868",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "1509529923",
-    "game_name": "Burglin' Gnomes",
-    "type": "live",
-    "title": "✨[Collab] ✨We gnoming around✨ !socials !discord !lurk @rams_404_ ✨",
-    "viewer_count": 2,
-    "started_at": "2026-02-19T21:12:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
-  },
-  {
     "id": "316803598039",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -106,6 +81,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "317326219868",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "1509529923",
+    "game_name": "Burglin' Gnomes",
+    "type": "live",
+    "title": "\u2728[Collab] \u2728We gnoming around\u2728 !socials !discord !lurk @rams_404_ \u2728",
+    "viewer_count": 2,
+    "started_at": "2026-02-19T21:12:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
     "id": "315327471977",
