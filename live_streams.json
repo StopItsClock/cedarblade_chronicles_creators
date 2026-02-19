@@ -8,7 +8,7 @@
     "game_name": "Maze Creep!!",
     "type": "live",
     "title": "Im scared of mazes |!Discord !lurk | 🐉🧟",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-02-19T21:09:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -56,32 +56,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
-    "id": "315981389047",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "1234011532",
-    "game_name": "Maze Creep!!",
-    "type": "live",
-    "title": "Whos creepin in this maze? w/@eepysoma @rams_404 @dracholicheren",
-    "viewer_count": 2,
-    "started_at": "2026-02-19T21:08:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "TheyThem",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
-  },
-  {
     "id": "316803598039",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -109,33 +83,55 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
   },
   {
-    "id": "317722433113",
-    "user_id": "115462971",
-    "user_login": "cricketinmyhead",
-    "user_name": "cricketinmyhead",
-    "game_id": "518184",
-    "game_name": "Phasmophobia",
+    "id": "317326219868",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "1509529923",
+    "game_name": "Burglin' Gnomes",
     "type": "live",
-    "title": "💥📷 PHASMOPHOBIA W/ Numby!   GHOST TIME❓ 👻 - !discord !lurk 🦗🎨",
-    "viewer_count": 1,
-    "started_at": "2026-02-19T21:02:16Z",
+    "title": "✨[Collab] ✨We gnoming around✨ !socials !discord !lurk @rams_404_ ✨",
+    "viewer_count": 2,
+    "started_at": "2026-02-19T21:12:09Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cricketinmyhead-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "chatting",
-      "ADHD",
-      "vtuber",
-      "Hyper",
+      "Vtuber",
       "English",
-      "Tomboy",
-      "Gremlin",
-      "Gothic",
-      "PunksNotDead",
-      "BugVtuber"
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
+  },
+  {
+    "id": "315981389047",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "1234011532",
+    "game_name": "Maze Creep!!",
+    "type": "live",
+    "title": "Whos creepin in this maze? w/@eepysoma @rams_404 @dracholicheren",
+    "viewer_count": 2,
+    "started_at": "2026-02-19T21:08:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "TheyThem",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "Vtuber"
     ],
     "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76fba430-d019-449f-903c-1ce042ccbc24-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   },
   {
     "id": "315327471977",
@@ -165,30 +161,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "317326219868",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "1509529923",
-    "game_name": "Burglin' Gnomes",
-    "type": "live",
-    "title": "✨[Collab] ✨We gnoming around✨ !socials !discord !lurk @rams_404_ ✨",
-    "viewer_count": 1,
-    "started_at": "2026-02-19T21:12:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   }
 ]
