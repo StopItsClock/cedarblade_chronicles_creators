@@ -1,34 +1,5 @@
 [
   {
-    "id": "316805261527",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "226996866",
-    "game_name": "is this seat taken?",
-    "type": "live",
-    "title": "\u2727 Arguing with more shapes the sequel \u2727 !lurk !merch !throne !clip",
-    "viewer_count": 28,
-    "started_at": "2026-02-20T00:04:53Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "Bilingual",
-      "sillylittleguy"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
-  },
-  {
     "id": "317394426334",
     "user_id": "67504126",
     "user_login": "cutenysnys",
@@ -36,7 +7,7 @@
     "game_id": "503116",
     "game_name": "Beat Saber",
     "type": "live",
-    "title": "[18+] -FLASHING LIGHTS- Bro I dont know what a beat is \ud83d\udc9a @cutenysnys \ud83d\udc9a !socials !Merch \ud83d\udc9a",
+    "title": "[18+] -FLASHING LIGHTS- Bro I dont know what a beat is 💚 @cutenysnys 💚 !socials !Merch 💚",
     "viewer_count": 28,
     "started_at": "2026-02-20T01:35:47Z",
     "language": "en",
@@ -56,6 +27,35 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
+    "id": "316805261527",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "226996866",
+    "game_name": "is this seat taken?",
+    "type": "live",
+    "title": "✧ Arguing with more shapes the sequel ✧ !lurk !merch !throne !clip",
+    "viewer_count": 25,
+    "started_at": "2026-02-20T00:04:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Comfy",
+      "LGBT",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "Bilingual",
+      "sillylittleguy"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
     "id": "317936600795",
@@ -86,6 +86,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0a120eb-45b4-4a95-b110-276682207ad7-profile_image-300x300.png"
   },
   {
+    "id": "315983396599",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27284",
+    "game_name": "Retro",
+    "type": "live",
+    "title": "[Whiplash] I just took a lil nap c:",
+    "viewer_count": 6,
+    "started_at": "2026-02-20T02:02:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ComfyCafe",
+      "English",
+      "Retro",
+      "FirstPlaythrough"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
     "id": "317328682972",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -94,7 +118,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "THE WHEELS HAVE SPOKEN!!! - Challenges (viewers can submit as well) | !Clip !Discord",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-02-20T00:00:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -112,30 +136,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315983396599",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27284",
-    "game_name": "Retro",
-    "type": "live",
-    "title": "[Whiplash] I just took a lil nap c:",
-    "viewer_count": 4,
-    "started_at": "2026-02-20T02:02:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English",
-      "Retro",
-      "FirstPlaythrough"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "317726226265",
