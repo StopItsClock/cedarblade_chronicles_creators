@@ -8,7 +8,7 @@
     "game_name": "Swimpossible!",
     "type": "live",
     "title": "✧ Swimming ghost tries not to rage :D ✧ !lurk !merch !throne !clip",
-    "viewer_count": 20,
+    "viewer_count": 14,
     "started_at": "2026-02-20T00:04:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "Birthdaython day 4! reporeporeporeporepo  !lurk !discord !throne !kofi",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-02-20T00:27:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -112,5 +112,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
+  },
+  {
+    "id": "317394426334",
+    "user_id": "67504126",
+    "user_login": "cutenysnys",
+    "user_name": "CuteNysNys",
+    "game_id": "503116",
+    "game_name": "Beat Saber",
+    "type": "live",
+    "title": "[18+] -FLASHING LIGHTS- Bro I dont know what a beat is 💚 @cutenysnys 💚 !socials !Merch 💚",
+    "viewer_count": 0,
+    "started_at": "2026-02-20T01:35:47Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ADHD",
+      "PuertoRican",
+      "LGBTQIAPlus",
+      "Woman",
+      "ESOStreamTeam",
+      "YuriAddict",
+      "bigbitties",
+      "NiceHands",
+      "Spituber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
   }
 ]
