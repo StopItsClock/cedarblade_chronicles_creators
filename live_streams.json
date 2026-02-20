@@ -7,8 +7,8 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "Early Yapping Eldritch Session with Cobblemon ✸Yapcraft✸ !lurk !lurkstatus",
-    "viewer_count": 9,
+    "title": "Early Yapping Eldritch Session with Cobblemon \u2738Yapcraft\u2738 !lurk !lurkstatus",
+    "viewer_count": 8,
     "started_at": "2026-02-20T18:45:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -21,11 +21,38 @@
       "boyfriend",
       "EldritchVTuber",
       "MaleVtuber",
-      "Chıll",
+      "Ch\u0131ll",
       "ADHD",
       "TentacleMonster"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "316018134884",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "First Time OW Comp... Wish me Luck | 18+ | !fishcord !throne !kofi !waifu",
+    "viewer_count": 2,
+    "started_at": "2026-02-20T19:00:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "CedarbladeSMP",
+      "Comptetitive"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   }
 ]
