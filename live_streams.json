@@ -8,7 +8,7 @@
     "game_name": "Swimpossible!",
     "type": "live",
     "title": "✧ Swimming ghost tries not to rage :D ✧ !lurk !merch !throne !clip",
-    "viewer_count": 16,
+    "viewer_count": 15,
     "started_at": "2026-02-20T00:04:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "HOROR GAME TODAYYY!!!! !!!! - !discord !lurk",
-    "viewer_count": 13,
+    "viewer_count": 9,
     "started_at": "2026-02-20T00:00:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -120,7 +120,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "WE CRAFTIN AND MININ! And vibin with friends!!!",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-02-20T00:05:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -139,58 +139,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
-  },
-  {
-    "id": "316803598039",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "1509529923",
-    "game_name": "Burglin' Gnomes",
-    "type": "live",
-    "title": "BREAKING AND ENTERING!!! MAZE FREAK and BURGLING GNOMES @66grimdemise66 @rams_404_ @dracolicheren",
-    "viewer_count": 2,
-    "started_at": "2026-02-19T21:10:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
-  },
-  {
-    "id": "317326219868",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "1509529923",
-    "game_name": "Burglin' Gnomes",
-    "type": "live",
-    "title": "✨[Collab] ✨We gnoming around✨ !socials !discord !lurk @rams_404_ ✨",
-    "viewer_count": 2,
-    "started_at": "2026-02-19T21:12:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
     "id": "317726226265",
@@ -215,7 +163,8 @@
       "marvelrivalsranked",
       "marvelrivalsgameplay",
       "marvelrivals",
-      "marvelrivalscompetitive"
+      "marvelrivalscompetitive",
+      "DropsEnabled"
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
@@ -248,31 +197,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "315981389047",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "1234011532",
-    "game_name": "Maze Creep!!",
-    "type": "live",
-    "title": "Whos creepin in this maze? w/@eepysoma @rams_404 @dracholicheren",
-    "viewer_count": 1,
-    "started_at": "2026-02-19T21:08:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "TheyThem",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   }
 ]
