@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Cedarblade Chronicles] The Start of a new Season! Welcome to the Thunderdome!!!!",
-    "viewer_count": 27,
+    "viewer_count": 28,
     "started_at": "2026-02-21T00:01:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -63,7 +63,7 @@
     "game_name": "Date Everything!",
     "type": "live",
     "title": "[18+] Goon Everything Finale Part 1 ✸Date Everything✸ !lurk !lurkstatus",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-02-21T05:33:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -82,6 +82,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "317470061920",
+    "user_id": "39084354",
+    "user_login": "enigmaticslime",
+    "user_name": "enigmaticslime",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "New SMP! Time to learn how to TANK! Welcome to CEDARBLADE! #CedarbladeSMP",
+    "viewer_count": 2,
+    "started_at": "2026-02-21T03:18:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enigmaticslime-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LGBTAQIAplus",
+      "SlimeVtuber",
+      "prettydumb",
+      "Easilydistracted",
+      "KindOfReallyDumb",
+      "TwoBrainCells",
+      "nonbinanry",
+      "English",
+      "Mature",
+      "18pluschannel"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35a9b99d-c953-4959-b2f0-db5a134e5b5d-profile_image-300x300.png"
   },
   {
     "id": "317743193945",
@@ -135,34 +164,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317470061920",
-    "user_id": "39084354",
-    "user_login": "enigmaticslime",
-    "user_name": "enigmaticslime",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "New SMP! Time to learn how to TANK! Welcome to CEDARBLADE! #CedarbladeSMP",
-    "viewer_count": 1,
-    "started_at": "2026-02-21T03:18:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enigmaticslime-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LGBTAQIAplus",
-      "SlimeVtuber",
-      "prettydumb",
-      "Easilydistracted",
-      "KindOfReallyDumb",
-      "TwoBrainCells",
-      "nonbinanry",
-      "English",
-      "Mature",
-      "18pluschannel"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35a9b99d-c953-4959-b2f0-db5a134e5b5d-profile_image-300x300.png"
   }
 ]
