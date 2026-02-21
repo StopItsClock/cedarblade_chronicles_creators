@@ -7,8 +7,8 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "Eldritch Xenoblades Minecraft Edition ✸Minecraft SMP✸ !lurk !lurkstatus",
-    "viewer_count": 9,
+    "title": "Eldritch Xenoblades Minecraft Edition \u2738Minecraft SMP\u2738 !lurk !lurkstatus",
+    "viewer_count": 10,
     "started_at": "2026-02-21T05:33:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -21,11 +21,38 @@
       "boyfriend",
       "EldritchVTuber",
       "MaleVtuber",
-      "Chıll",
+      "Ch\u0131ll",
       "ADHD",
       "TentacleMonster"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "315239245393",
+    "user_id": "149397923",
+    "user_login": "ravenincarnate",
+    "user_name": "ravenincarnate",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "The server seems more stable now!",
+    "viewer_count": 0,
+    "started_at": "2026-02-21T09:46:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "Relaxing",
+      "Chill",
+      "English",
+      "18plusstream",
+      "18pluschannel",
+      "18maturelanguage"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   }
 ]
