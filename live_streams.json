@@ -1,31 +1,5 @@
 [
   {
-    "id": "315430952405",
-    "user_id": "604764355",
-    "user_login": "zachibee",
-    "user_name": "zachibee",
-    "game_id": "509663",
-    "game_name": "Special Events",
-    "type": "live",
-    "title": "[18+] VTAMINI WATCH ALONG 💙 join for yap!⚡[DEBUT] !lurk !discord !starbyte !throne !socials",
-    "viewer_count": 24,
-    "started_at": "2026-02-21T18:04:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "adhd",
-      "anime",
-      "autism",
-      "silly",
-      "energetic",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
-  },
-  {
     "id": "317759171289",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -61,7 +35,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "The server seems more stable now!",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-02-21T09:46:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -88,7 +62,7 @@
     "game_name": "Hollow Knight",
     "type": "live",
     "title": "CJYA's community Archipelago with @sagefif",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-02-21T19:12:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -102,26 +76,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "317761796313",
-    "user_id": "1201913479",
-    "user_login": "absalomvt",
-    "user_name": "AbsalomVT",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Trying not to die in the world of chaos (Cedarblade Chronicles)",
-    "viewer_count": 0,
-    "started_at": "2026-02-21T20:13:35Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_absalomvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "CedarbladeSMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5b9cfc5-1f8f-42c4-ae36-bddc7f1a9df1-profile_image-300x300.png"
   }
 ]
