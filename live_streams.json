@@ -32,8 +32,8 @@
     "game_id": "252812003",
     "game_name": "Supermarket Simulator",
     "type": "live",
-    "title": "LET'S FLOCKIN' GO! Clean up on aisle birb! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 6,
+    "title": "LET'S FLOCKIN' GO! Clean up on aisle birb! \u2307 +18 \u2307 !discord !social",
+    "viewer_count": 4,
     "started_at": "2026-02-21T21:54:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -62,7 +62,7 @@
     "game_name": "Warframe",
     "type": "live",
     "title": "[Baby Tenno] BRING BACK SPACE MOTHER | !socials",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-02-21T22:03:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -130,6 +130,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
+    "id": "317360852060",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "\u2728[CedarbladeSMP] \u2728I might be OP already Cedarblade Ep.2\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "viewer_count": 1,
+    "started_at": "2026-02-21T23:33:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
+  },
+  {
     "id": "317836297178",
     "user_id": "1201913479",
     "user_login": "absalomvt",
@@ -149,30 +174,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5b9cfc5-1f8f-42c4-ae36-bddc7f1a9df1-profile_image-300x300.png"
-  },
-  {
-    "id": "317360852060",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "✨[CedarbladeSMP] ✨I might be OP already Cedarblade Ep.2✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 1,
-    "started_at": "2026-02-21T23:33:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   }
 ]
