@@ -33,7 +33,7 @@
     "game_name": "Supermarket Simulator",
     "type": "live",
     "title": "LET'S FLOCKIN' GO! Clean up on aisle birb! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-02-21T21:54:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -62,7 +62,7 @@
     "game_name": "Warframe",
     "type": "live",
     "title": "[Baby Tenno] BRING BACK SPACE MOTHER | !socials",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-02-21T22:03:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -80,6 +80,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "317420284126",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "490147",
+    "game_name": "Hollow Knight",
+    "type": "live",
+    "title": "CJYA's community Archipelago with @sagefif",
+    "viewer_count": 3,
+    "started_at": "2026-02-21T19:12:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "316461995480",
@@ -104,30 +128,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5774cf2-317d-4851-895c-d3012fff3403-profile_image-300x300.png"
-  },
-  {
-    "id": "317420284126",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "490147",
-    "game_name": "Hollow Knight",
-    "type": "live",
-    "title": "CJYA's community Archipelago with @sagefif",
-    "viewer_count": 2,
-    "started_at": "2026-02-21T19:12:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "317836297178",
