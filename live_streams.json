@@ -1,30 +1,5 @@
 [
   {
-    "id": "317461752288",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cedarblade Chronicles SMP!  :3  ~🍂 !discord !merch !smp",
-    "viewer_count": 20,
-    "started_at": "2026-02-20T19:50:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
-  },
-  {
     "id": "317825937498",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -32,8 +7,8 @@
     "game_id": "364677525",
     "game_name": "Date Everything!",
     "type": "live",
-    "title": "[18+] Goon Everything Finale Part 1 ✸Date Everything✸ !lurk !lurkstatus",
-    "viewer_count": 10,
+    "title": "[18+] Goon Everything Finale Part 1 \u2738Date Everything\u2738 !lurk !lurkstatus",
+    "viewer_count": 9,
     "started_at": "2026-02-21T05:33:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -46,39 +21,11 @@
       "boyfriend",
       "EldritchVTuber",
       "MaleVtuber",
-      "Chıll",
+      "Ch\u0131ll",
       "ADHD",
       "TentacleMonster"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
-    "id": "317743193945",
-    "user_id": "87014181",
-    "user_login": "thetactician",
-    "user_name": "TheTactician",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "The Beginning of a New Journey on the Cedarblade SMP Opening Day! Use !SMP to see who all is in here (it's a lot)",
-    "viewer_count": 1,
-    "started_at": "2026-02-20T23:03:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "NoBackseating",
-      "Anime",
-      "Vtuber",
-      "funnymoments",
-      "English",
-      "Collab",
-      "minecraft",
-      "minecraftsmp",
-      "ModdedMinecraftSurvival"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   }
 ]
