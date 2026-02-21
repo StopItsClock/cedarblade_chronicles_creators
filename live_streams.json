@@ -35,7 +35,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "The server seems more stable now!",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-02-21T09:46:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -76,5 +76,26 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "317836297178",
+    "user_id": "1201913479",
+    "user_login": "absalomvt",
+    "user_name": "AbsalomVT",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Trying not to die in the world of chaos (Cedarblade Chronicles)",
+    "viewer_count": 0,
+    "started_at": "2026-02-21T20:30:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_absalomvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "CedarbladeSMP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5b9cfc5-1f8f-42c4-ae36-bddc7f1a9df1-profile_image-300x300.png"
   }
 ]
