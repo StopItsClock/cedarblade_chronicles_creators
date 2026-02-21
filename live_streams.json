@@ -29,33 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "317744558297",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[Cedarblade Chronicles] The Start of a new Season! Welcome to the Thunderdome!!!!",
-    "viewer_count": 19,
-    "started_at": "2026-02-21T00:01:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
     "id": "317410356830",
     "user_id": "846373427",
     "user_login": "seraphselkie",
@@ -64,7 +37,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "Birthdaython day 5! ITS MY BIRTHDAY! Happy Birfday to ME!  !lurk !discord !throne !kofi",
-    "viewer_count": 15,
+    "viewer_count": 18,
     "started_at": "2026-02-21T02:05:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -84,6 +57,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0a120eb-45b4-4a95-b110-276682207ad7-profile_image-300x300.png"
   },
   {
+    "id": "317744558297",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[Cedarblade Chronicles] The Start of a new Season! Welcome to the Thunderdome!!!!",
+    "viewer_count": 17,
+    "started_at": "2026-02-21T00:01:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
     "id": "317406281822",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -92,7 +92,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "[18] 🌸 Punishment Wheel PEAK??? [PEAK with @winter_rainvt @goddessmoraxvt @azurichii] | !throne !socials !lurk !disco",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-02-20T23:02:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -121,7 +121,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Cedarblade Chronicles SMP!  :3  ~🍂 !discord !merch !smp",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-02-20T19:50:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
@@ -175,7 +175,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "🦝|Overwatch| Overwatching it all over @kenjamincity  | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-02-20T23:55:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -251,6 +251,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "315331738089",
+    "user_id": "424839179",
+    "user_login": "thorn_fey_vt",
+    "user_name": "thorn_fey_vt",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "||ceaderblade SMP!! The Start of a new adventure or should I say Farm||#Vtuber #CedarbladeSMP||18+||",
+    "viewer_count": 3,
+    "started_at": "2026-02-21T02:31:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thorn_fey_vt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "LGBT",
+      "Autistic",
+      "ADHD",
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/877ab6a2-4ac4-4f06-8711-330aa2c6acb3-profile_image-300x300.png"
+  },
+  {
     "id": "317343172956",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -277,6 +301,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315991177591",
+    "user_id": "743128134",
+    "user_login": "zippingyeti",
+    "user_name": "zippingyeti",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "Todays the day! Season 3: Cedarblade Chronicles ep 1.2! Humble beginnings #CedarbladeSMP",
+    "viewer_count": 2,
+    "started_at": "2026-02-21T02:19:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zippingyeti-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "smallstrreamer",
+      "English",
+      "chilllin",
+      "minecraftsream",
+      "pngtuber",
+      "CedarbladeSMP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e39ece7-efb9-4e9a-974d-eeaf86c14ba2-profile_image-300x300.jpeg"
   },
   {
     "id": "317464686432",
@@ -330,54 +379,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
-  },
-  {
-    "id": "315331738089",
-    "user_id": "424839179",
-    "user_login": "thorn_fey_vt",
-    "user_name": "thorn_fey_vt",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "||ceaderblade SMP!! The Start of a new adventure or should I say Farm||#Vtuber #CedarbladeSMP||18+||",
-    "viewer_count": 1,
-    "started_at": "2026-02-21T02:31:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thorn_fey_vt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "LGBT",
-      "Autistic",
-      "ADHD",
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/877ab6a2-4ac4-4f06-8711-330aa2c6acb3-profile_image-300x300.png"
-  },
-  {
-    "id": "315991177591",
-    "user_id": "743128134",
-    "user_login": "zippingyeti",
-    "user_name": "zippingyeti",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "Todays the day! Season 3: Cedarblade Chronicles ep 1.2! Humble beginnings #CedarbladeSMP",
-    "viewer_count": 1,
-    "started_at": "2026-02-21T02:19:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zippingyeti-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "smallstrreamer",
-      "English",
-      "chilllin",
-      "minecraftsream",
-      "pngtuber",
-      "CedarbladeSMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e39ece7-efb9-4e9a-974d-eeaf86c14ba2-profile_image-300x300.jpeg"
   }
 ]
