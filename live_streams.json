@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "[18+] VTAMINI WATCH ALONG 💙 join for yap!⚡[DEBUT] !lurk !discord !starbyte !throne !socials",
-    "viewer_count": 21,
+    "viewer_count": 27,
     "started_at": "2026-02-21T18:04:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "[Special Program] Starbyte Watch-a-long: Vitamini Generation 1 Debuts Day 1!",
-    "viewer_count": 16,
+    "viewer_count": 15,
     "started_at": "2026-02-21T18:06:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -61,7 +61,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "The server seems more stable now!",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-02-21T09:46:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -78,5 +78,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
+    "id": "317420284126",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "490147",
+    "game_name": "Hollow Knight",
+    "type": "live",
+    "title": "CJYA's community Archipelago with @sagefif",
+    "viewer_count": 1,
+    "started_at": "2026-02-21T19:12:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
