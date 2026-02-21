@@ -1,34 +1,5 @@
 [
   {
-    "id": "317825937498",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Eldritch Xenoblades Minecraft Edition ✸Minecraft SMP✸ !lurk !lurkstatus",
-    "viewer_count": 9,
-    "started_at": "2026-02-21T05:33:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "Tentacles",
-      "ENVtuber",
-      "boyfriend",
-      "EldritchVTuber",
-      "MaleVtuber",
-      "Chıll",
-      "ADHD",
-      "TentacleMonster"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
     "id": "315239245393",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -37,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "The server seems more stable now!",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-02-21T09:46:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
