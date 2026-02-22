@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "STARBYTE VTAMINI DEBUT WATCHALONG! | @xionfox @dazzlingoriel | !hug !merch",
-    "viewer_count": 14,
+    "viewer_count": 15,
     "started_at": "2026-02-22T21:52:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "[Special Program] Starbyte Watch-a-longs: Vitamini Generation 1 Debuts Day 2!",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-02-22T21:52:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -107,5 +107,32 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "316471047000",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[CedarBlade SMP] base building!",
+    "viewer_count": 0,
+    "started_at": "2026-02-22T23:00:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "EN",
+      "Collab",
+      "ElfVTuber",
+      "Elf",
+      "smallstream",
+      "cedarbladesmp"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
