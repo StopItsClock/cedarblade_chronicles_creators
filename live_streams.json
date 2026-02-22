@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "STARBYTE VTAMINI DEBUT WATCHALONG! | @xionfox @dazzlingoriel | !hug !merch",
-    "viewer_count": 13,
+    "viewer_count": 16,
     "started_at": "2026-02-22T21:52:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -83,31 +83,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
-    "id": "317441554782",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "✨[CedarbladeSMP] ✨Lets explore more and start building our home Cedarblade Ep3.✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 2,
-    "started_at": "2026-02-22T23:33:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
-  },
-  {
     "id": "317860245722",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -132,6 +107,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "317441554782",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "✨[CedarbladeSMP] ✨Lets explore more and start building our home Cedarblade Ep3.✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 1,
+    "started_at": "2026-02-22T23:33:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
     "id": "316471047000",
