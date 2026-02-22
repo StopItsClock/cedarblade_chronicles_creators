@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Time to actually go explore!! -  CedarbladeSMP Ep2 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 13,
+    "viewer_count": 21,
     "started_at": "2026-02-21T23:58:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -102,6 +102,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5774cf2-317d-4851-895c-d3012fff3403-profile_image-300x300.png"
   },
   {
+    "id": "317840740570",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1046204006",
+    "game_name": "SUPER ROBOT WARS Y",
+    "type": "live",
+    "title": "[18+] Why can't Sirbine dodge to save their life... | SRW Y | !lurk !throne !tip !discord",
+    "viewer_count": 4,
+    "started_at": "2026-02-22T00:02:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
     "id": "317838043354",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -110,7 +139,7 @@
     "game_name": "Supermarket Simulator",
     "type": "live",
     "title": "LET'S FLOCKIN' GO! Clean up on aisle birb! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-21T21:54:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -178,34 +207,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
-  },
-  {
-    "id": "317840740570",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1046204006",
-    "game_name": "SUPER ROBOT WARS Y",
-    "type": "live",
-    "title": "[18+] Why can't Sirbine dodge to save their life... | SRW Y | !lurk !throne !tip !discord",
-    "viewer_count": 1,
-    "started_at": "2026-02-22T00:02:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
