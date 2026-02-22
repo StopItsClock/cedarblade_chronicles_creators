@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] -hits you with the period magic-  CedarbladeSMP 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 35,
+    "viewer_count": 31,
     "started_at": "2026-02-22T01:01:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Time to actually go explore!! -  CedarbladeSMP Ep2 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 21,
+    "viewer_count": 25,
     "started_at": "2026-02-21T23:58:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -87,30 +87,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "317424355166",
-    "user_id": "76857724",
-    "user_login": "kuumortuf",
-    "user_name": "KuuMortuf",
-    "game_id": "512923",
-    "game_name": "Baldur's Gate 3",
-    "type": "live",
-    "title": "18+ l The Last Baldurs Gate Stream This Is the End  l",
-    "viewer_count": 4,
-    "started_at": "2026-02-21T23:44:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuumortuf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ChallengeRunner",
-      "Vtuber",
-      "INDUSTRY",
-      "ENVtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/97838cd5-db63-4cd6-8a8e-b893540b427e-profile_image-300x300.png"
-  },
-  {
     "id": "317360852060",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -134,6 +110,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
+  },
+  {
+    "id": "317424355166",
+    "user_id": "76857724",
+    "user_login": "kuumortuf",
+    "user_name": "KuuMortuf",
+    "game_id": "512923",
+    "game_name": "Baldur's Gate 3",
+    "type": "live",
+    "title": "18+ l The Last Baldurs Gate Stream This Is the End  l",
+    "viewer_count": 3,
+    "started_at": "2026-02-21T23:44:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuumortuf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ChallengeRunner",
+      "Vtuber",
+      "INDUSTRY",
+      "ENVtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/97838cd5-db63-4cd6-8a8e-b893540b427e-profile_image-300x300.png"
   },
   {
     "id": "315461502934",
