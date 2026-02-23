@@ -36,7 +36,7 @@
     "game_id": "490744",
     "game_name": "Stardew Valley",
     "type": "live",
-    "title": "BACK TO IT! Stardew Monday's! ⌇ +18 ⌇ !discord !social",
+    "title": "BACK TO IT! Stardew Monday's! \u2307 +18 \u2307 !discord !social",
     "viewer_count": 7,
     "started_at": "2026-02-23T21:56:25Z",
     "language": "en",
@@ -83,31 +83,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
-    "id": "317874689754",
-    "user_id": "167298417",
-    "user_login": "gilded_wolfe",
-    "user_name": "Gilded_Wolfe",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "CEDARBLADE CHRONICLES || !puppers !discord !dnd",
-    "viewer_count": 2,
-    "started_at": "2026-02-23T20:10:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "catgirl",
-      "english",
-      "cat",
-      "chattingwithviewers",
-      "English",
-      "Minecraft"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
     "id": "316850180567",
     "user_id": "574560089",
     "user_login": "kayvender",
@@ -135,26 +110,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   },
   {
-    "id": "317805063641",
-    "user_id": "160049351",
-    "user_login": "cosmosslayer1994",
-    "user_name": "cosmosslayer1994",
+    "id": "317874689754",
+    "user_id": "167298417",
+    "user_login": "gilded_wolfe",
+    "user_name": "Gilded_Wolfe",
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "Minecraft CedarbladeSMP time",
-    "viewer_count": 1,
-    "started_at": "2026-02-23T23:37:25Z",
+    "title": "CEDARBLADE CHRONICLES || !puppers !discord !dnd",
+    "viewer_count": 2,
+    "started_at": "2026-02-23T20:10:51Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
+      "catgirl",
+      "english",
+      "cat",
+      "chattingwithviewers",
       "English",
-      "VtuberEN",
-      "minecraftsurivial"
+      "Minecraft"
     ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3abd4348-0cf9-4a98-855f-91fc53f55114-profile_image-300x300.png"
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
     "id": "316487785190",
@@ -177,6 +155,28 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "317805063641",
+    "user_id": "160049351",
+    "user_login": "cosmosslayer1994",
+    "user_name": "cosmosslayer1994",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Minecraft CedarbladeSMP time",
+    "viewer_count": 1,
+    "started_at": "2026-02-23T23:37:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "minecraftsurivial"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3abd4348-0cf9-4a98-855f-91fc53f55114-profile_image-300x300.png"
   },
   {
     "id": "317801654745",
