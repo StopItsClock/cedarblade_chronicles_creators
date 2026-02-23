@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] Getting absolutely obliterated by a rogue fireball~! CedarbladeSMP 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 28,
+    "viewer_count": 27,
     "started_at": "2026-02-23T01:15:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Odyssey's Beyond SMP! continued",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-02-23T00:26:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
@@ -57,7 +57,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "DnD and MTG in Minecraft! Cedarblade SMP time!",
-    "viewer_count": 5,
+    "viewer_count": 7,
     "started_at": "2026-02-23T02:12:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -99,5 +99,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e39ece7-efb9-4e9a-974d-eeaf86c14ba2-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315298294888",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "118198",
+    "game_name": "Assassin's Creed IV Black Flag",
+    "type": "live",
+    "title": "🦝|Assassin's Creed: Black Flag| They drank all my rum :c | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 0,
+    "started_at": "2026-02-23T04:06:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   }
 ]
