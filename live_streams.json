@@ -8,7 +8,7 @@
     "game_name": "L.A. Noire",
     "type": "live",
     "title": "[18+] LA NOIRE! DETECTIVE CAT!(!clip)",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-02-23T21:57:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -29,6 +29,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
+    "id": "318001903195",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1003606006",
+    "game_name": "Hytale",
+    "type": "live",
+    "title": "SUBATHON DAY 18!! Time to Gain more and more metal and power!|| Hytale (!lurk, !links, !discord)",
+    "viewer_count": 7,
+    "started_at": "2026-02-23T22:00:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "317803012313",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -36,8 +61,8 @@
     "game_id": "490744",
     "game_name": "Stardew Valley",
     "type": "live",
-    "title": "BACK TO IT! Stardew Monday's! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 8,
+    "title": "BACK TO IT! Stardew Monday's! \u2307 +18 \u2307 !discord !social",
+    "viewer_count": 7,
     "started_at": "2026-02-23T21:56:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -58,31 +83,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
-    "id": "318001903195",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1003606006",
-    "game_name": "Hytale",
-    "type": "live",
-    "title": "SUBATHON DAY 18!! Time to Gain more and more metal and power!|| Hytale (!lurk, !links, !discord)",
-    "viewer_count": 6,
-    "started_at": "2026-02-23T22:00:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "316048640228",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -91,7 +91,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] [CederbladeSMP]  Season 3 Baybe... Join me as I try to find some purpose in this new modpack",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-02-23T20:51:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -106,6 +106,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "317874689754",
+    "user_id": "167298417",
+    "user_login": "gilded_wolfe",
+    "user_name": "Gilded_Wolfe",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "CEDARBLADE CHRONICLES || !puppers !discord !dnd",
+    "viewer_count": 2,
+    "started_at": "2026-02-23T20:10:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "catgirl",
+      "english",
+      "cat",
+      "chattingwithviewers",
+      "English",
+      "Minecraft"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
     "id": "316850180567",
@@ -133,31 +158,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
-  },
-  {
-    "id": "317874689754",
-    "user_id": "167298417",
-    "user_login": "gilded_wolfe",
-    "user_name": "Gilded_Wolfe",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "CEDARBLADE CHRONICLES || !puppers !discord !dnd",
-    "viewer_count": 2,
-    "started_at": "2026-02-23T20:10:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "catgirl",
-      "english",
-      "cat",
-      "chattingwithviewers",
-      "English",
-      "Minecraft"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
     "id": "317801654745",
