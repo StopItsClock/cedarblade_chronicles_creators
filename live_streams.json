@@ -8,7 +8,7 @@
     "game_name": "HATSUNE MIKU: COLORFUL STAGE!",
     "type": "live",
     "title": "t200 tiering YAYYYYY (help i cant stop playing pjsk please help) || !discord !dono !lurk !throne",
-    "viewer_count": 22,
+    "viewer_count": 23,
     "started_at": "2026-02-23T20:09:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Dokapon Kingdom: Connect",
     "type": "live",
     "title": "[ENVtuber] Finishing Dokapon with @RyoAsada @Frozabbit @LunarProjections",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-02-23T18:51:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -56,7 +56,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] Into the underdark (BG3 w/ @regina_kardinal)",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-02-23T20:28:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -154,28 +154,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   },
   {
-    "id": "316487785190",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cedarblade chronicles minecraft SMP. theres still a lot of people help me times two",
-    "viewer_count": 1,
-    "started_at": "2026-02-23T20:05:57Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
-  },
-  {
     "id": "317801654745",
     "user_id": "193636646",
     "user_login": "captainyeeticus",
@@ -202,5 +180,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
+  },
+  {
+    "id": "316487785190",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cedarblade chronicles minecraft SMP. theres still a lot of people help me times two",
+    "viewer_count": 1,
+    "started_at": "2026-02-23T20:05:57Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
