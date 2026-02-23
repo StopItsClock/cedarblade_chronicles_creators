@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] Getting absolutely obliterated by a rogue fireball~! CedarbladeSMP 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 28,
+    "viewer_count": 30,
     "started_at": "2026-02-23T01:15:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -29,33 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
   },
   {
-    "id": "317324312565",
-    "user_id": "1275381753",
-    "user_login": "mimiluna2",
-    "user_name": "MimiLuna2",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "DnD and MTG in Minecraft! Cedarblade SMP time!",
-    "viewer_count": 4,
-    "started_at": "2026-02-23T02:12:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ADHD",
-      "Latina",
-      "LGBTQIAPIus",
-      "spanish",
-      "chill",
-      "Español",
-      "Inglés"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
-  },
-  {
     "id": "315298294888",
     "user_id": "209565401",
     "user_login": "aidenchii",
@@ -64,7 +37,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "🦝|Overwatch| Im about to Overwatch all over | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-02-23T04:06:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -100,30 +73,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317992281563",
-    "user_id": "743128134",
-    "user_login": "zippingyeti",
-    "user_name": "zippingyeti",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "Todays the day! Season 3: Cedarblade Chronicles ep 2! A dragon hatchling? #CedarbladeSMP",
-    "viewer_count": 1,
-    "started_at": "2026-02-23T02:48:47Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zippingyeti-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "smallstrreamer",
-      "English",
-      "chilllin",
-      "minecraftsream",
-      "pngtuber",
-      "CedarbladeSMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e39ece7-efb9-4e9a-974d-eeaf86c14ba2-profile_image-300x300.jpeg"
   }
 ]
