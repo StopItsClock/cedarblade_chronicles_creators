@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "BACK TO IT! Stardew Monday's! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-02-23T21:56:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "L.A. Noire",
     "type": "live",
     "title": "[18+] LA NOIRE! DETECTIVE CAT!(!clip)",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-02-23T21:57:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -56,31 +56,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "316048640228",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[18+] [CederbladeSMP]  Season 3 Baybe... Join me as I try to find some purpose in this new modpack",
-    "viewer_count": 8,
-    "started_at": "2026-02-23T20:51:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "318001903195",
@@ -106,6 +81,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "317874689754",
+    "user_id": "167298417",
+    "user_login": "gilded_wolfe",
+    "user_name": "Gilded_Wolfe",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "CEDARBLADE CHRONICLES || !puppers !discord !dnd",
+    "viewer_count": 4,
+    "started_at": "2026-02-23T20:10:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "catgirl",
+      "english",
+      "cat",
+      "chattingwithviewers",
+      "English",
+      "Minecraft"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
     "id": "316850180567",
@@ -135,29 +135,51 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   },
   {
-    "id": "317874689754",
-    "user_id": "167298417",
-    "user_login": "gilded_wolfe",
-    "user_name": "Gilded_Wolfe",
+    "id": "317805063641",
+    "user_id": "160049351",
+    "user_login": "cosmosslayer1994",
+    "user_name": "cosmosslayer1994",
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "CEDARBLADE CHRONICLES || !puppers !discord !dnd",
-    "viewer_count": 2,
-    "started_at": "2026-02-23T20:10:51Z",
+    "title": "Minecraft CedarbladeSMP time",
+    "viewer_count": 1,
+    "started_at": "2026-02-23T23:37:25Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "catgirl",
-      "english",
-      "cat",
-      "chattingwithviewers",
       "English",
-      "Minecraft"
+      "VtuberEN",
+      "minecraftsurivial"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3abd4348-0cf9-4a98-855f-91fc53f55114-profile_image-300x300.png"
+  },
+  {
+    "id": "316048640228",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[18+] [CederbladeSMP]  Season 3 Baybe... Join me as I try to find some purpose in this new modpack",
+    "viewer_count": 1,
+    "started_at": "2026-02-23T20:51:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer"
     ],
     "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "317801654745",
