@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "STARBYTE VTAMINI DEBUT WATCHALONG! | @xionfox @dazzlingoriel | !hug !merch",
-    "viewer_count": 14,
+    "viewer_count": 17,
     "started_at": "2026-02-22T21:52:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -29,34 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
-    "id": "317499781216",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "COME YAP WITH ME <3!!!! - !discord !lurk",
-    "viewer_count": 13,
-    "started_at": "2026-02-22T23:58:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "ENGLISH",
-      "Vtuber",
-      "brat",
-      "twinkmaxxing",
-      "yappingstreamer",
-      "newVTuber",
-      "English",
-      "Gremlin"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
-  },
-  {
     "id": "317858880986",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -65,7 +37,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "[Special Program] Starbyte Watch-a-longs: Vitamini Generation 1 Debuts Day 2!",
-    "viewer_count": 11,
+    "viewer_count": 12,
     "started_at": "2026-02-22T21:52:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -84,26 +56,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
-    "id": "317788950233",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Odyssey's Beyond SMP! continued",
-    "viewer_count": 4,
-    "started_at": "2026-02-23T00:26:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
     "id": "317860245722",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -112,7 +64,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "CBC SMP! Time to Grind!",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-02-22T22:56:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -138,7 +90,7 @@
     "game_name": "",
     "type": "live",
     "title": "✨[CedarbladeSMP] ✨Lets explore more and start building our home Cedarblade Ep3.✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-02-22T23:33:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -180,6 +132,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
+    "id": "317788950233",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Odyssey's Beyond SMP! continued",
+    "viewer_count": 2,
+    "started_at": "2026-02-23T00:26:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "317862811610",
