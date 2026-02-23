@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "COME YAP WITH ME <3!!!! - !discord !lurk",
-    "viewer_count": 14,
+    "viewer_count": 15,
     "started_at": "2026-02-22T23:58:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "[Special Program] Starbyte Watch-a-longs: Vitamini Generation 1 Debuts Day 2!",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-02-22T21:52:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -82,6 +82,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "316471047000",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[CedarBlade Chronicles SMP] base building!",
+    "viewer_count": 4,
+    "started_at": "2026-02-22T23:00:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "EN",
+      "Collab",
+      "ElfVTuber",
+      "Elf",
+      "smallstream",
+      "cedarbladesmp"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   },
   {
     "id": "317441554782",
@@ -109,6 +136,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
+    "id": "317788950233",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Odyssey's Beyond SMP! continued",
+    "viewer_count": 2,
+    "started_at": "2026-02-23T00:26:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "317860245722",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -133,52 +180,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
-  },
-  {
-    "id": "316471047000",
-    "user_id": "574560089",
-    "user_login": "kayvender",
-    "user_name": "kayvender",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[CedarBlade Chronicles SMP] base building!",
-    "viewer_count": 2,
-    "started_at": "2026-02-22T23:00:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "EN",
-      "Collab",
-      "ElfVTuber",
-      "Elf",
-      "smallstream",
-      "cedarbladesmp"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
-  },
-  {
-    "id": "317788950233",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Odyssey's Beyond SMP! continued",
-    "viewer_count": 1,
-    "started_at": "2026-02-23T00:26:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
