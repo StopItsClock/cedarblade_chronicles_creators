@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "[18+] Sunshi RAW and Late (Like your GF) ✸Afterhours Stream✸",
-    "viewer_count": 12,
+    "viewer_count": 10,
     "started_at": "2026-02-23T05:49:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -27,5 +27,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "315298894440",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "more yapping while on skyblock! [!discord] [!dubby] [18+]",
+    "viewer_count": 1,
+    "started_at": "2026-02-23T07:55:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NewZealand",
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   }
 ]
