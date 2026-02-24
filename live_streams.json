@@ -51,6 +51,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   },
   {
+    "id": "317892925402",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "1448964995",
+    "game_name": "Arknights: Endfield",
+    "type": "live",
+    "title": "[18+] ARKCATS ENDFIELD! LORE ACCURATE CABBY (!clip)",
+    "viewer_count": 3,
+    "started_at": "2026-02-24T22:02:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Catboy",
+      "BoyWife",
+      "Anime",
+      "Comfy",
+      "LGBTQ",
+      "English",
+      "femboy",
+      "Vtuber",
+      "Chatting",
+      "BackseatGamingAllowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
     "id": "315344836457",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -78,5 +107,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "317471302622",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "✨[18+] ✨Time to lock it down✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 0,
+    "started_at": "2026-02-24T22:06:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   }
 ]
