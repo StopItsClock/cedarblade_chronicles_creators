@@ -8,7 +8,7 @@
     "game_name": "Mewgenics",
     "type": "live",
     "title": "Birthdaython day 6! Yapping and Mewgenics!  !lurk !discord !throne !kofi",
-    "viewer_count": 28,
+    "viewer_count": 32,
     "started_at": "2026-02-24T00:22:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Super Cool Hot Mage Squad Unite!! -  CedarbladeSMP Ep3 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 20,
     "started_at": "2026-02-23T23:54:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] TODAY WE SET SAIL ON THE SEVEN SEAS! | DotW + Limbus Company | !lurk !throne !tip !discord",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-02-24T00:00:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -84,28 +84,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "317457526878",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "#CedarbladeSMP | Adventuring with @slushieghost @triagesylphiel & @cutenysnys",
-    "viewer_count": 5,
-    "started_at": "2026-02-24T00:06:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "317518459360",
@@ -133,6 +111,56 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
+  },
+  {
+    "id": "317515306336",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "WE ARE HUNTING WARDENS : D|!Discord !lurk | 🐉🧟",
+    "viewer_count": 4,
+    "started_at": "2026-02-24T00:03:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror",
+      "cedarbladesmp"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
+    "id": "317457526878",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "#CedarbladeSMP | Adventuring with @slushieghost @triagesylphiel & @cutenysnys",
+    "viewer_count": 4,
+    "started_at": "2026-02-24T00:06:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ComfyCafe",
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "318005533787",
@@ -187,32 +215,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "317515306336",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
+    "id": "316019805410",
+    "user_id": "533374521",
+    "user_login": "stopitsclock",
+    "user_name": "StopItsClock",
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "WE ARE HUNTING WARDENS : D|!Discord !lurk | 🐉🧟",
+    "title": "I actually get to play today wow! Cedarblade Chronicles (Day 2) | !members | 7TV",
     "viewer_count": 2,
-    "started_at": "2026-02-24T00:03:45Z",
+    "started_at": "2026-02-24T00:39:20Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stopitsclock-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
+      "Vtuber",
       "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror",
-      "cedarbladesmp"
+      "Chilled",
+      "Chatty",
+      "FriendlyCommunity",
+      "Casual"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69bf67c3-6c68-4301-85f0-0953bfc02527-profile_image-300x300.png"
   },
   {
     "id": "317878884186",
@@ -240,30 +265,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "316019805410",
-    "user_id": "533374521",
-    "user_login": "stopitsclock",
-    "user_name": "StopItsClock",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "I actually get to play today wow! Cedarblade Chronicles (Day 2) | !members | 7TV",
-    "viewer_count": 1,
-    "started_at": "2026-02-24T00:39:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stopitsclock-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Chilled",
-      "Chatty",
-      "FriendlyCommunity",
-      "Casual"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69bf67c3-6c68-4301-85f0-0953bfc02527-profile_image-300x300.png"
   }
 ]
