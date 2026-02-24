@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Super Cool Hot Mage Squad Unite!! -  CedarbladeSMP Ep3 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 16,
     "started_at": "2026-02-23T23:54:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Eldirtch Yap + MySpace + Million Dollar Idea ✸All Over the Place Stream✸",
-    "viewer_count": 15,
+    "viewer_count": 16,
     "started_at": "2026-02-24T03:29:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "i'm back in this hell ✧",
-    "viewer_count": 12,
+    "viewer_count": 9,
     "started_at": "2026-02-24T02:10:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -114,31 +114,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "316019805410",
-    "user_id": "533374521",
-    "user_login": "stopitsclock",
-    "user_name": "StopItsClock",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "I actually get to play today wow! Cedarblade Chronicles (Day 2) | !members | 7TV",
-    "viewer_count": 5,
-    "started_at": "2026-02-24T00:39:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stopitsclock-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Chilled",
-      "Chatty",
-      "FriendlyCommunity",
-      "Casual"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69bf67c3-6c68-4301-85f0-0953bfc02527-profile_image-300x300.png"
-  },
-  {
     "id": "317515186016",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -147,7 +122,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Reincarnated As A Cube-man And Made Friends So I Decided To Use My Healing Magic To Save The World - CedarbladeSMP Ep2 Day 4| !Clip  !SMP",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-02-23T23:59:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -167,25 +142,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "317457526878",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
+    "id": "316019805410",
+    "user_id": "533374521",
+    "user_login": "stopitsclock",
+    "user_name": "StopItsClock",
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "#CedarbladeSMP | Adventuring with @slushieghost @triagesylphiel & @cutenysnys",
-    "viewer_count": 3,
-    "started_at": "2026-02-24T00:06:15Z",
+    "title": "I actually get to play today wow! Cedarblade Chronicles (Day 2) | !members | 7TV",
+    "viewer_count": 2,
+    "started_at": "2026-02-24T00:39:20Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stopitsclock-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "Vtuber",
-      "ComfyCafe",
-      "English"
+      "English",
+      "Chilled",
+      "Chatty",
+      "FriendlyCommunity",
+      "Casual"
     ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69bf67c3-6c68-4301-85f0-0953bfc02527-profile_image-300x300.png"
   }
 ]
