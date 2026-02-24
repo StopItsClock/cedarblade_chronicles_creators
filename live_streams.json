@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "[18] 🌸 200+ Mods and I Know NONE [Minecraft SMP: Cedarblade Chron.] | !throne !socials !lurk !disco",
+    "title": "[18] \ud83c\udf38 200+ Mods and I Know NONE [Minecraft SMP: Cedarblade Chron.] | !throne !socials !lurk !disco",
     "viewer_count": 15,
     "started_at": "2026-02-24T21:37:42Z",
     "language": "en",
@@ -65,7 +65,7 @@
     "game_id": "506410",
     "game_name": "Dying Light 2: Stay Human",
     "type": "live",
-    "title": "[18+] I didnt tamper with this game at all :)))  💚 @cutenysnys 💚 !socials !Merch 💚",
+    "title": "[18+] I didnt tamper with this game at all :)))  \ud83d\udc9a @cutenysnys \ud83d\udc9a !socials !Merch \ud83d\udc9a",
     "viewer_count": 4,
     "started_at": "2026-02-24T23:34:34Z",
     "language": "en",
@@ -85,31 +85,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
-  },
-  {
-    "id": "317471302622",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "144418804",
-    "game_name": "LOCKDOWN Protocol",
-    "type": "live",
-    "title": "✨[18+] ✨Time to lock it down✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 2,
-    "started_at": "2026-02-24T22:06:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
     "id": "317472251230",
@@ -134,5 +109,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "317471302622",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "\u2728[18+] \u2728Time to lock it down\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "viewer_count": 2,
+    "started_at": "2026-02-24T22:06:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   }
 ]
