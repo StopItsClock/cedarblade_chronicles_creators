@@ -36,7 +36,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Super Cool Hot Mage Squad Unite!! -  CedarbladeSMP Ep3 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 23,
+    "viewer_count": 24,
     "started_at": "2026-02-23T23:54:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] TODAY WE SET SAIL ON THE SEVEN SEAS! | DotW + Limbus Company | !lurk !throne !tip !discord",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-02-24T00:00:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "i'm back in this hell ✧",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-02-24T02:10:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -111,6 +111,52 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
+  },
+  {
+    "id": "318005533787",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "1835414308",
+    "game_name": "Fate Trigger",
+    "type": "live",
+    "title": "FATE TRIGGER IS BACK AND SO ARE WE RAHH",
+    "viewer_count": 4,
+    "started_at": "2026-02-24T00:59:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plusstream",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
+  },
+  {
+    "id": "317457526878",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "#CedarbladeSMP | Adventuring with @slushieghost @triagesylphiel & @cutenysnys",
+    "viewer_count": 4,
+    "started_at": "2026-02-24T00:06:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ComfyCafe",
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "317515306336",
@@ -139,52 +185,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "317457526878",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "#CedarbladeSMP | Adventuring with @slushieghost @triagesylphiel & @cutenysnys",
-    "viewer_count": 4,
-    "started_at": "2026-02-24T00:06:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
-    "id": "318005533787",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "1835414308",
-    "game_name": "Fate Trigger",
-    "type": "live",
-    "title": "FATE TRIGGER IS BACK AND SO ARE WE RAHH",
-    "viewer_count": 3,
-    "started_at": "2026-02-24T00:59:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plusstream",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "317515186016",
@@ -238,32 +238,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69bf67c3-6c68-4301-85f0-0953bfc02527-profile_image-300x300.png"
-  },
-  {
-    "id": "317878884186",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "boss fight and more on the  Cedarbladesmp Ep1 !18+ !discord",
-    "viewer_count": 1,
-    "started_at": "2026-02-24T00:02:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Mature",
-      "18pluschannel",
-      "18plusstream",
-      "Mature",
-      "maturecontent",
-      "Rerun",
-      "minecraftstream"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
