@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "✧ Super Cool Hot Mage Squad Unite!! -  CedarbladeSMP Ep3 ✧ !lurk !merch !throne !clip",
+    "title": "\u2727 Super Cool Hot Mage Squad Unite!! -  CedarbladeSMP Ep3 \u2727 !lurk !merch !throne !clip",
     "viewer_count": 24,
     "started_at": "2026-02-23T23:54:21Z",
     "language": "en",
@@ -64,7 +64,7 @@
     "game_id": "490744",
     "game_name": "Stardew Valley",
     "type": "live",
-    "title": "BACK TO IT! Stardew Monday's! ⌇ +18 ⌇ !discord !social",
+    "title": "BACK TO IT! Stardew Monday's! \u2307 +18 \u2307 !discord !social",
     "viewer_count": 10,
     "started_at": "2026-02-23T21:56:25Z",
     "language": "en",
@@ -151,7 +151,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "WE ARE HUNTING WARDENS : D|!Discord !lurk | 🐉🧟",
+    "title": "WE ARE HUNTING WARDENS : D|!Discord !lurk | \ud83d\udc09\ud83e\udddf",
     "viewer_count": 4,
     "started_at": "2026-02-24T00:03:45Z",
     "language": "en",
@@ -219,28 +219,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69bf67c3-6c68-4301-85f0-0953bfc02527-profile_image-300x300.png"
   },
   {
-    "id": "317805063641",
-    "user_id": "160049351",
-    "user_login": "cosmosslayer1994",
-    "user_name": "cosmosslayer1994",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Minecraft CedarbladeSMP time",
-    "viewer_count": 2,
-    "started_at": "2026-02-23T23:37:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "minecraftsurivial"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3abd4348-0cf9-4a98-855f-91fc53f55114-profile_image-300x300.png"
-  },
-  {
     "id": "317515186016",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -267,6 +245,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317805063641",
+    "user_id": "160049351",
+    "user_login": "cosmosslayer1994",
+    "user_name": "cosmosslayer1994",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Minecraft CedarbladeSMP time",
+    "viewer_count": 2,
+    "started_at": "2026-02-23T23:37:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "minecraftsurivial"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3abd4348-0cf9-4a98-855f-91fc53f55114-profile_image-300x300.png"
   },
   {
     "id": "317878884186",
