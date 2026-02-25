@@ -8,7 +8,7 @@
     "game_name": "Dying Light 2: Stay Human",
     "type": "live",
     "title": "[18+] I didnt tamper with this game at all :)))  💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 35,
+    "viewer_count": 36,
     "started_at": "2026-02-24T23:34:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Sons of the Forest",
     "type": "live",
     "title": "✧ Run away we're gonna die qwq ✧ !lurk !merch !throne !clip",
-    "viewer_count": 21,
+    "viewer_count": 28,
     "started_at": "2026-02-24T23:57:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -119,7 +119,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✨[18+] ✨Time to start the base Cedarblade Ep.4✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-02-24T22:06:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -193,30 +193,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   },
   {
-    "id": "317472251230",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "21779",
-    "game_name": "League of Legends",
-    "type": "live",
-    "title": "Whyyyyyyyyyyyyyyyyyyyyyyyyy",
-    "viewer_count": 1,
-    "started_at": "2026-02-24T23:05:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "317531941472",
     "user_id": "938069605",
     "user_login": "cedarvt",
@@ -240,6 +216,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317472251230",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "21779",
+    "game_name": "League of Legends",
+    "type": "live",
+    "title": "Whyyyyyyyyyyyyyyyyyyyyyyyyy",
+    "viewer_count": 1,
+    "started_at": "2026-02-24T23:05:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "317531173216",
