@@ -8,7 +8,7 @@
     "game_name": "Sledding Game",
     "type": "live",
     "title": "✧ Hitting the slops today weee ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 21,
     "started_at": "2026-02-25T21:54:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[Sprout] Finishing Post-Stormblood!?! | !socials",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-02-25T18:05:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] CHANGE OF PLANS! MINECRAFT SMP! (!clip)",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-02-25T21:50:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "Sledding Game",
     "type": "live",
     "title": "SLEDDING WITH FRIENDS!!! - 20ish Vtuber on a sledding trip | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-25T21:59:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -213,28 +213,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
-    "id": "316511977574",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "At the valley straight starring it. and by it, let's justr say, my dew",
-    "viewer_count": 1,
-    "started_at": "2026-02-25T20:08:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
-  },
-  {
     "id": "317837330521",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -260,5 +238,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+  },
+  {
+    "id": "316511977574",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "At the valley straight starring it. and by it, let's justr say, my dew",
+    "viewer_count": 1,
+    "started_at": "2026-02-25T20:08:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
