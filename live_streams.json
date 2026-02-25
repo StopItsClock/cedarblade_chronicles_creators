@@ -8,7 +8,7 @@
     "game_name": "Dying Light 2: Stay Human",
     "type": "live",
     "title": "[18+] I didnt tamper with this game at all :)))  💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 30,
+    "viewer_count": 27,
     "started_at": "2026-02-24T23:34:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Hollow Knight",
     "type": "live",
     "title": "18+ | Im Back! Lets venture deep before I turn 23! | Switch 2 | Hollow Knight | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 25,
+    "viewer_count": 24,
     "started_at": "2026-02-25T03:16:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Dragon Hunting!!! Cedarblade SMP ep 4 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 24,
+    "viewer_count": 23,
     "started_at": "2026-02-24T23:57:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -84,33 +84,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
-  },
-  {
-    "id": "318021722459",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[Cedablade Chronicles] Ep. 2: Rise of Dawnspire!",
-    "viewer_count": 13,
-    "started_at": "2026-02-25T02:00:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
     "id": "317536192224",
@@ -142,31 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b550da45-af71-483a-8d3c-5151d2b9fc8d-profile_image-300x300.png"
   },
   {
-    "id": "317536276320",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cedarblade Chronicles SMP!  :3  ~🍂 !discord !merch !smp",
-    "viewer_count": 2,
-    "started_at": "2026-02-25T03:38:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
-  },
-  {
     "id": "317827169113",
     "user_id": "240610101",
     "user_login": "shatteredsoullive",
@@ -194,5 +142,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "317536276320",
+    "user_id": "938069605",
+    "user_login": "cedarvt",
+    "user_name": "CedarVT",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cedarblade Chronicles SMP!  :3  ~🍂 !discord !merch !smp",
+    "viewer_count": 1,
+    "started_at": "2026-02-25T03:38:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "ComfyChaotic",
+      "leaf",
+      "skibidirizz"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   }
 ]
