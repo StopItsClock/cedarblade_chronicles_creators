@@ -8,7 +8,7 @@
     "game_name": "Pratfall",
     "type": "live",
     "title": "✧ Steam next fes Co-Op games ✧ !lurk !merch !throne !clip",
-    "viewer_count": 47,
+    "viewer_count": 42,
     "started_at": "2026-02-25T21:54:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -27,6 +27,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
+  },
+  {
+    "id": "317913736666",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "1448964995",
+    "game_name": "Arknights: Endfield",
+    "type": "live",
+    "title": "you get banned if you say i look like endmin || !discord !dono !lurk !throne",
+    "viewer_count": 25,
+    "started_at": "2026-02-26T01:40:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   },
   {
     "id": "318037194843",
@@ -58,30 +82,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "317913736666",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "1448964995",
-    "game_name": "Arknights: Endfield",
-    "type": "live",
-    "title": "you get banned if you say i look like endmin || !discord !dono !lurk !throne",
-    "viewer_count": 23,
-    "started_at": "2026-02-26T01:40:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
-  },
-  {
     "id": "316495503576",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -105,6 +105,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318037940443",
+    "user_id": "116714793",
+    "user_login": "marioairheart",
+    "user_name": "MarioAirheart",
+    "game_id": "1868360962",
+    "game_name": "Five Nights at Freddy's",
+    "type": "live",
+    "title": "18+ | Feels like it was yesterday I was 22 - Birthday Stream! | PC | FNAF 1 | !CreatorClub !discord !Blacklyte !Nekomart |",
+    "viewer_count": 6,
+    "started_at": "2026-02-26T03:07:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "VtuberEN",
+      "PNGtuberEN",
+      "Variety",
+      "English",
+      "CreatorClub",
+      "VTuberUprising",
+      "18maturelanguage"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
     "id": "317488284126",
@@ -164,34 +192,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "318037940443",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "1868360962",
-    "game_name": "Five Nights at Freddy's",
-    "type": "live",
-    "title": "18+ | Feels like it was yesterday I was 22 - Birthday Stream! | PC | FNAF 1 | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 4,
-    "started_at": "2026-02-26T03:07:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "CreatorClub",
-      "VTuberUprising",
-      "18maturelanguage"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
     "id": "317844086873",
     "user_id": "743128134",
     "user_login": "zippingyeti",
@@ -200,7 +200,7 @@
     "game_name": "",
     "type": "live",
     "title": "Todays the day! Season 3: Cedarblade Chronicles ep 3! Moving Day! #CedarbladeSMP",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-02-26T03:53:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zippingyeti-{width}x{height}.jpg",
