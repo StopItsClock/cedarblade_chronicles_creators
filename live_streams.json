@@ -54,31 +54,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
-    "id": "317500994910",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "144418804",
-    "game_name": "LOCKDOWN Protocol",
-    "type": "live",
-    "title": "✨[18+] ✨Lockdown time✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 4,
-    "started_at": "2026-02-26T22:06:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
-  },
-  {
     "id": "317501106654",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -105,35 +80,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "315373615594",
-    "user_id": "95084465",
-    "user_login": "deltarious5",
-    "user_name": "Deltarious5",
-    "game_id": "494839",
-    "game_name": "Deep Rock Galactic",
-    "type": "live",
-    "title": "yappin a hole into rock and stone! [!discord] [!dubby] [18+]",
-    "viewer_count": 2,
-    "started_at": "2026-02-26T20:10:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "NewZealand",
-      "Casual",
-      "ADHD",
-      "English",
-      "Vtuber",
-      "NoBackseatingUnlessAsked",
-      "18pluschannel",
-      "cosplayer",
-      "crossdresser",
-      "Anime"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
     "id": "316095523555",
@@ -163,6 +109,60 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "315373615594",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "yappin! [!discord] [!dubby] [18+]",
+    "viewer_count": 2,
+    "started_at": "2026-02-26T20:10:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NewZealand",
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "317500994910",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "✨[18+] ✨Lockdown time✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 2,
+    "started_at": "2026-02-26T22:06:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
     "id": "317926802522",
