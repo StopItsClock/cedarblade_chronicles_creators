@@ -1,30 +1,5 @@
 [
   {
-    "id": "315373626730",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "975920470",
-    "game_name": "BUCKSHOT ROULETTE",
-    "type": "live",
-    "title": "\ud83e\udd9d|archipelago| pain and suffering w/ @kyarah_ @juniperbunbun @schmuckheadplays @xuruko @kwuartz | !Discord | !Socials | \ud83e\udd9d\ud83d\udc5f\ud83d\udc51",
-    "viewer_count": 4,
-    "started_at": "2026-02-26T20:17:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
     "id": "315279697618",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -49,6 +24,57 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
+    "id": "315373626730",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "975920470",
+    "game_name": "BUCKSHOT ROULETTE",
+    "type": "live",
+    "title": "🦝|archipelago| pain and suffering w/ @kyarah_ @juniperbunbun @schmuckheadplays @xuruko @kwuartz | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 2,
+    "started_at": "2026-02-26T20:17:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
+  },
+  {
+    "id": "318045260123",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[ENVtuber] Craft to Exile SMP w/ @whitestcat @calmarvt and @daark_karma| 18+ He/They",
+    "viewer_count": 2,
+    "started_at": "2026-02-26T18:51:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "transmasc",
+      "HeThey",
+      "16plus",
+      "VTuber",
+      "ENVTuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
+  },
+  {
     "id": "315373615594",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -57,7 +83,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "more skyblock because the intended game broke! [!discord] [!dubby] [18+]",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-02-26T20:10:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -76,31 +102,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "318045260123",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[ENVtuber] Craft to Exile SMP w/ @whitestcat @calmarvt and @daark_karma| 18+ He/They",
-    "viewer_count": 1,
-    "started_at": "2026-02-26T18:51:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "transmasc",
-      "HeThey",
-      "16plus",
-      "VTuber",
-      "ENVTuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
