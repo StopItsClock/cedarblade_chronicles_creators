@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "Editor: I AM YOUR BEAST SUPPORT GROUP Refine cut and captions time!",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-02-26T18:13:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[ENVtuber] Craft to Exile SMP w/ @whitestcat @calmarvt and @daark_karma| 18+ He/They",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-02-26T18:51:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
@@ -102,5 +102,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
+  },
+  {
+    "id": "316094120803",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "CedarBlade SMP!! Let's explore!!",
+    "viewer_count": 1,
+    "started_at": "2026-02-26T20:44:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy",
+      "cedarbladesmp"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   }
 ]
