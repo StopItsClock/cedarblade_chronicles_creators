@@ -1,30 +1,5 @@
 [
   {
-    "id": "316085071076",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[18+] [CederbladeSMP]  Another one",
-    "viewer_count": 4,
-    "started_at": "2026-02-27T20:48:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
     "id": "317575132000",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -33,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Peter the warden is here |!Discord !lurk | 🐉🧟",
-    "viewer_count": 4,
+    "viewer_count": 9,
     "started_at": "2026-02-27T21:27:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -53,6 +28,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   },
   {
+    "id": "316085071076",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[18+] [CederbladeSMP]  Another one",
+    "viewer_count": 3,
+    "started_at": "2026-02-27T20:48:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
     "id": "317943101914",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -61,7 +61,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Pokemon Presents -> Minecraft | !socials",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-02-27T21:02:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
