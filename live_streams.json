@@ -25,6 +25,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
+    "id": "317943101914",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Pokemon Presents -> Minecraft | !socials",
+    "viewer_count": 3,
+    "started_at": "2026-02-27T21:02:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
     "id": "316102250211",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -33,7 +61,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "ITS COMP TIME... Ready to Derank with me? (Support Main) | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-02-27T18:52:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -76,33 +104,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "317943101914",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Pokemon Presents -> Minecraft | !socials",
-    "viewer_count": 0,
-    "started_at": "2026-02-27T21:02:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   }
 ]
