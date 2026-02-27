@@ -1,30 +1,5 @@
 [
   {
-    "id": "315282314578",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1597660489",
-    "game_name": "RESIDENT EVIL: requiem",
-    "type": "live",
-    "title": "VTUBER MODEL 2.0 DEBUT! ROUND HOUSE KICKING ZOMBIES ON A FRIDAY!",
-    "viewer_count": 7,
-    "started_at": "2026-02-27T12:29:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
     "id": "316102250211",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -33,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "ITS COMP TIME... Ready to Derank with me? (Support Main) | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-02-27T18:52:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -51,6 +26,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "315282314578",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1597660489",
+    "game_name": "RESIDENT EVIL: requiem",
+    "type": "live",
+    "title": "VTUBER MODEL 2.0 DEBUT! ROUND HOUSE KICKING ZOMBIES ON A FRIDAY!",
+    "viewer_count": 6,
+    "started_at": "2026-02-27T12:29:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "317940159578",
