@@ -53,26 +53,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
-    "id": "317940159578",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Odyssey's Beyond SMP! Dragon these blocks across your face!",
-    "viewer_count": 1,
-    "started_at": "2026-02-27T17:13:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
     "id": "316456983013",
     "user_id": "169349524",
     "user_login": "frostvirinightfang",
@@ -80,7 +60,7 @@
     "game_id": "518184",
     "game_name": "Phasmophobia",
     "type": "live",
-    "title": "☽ Ghost Hunting with @66grimdemise66 ☾ !discord",
+    "title": "\u263d Ghost Hunting with @66grimdemise66 \u263e !discord",
     "viewer_count": 1,
     "started_at": "2026-02-27T17:25:01Z",
     "language": "en",
@@ -100,5 +80,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/89e47358-a571-4e69-add0-d64cd5a89514-profile_image-300x300.png"
+  },
+  {
+    "id": "317940159578",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Odyssey's Beyond SMP! Dragon these blocks across your face!",
+    "viewer_count": 1,
+    "started_at": "2026-02-27T17:13:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
