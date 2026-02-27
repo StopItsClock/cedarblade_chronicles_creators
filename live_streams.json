@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Peter the warden is here |!Discord !lurk | 🐉🧟",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-02-27T21:27:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "ULTRAKILL",
     "type": "live",
     "title": "SUBATHON DAY 19!! LET THE MIND BREAK WIDE OPEN|| ULTRAKILL (!lurk, !links, !discord)",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-02-27T23:00:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -53,31 +53,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
-    "id": "316085071076",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[18+] [CederbladeSMP]  Another one",
-    "viewer_count": 5,
-    "started_at": "2026-02-27T20:48:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
     "id": "317943101914",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -86,7 +61,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Pokemon Presents -> Minecraft | !socials",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-02-27T21:02:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -104,6 +79,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "316085071076",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[18+] [CederbladeSMP]  Another one",
+    "viewer_count": 4,
+    "started_at": "2026-02-27T20:48:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "318064445915",
@@ -135,6 +135,76 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
   },
   {
+    "id": "315314981224",
+    "user_id": "424839179",
+    "user_login": "thorn_fey_vt",
+    "user_name": "thorn_fey_vt",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "||HSR Late to the party but getting things done ||#Vtuber ||18+||",
+    "viewer_count": 2,
+    "started_at": "2026-02-27T23:30:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thorn_fey_vt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "LGBT",
+      "Autistic",
+      "ADHD",
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/877ab6a2-4ac4-4f06-8711-330aa2c6acb3-profile_image-300x300.png"
+  },
+  {
+    "id": "317455416668",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cedarblade Chronicles Season 03 - FIGHT NIGHT!",
+    "viewer_count": 1,
+    "started_at": "2026-02-27T23:35:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
+    "id": "317873924953",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "1597660489",
+    "game_name": "RESIDENT EVIL: requiem",
+    "type": "live",
+    "title": "These resident do indeed seem quite evil || Resident Evil: Requiem",
+    "viewer_count": 1,
+    "started_at": "2026-02-27T23:37:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "SurivalHorror",
+      "residentevil",
+      "RE9",
+      "re9requiem",
+      "firstplaythgrough"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
+  },
+  {
     "id": "317575438048",
     "user_id": "254478860",
     "user_login": "ispebble",
@@ -157,29 +227,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "315314981224",
-    "user_id": "424839179",
-    "user_login": "thorn_fey_vt",
-    "user_name": "thorn_fey_vt",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "||HSR Late to the party but getting things done ||#Vtuber ||18+||",
-    "viewer_count": 1,
-    "started_at": "2026-02-27T23:30:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thorn_fey_vt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "LGBT",
-      "Autistic",
-      "ADHD",
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/877ab6a2-4ac4-4f06-8711-330aa2c6acb3-profile_image-300x300.png"
   }
 ]
