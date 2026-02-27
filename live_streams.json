@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "Peter the warden is here |!Discord !lurk | 🐉🧟",
+    "title": "Peter the warden is here |!Discord !lurk | \ud83d\udc09\ud83e\udddf",
     "viewer_count": 7,
     "started_at": "2026-02-27T21:27:47Z",
     "language": "en",
@@ -81,30 +81,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
-    "id": "317575438048",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Grind we must",
-    "viewer_count": 1,
-    "started_at": "2026-02-27T21:49:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "318064445915",
     "user_id": "240610101",
     "user_login": "shatteredsoullive",
@@ -132,5 +108,54 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "317575438048",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Grind we must",
+    "viewer_count": 1,
+    "started_at": "2026-02-27T21:49:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "318064750811",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "514166",
+    "game_name": "ULTRAKILL",
+    "type": "live",
+    "title": "SUBATHON DAY 19!! LET THE MIND BREAK WIDE OPEN|| ULTRAKILL (!lurk, !links, !discord)",
+    "viewer_count": 0,
+    "started_at": "2026-02-27T23:00:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
