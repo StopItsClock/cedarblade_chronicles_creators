@@ -33,7 +33,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "ITS COMP TIME... Ready to Derank with me? | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-02-27T18:52:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -51,6 +51,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "317940159578",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Odyssey's Beyond SMP! Dragon these blocks across your face!",
+    "viewer_count": 1,
+    "started_at": "2026-02-27T17:13:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "316456983013",
@@ -80,25 +100,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/89e47358-a571-4e69-add0-d64cd5a89514-profile_image-300x300.png"
-  },
-  {
-    "id": "317940159578",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Odyssey's Beyond SMP! Dragon these blocks across your face!",
-    "viewer_count": 1,
-    "started_at": "2026-02-27T17:13:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
