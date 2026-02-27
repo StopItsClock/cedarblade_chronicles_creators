@@ -8,7 +8,7 @@
     "game_name": "One Move Away",
     "type": "live",
     "title": "✧ Steam next fes demo timee!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 24,
+    "viewer_count": 23,
     "started_at": "2026-02-27T00:01:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,6 +29,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
+    "id": "317930970330",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[V-Cobble] Working on our pokedex",
+    "viewer_count": 21,
+    "started_at": "2026-02-27T02:01:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
     "id": "317504306142",
     "user_id": "846373427",
     "user_login": "seraphselkie",
@@ -37,7 +64,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Smash or Pass drinking game with the the gorls! @florencethefaun @crimsonbloodcat !lurk !discord !throne !kofi",
-    "viewer_count": 17,
+    "viewer_count": 14,
     "started_at": "2026-02-27T01:00:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -51,10 +78,35 @@
       "Vtuber",
       "maturecontent",
       "debut",
-      "BirthdayWeek"
+      "BirthdayWeek",
+      "Mature"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0a120eb-45b4-4a95-b110-276682207ad7-profile_image-300x300.png"
+  },
+  {
+    "id": "317504336990",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27284",
+    "game_name": "Retro",
+    "type": "live",
+    "title": "[Whiplash] we gotta CUT LOOSE!",
+    "viewer_count": 10,
+    "started_at": "2026-02-27T01:01:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ComfyCafe",
+      "English",
+      "FirstPlaythrough",
+      "Retro"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "316095523555",
@@ -86,57 +138,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   },
   {
-    "id": "317504336990",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27284",
-    "game_name": "Retro",
-    "type": "live",
-    "title": "[Whiplash] we gotta CUT LOOSE!",
-    "viewer_count": 9,
-    "started_at": "2026-02-27T01:01:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English",
-      "FirstPlaythrough",
-      "Retro"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
-    "id": "317930970330",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[V-Cobble] Working on our pokedex",
-    "viewer_count": 6,
-    "started_at": "2026-02-27T02:01:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
     "id": "317505428062",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -145,7 +146,7 @@
     "game_name": "Games + Demos",
     "type": "live",
     "title": "[Subathon] Cast Meowgic Spells with us (Meowgic w/ @fievol @snickerdoodle_demon @AceCygnus )",
-    "viewer_count": 5,
+    "viewer_count": 7,
     "started_at": "2026-02-27T01:37:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -162,6 +163,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315373626730",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "975920470",
+    "game_name": "BUCKSHOT ROULETTE",
+    "type": "live",
+    "title": "🦝|archipelago| pain and suffering w/ @kyarah_ @juniperbunbun @schmuckheadplays @xuruko @kwuartz | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 4,
+    "started_at": "2026-02-26T20:17:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "317503507166",
@@ -190,31 +216,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315373626730",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "975920470",
-    "game_name": "BUCKSHOT ROULETTE",
-    "type": "live",
-    "title": "🦝|archipelago| pain and suffering w/ @kyarah_ @juniperbunbun @schmuckheadplays @xuruko @kwuartz | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 4,
-    "started_at": "2026-02-26T20:17:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "317561797984",
