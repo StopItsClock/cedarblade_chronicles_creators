@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "✧ RESIDENT EVIL DAY AHHHHH ✧ !lurk !merch !throne !clip",
-    "viewer_count": 20,
+    "viewer_count": 25,
     "started_at": "2026-02-28T00:00:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,6 +58,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
   },
   {
+    "id": "317575132000",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Peter the warden is here |!Discord !lurk | 🐉🧟",
+    "viewer_count": 13,
+    "started_at": "2026-02-27T21:27:47Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror",
+      "cedarbladesmp"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
     "id": "318066196315",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -66,7 +94,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] 🌸 200+ Mods and I Know NONE [Vtuber Minecraft SMP: Cedarblade Chron.]| !throne !socials !lurk !disco",
-    "viewer_count": 13,
+    "viewer_count": 11,
     "started_at": "2026-02-28T00:08:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -87,34 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
-    "id": "317455596124",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "PVP EVENT IN CEDARBLADE!! I WILL GET FIRST PLACE W/ @dracolicheren <3!!!! - !discord !lurk",
-    "viewer_count": 10,
-    "started_at": "2026-02-27T23:45:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "ENGLISH",
-      "Vtuber",
-      "brat",
-      "twinkmaxxing",
-      "yappingstreamer",
-      "newVTuber",
-      "English",
-      "Gremlin"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
-  },
-  {
     "id": "317366350197",
     "user_id": "1275381753",
     "user_login": "mimiluna2",
@@ -123,7 +123,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "D&D in Minecraft kinda",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-02-28T03:05:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -142,62 +142,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   },
   {
-    "id": "317575132000",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Peter the warden is here |!Discord !lurk | 🐉🧟",
-    "viewer_count": 6,
-    "started_at": "2026-02-27T21:27:47Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror",
-      "cedarbladesmp"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "317943101914",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Pokemon Presents -> Minecraft | !socials",
-    "viewer_count": 4,
-    "started_at": "2026-02-27T21:02:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
     "id": "317523476318",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -206,7 +150,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Eldritch Sun Yap Yap Yap ✸Yap Stream✸",
-    "viewer_count": 3,
+    "viewer_count": 7,
     "started_at": "2026-02-28T03:22:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -227,6 +171,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
+    "id": "317578156768",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "This Co-op is so seamless if you ignore all the seams | !Clip !Discord",
+    "viewer_count": 4,
+    "started_at": "2026-02-28T00:18:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
     "id": "317518847198",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -235,7 +207,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] My colonists are doing literally nothing | Cedarblade Chronicles SMP | !lurk !throne !tip !discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-02-28T00:00:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -254,34 +226,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "317578156768",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "This Co-op is so seamless if you ignore all the seams | !Clip !Discord",
-    "viewer_count": 3,
-    "started_at": "2026-02-28T00:18:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
     "id": "317577704416",
@@ -309,24 +253,25 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   },
   {
-    "id": "317455416668",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
+    "id": "317874415065",
+    "user_id": "1201913479",
+    "user_login": "absalomvt",
+    "user_name": "AbsalomVT",
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "Cedarblade Chronicles Season 03 - FIGHT NIGHT!",
+    "title": "the first event of cedarblade (Cedarblade Chronicles)",
     "viewer_count": 1,
-    "started_at": "2026-02-27T23:35:58Z",
+    "started_at": "2026-02-27T23:59:02Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_absalomvt-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "English"
+      "English",
+      "CedarbladeSMP"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5b9cfc5-1f8f-42c4-ae36-bddc7f1a9df1-profile_image-300x300.png"
   },
   {
     "id": "316057017826",
@@ -354,6 +299,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69bf67c3-6c68-4301-85f0-0953bfc02527-profile_image-300x300.png"
   },
   {
+    "id": "317455416668",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cedarblade Chronicles Season 03 - FIGHT NIGHT!",
+    "viewer_count": 1,
+    "started_at": "2026-02-27T23:35:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "317948800218",
     "user_id": "114779237",
     "user_login": "velkais370",
@@ -373,26 +338,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
-  },
-  {
-    "id": "317874415065",
-    "user_id": "1201913479",
-    "user_login": "absalomvt",
-    "user_name": "AbsalomVT",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "the first event of cedarblade (Cedarblade Chronicles)",
-    "viewer_count": 1,
-    "started_at": "2026-02-27T23:59:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_absalomvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "CedarbladeSMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5b9cfc5-1f8f-42c4-ae36-bddc7f1a9df1-profile_image-300x300.png"
   }
 ]
