@@ -1,34 +1,5 @@
 [
   {
-    "id": "316511519192",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "1597660489",
-    "game_name": "RESIDENT EVIL: requiem",
-    "type": "live",
-    "title": "✧ RESIDENT EVIL DAY AHHHHH ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
-    "started_at": "2026-02-28T00:00:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "Bilingual",
-      "sillylittleguy"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
-  },
-  {
     "id": "317579428064",
     "user_id": "67504126",
     "user_login": "cutenysnys",
@@ -37,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] LET ME HAVE A CRUMB 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 21,
+    "viewer_count": 28,
     "started_at": "2026-02-28T01:01:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -56,5 +27,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
+    "id": "316511519192",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "1597660489",
+    "game_name": "RESIDENT EVIL: requiem",
+    "type": "live",
+    "title": "✧ RESIDENT EVIL DAY AHHHHH ✧ !lurk !merch !throne !clip",
+    "viewer_count": 27,
+    "started_at": "2026-02-28T00:00:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Comfy",
+      "LGBT",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "Bilingual",
+      "sillylittleguy"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   }
 ]
