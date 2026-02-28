@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "I'M PLAYING A CIV EVENT SO LATE OMG! | [VTuber] Road to 400 🗣️🔬 | !discord |",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-02-28T16:45:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashetonne-{width}x{height}.jpg",
@@ -24,29 +24,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
-  },
-  {
-    "id": "316905420503",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "First day of econ civ!",
-    "viewer_count": 0,
-    "started_at": "2026-02-28T16:58:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English",
-      "modded"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
