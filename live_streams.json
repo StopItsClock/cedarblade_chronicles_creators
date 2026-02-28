@@ -1,34 +1,5 @@
 [
   {
-    "id": "316511519192",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "1597660489",
-    "game_name": "RESIDENT EVIL: requiem",
-    "type": "live",
-    "title": "✧ RESIDENT EVIL DAY AHHHHH ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
-    "started_at": "2026-02-28T00:00:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "Bilingual",
-      "sillylittleguy"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
-  },
-  {
     "id": "317579428064",
     "user_id": "67504126",
     "user_login": "cutenysnys",
@@ -37,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] LET ME HAVE A CRUMB 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 25,
+    "viewer_count": 39,
     "started_at": "2026-02-28T01:01:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -58,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
   },
   {
+    "id": "316511519192",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "1597660489",
+    "game_name": "RESIDENT EVIL: requiem",
+    "type": "live",
+    "title": "✧ RESIDENT EVIL DAY AHHHHH ✧ !lurk !merch !throne !clip",
+    "viewer_count": 21,
+    "started_at": "2026-02-28T00:00:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Comfy",
+      "LGBT",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "Bilingual",
+      "sillylittleguy"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
+  },
+  {
     "id": "317523476318",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -66,7 +66,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Eldritch Sun Yap Yap Yap ✸Yap Stream✸",
-    "viewer_count": 10,
+    "viewer_count": 13,
     "started_at": "2026-02-28T03:22:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "D&D in Minecraft kinda",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-02-28T03:05:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -112,6 +112,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
+  },
+  {
+    "id": "317455416668",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cedarblade Chronicles Season 03 - FIGHT NIGHT!",
+    "viewer_count": 3,
+    "started_at": "2026-02-27T23:35:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "317578156768",
@@ -140,47 +160,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317455416668",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cedarblade Chronicles Season 03 - FIGHT NIGHT!",
-    "viewer_count": 3,
-    "started_at": "2026-02-27T23:35:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "317948800218",
-    "user_id": "114779237",
-    "user_login": "velkais370",
-    "user_name": "velkais370",
-    "game_id": "774680424",
-    "game_name": "2XKO",
-    "type": "live",
-    "title": "2XKO time!",
-    "viewer_count": 2,
-    "started_at": "2026-02-28T02:07:10Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "2xko"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
   },
   {
     "id": "317951021786",
