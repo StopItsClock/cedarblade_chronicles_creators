@@ -7,7 +7,7 @@
     "game_id": "1597660489",
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
-    "title": "[18+] I am the best gamer to live. 💚 @cutenysnys 💚 !socials !Merch 💚",
+    "title": "[18+] I am the best gamer to live. \ud83d\udc9a @cutenysnys \ud83d\udc9a !socials !Merch \ud83d\udc9a",
     "viewer_count": 26,
     "started_at": "2026-02-28T22:04:01Z",
     "language": "en",
@@ -27,6 +27,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
+    "id": "317964632410",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "[Sprout] Experiences Shadowbringers | !socials",
+    "viewer_count": 8,
+    "started_at": "2026-02-28T21:02:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
     "id": "317893935449",
@@ -56,34 +84,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317964632410",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "[Sprout] Experiences Shadowbringers | !socials",
-    "viewer_count": 8,
-    "started_at": "2026-02-28T21:02:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
     "id": "317965908570",
@@ -118,7 +118,7 @@
     "game_id": "490147",
     "game_name": "Hollow Knight",
     "type": "live",
-    "title": "LETS PLAY! I will NOT* quit this time! ⌇ +18 ⌇ !discord !social",
+    "title": "LETS PLAY! I will NOT* quit this time! \u2307 +18 \u2307 !discord !social",
     "viewer_count": 4,
     "started_at": "2026-02-28T22:14:46Z",
     "language": "en",
@@ -138,34 +138,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318084421083",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "464339927",
-    "game_name": "ARC Raiders",
-    "type": "live",
-    "title": "Wolfie diving into ARC RAIDER AGAIN !18+ !discord",
-    "viewer_count": 1,
-    "started_at": "2026-02-28T22:03:35Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Mature",
-      "18pluschannel",
-      "18plusstream",
-      "Mature",
-      "maturecontent",
-      "Rerun",
-      "minecraftstream",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   },
   {
     "id": "317961854042",
@@ -195,5 +167,33 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
+  },
+  {
+    "id": "318084421083",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "starfastwolf",
+    "game_id": "464339927",
+    "game_name": "ARC Raiders",
+    "type": "live",
+    "title": "Wolfie diving into ARC RAIDER AGAIN !18+ !discord",
+    "viewer_count": 1,
+    "started_at": "2026-02-28T22:03:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Mature",
+      "18pluschannel",
+      "18plusstream",
+      "Mature",
+      "maturecontent",
+      "Rerun",
+      "minecraftstream",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
