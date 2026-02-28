@@ -8,7 +8,7 @@
     "game_name": "Learn with Pokémon: Typing Adventure",
     "type": "live",
     "title": "You've caught me at a very Pokemon and German time of my life right now",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-02-28T18:29:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -21,35 +21,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
-    "id": "317961854042",
-    "user_id": "87014181",
-    "user_login": "thetactician",
-    "user_name": "TheTactician",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "Climbing Marbel Ribals Ranked AND New Model Reveal?!?",
-    "viewer_count": 2,
-    "started_at": "2026-02-28T19:00:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "NoBackseating",
-      "Anime",
-      "Vtuber",
-      "funnymoments",
-      "English",
-      "Collab",
-      "marvelrivalsranked",
-      "marvelrivalsgameplay",
-      "marvelrivals",
-      "marvel"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   },
   {
     "id": "315305612115",
@@ -84,7 +55,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "For Sammy we must grind",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-02-28T20:21:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -125,5 +96,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
+  },
+  {
+    "id": "317961854042",
+    "user_id": "87014181",
+    "user_login": "thetactician",
+    "user_name": "TheTactician",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "Climbing Marbel Ribals Ranked AND New Model Reveal?!?",
+    "viewer_count": 1,
+    "started_at": "2026-02-28T19:00:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NoBackseating",
+      "Anime",
+      "Vtuber",
+      "funnymoments",
+      "English",
+      "Collab",
+      "marvelrivalsranked",
+      "marvelrivalsgameplay",
+      "marvelrivals",
+      "marvel"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   }
 ]
