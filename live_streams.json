@@ -1,5 +1,31 @@
 [
   {
+    "id": "315552600562",
+    "user_id": "1106398757",
+    "user_login": "ashetonne",
+    "user_name": "AsheTonne",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "I'M PLAYING A CIV EVENT SO LATE OMG! | [VTuber] Road to 400 🗣️🔬 | !discord |",
+    "viewer_count": 1,
+    "started_at": "2026-02-28T16:45:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashetonne-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "MaleVtuber",
+      "ENVtuber",
+      "Vtuber",
+      "SwearWarning",
+      "ChaoticChillVibes",
+      "Scientist"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
+  },
+  {
     "id": "317590581344",
     "user_id": "710026427",
     "user_login": "wallowsett",
@@ -8,7 +34,7 @@
     "game_name": "Pokémon Trading Card Game Live",
     "type": "live",
     "title": "You've caught me at a very Pokemon and German time of my life right now",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-02-28T18:29:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -46,31 +72,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
-    "id": "315552600562",
-    "user_id": "1106398757",
-    "user_login": "ashetonne",
-    "user_name": "AsheTonne",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "I'M PLAYING A CIV EVENT SO LATE OMG! | [VTuber] Road to 400 🗣️🔬 | !discord |",
-    "viewer_count": 1,
-    "started_at": "2026-02-28T16:45:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashetonne-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "MaleVtuber",
-      "ENVtuber",
-      "Vtuber",
-      "SwearWarning",
-      "ChaoticChillVibes",
-      "Scientist"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
   }
 ]
