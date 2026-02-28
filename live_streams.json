@@ -8,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[Sprout] Experiences Shadowbringers | !socials",
-    "viewer_count": 8,
+    "viewer_count": 4,
     "started_at": "2026-02-28T21:02:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -28,29 +28,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "317590581344",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "29528",
-    "game_name": "Learn with Pokémon: Typing Adventure",
-    "type": "live",
-    "title": "You've caught me at a very Pokemon and German time of my life right now",
-    "viewer_count": 6,
-    "started_at": "2026-02-28T18:29:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English",
-      "Retro"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
     "id": "317593127776",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -59,7 +36,7 @@
     "game_name": "Music",
     "type": "live",
     "title": "[Subathon] I love you like a love song or something (Love Song Karaoke)",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-02-28T21:10:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -76,6 +53,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315305612115",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1903182640",
+    "game_name": "SWORN",
+    "type": "live",
+    "title": "SWORN WITH @gilded_wolfe",
+    "viewer_count": 2,
+    "started_at": "2026-02-28T19:56:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "317592314464",
@@ -101,30 +102,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "315305612115",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1903182640",
-    "game_name": "SWORN",
-    "type": "live",
-    "title": "SWORN WITH @gilded_wolfe",
-    "viewer_count": 1,
-    "started_at": "2026-02-28T19:56:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "317961854042",
