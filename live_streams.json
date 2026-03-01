@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] I am the best gamer to live. 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 24,
+    "viewer_count": 23,
     "started_at": "2026-02-28T22:04:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -52,6 +52,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "316911304151",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[Cedarblade Chronicles: Odyssey's Beyond] !team !cedarblade | Lets decorate and explore!",
+    "viewer_count": 2,
+    "started_at": "2026-03-01T01:30:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "EN",
+      "ElfVTuber",
+      "Elf",
+      "smallstream",
+      "SheHer",
+      "CedarbladeSMP",
+      "minecraft",
+      "building",
+      "ADHD"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   },
   {
     "id": "317961854042",
@@ -109,34 +138,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "316911304151",
-    "user_id": "574560089",
-    "user_login": "kayvender",
-    "user_name": "kayvender",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[Cedarblade Chronicles: Odyssey's Beyond] !team !cedarblade | Lets decorate and explore!",
-    "viewer_count": 1,
-    "started_at": "2026-03-01T01:30:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "EN",
-      "ElfVTuber",
-      "Elf",
-      "smallstream",
-      "SheHer",
-      "CedarbladeSMP",
-      "minecraft",
-      "building",
-      "ADHD"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
