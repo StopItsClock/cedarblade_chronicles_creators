@@ -7,7 +7,7 @@
     "game_id": "1003606006",
     "game_name": "Hytale",
     "type": "live",
-    "title": "[VSMP X AHA] \u2727 Shiny Rocks and Yuri for charity!! \u2727 !lurk !merch !throne !clip",
+    "title": "[VSMP X AHA] ✧ Shiny Rocks and Yuri for charity!! ✧ !lurk !merch !throne !clip",
     "viewer_count": 25,
     "started_at": "2026-03-01T18:45:35Z",
     "language": "en",
@@ -37,7 +37,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "she uhm over on my watch until i uuhmmm || !discord !dono !lurk !throne",
-    "viewer_count": 17,
+    "viewer_count": 15,
     "started_at": "2026-03-01T21:32:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -80,35 +80,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
-    "id": "317988041050",
-    "user_id": "952513348",
-    "user_login": "cabbytat",
-    "user_name": "CabbyTat",
-    "game_id": "1356530436",
-    "game_name": "My Voice Zoo",
-    "type": "live",
-    "title": "[18+] FARMER CABBY IS BACK... what did that cow just say...? (!clip)",
-    "viewer_count": 3,
-    "started_at": "2026-03-01T21:50:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Catboy",
-      "BoyWife",
-      "Anime",
-      "Comfy",
-      "LGBTQ",
-      "English",
-      "femboy",
-      "Vtuber",
-      "Chatting",
-      "BackseatGamingAllowed"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
-  },
-  {
     "id": "315321602408",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -136,5 +107,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "317988041050",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "1356530436",
+    "game_name": "My Voice Zoo",
+    "type": "live",
+    "title": "[18+] FARMER CABBY IS BACK... what did that cow just say...? (!clip)",
+    "viewer_count": 2,
+    "started_at": "2026-03-01T21:50:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Catboy",
+      "BoyWife",
+      "Anime",
+      "Comfy",
+      "LGBTQ",
+      "English",
+      "femboy",
+      "Vtuber",
+      "Chatting",
+      "BackseatGamingAllowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   }
 ]
