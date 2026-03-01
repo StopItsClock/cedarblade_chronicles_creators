@@ -8,7 +8,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "[VSMP X AHA] ✧ Shiny Rocks and Yuri for charity!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
+    "viewer_count": 32,
     "started_at": "2026-03-01T18:45:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] Nunnami more like lady of sin (Bg3 w/ @regina_kardinal",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-03-01T20:37:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -82,5 +82,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "317611935712",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "she uhm over on my watch until i uuhmmm || !discord !dono !lurk !throne",
+    "viewer_count": 1,
+    "started_at": "2026-03-01T21:32:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   }
 ]
