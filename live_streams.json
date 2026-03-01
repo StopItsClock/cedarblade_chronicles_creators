@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] I am the best gamer to live. 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 27,
+    "viewer_count": 31,
     "started_at": "2026-02-28T22:04:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -27,6 +27,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
+    "id": "317965908570",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "511864",
+    "game_name": "Persona 5 Royal",
+    "type": "live",
+    "title": "SUBATHON DAY 20!! We're going to steal EVERYONE'S TREAURE!!!|| Persona 5 Royal (!lurk, !links, !discord)",
+    "viewer_count": 7,
+    "started_at": "2026-02-28T22:00:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "317971328218",
@@ -54,30 +79,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317965908570",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "511864",
-    "game_name": "Persona 5 Royal",
-    "type": "live",
-    "title": "SUBATHON DAY 20!! We're going to steal EVERYONE'S TREAURE!!!|| Persona 5 Royal (!lurk, !links, !discord)",
-    "viewer_count": 6,
-    "started_at": "2026-02-28T22:00:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
