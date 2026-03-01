@@ -37,7 +37,7 @@
     "game_name": "PowerWash Simulator 2",
     "type": "live",
     "title": "[Powerwash Simulator] It's time to be a lean mean cleaning machine with @GavinStoutheart",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-03-01T02:11:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -79,34 +79,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "317961854042",
-    "user_id": "87014181",
-    "user_login": "thetactician",
-    "user_name": "TheTactician",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "Climbing Marbel Ribals Ranked AND New Model Reveal?!?",
-    "viewer_count": 1,
-    "started_at": "2026-02-28T19:00:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "NoBackseating",
-      "Anime",
-      "Vtuber",
-      "funnymoments",
-      "English",
-      "Collab",
-      "marvelrivalsranked",
-      "marvelrivalsgameplay",
-      "marvelrivals",
-      "marvel"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   }
 ]
