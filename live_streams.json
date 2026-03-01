@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] I am the best gamer to live. 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 24,
+    "viewer_count": 23,
     "started_at": "2026-02-28T22:04:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Persona 5 Royal",
     "type": "live",
     "title": "SUBATHON DAY 20!! We're going to steal EVERYONE'S TREAURE!!!|| Persona 5 Royal (!lurk, !links, !discord)",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-02-28T22:00:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -81,35 +81,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
-    "id": "316911304151",
-    "user_id": "574560089",
-    "user_login": "kayvender",
-    "user_name": "kayvender",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[Cedarblade Chronicles: Odyssey's Beyond] !team !cedarblade | Lets decorate and explore!",
-    "viewer_count": 2,
-    "started_at": "2026-03-01T01:30:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "EN",
-      "ElfVTuber",
-      "Elf",
-      "smallstream",
-      "SheHer",
-      "CedarbladeSMP",
-      "minecraft",
-      "building",
-      "ADHD"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
-  },
-  {
     "id": "317961854042",
     "user_id": "87014181",
     "user_login": "thetactician",
@@ -137,5 +108,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
+  },
+  {
+    "id": "316911304151",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[Cedarblade Chronicles: Odyssey's Beyond] !team !cedarblade | Lets decorate and explore!",
+    "viewer_count": 2,
+    "started_at": "2026-03-01T01:30:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "EN",
+      "ElfVTuber",
+      "Elf",
+      "smallstream",
+      "SheHer",
+      "CedarbladeSMP",
+      "minecraft",
+      "building",
+      "ADHD"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
