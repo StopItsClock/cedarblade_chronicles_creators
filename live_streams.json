@@ -7,8 +7,8 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "Eldritch Sun Befriends All Vtubers! Even the bad ones... ✸Yap Myoshi Stream✸",
-    "viewer_count": 5,
+    "title": "Eldritch Sun Befriends All Vtubers! Even the bad ones... \u2738Yap Myoshi Stream\u2738",
+    "viewer_count": 8,
     "started_at": "2026-03-01T04:07:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -21,7 +21,7 @@
       "boyfriend",
       "EldritchVTuber",
       "MaleVtuber",
-      "Chıll",
+      "Ch\u0131ll",
       "ADHD",
       "TentacleMonster"
     ],
@@ -36,8 +36,8 @@
     "game_id": "460636",
     "game_name": "Bloodborne",
     "type": "live",
-    "title": "『Bloodborne』Don't Ask How Many Bold Hunter's Marks We've Used|| !discord !essay !hmo !idea 『18+』",
-    "viewer_count": 4,
+    "title": "\u300eBloodborne\u300fDon't Ask How Many Bold Hunter's Marks We've Used|| !discord !essay !hmo !idea \u300e18+\u300f",
+    "viewer_count": 3,
     "started_at": "2026-03-01T04:38:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leyonlagure-{width}x{height}.jpg",
@@ -55,30 +55,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9b36daa-7868-4427-9e37-14f809ee9dcf-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317965908570",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "511864",
-    "game_name": "Persona 5 Royal",
-    "type": "live",
-    "title": "SUBATHON DAY 20!! We're going to steal EVERYONE'S TREAURE!!!|| Persona 5 Royal (!lurk, !links, !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-02-28T22:00:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
