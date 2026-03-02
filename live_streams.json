@@ -7,7 +7,7 @@
     "game_id": "1003606006",
     "game_name": "Hytale",
     "type": "live",
-    "title": "[VSMP X AHA] \u2727 Suffering from success!! Im now the Archmage -  Day 2 \u2727 !lurk !merch !throne !clip",
+    "title": "[VSMP X AHA] ✧ Suffering from success!! Im now the Archmage -  Day 2 ✧ !lurk !merch !throne !clip",
     "viewer_count": 13,
     "started_at": "2026-03-02T23:28:22Z",
     "language": "en",
@@ -27,6 +27,35 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
+  },
+  {
+    "id": "317934578265",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "IT'S TIME! L2D roadmap talk then Stardew Monday's!! ⌇ +18 ⌇ !discord !social",
+    "viewer_count": 6,
+    "started_at": "2026-03-02T21:58:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "318005263066",
@@ -58,35 +87,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
-    "id": "317934578265",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "IT'S TIME! L2D roadmap talk then Stardew Monday's!! \u2307 +18 \u2307 !discord !social",
-    "viewer_count": 6,
-    "started_at": "2026-03-02T21:58:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Comfy",
-      "Chaotic",
-      "Yapper",
-      "chill",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318003963994",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -113,31 +113,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "318120891099",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "SUBATHON DAY 21!! Getting more and more powerful on the Cedarblade SMP|| Minecraft (!lurk, !links, !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-03-02T22:00:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "318004133978",
@@ -167,6 +142,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "318120891099",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "SUBATHON DAY 21!! Getting more and more powerful on the Cedarblade SMP|| Minecraft (!lurk, !links, !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-03-02T22:00:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "316932894167",
