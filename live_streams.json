@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] RESIDENT EVIL REQUIEM! I CANNOT BE SCARED! (!clip)",
-    "viewer_count": 6,
+    "viewer_count": 9,
     "started_at": "2026-03-02T21:51:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "Hotel POV | HeartTale VSMP | !charity !AHA",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-02T20:11:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -55,32 +55,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "317503698396",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "512923",
-    "game_name": "Baldur's Gate 3",
-    "type": "live",
-    "title": "[Subathon] Balding Gates with my beautiful wife (Baldur's Gate 3 w/ @regina_Kardinal)",
-    "viewer_count": 6,
-    "started_at": "2026-03-02T20:47:53Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
     "id": "317934578265",
@@ -112,6 +86,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "318120891099",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "SUBATHON DAY 21!! Getting more and more powerful on the Cedarblade SMP|| Minecraft (!lurk, !links, !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-03-02T22:00:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "318004133978",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -141,31 +140,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
-    "id": "318120891099",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "SUBATHON DAY 21!! Getting more and more powerful on the Cedarblade SMP|| Minecraft (!lurk, !links, !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-03-02T22:00:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "316083000418",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -174,7 +148,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] [CederbladeSMP]  Another one",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-03-02T20:27:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -199,7 +173,7 @@
     "game_name": "Creature Kitchen",
     "type": "live",
     "title": "Lets cook for some strange little creatures",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-03-02T22:03:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
@@ -216,5 +190,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
+    "id": "317935650777",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Just some chilling and building || Minecraft : Cedarblade SMP",
+    "viewer_count": 0,
+    "started_at": "2026-03-02T22:58:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "BaseBuilding",
+      "SandboxGame",
+      "openworld",
+      "survival"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   }
 ]
