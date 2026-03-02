@@ -8,7 +8,7 @@
     "game_name": "Pokémon Legends: Z-A",
     "type": "live",
     "title": "[18+] DLC for lil ol me :3 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 25,
+    "viewer_count": 27,
     "started_at": "2026-03-02T01:05:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -27,6 +27,35 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
+    "id": "316076414690",
+    "user_id": "61839029",
+    "user_login": "everyonelovesrobots",
+    "user_name": "EveryoneLovesRobots",
+    "game_id": "65876",
+    "game_name": "Cyberpunk 2077",
+    "type": "live",
+    "title": "[Cyberpunk 2077] Spare Eddies for a broke Solo? I need more noodlessss [18+]| road to 250 | !lurk | !commands",
+    "viewer_count": 2,
+    "started_at": "2026-03-01T23:48:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "everyonelovesrobots",
+      "SciFiGaming",
+      "PNGtuberEN",
+      "HorrorGaming",
+      "ENG",
+      "VtuberEN",
+      "Robots",
+      "scifi",
+      "Charity"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   },
   {
     "id": "316332850791",
@@ -51,34 +80,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63054ac4-011a-47f7-aaef-9e6049b5f974-profile_image-300x300.png"
-  },
-  {
-    "id": "316076414690",
-    "user_id": "61839029",
-    "user_login": "everyonelovesrobots",
-    "user_name": "EveryoneLovesRobots",
-    "game_id": "65876",
-    "game_name": "Cyberpunk 2077",
-    "type": "live",
-    "title": "[Cyberpunk 2077] Spare Eddies for a broke Solo? I need more noodlessss [18+]| road to 250 | !lurk | !commands",
-    "viewer_count": 1,
-    "started_at": "2026-03-01T23:48:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "everyonelovesrobots",
-      "SciFiGaming",
-      "PNGtuberEN",
-      "HorrorGaming",
-      "ENG",
-      "VtuberEN",
-      "Robots",
-      "scifi",
-      "Charity"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   }
 ]
