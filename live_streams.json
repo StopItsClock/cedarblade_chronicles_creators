@@ -1,31 +1,29 @@
 [
   {
-    "id": "318003963994",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "1003606006",
-    "game_name": "Hytale",
+    "id": "317503698396",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512923",
+    "game_name": "Baldur's Gate 3",
     "type": "live",
-    "title": "Hotel POV | HeartTale VSMP | !charity !AHA",
-    "viewer_count": 6,
-    "started_at": "2026-03-02T20:11:58Z",
+    "title": "[Subathon] Balding Gates with my beautiful wife (Baldur's Gate 3 w/ @regina_Kardinal)",
+    "viewer_count": 7,
+    "started_at": "2026-03-02T20:47:53Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
+      "Chaos",
+      "Gremlin",
       "English",
-      "Anime",
-      "Twunk",
-      "18plus"
+      "hilarious",
+      "PartnerPush",
+      "HighEnergy",
+      "Subathon"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
     "id": "316130886883",
@@ -36,7 +34,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "More Cedarblade SMP :3 | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-03-02T18:56:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -84,6 +82,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
+    "id": "318003963994",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "1003606006",
+    "game_name": "Hytale",
+    "type": "live",
+    "title": "Hotel POV | HeartTale VSMP | !charity !AHA",
+    "viewer_count": 5,
+    "started_at": "2026-03-02T20:11:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
     "id": "316083000418",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -107,31 +133,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "317503698396",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "512923",
-    "game_name": "Baldur's Gate 3",
-    "type": "live",
-    "title": "[Subathon] Balding Gates with my beautiful wife (Baldur's Gate 3 w/ @regina_Kardinal)",
-    "viewer_count": 0,
-    "started_at": "2026-03-02T20:47:53Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   }
 ]
