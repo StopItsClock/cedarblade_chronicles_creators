@@ -8,7 +8,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "[VSMP X AHA] ✧ Suffering from success!! Im now the Archmage -  Day 2 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 22,
     "started_at": "2026-03-02T23:28:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,30 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "317630677088",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "509660",
-    "game_name": "Art",
-    "type": "live",
-    "title": "i have to draw me eating 26 burgers || !discord !dono !lurk !throne",
-    "viewer_count": 10,
-    "started_at": "2026-03-03T01:22:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
-  },
-  {
     "id": "317570210910",
     "user_id": "846373427",
     "user_login": "seraphselkie",
@@ -61,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Doodling and yapping! TCG Launch! !lurk !discord !throne !kofi !TCG",
-    "viewer_count": 10,
+    "viewer_count": 12,
     "started_at": "2026-03-03T01:00:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -82,6 +58,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0a120eb-45b4-4a95-b110-276682207ad7-profile_image-300x300.png"
   },
   {
+    "id": "317630677088",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "i have to draw me eating 26 burgers || !discord !dono !lurk !throne",
+    "viewer_count": 12,
+    "started_at": "2026-03-03T01:22:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
+  },
+  {
     "id": "318003963994",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -90,7 +90,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "Hotel POV | HeartTale VSMP | !charity !AHA",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-03-02T20:11:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -114,8 +114,8 @@
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
     "user_name": "TriageSylphiel",
-    "game_id": "369844276",
-    "game_name": "Subliminal",
+    "game_id": "261588115",
+    "game_name": "Submerge",
     "type": "live",
     "title": "NEXT FEST DEMOS I FORGOT TO DO | !Clip !Discord",
     "viewer_count": 6,
@@ -146,7 +146,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "SUBATHON DAY 21!! Getting more and more powerful on the Cedarblade SMP|| Minecraft (!lurk, !links, !discord)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-03-02T22:00:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -161,31 +161,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "317628698720",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "✨[18+] ✨Time to cause some chaos and then more Cedarblade Ep.9✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 4,
-    "started_at": "2026-03-02T23:59:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
     "id": "317628718688",
@@ -217,6 +192,56 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "317628698720",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "✨[18+] ✨Time to cause some chaos and then more Cedarblade Ep.9✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 2,
+    "started_at": "2026-03-02T23:59:20Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
+  },
+  {
+    "id": "317935650777",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Just some chilling and building || Minecraft : Cedarblade SMP",
+    "viewer_count": 1,
+    "started_at": "2026-03-02T22:58:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "BaseBuilding",
+      "SandboxGame",
+      "openworld",
+      "survival"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
+  },
+  {
     "id": "317937594585",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -243,30 +268,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "317935650777",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Just some chilling and building || Minecraft : Cedarblade SMP",
-    "viewer_count": 1,
-    "started_at": "2026-03-02T22:58:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "BaseBuilding",
-      "SandboxGame",
-      "openworld",
-      "survival"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   }
 ]
