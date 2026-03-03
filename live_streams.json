@@ -8,7 +8,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "[VSMP X AHA] ✧ Suffering from success!! Im now the Archmage -  Day 2 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 14,
+    "viewer_count": 15,
     "started_at": "2026-03-02T23:28:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -57,6 +57,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "317934578265",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "IT'S TIME! L2D roadmap talk then Stardew Monday's!! ⌇ +18 ⌇ !discord !social",
+    "viewer_count": 5,
+    "started_at": "2026-03-02T21:58:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "317628698720",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -80,60 +109,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
-  },
-  {
-    "id": "317934578265",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "IT'S TIME! L2D roadmap talk then Stardew Monday's!! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 4,
-    "started_at": "2026-03-02T21:58:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Comfy",
-      "Chaotic",
-      "Yapper",
-      "chill",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318120891099",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "SUBATHON DAY 21!! Getting more and more powerful on the Cedarblade SMP|| Minecraft (!lurk, !links, !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-03-02T22:00:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "317628718688",
@@ -165,6 +140,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "318120891099",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "SUBATHON DAY 21!! Getting more and more powerful on the Cedarblade SMP|| Minecraft (!lurk, !links, !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-03-02T22:00:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "317569375326",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -191,6 +191,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317570210910",
+    "user_id": "846373427",
+    "user_login": "seraphselkie",
+    "user_name": "seraphselkie",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Doodling and yapping! TCG Launch! !lurk !discord !throne !kofi !TCG",
+    "viewer_count": 2,
+    "started_at": "2026-03-03T01:00:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "chatting",
+      "English",
+      "chattingwithviewers",
+      "chill",
+      "18pluschannel",
+      "Vtuber",
+      "maturecontent",
+      "debut",
+      "BirthdayWeek",
+      "Mature"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0a120eb-45b4-4a95-b110-276682207ad7-profile_image-300x300.png"
   },
   {
     "id": "316932894167",
@@ -221,6 +250,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   },
   {
+    "id": "317935650777",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Just some chilling and building || Minecraft : Cedarblade SMP",
+    "viewer_count": 1,
+    "started_at": "2026-03-02T22:58:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "BaseBuilding",
+      "SandboxGame",
+      "openworld",
+      "survival"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
+  },
+  {
     "id": "317937594585",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -247,30 +301,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "317935650777",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Just some chilling and building || Minecraft : Cedarblade SMP",
-    "viewer_count": 1,
-    "started_at": "2026-03-02T22:58:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "BaseBuilding",
-      "SandboxGame",
-      "openworld",
-      "survival"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   }
 ]
