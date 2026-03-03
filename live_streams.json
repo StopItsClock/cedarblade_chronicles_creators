@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "EXPLORING??? | Cedarblade Chronicles",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-03-03T18:31:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Pokémon Legends: Z-A",
     "type": "live",
     "title": "Finishing The Main Pokemon ZA Story !discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-03T21:26:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -59,7 +59,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Mining and Crafting in different dimensions!! CedarBlade Chronicles SMP 2",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-03T22:02:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -138,6 +138,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
+    "id": "316350394855",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "More Cedarblade Chronicles. i dont know what im doing but magic W/ @edwardp22 & @gilded_wolfe",
+    "viewer_count": 1,
+    "started_at": "2026-03-03T18:30:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
     "id": "315369505257",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -165,27 +187,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "316350394855",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "More Cedarblade Chronicles. i dont know what im doing but magic W/ @edwardp22 & @gilded_wolfe",
-    "viewer_count": 1,
-    "started_at": "2026-03-03T18:30:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
