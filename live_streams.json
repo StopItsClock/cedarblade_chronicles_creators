@@ -8,7 +8,7 @@
     "game_name": "Raft",
     "type": "live",
     "title": "gaming! [!discord] [!dubby] [18+]",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-04T22:59:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -29,35 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
-    "id": "316562355544",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "More Crafting and exploring!!! CedarBlade Chronicles SMP 3",
-    "viewer_count": 4,
-    "started_at": "2026-03-05T22:05:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "minecraft",
-      "SMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
-  },
-  {
     "id": "317672838112",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -66,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Farming n stuff | !Discord !lurk | 🐉🧟",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-03-05T22:28:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -84,30 +55,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "316084503031",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "21779",
-    "game_name": "League of Legends",
-    "type": "live",
-    "title": "random booda life updates! lets get sidetracked! :3",
-    "viewer_count": 3,
-    "started_at": "2026-03-05T22:33:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
   },
   {
     "id": "318054720858",
@@ -137,5 +84,58 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "316562355544",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "More Crafting and exploring!!! CedarBlade Chronicles SMP 3",
+    "viewer_count": 2,
+    "started_at": "2026-03-05T22:05:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "minecraft",
+      "SMP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "316084503031",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "21779",
+    "game_name": "League of Legends",
+    "type": "live",
+    "title": "random booda life updates! lets get sidetracked! :3",
+    "viewer_count": 1,
+    "started_at": "2026-03-05T22:33:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
   }
 ]
