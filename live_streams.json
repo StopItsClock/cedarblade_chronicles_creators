@@ -36,7 +36,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "When I'm residenting my evil for the 9th time... [RESIDENT EVIL: requiem] !Lurk !Discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-03-06T16:49:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_heyjustjackie-{width}x{height}.jpg",
@@ -82,30 +82,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
-  },
-  {
-    "id": "315327126739",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "498417",
-    "game_name": "Vintage Story",
-    "type": "live",
-    "title": "PHOENIX CARAVAN IS BACK! | Vintage Story",
-    "viewer_count": 1,
-    "started_at": "2026-03-06T18:43:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "318002685145",
@@ -157,5 +133,29 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "315327126739",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "498417",
+    "game_name": "Vintage Story",
+    "type": "live",
+    "title": "PHOENIX CARAVAN IS BACK! | Vintage Story",
+    "viewer_count": 1,
+    "started_at": "2026-03-06T18:43:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
