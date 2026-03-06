@@ -8,7 +8,7 @@
     "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "POKOPIA DAY 2! I WILL REBUILD KANTO MYSELF! | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-03-06T18:43:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "Becoming A Champion | HeartTale VSMP | !AHA",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-03-06T20:00:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -143,7 +143,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Building a home on the CedarSMP",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-03-06T18:41:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
@@ -211,5 +211,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "316147385956",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "1329153872",
+    "game_name": "Pokémon Pokopia",
+    "type": "live",
+    "title": "[18+] Daily Life of a Ditto begins now",
+    "viewer_count": 1,
+    "started_at": "2026-03-06T20:27:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
