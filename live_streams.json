@@ -8,7 +8,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "[Subathon] It's Wesker by daylight (DBD W/ @regina_kardinal",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-03-06T20:07:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -31,7 +31,7 @@
     "user_login": "karaleuatomic",
     "user_name": "KaraleuAtomic",
     "game_id": "1329153872",
-    "game_name": "Pok\u00e9mon Pokopia",
+    "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "POKOPIA DAY 2! I WILL REBUILD KANTO MYSELF! | 18+ | !fishcord !throne !kofi !waifu",
     "viewer_count": 4,
@@ -83,6 +83,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c37b21a-c63a-448c-8544-35d93cdbba93-profile_image-300x300.png"
   },
   {
+    "id": "316147385956",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "1329153872",
+    "game_name": "Pokémon Pokopia",
+    "type": "live",
+    "title": "[18+] Daily Life of a Ditto begins now",
+    "viewer_count": 2,
+    "started_at": "2026-03-06T20:27:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
     "id": "318181155931",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -111,32 +137,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "316147385956",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "1329153872",
-    "game_name": "Pok\u00e9mon Pokopia",
-    "type": "live",
-    "title": "[18+] Daily Life of a Ditto begins now",
-    "viewer_count": 2,
-    "started_at": "2026-03-06T20:27:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
     "id": "316535611365",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -157,33 +157,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
-  },
-  {
-    "id": "316115853538",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Time for some more of the SMP!",
-    "viewer_count": 1,
-    "started_at": "2026-03-06T18:41:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
-      "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   },
   {
     "id": "318002685145",
@@ -213,5 +186,32 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "316115853538",
+    "user_id": "149397923",
+    "user_login": "ravenincarnate",
+    "user_name": "ravenincarnate",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Time for some more of the SMP!",
+    "viewer_count": 1,
+    "started_at": "2026-03-06T18:41:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "Relaxing",
+      "Chill",
+      "English",
+      "18plusstream",
+      "18pluschannel",
+      "18maturelanguage"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   }
 ]
