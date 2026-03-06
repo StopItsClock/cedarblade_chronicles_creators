@@ -8,7 +8,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "[18+] I have 10 hours in this game and self loathing 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 45,
+    "viewer_count": 38,
     "started_at": "2026-03-06T01:08:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -58,50 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
-    "id": "317616340190",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27284",
-    "game_name": "Retro",
-    "type": "live",
-    "title": "[Whiplash] We must become the trash man",
-    "viewer_count": 10,
-    "started_at": "2026-03-06T01:03:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English",
-      "Retro",
-      "firstplaythrough"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
-    "id": "317552581596",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cedarblade Chronicles Season 03 - TIME TO CAPITALISM",
-    "viewer_count": 5,
-    "started_at": "2026-03-06T00:15:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "315627134579",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -127,6 +83,54 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
+    "id": "317552581596",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cedarblade Chronicles Season 03 - TIME TO CAPITALISM",
+    "viewer_count": 4,
+    "started_at": "2026-03-06T00:15:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
+    "id": "315576464114",
+    "user_id": "962427068",
+    "user_login": "heyjustjackie",
+    "user_name": "heyjustjackie",
+    "game_id": "1831585435",
+    "game_name": "They Killed Your Cat",
+    "type": "live",
+    "title": "john wicking if the dog was a cat [THEY KILLED YOUR CAT] !Lurk !Discord",
+    "viewer_count": 1,
+    "started_at": "2026-03-06T01:53:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_heyjustjackie-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "PngTuber",
+      "LGBTQfriendly",
+      "HKstreamer",
+      "goober",
+      "ADHD",
+      "English",
+      "ChaoticWholesome",
+      "silly",
+      "EnPNGTuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c37b21a-c63a-448c-8544-35d93cdbba93-profile_image-300x300.png"
   },
   {
     "id": "315394856682",
@@ -156,61 +160,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "318169872091",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "464339927",
-    "game_name": "ARC Raiders",
-    "type": "live",
-    "title": "Time to nab the howl emote in ARC RAIDER again. !18+ !discord",
-    "viewer_count": 1,
-    "started_at": "2026-03-06T00:38:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Mature",
-      "18pluschannel",
-      "18plusstream",
-      "Mature",
-      "maturecontent",
-      "Rerun",
-      "minecraftstream",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "315576464114",
-    "user_id": "962427068",
-    "user_login": "heyjustjackie",
-    "user_name": "heyjustjackie",
-    "game_id": "1831585435",
-    "game_name": "They Killed Your Cat",
-    "type": "live",
-    "title": "john wicking if the dog was a cat [THEY KILLED YOUR CAT] !Lurk !Discord",
-    "viewer_count": 1,
-    "started_at": "2026-03-06T01:53:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_heyjustjackie-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "PngTuber",
-      "LGBTQfriendly",
-      "HKstreamer",
-      "goober",
-      "ADHD",
-      "English",
-      "ChaoticWholesome",
-      "silly",
-      "EnPNGTuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c37b21a-c63a-448c-8544-35d93cdbba93-profile_image-300x300.png"
   }
 ]
