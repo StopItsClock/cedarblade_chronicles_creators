@@ -8,7 +8,7 @@
     "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "POKOPIA DAY 2! I WILL REBUILD KANTO MYSELF! | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-06T18:43:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "When I'm residenting my evil for the 9th time... [RESIDENT EVIL: requiem] !Lurk !Discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-06T16:49:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_heyjustjackie-{width}x{height}.jpg",
@@ -110,28 +110,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
-    "id": "316535611365",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "498417",
-    "game_name": "Vintage Story",
-    "type": "live",
-    "title": "The long awaited return of The Phoenix Caravan W/ @ravenincarnate & @edwardp22",
-    "viewer_count": 1,
-    "started_at": "2026-03-06T18:39:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
-  },
-  {
     "id": "316115853538",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -157,5 +135,55 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
+    "id": "316535611365",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "498417",
+    "game_name": "Vintage Story",
+    "type": "live",
+    "title": "The long awaited return of The Phoenix Caravan W/ @ravenincarnate & @edwardp22",
+    "viewer_count": 1,
+    "started_at": "2026-03-06T18:39:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "318181155931",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "1003606006",
+    "game_name": "Hytale",
+    "type": "live",
+    "title": "Becoming A Champion | HeartTale VSMP | !AHA",
+    "viewer_count": 1,
+    "started_at": "2026-03-06T20:00:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   }
 ]
