@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "When I'm residenting my evil for the 9th time... [RESIDENT EVIL: requiem] !Lurk !Discord",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-03-06T10:18:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_heyjustjackie-{width}x{height}.jpg",
@@ -27,5 +27,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c37b21a-c63a-448c-8544-35d93cdbba93-profile_image-300x300.png"
+  },
+  {
+    "id": "315336515048",
+    "user_id": "1106398757",
+    "user_login": "ashetonne",
+    "user_name": "AsheTonne",
+    "game_id": "26936",
+    "game_name": "Music",
+    "type": "live",
+    "title": "SINGING UNTIL I GET TIRED OR I GET THE URGE TO RECORD A SONG! | [VTuber] Road to 400 🗣️🔬 | !discord |",
+    "viewer_count": 2,
+    "started_at": "2026-03-06T12:29:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashetonne-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "MaleVtuber",
+      "ENVtuber",
+      "Vtuber",
+      "SwearWarning",
+      "ChaoticChillVibes",
+      "Scientist"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
   }
 ]
