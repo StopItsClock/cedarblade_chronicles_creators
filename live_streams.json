@@ -7,8 +7,8 @@
     "game_id": "491487",
     "game_name": "Dead by Daylight",
     "type": "live",
-    "title": "[Subathon] It's Wesker by daylight (DBD W/ @regina_kardinal",
-    "viewer_count": 6,
+    "title": "[Subathon] It's Wesker by daylight (DBD W/ @regina_kardinal and @kiba_safir",
+    "viewer_count": 5,
     "started_at": "2026-03-06T20:07:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -109,6 +109,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
+    "id": "317687675360",
+    "user_id": "160049351",
+    "user_login": "cosmosslayer1994",
+    "user_name": "cosmosslayer1994",
+    "game_id": "1329153872",
+    "game_name": "Pokémon Pokopia",
+    "type": "live",
+    "title": "On the road to my 3d model debut in 3 months now time to play games",
+    "viewer_count": 2,
+    "started_at": "2026-03-06T21:48:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "minecraftsurivial"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
+  },
+  {
     "id": "318181155931",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -135,28 +157,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "316535611365",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cedarblade SMP what shall we do W/ @ravenincarnate",
-    "viewer_count": 1,
-    "started_at": "2026-03-06T18:39:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   },
   {
     "id": "318002685145",
@@ -186,6 +186,28 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "316535611365",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cedarblade SMP what shall we do W/ @ravenincarnate",
+    "viewer_count": 1,
+    "started_at": "2026-03-06T18:39:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   },
   {
     "id": "316115853538",
