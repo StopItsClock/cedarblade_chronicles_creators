@@ -51,6 +51,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
+    "id": "317702882144",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Murdering my Friends for fun! Doctor4t's MODPACK",
+    "viewer_count": 1,
+    "started_at": "2026-03-07T19:51:36Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "315291704529",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -102,26 +122,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   },
   {
-    "id": "317702882144",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Murdering my Friends for fun! Doctor4t's MODPACK",
-    "viewer_count": 1,
-    "started_at": "2026-03-07T19:51:36Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "315540151125",
     "user_id": "176596310",
     "user_login": "kage_rokkr",
@@ -139,7 +139,7 @@
       "Vtuber",
       "pngtuber",
       "English",
-      "\u1d00\u0280\u1d1b",
+      "ᴀʀᴛ",
       "dragon",
       "DumbDragon"
     ],
