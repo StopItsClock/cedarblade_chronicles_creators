@@ -1,33 +1,5 @@
 [
   {
-    "id": "318181155931",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "1003606006",
-    "game_name": "Hytale",
-    "type": "live",
-    "title": "Becoming A Champion | HeartTale VSMP | !AHA",
-    "viewer_count": 20,
-    "started_at": "2026-03-06T20:00:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
     "id": "316092375799",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -36,7 +8,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "[VSMP X AHA] ✧ The dawn of the final day - Ep 6 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "viewer_count": 16,
     "started_at": "2026-03-06T23:43:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -57,6 +29,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
+    "id": "315338200168",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "🦝| Vorigins: RIPTIDE | TODAYS THE DAY LETS GOOOOOOOOO | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 5,
+    "started_at": "2026-03-07T01:11:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
+  },
+  {
     "id": "317479182708",
     "user_id": "1275381753",
     "user_login": "mimiluna2",
@@ -65,7 +62,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "Let's go to the PEAK-eak, let's go get away!",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-06T22:45:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -111,31 +108,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315338200168",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "🦝| Vorigins: RIPTIDE | TODAYS THE DAY LETS GOOOOOOOOO | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 4,
-    "started_at": "2026-03-07T01:11:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "318002685145",
