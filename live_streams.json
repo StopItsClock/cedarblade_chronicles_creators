@@ -8,7 +8,7 @@
     "game_name": "Retro",
     "type": "live",
     "title": "[Magic Pengel] I only decided what I would play today a minute before this stream",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-03-07T18:05:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -24,31 +24,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
-    "id": "315540151125",
-    "user_id": "176596310",
-    "user_login": "kage_rokkr",
-    "user_name": "kage_rokkr",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Prism smp day 3",
-    "viewer_count": 4,
-    "started_at": "2026-03-07T17:23:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "English",
-      "\u1d00\u0280\u1d1b",
-      "dragon",
-      "DumbDragon"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
-  },
-  {
     "id": "317641252318",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -57,7 +32,7 @@
     "game_name": "Burglin' Gnomes",
     "type": "live",
     "title": "[Subathon] Wholesome Gnome Burglin until we go into poppy playtime!",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-07T18:05:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -74,6 +49,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315540151125",
+    "user_id": "176596310",
+    "user_login": "kage_rokkr",
+    "user_name": "kage_rokkr",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Prism smp day 3",
+    "viewer_count": 2,
+    "started_at": "2026-03-07T17:23:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "English",
+      "ᴀʀᴛ",
+      "dragon",
+      "DumbDragon"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
   },
   {
     "id": "315291704529",
