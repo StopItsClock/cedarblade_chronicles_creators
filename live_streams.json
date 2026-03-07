@@ -8,7 +8,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "[VSMP X AHA] ✧ The dawn of the final day - Ep 6 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 18,
     "started_at": "2026-03-06T23:43:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Hytale",
     "type": "live",
     "title": "Becoming A Champion | HeartTale VSMP | !AHA",
-    "viewer_count": 18,
+    "viewer_count": 17,
     "started_at": "2026-03-06T20:00:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -57,33 +57,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "317479182708",
-    "user_id": "1275381753",
-    "user_login": "mimiluna2",
-    "user_name": "MimiLuna2",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "Let's go to the PEAK-eak, let's go get away!",
-    "viewer_count": 6,
-    "started_at": "2026-03-06T22:45:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ADHD",
-      "Latina",
-      "LGBTQIAPIus",
-      "spanish",
-      "chill",
-      "Español",
-      "Inglés"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
-  },
-  {
     "id": "317630010590",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -92,7 +65,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "TIME TO SUFFER | !Clip !Discord",
-    "viewer_count": 3,
+    "viewer_count": 6,
     "started_at": "2026-03-07T00:15:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -111,6 +84,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317479182708",
+    "user_id": "1275381753",
+    "user_login": "mimiluna2",
+    "user_name": "MimiLuna2",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "Let's go to the PEAK-eak, let's go get away!",
+    "viewer_count": 5,
+    "started_at": "2026-03-06T22:45:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ADHD",
+      "Latina",
+      "LGBTQIAPIus",
+      "spanish",
+      "chill",
+      "Español",
+      "Inglés"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   },
   {
     "id": "318002685145",
@@ -140,5 +140,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "315338200168",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "🦝| Vorigins: RIPTIDE | TODAYS THE DAY LETS GOOOOOOOOO | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 1,
+    "started_at": "2026-03-07T01:11:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   }
 ]
