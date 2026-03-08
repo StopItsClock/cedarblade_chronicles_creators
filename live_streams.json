@@ -8,7 +8,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] Did you know that your baldness comes from the Gate? (BG3 W/ @regina_kardinal)",
-    "viewer_count": 16,
+    "viewer_count": 15,
     "started_at": "2026-03-08T19:26:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -35,7 +35,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Prism smp day 4",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-03-08T17:03:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
@@ -50,5 +50,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
+  },
+  {
+    "id": "318221535835",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "735602708",
+    "game_name": "Marvel's Midnight Suns",
+    "type": "live",
+    "title": "[18+] SAVING SPIDER-MAN! MARVEL MIDNIGHT SUNS! (!clip)",
+    "viewer_count": 3,
+    "started_at": "2026-03-08T20:50:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Catboy",
+      "BoyWife",
+      "Anime",
+      "Comfy",
+      "LGBTQ",
+      "English",
+      "femboy",
+      "Vtuber",
+      "Chatting",
+      "BackseatGamingAllowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   }
 ]
