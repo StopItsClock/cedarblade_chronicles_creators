@@ -8,7 +8,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] Did you know that your baldness comes from the Gate? (BG3 W/ @regina_kardinal)",
-    "viewer_count": 17,
+    "viewer_count": 18,
     "started_at": "2026-03-08T19:26:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -50,34 +50,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
-  },
-  {
-    "id": "318110774234",
-    "user_id": "240610101",
-    "user_login": "shatteredsoullive",
-    "user_name": "shatteredsoullive",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "CedarSMP time!",
-    "viewer_count": 1,
-    "started_at": "2026-03-08T18:12:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "Variety",
-      "bipocstreamer",
-      "English",
-      "TwitchGuildUnity",
-      "LatinUnityGuild",
-      "Chaotic",
-      "PeanutButterGang",
-      "Rerun",
-      "twitchprideguild"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
   }
 ]
