@@ -35,7 +35,7 @@
     "game_name": "Marvel's Midnight Suns",
     "type": "live",
     "title": "[18+] SAVING SPIDER-MAN! MARVEL MIDNIGHT SUNS! (!clip)",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-03-08T20:50:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -54,30 +54,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315603604308",
-    "user_id": "176596310",
-    "user_login": "kage_rokkr",
-    "user_name": "kage_rokkr",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Prism smp day 4",
-    "viewer_count": 2,
-    "started_at": "2026-03-08T17:03:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "English",
-      "ᴀʀᴛ",
-      "dragon",
-      "DumbDragon"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
   }
 ]
