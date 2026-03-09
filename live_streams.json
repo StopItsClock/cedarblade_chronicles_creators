@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "the waves are getting stronger.... | [VORIGINS S3] | !hug !merch",
-    "viewer_count": 13,
+    "viewer_count": 20,
     "started_at": "2026-03-09T01:00:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -89,7 +89,7 @@
     "game_name": "Lethal Company",
     "type": "live",
     "title": "Lethal Company - WARNING SILLY PEOPLE",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-03-09T01:41:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
@@ -99,29 +99,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "317663701598",
-    "user_id": "164312667",
-    "user_login": "baronobeefdipvt",
-    "user_name": "BaronOBeefDipVT",
-    "game_id": "1597660489",
-    "game_name": "RESIDENT EVIL: requiem",
-    "type": "live",
-    "title": "When the Residents are Evil, REQUIEM | Resident Evil 9: Requiem | 18+ |",
-    "viewer_count": 1,
-    "started_at": "2026-03-08T23:25:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_baronobeefdipvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "Furry",
-      "gaming",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
   }
 ]
