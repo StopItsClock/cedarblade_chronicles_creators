@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] DRUNK Eldritch Horror Attempts to Stream ✸Drunk Arc: Episode 2✸",
-    "viewer_count": 17,
+    "viewer_count": 13,
     "started_at": "2026-03-09T04:13:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "🦝| Vorigins: RIPTIDE | I hate the water so much twinsicle  | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-03-09T01:11:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -52,5 +52,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
+  },
+  {
+    "id": "315388000361",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "509110",
+    "game_name": "Risk of Rain 2",
+    "type": "live",
+    "title": "chill gaming [!discord] [!dubby] [18+]",
+    "viewer_count": 1,
+    "started_at": "2026-03-09T07:48:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NewZealand",
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   }
 ]
