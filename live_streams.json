@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "the waves are getting stronger.... | [VORIGINS S3] | !hug !merch",
-    "viewer_count": 19,
+    "viewer_count": 17,
     "started_at": "2026-03-09T01:00:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -29,6 +29,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
+    "id": "317666245470",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "2085980140",
+    "game_name": "Lethal Company",
+    "type": "live",
+    "title": "Lethal Company - WARNING SILLY PEOPLE",
+    "viewer_count": 6,
+    "started_at": "2026-03-09T01:41:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "315387075689",
     "user_id": "209565401",
     "user_login": "aidenchii",
@@ -37,7 +57,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "🦝| Vorigins: RIPTIDE | I hate the water so much twinsicle  | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 8,
+    "viewer_count": 4,
     "started_at": "2026-03-09T01:11:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -52,52 +72,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
-    "id": "317724865632",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "1238739089",
-    "game_name": "Town of Salem 2",
-    "type": "live",
-    "title": "[Subathon] Did Someone Say Shenanigans? [Town Of Salem w/ The Chaos Crew]",
-    "viewer_count": 7,
-    "started_at": "2026-03-09T00:32:36Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon",
-      "chattyfunny"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317666245470",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "2085980140",
-    "game_name": "Lethal Company",
-    "type": "live",
-    "title": "Lethal Company - WARNING SILLY PEOPLE",
-    "viewer_count": 5,
-    "started_at": "2026-03-09T01:41:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
