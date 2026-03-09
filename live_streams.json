@@ -53,6 +53,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
   },
   {
+    "id": "317734255328",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "518144",
+    "game_name": "The Outlast Trials",
+    "type": "live",
+    "title": "Making Easterman Proud, sort of... (feat. @sirsealvt )",
+    "viewer_count": 5,
+    "started_at": "2026-03-09T18:54:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
     "id": "316174800228",
     "user_id": "916904675",
     "user_login": "articglow_",
@@ -61,7 +83,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "MORE FONXSMP STUFF and we hit 100 followers!!! Yayy!!",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-03-09T19:12:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -80,28 +102,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
-  },
-  {
-    "id": "317734255328",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "518144",
-    "game_name": "The Outlast Trials",
-    "type": "live",
-    "title": "Making Easterman Proud, sort of... (feat. @sirsealvt )",
-    "viewer_count": 4,
-    "started_at": "2026-03-09T18:54:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "316193613795",
@@ -169,7 +169,7 @@
     "game_name": "Xenoblade Chronicles 2",
     "type": "live",
     "title": "Happy Woman's Day Finishing the story of Xenoblade 2 !discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-03-09T20:31:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -186,6 +186,28 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
+  },
+  {
+    "id": "317734206048",
+    "user_id": "160049351",
+    "user_login": "cosmosslayer1994",
+    "user_name": "cosmosslayer1994",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "On the road to my 3d model debut in 3 months now time to play games",
+    "viewer_count": 1,
+    "started_at": "2026-03-09T18:50:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "minecraftsurivial"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
   },
   {
     "id": "316146242018",
@@ -212,27 +234,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "317734206048",
-    "user_id": "160049351",
-    "user_login": "cosmosslayer1994",
-    "user_name": "cosmosslayer1994",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "On the road to my 3d model debut in 3 months now time to play games",
-    "viewer_count": 1,
-    "started_at": "2026-03-09T18:50:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "minecraftsurivial"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
   }
 ]
