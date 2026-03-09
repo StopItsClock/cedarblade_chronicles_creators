@@ -59,7 +59,7 @@
     "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "Pokopia Anonymous Meeting | 18+ | !fishcord !throne !kofi !waifu",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-03-09T19:00:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -77,28 +77,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
-  },
-  {
-    "id": "317734206048",
-    "user_id": "160049351",
-    "user_login": "cosmosslayer1994",
-    "user_name": "cosmosslayer1994",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "On the road to my 3d model debut in 3 months now time to play games",
-    "viewer_count": 2,
-    "started_at": "2026-03-09T18:50:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "minecraftsurivial"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
   },
   {
     "id": "318236611547",
@@ -128,5 +106,27 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "317734206048",
+    "user_id": "160049351",
+    "user_login": "cosmosslayer1994",
+    "user_name": "cosmosslayer1994",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "On the road to my 3d model debut in 3 months now time to play games",
+    "viewer_count": 1,
+    "started_at": "2026-03-09T18:50:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "minecraftsurivial"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
   }
 ]
