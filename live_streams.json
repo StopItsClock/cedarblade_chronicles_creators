@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "the waves are getting stronger.... | [VORIGINS S3] | !hug !merch",
-    "viewer_count": 22,
+    "viewer_count": 21,
     "started_at": "2026-03-09T01:00:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] DRUNK Eldritch Horror Attempts to Stream ✸Drunk Arc: Episode 2✸",
-    "viewer_count": 16,
+    "viewer_count": 11,
     "started_at": "2026-03-09T04:13:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -81,25 +81,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
-    "id": "317666245470",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "2085980140",
-    "game_name": "Lethal Company",
-    "type": "live",
-    "title": "Lethal Company - WARNING SILLY PEOPLE",
-    "viewer_count": 1,
-    "started_at": "2026-03-09T01:41:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
