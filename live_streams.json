@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ 3 yr Debutversary Time!! Slooshcraft Opening!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 33,
+    "viewer_count": 31,
     "started_at": "2026-03-09T23:00:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "14 DAYS TIL BIRB WEEK! Back to Stardew Monday's! ⌇ +18 ⌇ !discord !social",
-    "viewer_count": 13,
+    "viewer_count": 15,
     "started_at": "2026-03-09T20:59:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -93,7 +93,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] yi sang feet pics in this stream | DotW + Limbus | !lurk !throne !tip !discord",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-09T23:00:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -122,7 +122,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "SLUSHIEGHOST SERVER!!! Go watch them, they're better than me in everyway :Nodders: | !Clip !Discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-03-09T23:32:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -140,29 +140,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317615782748",
-    "user_id": "82448589",
-    "user_login": "avidstorm020",
-    "user_name": "Avidstorm020",
-    "game_id": "517159",
-    "game_name": "GUILTY GEAR -STRIVE-",
-    "type": "live",
-    "title": "TNS IS BACK",
-    "viewer_count": 2,
-    "started_at": "2026-03-09T23:43:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "English",
-      "Black",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
   },
   {
     "id": "317615136220",
@@ -187,5 +164,28 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
+  },
+  {
+    "id": "317615782748",
+    "user_id": "82448589",
+    "user_login": "avidstorm020",
+    "user_name": "Avidstorm020",
+    "game_id": "1135492840",
+    "game_name": "Sonic Racing: CrossWorlds",
+    "type": "live",
+    "title": "racing as usual",
+    "viewer_count": 1,
+    "started_at": "2026-03-09T23:43:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "English",
+      "Black",
+      "Vtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
   }
 ]
