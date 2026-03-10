@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[Subathon] Where's everyone going? Bingo? (Resident Evil Requiem pt.2)",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-03-10T21:03:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -27,5 +27,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317628230108",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "31376",
+    "game_name": "Terraria",
+    "type": "live",
+    "title": "Some peace before I go back to Overwatch",
+    "viewer_count": 0,
+    "started_at": "2026-03-10T21:28:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
