@@ -37,7 +37,7 @@
     "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "[18+] Welcome back Arknights Endfield 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 22,
+    "viewer_count": 23,
     "started_at": "2026-03-10T21:31:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Moining Awayyyyyy and catching them all? !lurk !discord !throne !kofi !TCG",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-03-11T00:07:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Phoenix Wright: Ace Attorney Trilogy",
     "type": "live",
     "title": "[18+] NUH UH YOUR HONOUR [Phoenix Wright: Trials and Tribulations] | !throne !socials !lurk !discord",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-03-10T23:07:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -143,32 +143,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315650586867",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "1435206302",
-    "game_name": "Slay the Spire II",
-    "type": "live",
-    "title": "FOMO won! Now I'm addicted... [!lurk !discord]",
-    "viewer_count": 3,
-    "started_at": "2026-03-11T00:38:12Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
     "id": "315393071209",
@@ -256,6 +230,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   },
   {
+    "id": "315650586867",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "1435206302",
+    "game_name": "Slay the Spire II",
+    "type": "live",
+    "title": "FOMO won! Now I'm addicted... [!lurk !discord]",
+    "viewer_count": 2,
+    "started_at": "2026-03-11T00:38:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
     "id": "316606649816",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -307,31 +307,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
-    "id": "317630988508",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "278888515",
-    "game_name": "Gartic Phone",
-    "type": "live",
-    "title": "✨[18+] ✨Can we guess what this goobers will look like✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 2,
-    "started_at": "2026-03-11T00:08:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
-  },
-  {
     "id": "317630266460",
     "user_id": "164312667",
     "user_login": "baronobeefdipvt",
@@ -354,5 +329,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
+  },
+  {
+    "id": "317630988508",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "278888515",
+    "game_name": "Gartic Phone",
+    "type": "live",
+    "title": "✨[18+] ✨Can we guess what this goobers will look like✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 1,
+    "started_at": "2026-03-11T00:08:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   }
 ]
