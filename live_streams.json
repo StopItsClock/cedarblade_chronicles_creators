@@ -1,5 +1,34 @@
 [
   {
+    "id": "318273764059",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Intervention Stream ✸Drunk Arc: Finale✸ @MochiMew_VT @NovaAustralis @DisPatriVT @Alm4_VT @lazy_cappy @XxSaturnxXVT",
+    "viewer_count": 16,
+    "started_at": "2026-03-11T23:28:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "Tentacles",
+      "ENVtuber",
+      "boyfriend",
+      "EldritchVTuber",
+      "MaleVtuber",
+      "Chıll",
+      "ADHD",
+      "TentacleMonster"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
     "id": "318100982489",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -8,7 +37,7 @@
     "game_name": "ROBLOX",
     "type": "live",
     "title": "[18+] Kasoku has taken over and i have no clue whats happening (!clip)",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-03-11T20:53:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -65,7 +94,7 @@
     "game_id": "494925",
     "game_name": "Raft",
     "type": "live",
-    "title": "\ud83d\udef6 Oh.. oh we are in the ocean! \ud83d\udea3\ud83d\udca6 ft. @honeyjamvt !! \ud83e\ude90  - !discord !lurk \ud83e\udd97\ud83c\udfa8",
+    "title": "🛶 Oh.. oh we are in the ocean! 🚣💦 ft. @honeyjamvt !! 🪐  - !discord !lurk 🦗🎨",
     "viewer_count": 5,
     "started_at": "2026-03-11T20:30:50Z",
     "language": "en",
@@ -225,34 +254,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
-  },
-  {
-    "id": "318273764059",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Intervention Stream \u2738Drunk Arc: Finale\u2738 @MochiMew_VT @NovaAustralis @DisPatriVT @Alm4_VT @lazy_cappy @XxSaturnxXVT",
-    "viewer_count": 0,
-    "started_at": "2026-03-11T23:28:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "Tentacles",
-      "ENVtuber",
-      "boyfriend",
-      "EldritchVTuber",
-      "MaleVtuber",
-      "Ch\u0131ll",
-      "ADHD",
-      "TentacleMonster"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
