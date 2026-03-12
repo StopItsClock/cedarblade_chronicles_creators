@@ -1,34 +1,5 @@
 [
   {
-    "id": "317647462620",
-    "user_id": "686234820",
-    "user_login": "miyuwanchan",
-    "user_name": "miyuwanchan",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "becoming a bovinae reaseacher for realsies. | [VORIGINS S3] | !hug !merch",
-    "viewer_count": 19,
-    "started_at": "2026-03-12T01:02:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "SafeSpace",
-      "English",
-      "Anime",
-      "Live2D",
-      "DogVtuber",
-      "ENVtuber",
-      "LGBTQPlus",
-      "gyaru",
-      "ComfyChaotic"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
-  },
-  {
     "id": "318174170586",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -36,8 +7,8 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "[After Hours] Simple Yapping and Minecraft Stream ✸Sober Minecraft Stream✸",
-    "viewer_count": 11,
+    "title": "[After Hours] Simple Yapping and Minecraft Stream \u2738Sober Minecraft Stream\u2738",
+    "viewer_count": 9,
     "started_at": "2026-03-12T04:35:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -50,7 +21,7 @@
       "boyfriend",
       "EldritchVTuber",
       "MaleVtuber",
-      "Chıll",
+      "Ch\u0131ll",
       "ADHD",
       "TentacleMonster"
     ],
@@ -65,7 +36,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "🦝| Vorigins: RIPTIDE | I hate the water so much twinsicle  | !Discord | !Socials | 🦝👟👑",
+    "title": "\ud83e\udd9d| Vorigins: RIPTIDE | I hate the water so much twinsicle  | !Discord | !Socials | \ud83e\udd9d\ud83d\udc5f\ud83d\udc51",
     "viewer_count": 2,
     "started_at": "2026-03-12T01:36:55Z",
     "language": "en",
@@ -81,28 +52,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
-    "id": "318279344987",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "519103",
-    "game_name": "PowerWash Simulator",
-    "type": "live",
-    "title": "Power wash stream with the amazing @ariraakai",
-    "viewer_count": 1,
-    "started_at": "2026-03-12T04:31:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plusstream"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
