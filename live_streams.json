@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] Leon takes his shirt off this time (trust) RESIDENT EVIL REQUIEM (!clip) @articglow_",
-    "viewer_count": 11,
+    "viewer_count": 8,
     "started_at": "2026-03-12T20:50:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[ENVtuber] Holy yapfest w/ @calmarvt @whitestcat and @daark_karma | 18+ He/They",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-12T20:07:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
@@ -63,7 +63,7 @@
     "game_name": "Poppy Playtime",
     "type": "live",
     "title": "catnap is scary... | !Discord !lurk | 🐉🧟",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-03-12T21:25:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -91,7 +91,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Prism smp Build Day No lore or rp",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-03-12T20:32:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
@@ -106,6 +106,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
+  },
+  {
+    "id": "315349296467",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "Editor: Resident Evil Requiem Assembly cut | Leon is probably out getting milk in this one",
+    "viewer_count": 1,
+    "started_at": "2026-03-12T20:48:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "315421035626",
@@ -135,29 +159,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "315349296467",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "509660",
-    "game_name": "Art",
-    "type": "live",
-    "title": "Editor: Resident Evil Requiem Assembly cut | Leon is probably out getting milk in this one",
-    "viewer_count": 1,
-    "started_at": "2026-03-12T20:48:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
