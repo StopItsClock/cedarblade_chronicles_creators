@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[After Hours] Simple Yapping and Minecraft Stream ✸Sober Minecraft Stream✸",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-03-12T04:35:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,6 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "318172089818",
+    "user_id": "116714793",
+    "user_login": "marioairheart",
+    "user_name": "MarioAirheart",
+    "game_id": "33214",
+    "game_name": "Fortnite",
+    "type": "live",
+    "title": "18+ | Yo @strwbryhoney , Where we dropping? | PS5 | Fortnite | !CreatorClub !discord !Blacklyte !Nekomart |",
+    "viewer_count": 4,
+    "started_at": "2026-03-12T02:37:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "VtuberEN",
+      "PNGtuberEN",
+      "Variety",
+      "English",
+      "CreatorClub",
+      "VTuberUprising",
+      "18maturelanguage"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
     "id": "315418323178",
@@ -81,34 +109,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
-    "id": "318172089818",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "33214",
-    "game_name": "Fortnite",
-    "type": "live",
-    "title": "18+ | Yo @strwbryhoney , Where we dropping? | PS5 | Fortnite | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 2,
-    "started_at": "2026-03-12T02:37:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "CreatorClub",
-      "VTuberUprising",
-      "18maturelanguage"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
     "id": "318279344987",
