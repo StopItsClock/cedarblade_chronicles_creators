@@ -36,7 +36,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "lore? and finding loot | !Discord !lurk | \ud83d\udc09\ud83e\udddf",
+    "title": "lore? and finding loot | !Discord !lurk | 🐉🧟",
     "viewer_count": 6,
     "started_at": "2026-03-12T00:35:14Z",
     "language": "en",
@@ -115,6 +115,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
+    "id": "317707282270",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "517272664",
+    "game_name": "Sucker for Love: Date to Die For",
+    "type": "live",
+    "title": "THIS ISH GOT ME READY TO BAA BAA FOR THAT BLACK SHEEP!! | (Pretty sure shes a goat... shut up) | !Clip !Discord",
+    "viewer_count": 4,
+    "started_at": "2026-03-11T23:11:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
     "id": "315354451432",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -144,32 +172,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
-    "id": "317707282270",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "517272664",
-    "game_name": "Sucker for Love: Date to Die For",
+    "id": "317708779230",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "515025",
+    "game_name": "Overwatch",
     "type": "live",
-    "title": "THIS ISH GOT ME READY TO BAA BAA FOR THAT BLACK SHEEP!! | (Pretty sure shes a goat... shut up) | !Clip !Discord",
-    "viewer_count": 3,
-    "started_at": "2026-03-11T23:11:46Z",
+    "title": "✨[18+] ✨Lets be the best heros we can be @proxyssouls✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 1,
+    "started_at": "2026-03-12T00:22:42Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "Vtuber",
       "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
       "ENVtuber",
-      "vtubers",
-      "CloacaKing"
+      "chaos",
+      "spanish",
+      "Cozy",
+      "DropsEnabled"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
     "id": "318274154843",
@@ -199,31 +225,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
-  },
-  {
-    "id": "317708779230",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "\u2728[18+] \u2728Lets be the best heros we can be @proxyssouls\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
-    "viewer_count": 1,
-    "started_at": "2026-03-12T00:22:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   }
 ]
