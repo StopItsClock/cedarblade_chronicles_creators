@@ -8,7 +8,7 @@
     "game_name": "Killing Floor III",
     "type": "live",
     "title": "[18+] Birthday countdown! (Party tomorrow) 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 34,
+    "viewer_count": 33,
     "started_at": "2026-03-13T00:46:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Slooshathon Day 4 ✧ THE EPIC SEARCH FOR BEANS (coffee) ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 27,
     "started_at": "2026-03-12T23:58:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "drama more drama and girlie pop night? | [VORIGINS S3] | !hug !merch",
-    "viewer_count": 21,
+    "viewer_count": 19,
     "started_at": "2026-03-13T01:34:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Another Simple Yapping and Minecraft Stream ✸Cobblemon Then Art Stream✸",
-    "viewer_count": 9,
+    "viewer_count": 7,
     "started_at": "2026-03-13T00:33:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -140,26 +140,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
-    "id": "317659597660",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 08 - Squad T-1236",
-    "viewer_count": 5,
-    "started_at": "2026-03-12T23:08:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "317659129564",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -188,6 +168,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
+    "id": "317659597660",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 08 - Squad T-1236",
+    "viewer_count": 4,
+    "started_at": "2026-03-12T23:08:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "317049428695",
     "user_id": "574560089",
     "user_login": "kayvender",
@@ -196,7 +196,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Cedarblade Chronicles] !team !cedarblade | Surprise!",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-03-13T01:34:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
