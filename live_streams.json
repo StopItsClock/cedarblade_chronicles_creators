@@ -29,34 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "317723439326",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "IM LATE very late BUT im here !!!! - !discord !lurk",
-    "viewer_count": 14,
-    "started_at": "2026-03-13T00:18:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "ENGLISH",
-      "Vtuber",
-      "brat",
-      "twinkmaxxing",
-      "yappingstreamer",
-      "newVTuber",
-      "English",
-      "Gremlin"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
-  },
-  {
     "id": "318287121115",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -65,7 +37,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] Leon takes his shirt off this time (trust) RESIDENT EVIL REQUIEM (!clip) @articglow_",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-03-12T20:50:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -94,7 +66,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Chat bullied me into playing more mc !lurk !discord !throne !kofi !TCG",
-    "viewer_count": 11,
+    "viewer_count": 12,
     "started_at": "2026-03-13T00:08:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -113,6 +85,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
+  },
+  {
+    "id": "317723439326",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "IM LATE very late BUT im here !!!! - !discord !lurk",
+    "viewer_count": 10,
+    "started_at": "2026-03-13T00:18:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "ENGLISH",
+      "Vtuber",
+      "brat",
+      "twinkmaxxing",
+      "yappingstreamer",
+      "newVTuber",
+      "English",
+      "Gremlin"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   },
   {
     "id": "317659129564",
@@ -167,26 +167,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
-    "id": "317659597660",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 08 - Squad T-1236",
-    "viewer_count": 5,
-    "started_at": "2026-03-12T23:08:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "316135605111",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -195,7 +175,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "AVERAGE INTELLIGENCE RAMS VS SOMA (Omens Game Show Pilot)",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-03-12T22:49:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -215,6 +195,75 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
   },
   {
+    "id": "317659597660",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 08 - Squad T-1236",
+    "viewer_count": 3,
+    "started_at": "2026-03-12T23:08:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
+    "id": "317781959136",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "1597660489",
+    "game_name": "RESIDENT EVIL: requiem",
+    "type": "live",
+    "title": "I'm here to thirst over Leon",
+    "viewer_count": 2,
+    "started_at": "2026-03-12T23:25:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "317721765342",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "✨[18+] ✨Average Intelligence Gameshow✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 2,
+    "started_at": "2026-03-12T22:54:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
+  },
+  {
     "id": "316220617443",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -223,7 +272,7 @@
     "game_name": "Sea of Thieves",
     "type": "live",
     "title": "[Sea of Thieves] Sailing the Sea of Memes with @lazariblubfish [18+]| road to 250 | !lurk | !commands",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-03-12T23:01:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -252,7 +301,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Another Simple Yapping and Minecraft Stream ✸Cobblemon Then Art Stream✸",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-03-13T00:33:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -271,30 +320,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
-    "id": "317781959136",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "1597660489",
-    "game_name": "RESIDENT EVIL: requiem",
-    "type": "live",
-    "title": "I'm here to thirst over Leon",
-    "viewer_count": 2,
-    "started_at": "2026-03-12T23:25:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "318289158491",
@@ -350,30 +375,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "317721765342",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "✨[18+] ✨Average Intelligence Gameshow✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 1,
-    "started_at": "2026-03-12T22:54:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   }
 ]
