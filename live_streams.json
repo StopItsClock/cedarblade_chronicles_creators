@@ -5,7 +5,7 @@
     "user_login": "karaleuatomic",
     "user_name": "KaraleuAtomic",
     "game_id": "1329153872",
-    "game_name": "Pok\u00e9mon Pokopia",
+    "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "Working on our Cloud Island | 18+ | !fishcord !kofi !waifu",
     "viewer_count": 4,
@@ -48,7 +48,7 @@
       "chattingwithviewers",
       "English",
       "minecraft",
-      "\u216finecraft",
+      "Ⅿinecraft",
       "minecraftchillplay",
       "moddedminecraft",
       "CedarbladeSMP"
@@ -82,26 +82,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
-  },
-  {
-    "id": "318301781339",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Odyssey's Beyond SMP! Dragon these blocks across your face! GOTTEM",
-    "viewer_count": 1,
-    "started_at": "2026-03-13T18:15:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "318132749145",
@@ -154,5 +134,25 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "318301781339",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Odyssey's Beyond SMP! Dragon these blocks across your face! GOTTEM",
+    "viewer_count": 1,
+    "started_at": "2026-03-13T18:15:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
