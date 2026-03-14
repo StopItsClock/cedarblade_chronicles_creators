@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ MINECRAFT MINECRAFT MINECRAF ✧ !lurk !merch !throne !clip",
-    "viewer_count": 34,
+    "viewer_count": 23,
     "started_at": "2026-03-13T23:04:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,31 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
-    "id": "315424947434",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "🦝| Vorigins: RIPTIDE | THANK YOU FOR 300!!! Meeting with the admiral today, might get jumped  | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 9,
-    "started_at": "2026-03-14T02:03:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
     "id": "318308472411",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -110,6 +85,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
+    "id": "315424947434",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "🦝| Vorigins: RIPTIDE | THANK YOU FOR 300!!! Meeting with the admiral today, might get jumped  | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 8,
+    "started_at": "2026-03-14T02:03:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
+  },
+  {
     "id": "315361207656",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -118,7 +118,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "weekend gaming! [!discord] [!dubby] [18+]",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-03-13T23:10:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
