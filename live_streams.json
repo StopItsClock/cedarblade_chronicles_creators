@@ -25,28 +25,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
-    "id": "317811395296",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "1242462656",
-    "game_name": "Grimshire",
-    "type": "live",
-    "title": "This mouse guard is looking real tasty right now",
-    "viewer_count": 4,
-    "started_at": "2026-03-14T21:09:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
-  },
-  {
     "id": "317688937180",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -54,7 +32,7 @@
     "game_id": "144418804",
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
-    "title": "\u2728[18+] \u2728LOCKDOWN TIME BABY!!!!!\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "title": "✨[18+] ✨LOCKDOWN TIME BABY!!!!!✨ !socials !discord !lurk !SMP @rams_404_ ✨",
     "viewer_count": 3,
     "started_at": "2026-03-14T20:18:56Z",
     "language": "en",
@@ -98,6 +76,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "317811395296",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "1242462656",
+    "game_name": "Grimshire",
+    "type": "live",
+    "title": "This mouse guard is looking real tasty right now",
+    "viewer_count": 3,
+    "started_at": "2026-03-14T21:09:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "317811562208",
