@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Yapping before squaring up with people ✧ !lurk !merch !throne !clip",
-    "viewer_count": 16,
+    "viewer_count": 21,
     "started_at": "2026-03-14T23:01:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -54,28 +54,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
-  },
-  {
-    "id": "317811395296",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "1242462656",
-    "game_name": "Grimshire",
-    "type": "live",
-    "title": "This mouse guard is looking real tasty right now",
-    "viewer_count": 4,
-    "started_at": "2026-03-14T21:09:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "317688937180",
@@ -158,6 +136,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
+  },
+  {
+    "id": "317811395296",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "1242462656",
+    "game_name": "Grimshire",
+    "type": "live",
+    "title": "This mouse guard is looking real tasty right now",
+    "viewer_count": 2,
+    "started_at": "2026-03-14T21:09:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "316219575268",
