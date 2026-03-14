@@ -32,7 +32,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] SECRET KARAOKE (9)? (!clip)",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-03-14T16:57:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -51,5 +51,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317748681054",
+    "user_id": "160049351",
+    "user_login": "cosmosslayer1994",
+    "user_name": "cosmosslayer1994",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "24 Hr live stream first one of 2026",
+    "viewer_count": 1,
+    "started_at": "2026-03-14T17:06:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "minecraftsurivial"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
   }
 ]
