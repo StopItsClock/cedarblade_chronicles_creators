@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "✧ Yapping before squaring up with people ✧ !lurk !merch !throne !clip",
+    "title": "\u2727 Yapping before squaring up with people \u2727 !lurk !merch !throne !clip",
     "viewer_count": 21,
     "started_at": "2026-03-14T23:01:00Z",
     "language": "en",
@@ -56,31 +56,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   },
   {
-    "id": "317688937180",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "144418804",
-    "game_name": "LOCKDOWN Protocol",
-    "type": "live",
-    "title": "✨[18+] ✨LOCKDOWN TIME BABY!!!!!✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 3,
-    "started_at": "2026-03-14T20:18:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "chaos",
-      "spanish",
-      "Cozy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
-  },
-  {
     "id": "317070633687",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -89,7 +64,7 @@
     "game_name": "Cult of the Lamb",
     "type": "live",
     "title": "Little art stream with cult of the lamb",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-03-14T21:04:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -107,6 +82,53 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "317688937180",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "\u2728[18+] \u2728LOCKDOWN TIME BABY!!!!!\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "viewer_count": 3,
+    "started_at": "2026-03-14T20:18:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "chaos",
+      "spanish",
+      "Cozy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
+  },
+  {
+    "id": "317811395296",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "1242462656",
+    "game_name": "Grimshire",
+    "type": "live",
+    "title": "This mouse guard is looking real tasty right now",
+    "viewer_count": 2,
+    "started_at": "2026-03-14T21:09:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "316238611427",
@@ -138,26 +160,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
-    "id": "317811395296",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "1242462656",
-    "game_name": "Grimshire",
+    "id": "317811562208",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "515025",
+    "game_name": "Overwatch",
     "type": "live",
-    "title": "This mouse guard is looking real tasty right now",
-    "viewer_count": 2,
-    "started_at": "2026-03-14T21:09:39Z",
+    "title": "From one hero shooter to the other (my manager hates me)",
+    "viewer_count": 1,
+    "started_at": "2026-03-14T21:22:21Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "English",
-      "VTuber",
-      "lgbtq"
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "DropsEnabled"
     ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "316219575268",
@@ -187,30 +212,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "317811562208",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "From one hero shooter to the other (my manager hates me)",
-    "viewer_count": 1,
-    "started_at": "2026-03-14T21:22:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
