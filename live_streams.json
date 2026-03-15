@@ -8,7 +8,7 @@
     "game_name": "Hotline Miami",
     "type": "live",
     "title": "[18+] A CAT IS LOOSE IN MIAMI! HOTLINE MIAMI (!clip)",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-03-15T20:50:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Cedarblade Chronicles SMP! [!discord] [!dubby] [18+]",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-03-15T20:00:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -56,5 +56,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "317707742556",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Fallout new vegas and some cozy mc !!!! - !discord !lurk",
+    "viewer_count": 1,
+    "started_at": "2026-03-15T22:58:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "ENGLISH",
+      "Vtuber",
+      "brat",
+      "twinkmaxxing",
+      "yappingstreamer",
+      "newVTuber",
+      "English",
+      "Gremlin"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   }
 ]
