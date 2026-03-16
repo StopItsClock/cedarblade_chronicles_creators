@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "🦝| Vorigins: RIPTIDE | Big lore happening today, time to uncover secrets! | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 9,
+    "viewer_count": 6,
     "started_at": "2026-03-15T23:52:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -50,6 +50,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f3e8f3f-cc81-4523-a1f5-0a5afbd385b5-profile_image-300x300.png"
   },
   {
+    "id": "317831971552",
+    "user_id": "459187886",
+    "user_login": "starryskiesvt",
+    "user_name": "StarrySkiesVT",
+    "game_id": "766571430",
+    "game_name": "HELLDIVERS 2",
+    "type": "live",
+    "title": "FOR SUPER EARTH o7 | !discord !Throne | @Starryskiesvt",
+    "viewer_count": 3,
+    "started_at": "2026-03-16T01:43:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "VTuber",
+      "English",
+      "LGBTQ",
+      "stinky",
+      "mouse",
+      "cottoncandy",
+      "Anime",
+      "Trans",
+      "ratgirl",
+      "yandere"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b550da45-af71-483a-8d3c-5151d2b9fc8d-profile_image-300x300.png"
+  },
+  {
     "id": "315613929457",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -74,34 +103,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
-  },
-  {
-    "id": "317831971552",
-    "user_id": "459187886",
-    "user_login": "starryskiesvt",
-    "user_name": "StarrySkiesVT",
-    "game_id": "766571430",
-    "game_name": "HELLDIVERS 2",
-    "type": "live",
-    "title": "FOR SUPER EARTH o7 | !discord !Throne | @Starryskiesvt",
-    "viewer_count": 2,
-    "started_at": "2026-03-16T01:43:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "VTuber",
-      "English",
-      "LGBTQ",
-      "stinky",
-      "mouse",
-      "cottoncandy",
-      "Anime",
-      "Trans",
-      "ratgirl",
-      "yandere"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b550da45-af71-483a-8d3c-5151d2b9fc8d-profile_image-300x300.png"
   }
 ]
