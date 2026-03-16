@@ -33,7 +33,7 @@
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
     "title": "✨[18+] ✨Making chaos in Lockdown✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-03-15T23:56:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -58,7 +58,7 @@
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
     "title": "WE BACK INTO LOCKDOWN!!  COLLAB!!",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-03-16T00:47:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -77,6 +77,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
+  },
+  {
+    "id": "316229333988",
+    "user_id": "61839029",
+    "user_login": "everyonelovesrobots",
+    "user_name": "EveryoneLovesRobots",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[Minecraft] Diggy diggy holeee in the SMP  [18+]| road to 300 | !lurk | !commands",
+    "viewer_count": 2,
+    "started_at": "2026-03-15T23:05:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "everyonelovesrobots",
+      "SciFiGaming",
+      "PNGtuberEN",
+      "HorrorGaming",
+      "ENG",
+      "VtuberEN",
+      "Robots",
+      "scifi",
+      "Charity"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   },
   {
     "id": "315613929457",
@@ -103,34 +132,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
-  },
-  {
-    "id": "316229333988",
-    "user_id": "61839029",
-    "user_login": "everyonelovesrobots",
-    "user_name": "EveryoneLovesRobots",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[Minecraft] Diggy diggy holeee in the SMP  [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 1,
-    "started_at": "2026-03-15T23:05:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "everyonelovesrobots",
-      "SciFiGaming",
-      "PNGtuberEN",
-      "HorrorGaming",
-      "ENG",
-      "VtuberEN",
-      "Robots",
-      "scifi",
-      "Charity"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   }
 ]
