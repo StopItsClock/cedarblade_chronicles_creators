@@ -1,14 +1,41 @@
 [
   {
+    "id": "317720031836",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512923",
+    "game_name": "Baldur's Gate 3",
+    "type": "live",
+    "title": "[Subathon] Gina.. it's too dark i am scared (Baldur's Gate W/ @regina_kardinal)",
+    "viewer_count": 5,
+    "started_at": "2026-03-16T20:26:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "hilarious",
+      "PartnerPush",
+      "HighEnergy",
+      "Subathon",
+      "chattyfunny"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
     "id": "316206113250",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
     "user_name": "KaraleuAtomic",
     "game_id": "1329153872",
-    "game_name": "Pok\u00e9mon Pokopia",
+    "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "Shenanigans in Pokopia! | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-03-16T18:58:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -26,33 +53,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
-  },
-  {
-    "id": "317720031836",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "512923",
-    "game_name": "Baldur's Gate 3",
-    "type": "live",
-    "title": "[Subathon] Gina.. it's too dark i am scared (Baldur's Gate W/ @regina_kardinal)",
-    "viewer_count": 4,
-    "started_at": "2026-03-16T20:26:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon",
-      "chattyfunny"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
     "id": "318192040537",
@@ -75,7 +75,7 @@
       "chattingwithviewers",
       "English",
       "minecraft",
-      "\u216finecraft",
+      "Ⅿinecraft",
       "minecraftchillplay",
       "moddedminecraft",
       "CedarbladeSMP"
@@ -89,7 +89,7 @@
     "user_login": "vaneros_lunpo",
     "user_name": "Vaneros_Lunpo",
     "game_id": "1329153872",
-    "game_name": "Pok\u00e9mon Pokopia",
+    "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "[18+] Time to take to the skies",
     "viewer_count": 1,
@@ -137,5 +137,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "316715007718",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cedarblade SMP maybe building time? W/ @gilded_wolfe",
+    "viewer_count": 0,
+    "started_at": "2026-03-16T20:54:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
