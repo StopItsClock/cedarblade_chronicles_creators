@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] CABBY VS. CHAT! MINECRAFT CHAOS! (!clip)",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-03-17T20:50:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "🌳STARDEW VALLEY!! 💫(modded) +suffering ear pain   - !discord !lurk 🦗🎨",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-03-17T21:17:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cricketinmyhead-{width}x{height}.jpg",
@@ -58,30 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22296da3-6f8e-44d0-839a-68241cca7e86-profile_image-300x300.png"
   },
   {
-    "id": "317797992286",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "21779",
-    "game_name": "League of Legends",
-    "type": "live",
-    "title": "Swing hammer I must",
-    "viewer_count": 4,
-    "started_at": "2026-03-17T20:30:10Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "317105010007",
     "user_id": "265674058",
     "user_login": "skyla_skydancer",
@@ -90,7 +66,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Spontaneous Overwatch Stream!discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-17T20:33:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -108,6 +84,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
+  },
+  {
+    "id": "317797992286",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "21779",
+    "game_name": "League of Legends",
+    "type": "live",
+    "title": "Swing hammer I must",
+    "viewer_count": 3,
+    "started_at": "2026-03-17T20:30:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "318380519515",
