@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] CABBY VS. CHAT! MINECRAFT CHAOS! (!clip)",
-    "viewer_count": 7,
+    "viewer_count": 10,
     "started_at": "2026-03-17T20:50:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Slay the Spire II",
     "type": "live",
     "title": "Slinging Cards and Ascending the Spire | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-03-17T18:58:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -84,31 +84,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
-    "id": "317797992286",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Ranked overwatch, interrupted by occasional Draken screaming over RE9",
-    "viewer_count": 3,
-    "started_at": "2026-03-17T20:30:10Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "318274114906",
     "user_id": "115462971",
     "user_login": "cricketinmyhead",
@@ -117,7 +92,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "🌳STARDEW VALLEY!! 💫(modded) +suffering ear pain   - !discord !lurk 🦗🎨",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-03-17T21:17:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cricketinmyhead-{width}x{height}.jpg",
@@ -136,5 +111,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22296da3-6f8e-44d0-839a-68241cca7e86-profile_image-300x300.png"
+  },
+  {
+    "id": "317797992286",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "21779",
+    "game_name": "League of Legends",
+    "type": "live",
+    "title": "Swing hammer I must",
+    "viewer_count": 2,
+    "started_at": "2026-03-17T20:30:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
