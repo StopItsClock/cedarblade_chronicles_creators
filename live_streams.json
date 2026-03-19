@@ -8,7 +8,7 @@
     "game_name": "Raft",
     "type": "live",
     "title": "✧ Local vtubers must learn to survive at sea!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 28,
+    "viewer_count": 30,
     "started_at": "2026-03-18T22:46:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,30 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "317876551008",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "man...what time is it..... || !discord !dono !lurk !throne",
-    "viewer_count": 14,
-    "started_at": "2026-03-19T02:29:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
-  },
-  {
     "id": "318235714521",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -61,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] Eldritch Yaps after tired work day, we also craftin ✸Cobblemon Stream✸ !LC",
-    "viewer_count": 11,
+    "viewer_count": 18,
     "started_at": "2026-03-19T03:03:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -82,6 +58,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
+    "id": "317876551008",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "man...what time is it..... || !discord !dono !lurk !throne",
+    "viewer_count": 13,
+    "started_at": "2026-03-19T02:29:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
+  },
+  {
     "id": "318295425498",
     "user_id": "219160446",
     "user_login": "midasredding",
@@ -90,7 +90,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Playing a Pirate SMP Without Swimming in the Water",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-03-19T00:42:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
@@ -105,34 +105,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
-  },
-  {
-    "id": "318235289945",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "9287",
-    "game_name": "Pokémon Ruby/Sapphire",
-    "type": "live",
-    "title": "18+ | Our Hoenn Journey, Begins w/ @hellionvt | PC | Pokemon Ruby/Sapphire | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 2,
-    "started_at": "2026-03-19T02:43:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "CreatorClub",
-      "VTuberUprising",
-      "18maturelanguage"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
     "id": "317757163868",
@@ -162,5 +134,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/86cf0679-8d2e-4fac-a207-cfd6d7b325f2-profile_image-300x300.png"
+  },
+  {
+    "id": "318235289945",
+    "user_id": "116714793",
+    "user_login": "marioairheart",
+    "user_name": "MarioAirheart",
+    "game_id": "9287",
+    "game_name": "Pokémon Ruby/Sapphire",
+    "type": "live",
+    "title": "18+ | Our Hoenn Journey, Begins w/ @hellionvt | PC | Pokemon Ruby/Sapphire | !CreatorClub !discord !Blacklyte !Nekomart |",
+    "viewer_count": 2,
+    "started_at": "2026-03-19T02:43:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "VtuberEN",
+      "PNGtuberEN",
+      "Variety",
+      "English",
+      "CreatorClub",
+      "VTuberUprising",
+      "18maturelanguage"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   }
 ]
