@@ -8,7 +8,7 @@
     "game_name": "Dungeon Bodega Simulator",
     "type": "live",
     "title": "[18+] THERES A CAT IN THIS GAME? 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-03-19T18:30:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "Ready or Not",
     "type": "live",
     "title": "🪖🔫 Here's our mission, Soldier. 🟥 READY OR NOT w/ @diafishiaaa !! 💥🪐 +suffering ear pain   - !discord !lurk 🦗🎨",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-03-19T17:12:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cricketinmyhead-{width}x{height}.jpg",
@@ -53,5 +53,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22296da3-6f8e-44d0-839a-68241cca7e86-profile_image-300x300.png"
+  },
+  {
+    "id": "316743192806",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "1294658629",
+    "game_name": "R.E.P.O.",
+    "type": "live",
+    "title": "Repossession time again, i will die",
+    "viewer_count": 1,
+    "started_at": "2026-03-19T18:47:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber",
+      "stardew",
+      "stardewvalley",
+      "yippee",
+      "LGBTQ"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
