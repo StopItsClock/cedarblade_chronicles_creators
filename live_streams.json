@@ -8,7 +8,7 @@
     "game_name": "Raft",
     "type": "live",
     "title": "✧ Local vtubers must learn to survive at sea!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 34,
+    "viewer_count": 27,
     "started_at": "2026-03-18T22:46:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Yappin Reactin and Maybe Craftin! !lurk !discord !throne !kofi !TCG",
-    "viewer_count": 17,
+    "viewer_count": 19,
     "started_at": "2026-03-19T00:03:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -85,6 +85,55 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
+    "id": "317876551008",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "897131007",
+    "game_name": "Fairy Tail: Dungeons",
+    "type": "live",
+    "title": "man...what time is it..... || !discord !dono !lurk !throne",
+    "viewer_count": 6,
+    "started_at": "2026-03-19T02:29:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
+  },
+  {
+    "id": "318295425498",
+    "user_id": "219160446",
+    "user_login": "midasredding",
+    "user_name": "midasredding",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Playing a Pirate SMP Without Swimming in the Water",
+    "viewer_count": 6,
+    "started_at": "2026-03-19T00:42:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Amateur",
+      "gamer",
+      "ChallengeRun",
+      "SMPminecraftserver",
+      "voriginss3"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
+  },
+  {
     "id": "315627120369",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -93,7 +142,7 @@
     "game_name": "Pokémon Pokopia",
     "type": "live",
     "title": "Cozy gaming with Pokopia [!lurk !discord]",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-19T00:04:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -112,31 +161,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
-    "id": "318295425498",
-    "user_id": "219160446",
-    "user_login": "midasredding",
-    "user_name": "midasredding",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Playing a Pirate SMP Without Swimming in the Water",
-    "viewer_count": 5,
-    "started_at": "2026-03-19T00:42:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Amateur",
-      "gamer",
-      "ChallengeRun",
-      "SMPminecraftserver",
-      "voriginss3"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
-  },
-  {
     "id": "317816125278",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -145,7 +169,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "building and maybe lore (ITS MY AFFILIATE ANNIVERSARY!??! ) | !Discord !lurk | 🐉🧟",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-19T00:12:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -192,29 +216,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "317876551008",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "897131007",
-    "game_name": "Fairy Tail: Dungeons",
-    "type": "live",
-    "title": "man...what time is it..... || !discord !dono !lurk !throne",
-    "viewer_count": 1,
-    "started_at": "2026-03-19T02:29:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   }
 ]
