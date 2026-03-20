@@ -8,7 +8,7 @@
     "game_name": "Redfall",
     "type": "live",
     "title": "[18+] This is a cry for help 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 26,
+    "viewer_count": 27,
     "started_at": "2026-03-20T00:45:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "[18+] Eldritch Draws a Webtoon and Decompresses✸Art n Chill Stream✸ !LC",
-    "viewer_count": 15,
+    "viewer_count": 21,
     "started_at": "2026-03-20T04:08:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,26 +56,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
-    "id": "317770683612",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Art STREAM! Drawing mostly pokemon!",
-    "viewer_count": 1,
-    "started_at": "2026-03-20T01:53:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
