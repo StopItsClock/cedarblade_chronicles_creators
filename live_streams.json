@@ -48,38 +48,13 @@
       "chattingwithviewers",
       "English",
       "minecraft",
-      "Ⅿinecraft",
+      "\u216finecraft",
       "cedarblade",
       "cedarbladechronicles",
       "CedarbladeSMP"
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
-    "id": "316269345124",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "1329153872",
-    "game_name": "Pokémon Pokopia",
-    "type": "live",
-    "title": "[18+] I'm a Ditto, I don't have the muscle or skeletal structure to have the whole world on my back.",
-    "viewer_count": 3,
-    "started_at": "2026-03-20T20:19:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "316239312866",
@@ -90,7 +65,7 @@
     "game_name": "Crimson Desert",
     "type": "live",
     "title": "Deserting your Crimson til you Oof | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-20T18:49:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -108,5 +83,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "316269345124",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "1329153872",
+    "game_name": "Pok\u00e9mon Pokopia",
+    "type": "live",
+    "title": "[18+] I'm a Ditto, I don't have the muscle or skeletal structure to have the whole world on my back.",
+    "viewer_count": 3,
+    "started_at": "2026-03-20T20:19:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
