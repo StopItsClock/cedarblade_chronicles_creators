@@ -8,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[Sprout] Finds Alisae and Alphi | ShB MSQ",
-    "viewer_count": 9,
+    "viewer_count": 6,
     "started_at": "2026-03-20T20:01:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -57,6 +57,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
+    "id": "318431348955",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "735602708",
+    "game_name": "Marvel's Midnight Suns",
+    "type": "live",
+    "title": "[18+] WOLVERINE IS HERE, BUB! MARVEL MIDNIGHT SUNS! (!clip)",
+    "viewer_count": 4,
+    "started_at": "2026-03-20T20:50:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Catboy",
+      "BoyWife",
+      "Anime",
+      "Comfy",
+      "LGBTQ",
+      "English",
+      "femboy",
+      "Vtuber",
+      "Chatting",
+      "BackseatGamingAllowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
     "id": "316239312866",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -65,7 +94,7 @@
     "game_name": "Crimson Desert",
     "type": "live",
     "title": "Deserting your Crimson til you Oof | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-20T18:49:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -83,6 +112,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "317899574112",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "✨[18+ Eng/Esp] ✨We about to lock it down✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 2,
+    "started_at": "2026-03-20T20:51:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "spanish",
+      "Cozy",
+      "feet",
+      "chaos",
+      "femboy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
   },
   {
     "id": "316269345124",
@@ -125,7 +180,6 @@
     "tag_ids": [],
     "tags": [
       "English",
-      "DropsEnabled",
       "dandysworld"
     ],
     "is_mature": false,
