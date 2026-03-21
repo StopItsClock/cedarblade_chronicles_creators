@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Meet your fluffy moth Sumire!! | adVenture: Ascension ep 1✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 28,
     "started_at": "2026-03-21T19:00:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,33 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "317796757212",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "1846293708",
-    "game_name": "Fields of Mistria",
-    "type": "live",
-    "title": "i don't have pokopia so mistria here i come ✧",
-    "viewer_count": 18,
-    "started_at": "2026-03-21T21:07:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "Asian",
-      "vcanada"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
-  },
-  {
     "id": "317798331996",
     "user_id": "883915539",
     "user_login": "tw_jett",
@@ -64,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "yap maxing+solo mc !!!! - !discord !lurk",
-    "viewer_count": 14,
+    "viewer_count": 18,
     "started_at": "2026-03-21T22:58:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -84,6 +57,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   },
   {
+    "id": "317796757212",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1846293708",
+    "game_name": "Fields of Mistria",
+    "type": "live",
+    "title": "i don't have pokopia so mistria here i come ✧",
+    "viewer_count": 17,
+    "started_at": "2026-03-21T21:07:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "Asian",
+      "vcanada"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
+  },
+  {
     "id": "318452531931",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -92,7 +92,7 @@
     "game_name": "Codenames",
     "type": "live",
     "title": "These Custom Words Are CRAZY",
-    "viewer_count": 13,
+    "viewer_count": 14,
     "started_at": "2026-03-21T21:00:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -110,6 +110,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "315388148584",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "🦝| Overwatch | ranking it so hard rn w/ @kenjamincity | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 4,
+    "started_at": "2026-03-21T22:55:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "317797532508",
@@ -164,32 +190,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
-    "id": "315388148584",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "🦝| Overwatch | ranking it so hard rn w/ @kenjamincity | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 3,
-    "started_at": "2026-03-21T22:55:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
     "id": "315429359593",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -219,6 +219,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
+    "id": "317796923356",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "1147745783",
+    "game_name": "Inscryption",
+    "type": "live",
+    "title": "Haven't touched these cards in a long time",
+    "viewer_count": 1,
+    "started_at": "2026-03-21T21:19:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
     "id": "318452322523",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -241,27 +263,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "317796923356",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "1147745783",
-    "game_name": "Inscryption",
-    "type": "live",
-    "title": "Haven't touched these cards in a long time",
-    "viewer_count": 1,
-    "started_at": "2026-03-21T21:19:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
