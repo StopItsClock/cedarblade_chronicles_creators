@@ -1,5 +1,34 @@
 [
   {
+    "id": "316208612599",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "✧ Dungeons, Dragons...and farming?? | adVenture: Ascension ep 2 ✧ !lurk !merch !throne !clip",
+    "viewer_count": 16,
+    "started_at": "2026-03-22T23:00:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Comfy",
+      "LGBT",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "Bilingual",
+      "adVAscension"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
+  },
+  {
     "id": "318304521305",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -8,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] CHAT VS. CABBY AND @tinypixiedae (!clip)",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-03-22T20:50:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
