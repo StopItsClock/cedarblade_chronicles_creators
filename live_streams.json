@@ -65,7 +65,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[adVenture: Ascension] Magnolia's glorious start of her two week minecraft phase c:",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-21T20:45:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -81,6 +81,32 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
+    "id": "315388148584",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "🦝| Minecraft | Vorigins event TODAY!!! and i guess @kenjamincity (usagiskhan) | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 4,
+    "started_at": "2026-03-21T22:55:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "317797532508",
@@ -110,31 +136,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
   },
   {
-    "id": "315388148584",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "🦝| Minecraft | Vorigins event TODAY!!! and i guess @kenjamincity (usagiskhan) | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 4,
-    "started_at": "2026-03-21T22:55:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
     "id": "315429359593",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -143,7 +144,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "balls smacked, time to smack blocks! [!discord] [!dubby] [18+]",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-03-21T20:04:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -162,28 +163,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "317796923356",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "1147745783",
-    "game_name": "Inscryption",
-    "type": "live",
-    "title": "Haven't touched these cards in a long time",
-    "viewer_count": 2,
-    "started_at": "2026-03-21T21:19:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "318452322523",
@@ -237,5 +216,27 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "317796923356",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "1147745783",
+    "game_name": "Inscryption",
+    "type": "live",
+    "title": "Haven't touched these cards in a long time",
+    "viewer_count": 1,
+    "started_at": "2026-03-21T21:19:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
