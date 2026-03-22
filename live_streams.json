@@ -1,5 +1,30 @@
 [
   {
+    "id": "318472033243",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "516173984",
+    "game_name": "Cult of the Lamb",
+    "type": "live",
+    "title": "[ENVtuber] Finally back into Woolhaven! | 18+ He/They",
+    "viewer_count": 2,
+    "started_at": "2026-03-22T20:09:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "16plus",
+      "VTuber",
+      "ENVTuber",
+      "HeHim"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
+  },
+  {
     "id": "315432821353",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -8,7 +33,7 @@
     "game_name": "Sea of Thieves",
     "type": "live",
     "title": "fites? at nites? BRING IT ON! [!discord] [!dubby] [18+]",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-03-22T20:17:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -27,30 +52,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "318472033243",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "516173984",
-    "game_name": "Cult of the Lamb",
-    "type": "live",
-    "title": "[ENVtuber] Finally back into Woolhaven! | 18+ He/They",
-    "viewer_count": 1,
-    "started_at": "2026-03-22T20:09:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "16plus",
-      "VTuber",
-      "ENVTuber",
-      "HeHim"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
