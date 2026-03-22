@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Meet your fluffy moth Sumire!! | adVenture: Ascension ep 1✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "viewer_count": 19,
     "started_at": "2026-03-21T19:00:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[CRESTFALL ACADEMY/V-ORIGINS SMP] Getting our pokemon groove going then it's event time!",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-03-21T23:59:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -55,6 +55,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315388148584",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "🦝| Minecraft | Vorigins event TODAY!!! and i guess @kenjamincity (usagiskhan) | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 6,
+    "started_at": "2026-03-21T22:55:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "318346653658",
@@ -83,32 +109,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
-    "id": "315388148584",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "🦝| Minecraft | Vorigins event TODAY!!! and i guess @kenjamincity (usagiskhan) | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 4,
-    "started_at": "2026-03-21T22:55:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
     "id": "317797532508",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -117,7 +117,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✨[18+ Eng/Esp] ✨I NEED HEALING✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-03-21T22:04:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -163,6 +163,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "317796923356",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "1147745783",
+    "game_name": "Inscryption",
+    "type": "live",
+    "title": "Haven't touched these cards in a long time",
+    "viewer_count": 1,
+    "started_at": "2026-03-21T21:19:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "318452322523",
@@ -216,27 +238,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
-  },
-  {
-    "id": "317796923356",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "1147745783",
-    "game_name": "Inscryption",
-    "type": "live",
-    "title": "Haven't touched these cards in a long time",
-    "viewer_count": 1,
-    "started_at": "2026-03-21T21:19:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
