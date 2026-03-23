@@ -8,7 +8,7 @@
     "game_name": "The Last of Us Part I",
     "type": "live",
     "title": "[18+] actually unsoftlocking myself 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 40,
+    "viewer_count": 35,
     "started_at": "2026-03-23T00:53:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Dungeons, Dragons...and farming?? | adVenture: Ascension ep 2 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 23,
+    "viewer_count": 26,
     "started_at": "2026-03-22T23:00:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,34 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "316209430519",
-    "user_id": "265674058",
-    "user_login": "skyla_skydancer",
-    "user_name": "Skyla_SkyDancer",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "CSGO with Friends !discord",
-    "viewer_count": 6,
-    "started_at": "2026-03-23T00:52:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "AffiliateStreamer",
-      "ChatReader",
-      "Trans",
-      "Transfem",
-      "booba",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
-  },
-  {
     "id": "318373395290",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -94,7 +66,7 @@
     "game_name": "War Thunder",
     "type": "live",
     "title": "Late night chaos in warthunder",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-03-23T01:57:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
@@ -128,7 +100,8 @@
       "Gaming",
       "PC",
       "rock",
-      "LurkerFriendly"
+      "LurkerFriendly",
+      "DropsEnabled"
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
