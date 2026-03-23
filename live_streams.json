@@ -8,7 +8,7 @@
     "game_name": "The Last of Us Part I",
     "type": "live",
     "title": "[18+] actually unsoftlocking myself 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 26,
+    "viewer_count": 24,
     "started_at": "2026-03-23T00:53:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Dungeons, Dragons...and farming?? | adVenture: Ascension ep 2 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 22,
     "started_at": "2026-03-22T23:00:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,32 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "315653750642",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "1329153872",
-    "game_name": "Pokémon Pokopia",
-    "type": "live",
-    "title": "Slowly building things! [!lurk !discord]",
-    "viewer_count": 6,
-    "started_at": "2026-03-23T00:43:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
-  },
-  {
     "id": "316209430519",
     "user_id": "265674058",
     "user_login": "skyla_skydancer",
@@ -92,7 +66,7 @@
     "game_name": "Counter-Strike",
     "type": "live",
     "title": "CSGO with Friends !discord",
-    "viewer_count": 3,
+    "viewer_count": 7,
     "started_at": "2026-03-23T00:52:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -111,6 +85,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   },
   {
+    "id": "315653750642",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "1329153872",
+    "game_name": "Pokémon Pokopia",
+    "type": "live",
+    "title": "Slowly building things! [!lurk !discord]",
+    "viewer_count": 5,
+    "started_at": "2026-03-23T00:43:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
     "id": "316261907170",
     "user_id": "916904675",
     "user_login": "articglow_",
@@ -119,7 +119,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Playing MC with a friendo!!!",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-23T01:29:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -138,5 +138,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
+  },
+  {
+    "id": "318373395290",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "starfastwolf",
+    "game_id": "66366",
+    "game_name": "War Thunder",
+    "type": "live",
+    "title": "Late night chaos in warthunder",
+    "viewer_count": 0,
+    "started_at": "2026-03-23T01:57:57Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "justcchatting",
+      "warrthunder",
+      "18plusstream"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
