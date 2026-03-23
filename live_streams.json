@@ -18,34 +18,10 @@
       "English",
       "Chaotic",
       "Wolf",
-      "Cr\u0131nge"
+      "Crınge"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
-  },
-  {
-    "id": "316721206501",
-    "user_id": "176717390",
-    "user_login": "calmarvt",
-    "user_name": "CalmarVT",
-    "game_id": "2128193047",
-    "game_name": "Super Battle Golf",
-    "type": "live",
-    "title": "[ENVtuber] Torturing my friends in golf :33 @KenLMatia @RyoAsada @Frozabbit @LunarProjections",
-    "viewer_count": 6,
-    "started_at": "2026-03-23T18:44:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "GERVtuber",
-      "ENVtuber",
-      "English",
-      "Splatoon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
   },
   {
     "id": "315369167570",
@@ -72,6 +48,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
+    "id": "316721206501",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "2128193047",
+    "game_name": "Super Battle Golf",
+    "type": "live",
+    "title": "[ENVtuber] Torturing my friends in golf :33 @KenLMatia @RyoAsada @Frozabbit @LunarProjections",
+    "viewer_count": 6,
+    "started_at": "2026-03-23T18:44:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
+  },
+  {
     "id": "318320873561",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -79,7 +79,7 @@
     "game_id": "1294658629",
     "game_name": "R.E.P.O.",
     "type": "live",
-    "title": "BIRB WEEK 1-YEAR ANNIVERSARY! Mini-Subathon R.E.P.O w/ @akira_san4 @narrabear_ & @leiaviathanvt \u2307 SFW \u2307 !discord !social",
+    "title": "BIRB WEEK 1-YEAR ANNIVERSARY! Mini-Subathon R.E.P.O w/ @akira_san4 @narrabear_ & @leiaviathanvt ⌇ SFW ⌇ !discord !social",
     "viewer_count": 4,
     "started_at": "2026-03-23T20:57:51Z",
     "language": "en",
