@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "MORE FONXCRAFT SMP!! Lets hangout!!",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-03-23T21:35:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -58,6 +58,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "317827952220",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "✨[18+ Eng/Esp] ✨Can I survive this lockdown, then Cedarblade✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 4,
+    "started_at": "2026-03-23T21:46:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "spanish",
+      "Cozy",
+      "feet",
+      "chaos",
+      "femboy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
+  },
+  {
     "id": "315369167570",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -80,32 +106,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
-    "id": "317827952220",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "144418804",
-    "game_name": "LOCKDOWN Protocol",
-    "type": "live",
-    "title": "✨[18+ Eng/Esp] ✨Can I survive this lockdown, then Cedarblade✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 3,
-    "started_at": "2026-03-23T21:46:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "spanish",
-      "Cozy",
-      "feet",
-      "chaos",
-      "femboy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
   },
   {
     "id": "318382941530",
