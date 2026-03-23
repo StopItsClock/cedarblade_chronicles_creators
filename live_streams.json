@@ -8,7 +8,7 @@
     "game_name": "The Last of Us Part I",
     "type": "live",
     "title": "[18+] actually unsoftlocking myself 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 37,
+    "viewer_count": 33,
     "started_at": "2026-03-23T00:53:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Dungeons, Dragons...and farming?? | adVenture: Ascension ep 2 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 27,
+    "viewer_count": 23,
     "started_at": "2026-03-22T23:00:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -81,29 +81,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "318373395290",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "66366",
-    "game_name": "War Thunder",
-    "type": "live",
-    "title": "Late night chaos in warthunder",
-    "viewer_count": 3,
-    "started_at": "2026-03-23T01:57:57Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "justcchatting",
-      "warrthunder",
-      "18plusstream"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
