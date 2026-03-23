@@ -8,7 +8,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "BIRB WEEK 1-YEAR ANNIVERSARY! Mini-Subathon R.E.P.O w/ @akira_san4 @narrabear_ & @leiaviathanvt ⌇ SFW ⌇ !discord !social",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-03-23T20:57:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -29,30 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
-    "id": "317175869655",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "music monday back!? TADC &music vidoes>w<",
-    "viewer_count": 5,
-    "started_at": "2026-03-23T19:34:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
-  },
-  {
     "id": "315369167570",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -61,7 +37,7 @@
     "game_name": "Hades",
     "type": "live",
     "title": "Bonus stream I am killing my dad to get out of here. | NEW REDEEMS ARE BACK!",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-03-23T19:41:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
@@ -75,6 +51,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "317175869655",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "music monday back!? TADC &music vidoes>w<",
+    "viewer_count": 4,
+    "started_at": "2026-03-23T19:34:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
   },
   {
     "id": "318382941530",
