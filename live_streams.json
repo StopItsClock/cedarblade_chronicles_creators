@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Sumire's Shiny Jewlery shop is now open!! | adVenture: Ascension ep 3 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 24,
     "started_at": "2026-03-23T22:30:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,6 +58,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
+    "id": "317892803038",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[adVenture: Ascension] New day, same Magnolia",
+    "viewer_count": 6,
+    "started_at": "2026-03-23T23:57:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ComfyCafe",
+      "English",
+      "Retro",
+      "RP",
+      "advascension",
+      "ViewerRewards"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
     "id": "317833048412",
     "user_id": "459187886",
     "user_login": "starryskiesvt",
@@ -66,7 +92,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "SHOWING OFF 2WINTAILS MODEL!! THEN SOME MARVEL RIVALS! | !discord !Throne | @Starryskiesvt",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-03-24T02:29:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -114,31 +140,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "317892803038",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[adVenture: Ascension] New day, same Magnolia",
-    "viewer_count": 6,
-    "started_at": "2026-03-23T23:57:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English",
-      "Retro",
-      "RP",
-      "advascension",
-      "ViewerRewards"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   }
 ]
