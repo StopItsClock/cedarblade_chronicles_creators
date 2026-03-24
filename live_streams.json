@@ -1,31 +1,5 @@
 [
   {
-    "id": "315723921108",
-    "user_id": "604764355",
-    "user_login": "zachibee",
-    "user_name": "zachibee",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "[18+] hey... come here 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 23,
-    "started_at": "2026-03-24T18:22:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "adhd",
-      "anime",
-      "autism",
-      "silly",
-      "energetic",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
-  },
-  {
     "id": "317186989015",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -33,8 +7,8 @@
     "game_id": "497057",
     "game_name": "Destiny 2",
     "type": "live",
-    "title": "✧ Forced to play destiny....thinking about blocks ✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "title": "\u2727 Forced to play destiny....thinking about blocks \u2727 !lurk !merch !throne !clip",
+    "viewer_count": 23,
     "started_at": "2026-03-24T18:59:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -53,6 +27,85 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
+  },
+  {
+    "id": "315723921108",
+    "user_id": "604764355",
+    "user_login": "zachibee",
+    "user_name": "zachibee",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "[18+] hey... come here \ud83d\udc99 join for yap!\u26a1!lurk !discord !merch !throne !socials",
+    "viewer_count": 20,
+    "started_at": "2026-03-24T18:22:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "adhd",
+      "anime",
+      "autism",
+      "silly",
+      "energetic",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
+  },
+  {
+    "id": "316304549860",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Cozy stream while listening to music/audio books!! THEN LATER MC & LOCKDOWN PROTOCOL!!",
+    "viewer_count": 4,
+    "started_at": "2026-03-24T19:57:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy",
+      "SMP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
+  },
+  {
+    "id": "315372303314",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1903182640",
+    "game_name": "SWORN",
+    "type": "live",
+    "title": "You failed at voting so we are here now | SWORN WITH GILDED AND BURNIUM!",
+    "viewer_count": 4,
+    "started_at": "2026-03-24T18:14:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "316275112162",
@@ -80,29 +133,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
-  },
-  {
-    "id": "315372303314",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1903182640",
-    "game_name": "SWORN",
-    "type": "live",
-    "title": "You failed at voting so we are here now | SWORN WITH GILDED AND BURNIUM!",
-    "viewer_count": 4,
-    "started_at": "2026-03-24T18:14:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
