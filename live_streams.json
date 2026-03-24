@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "\u2727 Sumire's Shiny Jewlery shop is now open!! | adVenture: Ascension ep 3 \u2727 !lurk !merch !throne !clip",
+    "title": "✧ Sumire's Shiny Jewlery shop is now open!! | adVenture: Ascension ep 3 ✧ !lurk !merch !throne !clip",
     "viewer_count": 31,
     "started_at": "2026-03-23T22:30:01Z",
     "language": "en",
@@ -36,8 +36,8 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "[18+] Eldritch Mining and Cobbling \u2738Cobblemon Stream\u2738 !LC",
-    "viewer_count": 10,
+    "title": "[18+] Eldritch Mining and Cobbling ✸Cobblemon Stream✸ !LC",
+    "viewer_count": 12,
     "started_at": "2026-03-24T01:15:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -50,7 +50,7 @@
       "boyfriend",
       "EldritchVTuber",
       "MaleVtuber",
-      "Ch\u0131ll",
+      "Chıll",
       "ADHD",
       "TentacleMonster"
     ],
@@ -95,7 +95,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] I sound like a diseased Victorian Child | DotW + Limbus Company | !lurk !throne !tip !discord",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-03-23T23:00:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -171,6 +171,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
+    "id": "316216087927",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "32982",
+    "game_name": "Grand Theft Auto V",
+    "type": "live",
+    "title": "MY LATE AFFILIATE ANNIVERSARY STREAM WOOO Playing some #LodestarRP",
+    "viewer_count": 3,
+    "started_at": "2026-03-24T01:18:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English",
+      "modded"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
     "id": "318385366106",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -194,29 +218,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "316216087927",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "32982",
-    "game_name": "Grand Theft Auto V",
-    "type": "live",
-    "title": "MY LATE AFFILIATE ANNIVERSARY STREAM WOOO Playing some #LodestarRP",
-    "viewer_count": 2,
-    "started_at": "2026-03-24T01:18:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English",
-      "modded"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
