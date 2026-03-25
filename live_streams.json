@@ -7,7 +7,7 @@
     "game_id": "511212",
     "game_name": "Subnautica: Below Zero",
     "type": "live",
-    "title": "BIRB WEEK BONUS STREAM! Back up plan engaged! \u2307 18+ \u2307 !discord !social",
+    "title": "BIRB WEEK BONUS STREAM! Back up plan engaged! ⌇ 18+ ⌇ !discord !social",
     "viewer_count": 5,
     "started_at": "2026-03-25T20:58:18Z",
     "language": "en",
@@ -115,34 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
-    "id": "318523240539",
-    "user_id": "240610101",
-    "user_login": "shatteredsoullive",
-    "user_name": "shatteredsoullive",
-    "game_id": "1820378900",
-    "game_name": "Resident Evil 4",
-    "type": "live",
-    "title": "Returning to Resident Evil 4: Leon the Smex Kennedy!",
-    "viewer_count": 1,
-    "started_at": "2026-03-25T22:54:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "Variety",
-      "bipocstreamer",
-      "English",
-      "TwitchGuildUnity",
-      "LatinUnityGuild",
-      "Chaotic",
-      "PeanutButterGang",
-      "twitchprideguild"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
-  },
-  {
     "id": "317975360608",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -170,5 +142,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "318523240539",
+    "user_id": "240610101",
+    "user_login": "shatteredsoullive",
+    "user_name": "shatteredsoullive",
+    "game_id": "1820378900",
+    "game_name": "Resident Evil 4",
+    "type": "live",
+    "title": "Returning to Resident Evil 4: Leon the Smex Kennedy!",
+    "viewer_count": 1,
+    "started_at": "2026-03-25T22:54:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "Variety",
+      "bipocstreamer",
+      "English",
+      "TwitchGuildUnity",
+      "LatinUnityGuild",
+      "Chaotic",
+      "PeanutButterGang",
+      "twitchprideguild"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
   }
 ]
