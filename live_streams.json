@@ -34,7 +34,7 @@
     "game_name": "Phasmophobia",
     "type": "live",
     "title": "Ghost hunting with the girlies, only one soma this time. [Phasmophobia]",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-03-26T22:26:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
@@ -77,5 +77,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "316736851672",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "518184",
+    "game_name": "Phasmophobia",
+    "type": "live",
+    "title": "Phasmophobia with the ghoul girls @theomenclature and @justcallmegigi",
+    "viewer_count": 0,
+    "started_at": "2026-03-26T22:35:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "FiveNightsatfreddy",
+      "fnaf"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
   }
 ]
