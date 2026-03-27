@@ -7,8 +7,8 @@
     "game_id": "2128193047",
     "game_name": "Super Battle Golf",
     "type": "live",
-    "title": "[18+] GOLF? GULP! @nostro @scrapscruff @kofeynayavt \ud83d\udc99 join for yap!\u26a1!lurk !discord !merch !throne !socials",
-    "viewer_count": 25,
+    "title": "[18+] GOLF? GULP! @nostro @scrapscruff @kofeynayavt 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
+    "viewer_count": 27,
     "started_at": "2026-03-27T15:02:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -24,5 +24,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
+  },
+  {
+    "id": "316300585954",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "LIKE A CHICKEN WITH HER HEAD CUT OFF, WE ARE WINGING IT| 18+ | !fishcord !kofi !waifu",
+    "viewer_count": 0,
+    "started_at": "2026-03-27T19:00:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "CedarbladeSMP",
+      "Comptetitive"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   }
 ]
