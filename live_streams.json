@@ -8,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[Sprout] ShB is Scaring Me...",
-    "viewer_count": 11,
+    "viewer_count": 9,
     "started_at": "2026-03-27T20:00:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Mewgenics",
     "type": "live",
     "title": "Tasty Legs and Crispy Thighs. My cats are going to break || Mewgenics (!lurk, !links, !discord)",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-03-27T22:00:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -51,33 +51,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "317947277918",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "3395282",
-    "game_name": "Monster Care Simulator",
-    "type": "live",
-    "title": "[Subathon] Guess who's back? The Fish! We care for da monsters w/ @regina_kardinal (Monster Care Simulator)",
-    "viewer_count": 6,
-    "started_at": "2026-03-27T20:02:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon",
-      "chattyfunny"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
     "id": "318553602523",
@@ -107,31 +80,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318552654811",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "1294658629",
-    "game_name": "R.E.P.O.",
-    "type": "live",
-    "title": "[ENVtuber] REPOing with @calmarvt @azureaetherium @onetruemink | 18+ He/Him",
-    "viewer_count": 4,
-    "started_at": "2026-03-27T20:02:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "16plus",
-      "VTuber",
-      "ENVTuber",
-      "HeHim"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   },
   {
     "id": "316763727205",
@@ -166,7 +114,7 @@
     "game_name": "PowerWash Simulator 2",
     "type": "live",
     "title": "[18+] Spraying and Singing, The chillest of Chill",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-27T21:01:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -181,5 +129,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "318552654811",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "1294658629",
+    "game_name": "R.E.P.O.",
+    "type": "live",
+    "title": "[ENVtuber] REPOing with @calmarvt @azureaetherium @onetruemink | 18+ He/Him",
+    "viewer_count": 4,
+    "started_at": "2026-03-27T20:02:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "16plus",
+      "VTuber",
+      "ENVTuber",
+      "HeHim"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
