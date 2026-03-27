@@ -34,7 +34,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[Sprout] ShB is Scaring Me...",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-03-27T20:00:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -54,6 +54,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "317947277918",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "3395282",
+    "game_name": "Monster Care Simulator",
+    "type": "live",
+    "title": "[Subathon] Guess who's back? The Fish! We care for da monsters w/ @regina_kardinal (Monster Care Simulator)",
+    "viewer_count": 6,
+    "started_at": "2026-03-27T20:02:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "hilarious",
+      "PartnerPush",
+      "HighEnergy",
+      "Subathon",
+      "chattyfunny"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
     "id": "316300585954",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -62,7 +89,7 @@
     "game_name": "Slay the Spire II",
     "type": "live",
     "title": "LIKE A CHICKEN WITH HER HEAD CUT OFF, WE ARE WINGING IT| 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-03-27T19:00:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -89,7 +116,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "[ENVtuber] Back to REPO :33 @AzureAetherium @ThatUserKai @OneTrueMink",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-03-27T20:07:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -128,32 +155,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
-  },
-  {
-    "id": "317947277918",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "3395282",
-    "game_name": "Monster Care Simulator",
-    "type": "live",
-    "title": "[Subathon] Guess who's back? The Fish! We care for da monsters w/ @regina_kardinal (Monster Care Simulator)",
-    "viewer_count": 2,
-    "started_at": "2026-03-27T20:02:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon",
-      "chattyfunny"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   }
 ]
