@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "overwatch has slowly taken over my life || !discord !dono !lurk !throne",
-    "viewer_count": 11,
+    "viewer_count": 17,
     "started_at": "2026-03-28T21:35:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Just Chatting Vibes -> Ober Wat",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-03-28T20:56:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -62,7 +62,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] CABBY BACK IN THE MINES | VANILLA MINECRAFT",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-28T20:52:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -110,29 +110,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317964218846",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "518144",
-    "game_name": "The Outlast Trials",
-    "type": "live",
-    "title": "Dorris gave us alcohol, don’t tell Easterman feat. @alucardhs1 (DRINK RESPONSIBLY)",
-    "viewer_count": 2,
-    "started_at": "2026-03-28T20:41:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "315411920744",
@@ -187,6 +164,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "317964218846",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "518144",
+    "game_name": "The Outlast Trials",
+    "type": "live",
+    "title": "Dorris gave us alcohol, don’t tell Easterman feat. @alucardhs1 (DRINK RESPONSIBLY)",
+    "viewer_count": 1,
+    "started_at": "2026-03-28T20:41:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "316754453208",
