@@ -35,7 +35,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] CABBY HAS ALLERGIES | VANILLA MINECRAFT (!clip)",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-03-29T20:53:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -54,32 +54,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318594553051",
-    "user_id": "595484950",
-    "user_login": "thehashibira",
-    "user_name": "TheHashibira",
-    "game_id": "21779",
-    "game_name": "League of Legends",
-    "type": "live",
-    "title": "Leaguing it with the Homie",
-    "viewer_count": 6,
-    "started_at": "2026-03-29T19:52:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Friends",
-      "Gaming",
-      "Male",
-      "Vtuber",
-      "Funny",
-      "Fun",
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
     "id": "317915868380",
@@ -109,33 +83,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
-    "id": "316256792439",
-    "user_id": "574560089",
-    "user_login": "kayvender",
-    "user_name": "kayvender",
-    "game_id": "509673",
-    "game_name": "Makers & Crafting",
+    "id": "318594553051",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "21779",
+    "game_name": "League of Legends",
     "type": "live",
-    "title": "Relaxing while crocheting Totoro | !pattern",
-    "viewer_count": 1,
-    "started_at": "2026-03-29T21:14:58Z",
+    "title": "Leaguing it with the Homie",
+    "viewer_count": 5,
+    "started_at": "2026-03-29T19:52:33Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
       "Vtuber",
-      "EN",
-      "ElfVTuber",
-      "Elf",
-      "smallstream",
-      "ADHD",
-      "English",
-      "dumbdumb",
-      "crochet",
-      "crochetandchat"
+      "Funny",
+      "Fun",
+      "English"
     ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
     "id": "315478819178",
@@ -165,5 +136,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "316256792439",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "509673",
+    "game_name": "Makers & Crafting",
+    "type": "live",
+    "title": "Relaxing while crocheting Totoro | !pattern",
+    "viewer_count": 1,
+    "started_at": "2026-03-29T21:14:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "EN",
+      "ElfVTuber",
+      "Elf",
+      "smallstream",
+      "ADHD",
+      "English",
+      "dumbdumb",
+      "crochet",
+      "crochetandchat"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
