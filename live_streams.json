@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Weddings and Gachapon addictions | adVenture: Ascension ep 9 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 18,
+    "viewer_count": 21,
     "started_at": "2026-03-29T22:55:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "HELLDIVERS 2",
     "type": "live",
     "title": "[Helldivers 2] MAKIN' SOME DEMOCRACY WITH @lilbathuntie, @yaboiikaboose, and @capariansol [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-03-29T22:00:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -56,6 +56,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "315478819178",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "513181",
+    "game_name": "Genshin Impact",
+    "type": "live",
+    "title": "genshin exploration! [!discord] [!dubby] [18+]",
+    "viewer_count": 3,
+    "started_at": "2026-03-29T19:57:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NewZealand",
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
     "id": "316370212451",
@@ -85,34 +114,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
-  },
-  {
-    "id": "315478819178",
-    "user_id": "95084465",
-    "user_login": "deltarious5",
-    "user_name": "Deltarious5",
-    "game_id": "513181",
-    "game_name": "Genshin Impact",
-    "type": "live",
-    "title": "genshin exploration! [!discord] [!dubby] [18+]",
-    "viewer_count": 1,
-    "started_at": "2026-03-29T19:57:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "NewZealand",
-      "Casual",
-      "ADHD",
-      "English",
-      "Vtuber",
-      "NoBackseatingUnlessAsked",
-      "18pluschannel",
-      "cosplayer",
-      "crossdresser",
-      "Anime"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   }
 ]
