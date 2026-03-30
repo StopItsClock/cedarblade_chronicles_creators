@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch Jar and Horse Gamble! ✸Bringing it All Back Stream✸",
-    "viewer_count": 10,
+    "viewer_count": 13,
     "started_at": "2026-03-30T19:07:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "WILL TODAY BE THE DAY OF WINNINGS? | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-03-30T21:46:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -124,7 +124,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "✨[18+ Eng/Esp] ✨IM DEFINITELY NOT GETTING FIRED✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-30T20:36:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -140,31 +140,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
-  },
-  {
-    "id": "318612168411",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "31376",
-    "game_name": "Terraria",
-    "type": "live",
-    "title": "BACK TO GAIN SOULS || Terraria (!lurk, !links, !discord)",
-    "viewer_count": 2,
-    "started_at": "2026-03-30T21:00:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "316377065187",
@@ -190,5 +165,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "318612168411",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "31376",
+    "game_name": "Terraria",
+    "type": "live",
+    "title": "BACK TO GAIN SOULS || Terraria (!lurk, !links, !discord)",
+    "viewer_count": 2,
+    "started_at": "2026-03-30T21:00:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
