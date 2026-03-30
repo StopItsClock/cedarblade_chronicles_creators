@@ -1,5 +1,33 @@
 [
   {
+    "id": "318600385883",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[V-ORIGINS SMP] Preparing for our Naval Coup! Let's find dirt on the Admiral",
+    "viewer_count": 17,
+    "started_at": "2026-03-30T00:51:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
     "id": "316257443575",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -29,34 +57,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "318600385883",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[V-ORIGINS SMP] Preparing for our Naval Coup! Let's find dirt on the Admiral",
-    "viewer_count": 15,
-    "started_at": "2026-03-30T00:51:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
     "id": "316369555683",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -65,7 +65,7 @@
     "game_name": "Cyberpunk 2077",
     "type": "live",
     "title": "[Cyberpunk 2077] Grabbin' me more eddies! [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-03-29T22:00:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
