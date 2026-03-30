@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch Jar and Horse Gamble! ✸Bringing it All Back Stream✸",
-    "viewer_count": 18,
+    "viewer_count": 19,
     "started_at": "2026-03-30T19:07:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Balatro",
     "type": "live",
     "title": "[18+] First time ever, Let's see if this leads to an addiction",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-03-30T19:53:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -79,6 +79,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "316328243426",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "She's a gamer! (not really) | 18+ | !fishcord !kofi !waifu",
+    "viewer_count": 4,
+    "started_at": "2026-03-30T17:58:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "CedarbladeSMP",
+      "Comptetitive",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
     "id": "318443972313",
@@ -108,33 +136,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
-    "id": "316328243426",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "She's a gamer! (not really) | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 3,
-    "started_at": "2026-03-30T17:58:41Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "CedarbladeSMP",
-      "Comptetitive",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   }
 ]
