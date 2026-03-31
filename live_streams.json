@@ -32,7 +32,7 @@
     "user_login": "skyla_skydancer",
     "user_name": "Skyla_SkyDancer",
     "game_id": "670867987",
-    "game_name": "Pok\u00e9mon Scarlet/Violet",
+    "game_name": "Pokémon Scarlet/Violet",
     "type": "live",
     "title": "Professor oak Living Dex Suffering !discord",
     "viewer_count": 5,
@@ -52,6 +52,35 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
+  },
+  {
+    "id": "317682128116",
+    "user_id": "1275381753",
+    "user_login": "mimiluna2",
+    "user_name": "MimiLuna2",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Exploring on the Bunnimon SMP!",
+    "viewer_count": 4,
+    "started_at": "2026-03-31T21:01:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ADHD",
+      "Latina",
+      "LGBTQIAPIus",
+      "spanish",
+      "chill",
+      "Español",
+      "Inglés",
+      "bunnimon",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   },
   {
     "id": "318006443358",
@@ -105,34 +134,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "317682128116",
-    "user_id": "1275381753",
-    "user_login": "mimiluna2",
-    "user_name": "MimiLuna2",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Exploring on the Bunnimon SMP!",
-    "viewer_count": 3,
-    "started_at": "2026-03-31T21:01:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ADHD",
-      "Latina",
-      "LGBTQIAPIus",
-      "spanish",
-      "chill",
-      "Espa\u00f1ol",
-      "Ingl\u00e9s",
-      "bunnimon",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   }
 ]
