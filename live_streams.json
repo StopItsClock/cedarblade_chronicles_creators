@@ -35,7 +35,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[Subathon] Raccoon City... i'm back baby.  [Resident Evil Requiem pt.4/Finale?]",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-03-31T21:48:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -55,30 +55,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
-    "id": "318006443358",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "511224",
-    "game_name": "Apex Legends",
-    "type": "live",
-    "title": "Apex Legends until tft PBE is fixed",
-    "viewer_count": 4,
-    "started_at": "2026-03-31T19:45:50Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "316778129624",
     "user_id": "265674058",
     "user_login": "skyla_skydancer",
@@ -87,7 +63,7 @@
     "game_name": "Pokémon Scarlet/Violet",
     "type": "live",
     "title": "Professor oak Living Dex Suffering !discord",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-03-31T21:15:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -114,7 +90,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Exploring on the Bunnimon SMP!",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-03-31T21:01:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -162,5 +138,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "318006443358",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "511224",
+    "game_name": "Apex Legends",
+    "type": "live",
+    "title": "Apex Legends until tft PBE is fixed",
+    "viewer_count": 2,
+    "started_at": "2026-03-31T19:45:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
