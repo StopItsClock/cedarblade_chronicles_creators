@@ -7,8 +7,8 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "\u2727 Staying cool at the fancy ball!! | adVenture: Ascension ep 12 \u2727 !lurk !merch !throne !clip",
-    "viewer_count": 15,
+    "title": "✧ Staying cool at the fancy ball!! | adVenture: Ascension ep 12 ✧ !lurk !merch !throne !clip",
+    "viewer_count": 14,
     "started_at": "2026-04-01T21:23:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -91,7 +91,7 @@
     "game_id": "144418804",
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
-    "title": "\u2728[18+ Eng/Esp] \u2728Can I bring cookies into the office\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "title": "✨[18+ Eng/Esp] ✨Can I bring cookies into the office✨ !socials !discord !lurk !SMP @rams_404_ ✨",
     "viewer_count": 4,
     "started_at": "2026-04-01T20:54:16Z",
     "language": "en",
@@ -108,31 +108,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
-  },
-  {
-    "id": "318646317019",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "941530474",
-    "game_name": "Mario Kart 8 Deluxe",
-    "type": "live",
-    "title": "{ENVtuber} | MK8D w/ @calmarvt @azureaetherium @onetruemink | 18+ He/Him",
-    "viewer_count": 2,
-    "started_at": "2026-04-01T20:09:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "16plus",
-      "VTuber",
-      "ENVTuber",
-      "HeHim"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   },
   {
     "id": "318645702491",
@@ -162,6 +137,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "318646317019",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "941530474",
+    "game_name": "Mario Kart 8 Deluxe",
+    "type": "live",
+    "title": "{ENVtuber} | MK8D w/ @calmarvt @azureaetherium @onetruemink | 18+ He/Him",
+    "viewer_count": 2,
+    "started_at": "2026-04-01T20:09:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "16plus",
+      "VTuber",
+      "ENVTuber",
+      "HeHim"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   },
   {
     "id": "316667215591",
