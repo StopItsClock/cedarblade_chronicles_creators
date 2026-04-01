@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Gems and becoming swole mof | adVenture: Ascension ep 11 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 28,
+    "viewer_count": 27,
     "started_at": "2026-03-31T22:59:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
+    "id": "318009366878",
+    "user_id": "67504126",
+    "user_login": "cutenysnys",
+    "user_name": "CuteNysNys",
+    "game_id": "1143434155",
+    "game_name": "Mama's Sleeping Angels",
+    "type": "live",
+    "title": "[18+]  Getting beat within an inch of my life by honestly the most horrible thing ever @crowpeki 💚 @cutenysnys 💚 !socials !Merch 💚",
+    "viewer_count": 23,
+    "started_at": "2026-03-31T23:03:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ADHD",
+      "PuertoRican",
+      "LGBTQIAPlus",
+      "Woman",
+      "ESOStreamTeam",
+      "YuriAddict",
+      "bigbitties",
+      "NiceHands",
+      "Spituber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
     "id": "318009182558",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -37,7 +66,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] Are You Telling Me a Tea Magic'd this House? [250+ Mod Vtuber SMP - Cedarblade Chron.] | !throne !socials !lurk !discord",
-    "viewer_count": 22,
+    "viewer_count": 20,
     "started_at": "2026-03-31T22:54:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -87,35 +116,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "318009366878",
-    "user_id": "67504126",
-    "user_login": "cutenysnys",
-    "user_name": "CuteNysNys",
-    "game_id": "1143434155",
-    "game_name": "Mama's Sleeping Angels",
-    "type": "live",
-    "title": "[18+]  Getting beat within an inch of my life by honestly the most horrible thing ever @crowpeki 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 20,
-    "started_at": "2026-03-31T23:03:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ADHD",
-      "PuertoRican",
-      "LGBTQIAPlus",
-      "Woman",
-      "ESOStreamTeam",
-      "YuriAddict",
-      "bigbitties",
-      "NiceHands",
-      "Spituber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
-  },
-  {
     "id": "318529277914",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -140,6 +140,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "318468537817",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[adVenture: Ascension] Magnolia's gathering resources and THE MASQUERADE IS TOMORROW",
+    "viewer_count": 4,
+    "started_at": "2026-04-01T01:20:57Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ComfyCafe",
+      "English",
+      "Retro",
+      "RP",
+      "advascension"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "318010854238",
@@ -168,31 +193,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318468537817",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[adVenture: Ascension] Magnolia's gathering resources and THE MASQUERADE IS TOMORROW",
-    "viewer_count": 3,
-    "started_at": "2026-04-01T01:20:57Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English",
-      "Retro",
-      "RP",
-      "advascension"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "318061716576",
