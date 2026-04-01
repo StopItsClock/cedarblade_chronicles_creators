@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "no april fools prank, just normal stardew || !discord !dono !lurk !throne",
-    "viewer_count": 15,
+    "viewer_count": 19,
     "started_at": "2026-04-01T19:22:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Overwatch Comp Suffering w/ @wiseowl218 | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-04-01T17:58:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -80,6 +80,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
+    "id": "318646317019",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "941530474",
+    "game_name": "Mario Kart 8 Deluxe",
+    "type": "live",
+    "title": "{ENVtuber} | MK8D w/ @calmarvt @azureaetherium @onetruemink | 18+ He/Him",
+    "viewer_count": 2,
+    "started_at": "2026-04-01T20:09:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "16plus",
+      "VTuber",
+      "ENVTuber",
+      "HeHim"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
+  },
+  {
     "id": "316886795750",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -104,5 +129,29 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "316667215591",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "941530474",
+    "game_name": "Mario Kart 8 Deluxe",
+    "type": "live",
+    "title": "[ENVtuber] Totally normal MK collab :33 @ThatUserKai @OneTrueMink @AzureAetherium",
+    "viewer_count": 1,
+    "started_at": "2026-04-01T20:09:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
   }
 ]
