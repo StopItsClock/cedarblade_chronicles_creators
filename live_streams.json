@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "\u2727 Staying cool at the fancy ball!! | adVenture: Ascension ep 12 \u2727 !lurk !merch !throne !clip",
+    "title": "✧ Staying cool at the fancy ball!! | adVenture: Ascension ep 12 ✧ !lurk !merch !throne !clip",
     "viewer_count": 14,
     "started_at": "2026-04-01T21:23:46Z",
     "language": "en",
@@ -93,7 +93,7 @@
     "game_id": "144418804",
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
-    "title": "\u2728[18+ Eng/Esp] \u2728Can I bring cookies into the office\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "title": "✨[18+ Eng/Esp] ✨Can I bring cookies into the office✨ !socials !discord !lurk !SMP @rams_404_ ✨",
     "viewer_count": 4,
     "started_at": "2026-04-01T20:54:16Z",
     "language": "en",
@@ -110,6 +110,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "318075753184",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "community mc server+yap maxing!+1080p!!!!!- !discord !lurk",
+    "viewer_count": 2,
+    "started_at": "2026-04-01T22:59:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "ENGLISH",
+      "Vtuber",
+      "brat",
+      "twinkmaxxing",
+      "yappingstreamer",
+      "newVTuber",
+      "English",
+      "Gremlin"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   },
   {
     "id": "315425420904",
@@ -165,33 +193,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
-    "id": "318075753184",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "community mc server+yap maxing!+1080p!!!!!- !discord !lurk",
-    "viewer_count": 0,
-    "started_at": "2026-04-01T22:59:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "ENGLISH",
-      "Vtuber",
-      "brat",
-      "twinkmaxxing",
-      "yappingstreamer",
-      "newVTuber",
-      "English",
-      "Gremlin"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   }
 ]
