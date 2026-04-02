@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Staying cool at the fancy ball!! | adVenture: Ascension ep 12 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 15,
+    "viewer_count": 16,
     "started_at": "2026-04-01T21:23:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,26 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "318079169120",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "1503830969",
-    "game_name": "Sniper Dan",
-    "type": "live",
-    "title": "Trying a game demo - Sniper Dan",
-    "viewer_count": 8,
-    "started_at": "2026-04-02T02:08:57Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "318485072217",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -57,7 +37,7 @@
     "game_name": "PowerWash Simulator",
     "type": "live",
     "title": "[Powerwash Simulator] Powerwashing with Pals: ArchonsArcade Edition!",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-04-02T01:17:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -84,7 +64,7 @@
     "game_name": "RACCOIN: Coin Pusher Roguelike",
     "type": "live",
     "title": "Pushing coins to get rich [!lurk !discord]",
-    "viewer_count": 5,
+    "viewer_count": 7,
     "started_at": "2026-04-02T00:38:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -102,6 +82,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
+    "id": "318079169120",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "1503830969",
+    "game_name": "Sniper Dan",
+    "type": "live",
+    "title": "Trying a game demo - Sniper Dan",
+    "viewer_count": 5,
+    "started_at": "2026-04-02T02:08:57Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "318481530329",
     "user_id": "710026427",
     "user_login": "wallowsett",
@@ -110,7 +110,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[adVenture: Ascension] Magnolia AND PROM'S TODAY",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-04-01T22:41:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
