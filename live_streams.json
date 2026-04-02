@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Staying cool at the fancy ball!! | adVenture: Ascension ep 12 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "viewer_count": 16,
     "started_at": "2026-04-01T21:23:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,35 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "318023286878",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "107194810",
-    "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-    "type": "live",
-    "title": "[18+] Where My Pookie Prosecutor At >:( [Phoenix Wright: Trials and Tribulations] | !throne !socials !lurk !discord",
-    "viewer_count": 8,
-    "started_at": "2026-04-01T23:07:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "girl",
-      "LGBT",
-      "English",
-      "Canadian",
-      "cozygaming",
-      "PhoenixWrightAceAttorney",
-      "visualnovel",
-      "VoiceActing"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
     "id": "318482989017",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -66,7 +37,7 @@
     "game_name": "Left 4 Dead 2",
     "type": "live",
     "title": "[18+] LEFT 4 RESIDENT EVIL WITH @heyvelleity (!clip)",
-    "viewer_count": 7,
+    "viewer_count": 13,
     "started_at": "2026-04-01T23:50:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -85,6 +56,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318023286878",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "107194810",
+    "game_name": "Phoenix Wright: Ace Attorney Trilogy",
+    "type": "live",
+    "title": "[18+] Where My Pookie Prosecutor At >:( [Phoenix Wright: Trials and Tribulations] | !throne !socials !lurk !discord",
+    "viewer_count": 12,
+    "started_at": "2026-04-01T23:07:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "cozygaming",
+      "PhoenixWrightAceAttorney",
+      "visualnovel",
+      "VoiceActing"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
     "id": "318074825184",
@@ -115,6 +115,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
+    "id": "317959675996",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "23020",
+    "game_name": "ROBLOX",
+    "type": "live",
+    "title": "✨[18+ Eng/Esp] ✨9999999 nights✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 3,
+    "started_at": "2026-04-01T20:54:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "spanish",
+      "Cozy",
+      "feet",
+      "chaos",
+      "femboy",
+      "99nightsintheforest"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
+  },
+  {
     "id": "317961480412",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -123,7 +150,7 @@
     "game_name": "Cartoon Network Universe: FusionFall",
     "type": "live",
     "title": "[18+] Announcement and reliving my childhood on fusionfall | Fusionfall | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-01T23:00:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -142,33 +169,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "317959675996",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "23020",
-    "game_name": "ROBLOX",
-    "type": "live",
-    "title": "✨[18+ Eng/Esp] ✨9999999 nights✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 4,
-    "started_at": "2026-04-01T20:54:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "spanish",
-      "Cozy",
-      "feet",
-      "chaos",
-      "femboy",
-      "99nightsintheforest"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
   },
   {
     "id": "318481530329",
@@ -195,33 +195,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
-    "id": "318544659418",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "464339927",
-    "game_name": "ARC Raiders",
-    "type": "live",
-    "title": "Will i be vaporized or will i live to vaporize the new enemy in arc and also get the new weapons/bps",
-    "viewer_count": 1,
-    "started_at": "2026-04-01T23:34:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "justcchatting",
-      "warrthunder",
-      "18plusstream",
-      "chill",
-      "Rerun",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   },
   {
     "id": "315425420904",
@@ -251,5 +224,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "318544659418",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "starfastwolf",
+    "game_id": "464339927",
+    "game_name": "ARC Raiders",
+    "type": "live",
+    "title": "Will i be vaporized or will i live to vaporize the new enemy in arc and also get the new weapons/bps",
+    "viewer_count": 1,
+    "started_at": "2026-04-01T23:34:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "justcchatting",
+      "warrthunder",
+      "18plusstream",
+      "chill",
+      "Rerun",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
