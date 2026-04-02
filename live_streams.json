@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Praise be the lamp | adVenture: Ascension ep 13 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 15,
+    "viewer_count": 17,
     "started_at": "2026-04-02T23:00:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,31 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "318666199387",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "1158884259",
-    "game_name": "Splatoon 3",
-    "type": "live",
-    "title": "Coral Clash: Low Tide w/ Squid Est!!  | 18+ He/Him",
-    "viewer_count": 5,
-    "started_at": "2026-04-02T23:04:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "16plus",
-      "VTuber",
-      "ENVTuber",
-      "HeHim"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
-  },
-  {
     "id": "318036245470",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -62,7 +37,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "IMMORAL INHABITANTS | RE9: pt.3 | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-04-02T22:03:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -82,32 +57,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "318089196256",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "23020",
-    "game_name": "ROBLOX",
-    "type": "live",
-    "title": "✨[18+ Eng/Esp] ✨WE GOING TO THE DEEP✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 4,
-    "started_at": "2026-04-02T22:02:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "spanish",
-      "Cozy",
-      "feet",
-      "chaos",
-      "femboy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
-  },
-  {
     "id": "318666786651",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -116,7 +65,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] UHHH WE'RE DOIN SOMETHING YAY (!clip)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-04-02T23:31:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -135,6 +84,57 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318666199387",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "1158884259",
+    "game_name": "Splatoon 3",
+    "type": "live",
+    "title": "Coral Clash: Low Tide w/ Squid Est!!  | 18+ He/Him",
+    "viewer_count": 4,
+    "started_at": "2026-04-02T23:04:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "16plus",
+      "VTuber",
+      "ENVTuber",
+      "HeHim"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
+  },
+  {
+    "id": "318089196256",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "23020",
+    "game_name": "ROBLOX",
+    "type": "live",
+    "title": "✨[18+ Eng/Esp] ✨WE GOING TO THE DEEP✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 3,
+    "started_at": "2026-04-02T22:02:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "spanish",
+      "Cozy",
+      "feet",
+      "chaos",
+      "femboy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/675646a1-b8ac-4bda-a242-2fda8f4e17a3-profile_image-300x300.png"
   },
   {
     "id": "316284465271",
@@ -163,6 +163,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "318560298458",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "23020",
+    "game_name": "ROBLOX",
+    "type": "live",
+    "title": "Multigame Stream day with Eepy!!!",
+    "viewer_count": 1,
+    "started_at": "2026-04-02T22:40:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "pngtuber",
+      "Transgender",
+      "English",
+      "SafePlaceForAll",
+      "LGTBQFriendly"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05cf623d-a5ca-4e67-b12e-d2f630158857-profile_image-300x300.png"
   },
   {
     "id": "318559688666",
@@ -209,34 +233,38 @@
       "English",
       "Retro",
       "RP",
-      "advascension"
+      "advascension",
+      "ViewerRewards"
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
-    "id": "318560298458",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "23020",
-    "game_name": "ROBLOX",
+    "id": "318561123162",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "starfastwolf",
+    "game_id": "464339927",
+    "game_name": "ARC Raiders",
     "type": "live",
-    "title": "Multigame Stream day with Eepy!!!",
+    "title": "will stream lag again or will be normal again",
     "viewer_count": 1,
-    "started_at": "2026-04-02T22:40:28Z",
+    "started_at": "2026-04-02T23:19:03Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "pngtuber",
-      "Transgender",
       "English",
-      "SafePlaceForAll",
-      "LGTBQFriendly"
+      "Vtuber",
+      "justcchatting",
+      "warrthunder",
+      "18plusstream",
+      "chill",
+      "Rerun",
+      "DropsEnabled"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05cf623d-a5ca-4e67-b12e-d2f630158857-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   },
   {
     "id": "315470317801",
@@ -266,32 +294,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "318561123162",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "464339927",
-    "game_name": "ARC Raiders",
-    "type": "live",
-    "title": "will stream lag again or will be normal again",
-    "viewer_count": 1,
-    "started_at": "2026-04-02T23:19:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "justcchatting",
-      "warrthunder",
-      "18plusstream",
-      "chill",
-      "Rerun",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
