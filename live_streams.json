@@ -8,7 +8,7 @@
     "game_name": "ROBLOX",
     "type": "live",
     "title": "✨[18+ Eng/Esp] ✨WE GOING TO THE DEEP✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-04-02T22:02:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "IMMORAL INHABITANTS | RE9: pt.3 | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-02T22:03:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -62,7 +62,7 @@
     "game_name": "ROBLOX",
     "type": "live",
     "title": "ROBLOX FNAF AND DEADLOCK WITH @theomenclature",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-04-02T22:43:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -107,6 +107,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   },
   {
+    "id": "318560298458",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "23020",
+    "game_name": "ROBLOX",
+    "type": "live",
+    "title": "Multigame Stream day with Eepy!!!",
+    "viewer_count": 1,
+    "started_at": "2026-04-02T22:40:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "pngtuber",
+      "Transgender",
+      "English",
+      "SafePlaceForAll",
+      "LGTBQFriendly"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05cf623d-a5ca-4e67-b12e-d2f630158857-profile_image-300x300.png"
+  },
+  {
     "id": "315470317801",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -134,29 +158,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "318560298458",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "23020",
-    "game_name": "ROBLOX",
-    "type": "live",
-    "title": "Multigame Stream day with Eepy!!!",
-    "viewer_count": 1,
-    "started_at": "2026-04-02T22:40:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "pngtuber",
-      "Transgender",
-      "English",
-      "SafePlaceForAll",
-      "LGTBQFriendly"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05cf623d-a5ca-4e67-b12e-d2f630158857-profile_image-300x300.png"
   }
 ]
