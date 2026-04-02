@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Staying cool at the fancy ball!! | adVenture: Ascension ep 12 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 21,
     "started_at": "2026-04-01T21:23:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,33 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f48840f-5f89-432b-981b-c1e575eccae8-profile_image-300x300.png"
   },
   {
-    "id": "318485072217",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "519103",
-    "game_name": "PowerWash Simulator",
-    "type": "live",
-    "title": "[Powerwash Simulator] Powerwashing with Pals: ArchonsArcade Edition!",
-    "viewer_count": 9,
-    "started_at": "2026-04-02T01:17:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318548021082",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -64,7 +37,7 @@
     "game_name": "Super Mario Galaxy",
     "type": "live",
     "title": "18+ | Welcome To The Galaxy! | Switch 2 | Super Mario Galaxy | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-04-02T02:00:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
@@ -92,7 +65,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Seek SMP - Exploring a new world",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-04-02T02:08:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
@@ -105,6 +78,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
+    "id": "318485072217",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "519103",
+    "game_name": "PowerWash Simulator",
+    "type": "live",
+    "title": "[Powerwash Simulator] Powerwashing with Pals: ArchonsArcade Edition!",
+    "viewer_count": 8,
+    "started_at": "2026-04-02T01:17:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
     "id": "315699111922",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -113,7 +113,7 @@
     "game_name": "RACCOIN: Coin Pusher Roguelike",
     "type": "live",
     "title": "Pushing coins to get rich [!lurk !discord]",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-04-02T00:38:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -129,32 +129,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
-  },
-  {
-    "id": "318481530329",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[adVenture: Ascension] Magnolia AND PROM'S TODAY",
-    "viewer_count": 2,
-    "started_at": "2026-04-01T22:41:50Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ComfyCafe",
-      "English",
-      "Retro",
-      "RP",
-      "advascension",
-      "ViewerRewards"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "317961480412",
@@ -184,5 +158,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "318481530329",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[adVenture: Ascension] Magnolia AND PROM'S TODAY",
+    "viewer_count": 2,
+    "started_at": "2026-04-01T22:41:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ComfyCafe",
+      "English",
+      "Retro",
+      "RP",
+      "advascension",
+      "ViewerRewards"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   }
 ]
