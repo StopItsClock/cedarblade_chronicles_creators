@@ -7,7 +7,7 @@
     "game_id": "23020",
     "game_name": "ROBLOX",
     "type": "live",
-    "title": "\u2728[18+ Eng/Esp] \u2728WE GOING TO THE DEEP\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "title": "✨[18+ Eng/Esp] ✨WE GOING TO THE DEEP✨ !socials !discord !lurk !SMP @rams_404_ ✨",
     "viewer_count": 6,
     "started_at": "2026-04-02T22:02:29Z",
     "language": "en",
@@ -54,55 +54,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "318560298458",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "23020",
-    "game_name": "ROBLOX",
-    "type": "live",
-    "title": "Multigame Stream day with Eepy!!!",
-    "viewer_count": 1,
-    "started_at": "2026-04-02T22:40:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "pngtuber",
-      "Transgender",
-      "English",
-      "SafePlaceForAll",
-      "LGTBQFriendly"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05cf623d-a5ca-4e67-b12e-d2f630158857-profile_image-300x300.png"
-  },
-  {
-    "id": "318559688666",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "1597660489",
-    "game_name": "RESIDENT EVIL: requiem",
-    "type": "live",
-    "title": "\"I think I want another doctor....\" || Resident Evil Requiem",
-    "viewer_count": 1,
-    "started_at": "2026-04-02T22:06:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "FirstPlaythough",
-      "SurivalHorror",
-      "ResidentEvill",
-      "residentevilrequiem"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
-  },
-  {
     "id": "316284465271",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -129,6 +80,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "318559688666",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "1597660489",
+    "game_name": "RESIDENT EVIL: requiem",
+    "type": "live",
+    "title": "\"I think I want another doctor....\" || Resident Evil Requiem",
+    "viewer_count": 1,
+    "started_at": "2026-04-02T22:06:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "FirstPlaythough",
+      "SurivalHorror",
+      "ResidentEvill",
+      "residentevilrequiem"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   },
   {
     "id": "315470317801",
@@ -158,5 +134,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "318560298458",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "23020",
+    "game_name": "ROBLOX",
+    "type": "live",
+    "title": "Multigame Stream day with Eepy!!!",
+    "viewer_count": 1,
+    "started_at": "2026-04-02T22:40:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "pngtuber",
+      "Transgender",
+      "English",
+      "SafePlaceForAll",
+      "LGTBQFriendly"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05cf623d-a5ca-4e67-b12e-d2f630158857-profile_image-300x300.png"
   }
 ]
