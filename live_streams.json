@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Staying cool at the fancy ball!! | adVenture: Ascension ep 12 ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 20,
     "started_at": "2026-04-01T21:23:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Genshin Impact",
     "type": "live",
     "title": "[18+] LETS PLAY GENSHIN IMPACT!!!✸ Genshin Impact Stream✸",
-    "viewer_count": 12,
+    "viewer_count": 8,
     "started_at": "2026-04-02T03:46:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,33 +56,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
-    "id": "318485072217",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "519103",
-    "game_name": "PowerWash Simulator",
-    "type": "live",
-    "title": "[Powerwash Simulator] Powerwashing with Pals: ArchonsArcade Edition!",
-    "viewer_count": 8,
-    "started_at": "2026-04-02T01:17:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
     "id": "318548021082",
@@ -113,27 +86,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
-    "id": "318079169120",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Seek SMP - Exploring a new world",
-    "viewer_count": 4,
-    "started_at": "2026-04-02T02:08:57Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "318481530329",
     "user_id": "710026427",
     "user_login": "wallowsett",
@@ -158,5 +110,26 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
+    "id": "318079169120",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Seek SMP - Exploring a new world",
+    "viewer_count": 3,
+    "started_at": "2026-04-02T02:08:57Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
