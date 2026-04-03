@@ -33,7 +33,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "[Subathon] Chat the wives are flirting on main... (Dead by Daylight w/ @regina_kardinal)",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-04-03T19:12:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -52,5 +52,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318102495072",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "2058220722",
+    "game_name": "Poppy Playtime",
+    "type": "live",
+    "title": "we have reached night 5| !Discord !lurk | 🐉🧟",
+    "viewer_count": 1,
+    "started_at": "2026-04-03T20:26:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror",
+      "voriginss3"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   }
 ]
