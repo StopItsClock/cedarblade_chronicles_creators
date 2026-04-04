@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ The end?? | adVenture: Ascension ep 15  THE FINALE!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "viewer_count": 14,
     "started_at": "2026-04-04T20:59:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Marvel: Ultimate Alliance 2",
     "type": "live",
     "title": "[18+] THE ALLIANCE FORMS AGAIN | MARVEL ULTIMATE ALLIANCE 2 (!clip)",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-04-04T20:50:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -56,30 +56,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315390107601",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1903182640",
-    "game_name": "SWORN",
-    "type": "live",
-    "title": "Sworn With Gilded (Was editor)",
-    "viewer_count": 7,
-    "started_at": "2026-04-04T17:49:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "317315384535",
@@ -110,6 +86,59 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   },
   {
+    "id": "316402857188",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "499003",
+    "game_name": "VRChat",
+    "type": "live",
+    "title": "GOING TO PROM FIRST TIME?! VRCHAT!! LETS HAVE FUN!!",
+    "viewer_count": 2,
+    "started_at": "2026-04-04T19:18:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy",
+      "SMP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
+  },
+  {
+    "id": "315390107601",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1903182640",
+    "game_name": "SWORN",
+    "type": "live",
+    "title": "Sworn With Gilded (Was editor)",
+    "viewer_count": 2,
+    "started_at": "2026-04-04T17:49:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "315499539690",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -137,34 +166,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "316402857188",
-    "user_id": "916904675",
-    "user_login": "articglow_",
-    "user_name": "ArticGlow_",
-    "game_id": "499003",
-    "game_name": "VRChat",
-    "type": "live",
-    "title": "GOING TO PROM FIRST TIME?! VRCHAT!! LETS HAVE FUN!!",
-    "viewer_count": 1,
-    "started_at": "2026-04-04T19:18:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "gamer",
-      "SheHer",
-      "Bubbly",
-      "PositiveVibes",
-      "pngtuber",
-      "Anime",
-      "Vtuber",
-      "Cozy",
-      "SMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   }
 ]
