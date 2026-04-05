@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] TAKING OUT THE ADMIRAL, IT'S TIME FOR LAW & ORDER",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-04-05T23:31:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -35,7 +35,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "Who's this Racoon and why do they have a city? || Resident Evil Requiem",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-04-05T21:41:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
@@ -50,5 +50,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
+  },
+  {
+    "id": "315503477226",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "🦝| Vorigins: RIPTIDE | The admiral will be judged for her sins... | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 1,
+    "started_at": "2026-04-05T23:36:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   }
 ]
