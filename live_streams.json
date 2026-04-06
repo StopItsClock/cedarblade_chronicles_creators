@@ -35,7 +35,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "🦝| Vorigins: RIPTIDE | The admiral will be judged for her sins... | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-04-05T23:36:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -50,5 +50,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
+  },
+  {
+    "id": "316821082328",
+    "user_id": "114779237",
+    "user_login": "velkais370",
+    "user_name": "velkais370",
+    "game_id": "774680424",
+    "game_name": "2XKO",
+    "type": "live",
+    "title": "2XKO Time",
+    "viewer_count": 1,
+    "started_at": "2026-04-06T01:19:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "pngtuber",
+      "2xko"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
   }
 ]
