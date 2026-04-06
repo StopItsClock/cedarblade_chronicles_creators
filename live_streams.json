@@ -33,7 +33,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] TAKING OUT THE ADMIRAL, IT'S TIME FOR LAW & ORDER",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-04-05T23:31:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -50,30 +50,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318721044699",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "1597660489",
-    "game_name": "RESIDENT EVIL: requiem",
-    "type": "live",
-    "title": "Who's this Racoon and why do they have a city? || Resident Evil Requiem",
-    "viewer_count": 1,
-    "started_at": "2026-04-05T21:41:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "FirstPlaythough",
-      "SurivalHorror",
-      "ResidentEvill",
-      "residentevilrequiem"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   }
 ]
