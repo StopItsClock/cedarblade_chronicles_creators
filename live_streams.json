@@ -1,5 +1,29 @@
 [
   {
+    "id": "318104576222",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "Hopes of another rank up day",
+    "viewer_count": 22,
+    "started_at": "2026-04-07T18:00:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
     "id": "318049611740",
     "user_id": "67504126",
     "user_login": "cutenysnys",
@@ -7,8 +31,8 @@
     "game_id": "506438",
     "game_name": "Starfield",
     "type": "live",
-    "title": "[18+] SPACESPACESPACESPACESPACE\ud83d\udc9a @cutenysnys \ud83d\udc9a !socials !Merch \ud83d\udc9a",
-    "viewer_count": 10,
+    "title": "[18+] SPACESPACESPACESPACESPACE💚 @cutenysnys 💚 !socials !Merch 💚",
+    "viewer_count": 17,
     "started_at": "2026-04-07T21:31:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -27,30 +51,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
-  },
-  {
-    "id": "318104576222",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Hopes of another rank up day",
-    "viewer_count": 9,
-    "started_at": "2026-04-07T18:00:30Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "318106190558",
@@ -89,7 +89,7 @@
     "game_name": "Resident Evil 4",
     "type": "live",
     "title": "[18+] LEON IS SHIRTLESS THIS TIME I PROMISE | RESIDENT EVIL 4 (!clip)",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-04-07T20:50:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
