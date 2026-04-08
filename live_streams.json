@@ -8,7 +8,7 @@
     "game_name": "Fortnite",
     "type": "live",
     "title": "Fortnite collab  time with @bambi_lvr",
-    "viewer_count": 18,
+    "viewer_count": 17,
     "started_at": "2026-04-08T17:32:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
@@ -21,6 +21,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
+  },
+  {
+    "id": "318767713115",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "1422726294",
+    "game_name": "Papa's Freezeria Deluxe",
+    "type": "live",
+    "title": "i love working minimum wage || !discord !dono !lurk !throne !merch",
+    "viewer_count": 2,
+    "started_at": "2026-04-08T19:09:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   },
   {
     "id": "318061627100",
