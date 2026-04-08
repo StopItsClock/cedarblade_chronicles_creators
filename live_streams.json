@@ -8,7 +8,7 @@
     "game_name": "Papa's Freezeria Deluxe",
     "type": "live",
     "title": "i love working minimum wage || !discord !dono !lurk !throne !merch",
-    "viewer_count": 19,
+    "viewer_count": 23,
     "started_at": "2026-04-08T19:09:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -67,5 +67,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
+  },
+  {
+    "id": "317359619927",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "Peak w/ Friends!",
+    "viewer_count": 1,
+    "started_at": "2026-04-08T19:45:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "EN",
+      "ElfVTuber",
+      "Elf",
+      "smallstream",
+      "ADHD",
+      "English",
+      "dumbdumb",
+      "problemmaker"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
