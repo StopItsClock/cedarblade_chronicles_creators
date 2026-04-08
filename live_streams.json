@@ -8,7 +8,7 @@
     "game_name": "Papa's Freezeria Deluxe",
     "type": "live",
     "title": "i love working minimum wage || !discord !dono !lurk !throne !merch",
-    "viewer_count": 14,
+    "viewer_count": 17,
     "started_at": "2026-04-08T19:09:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -55,7 +55,7 @@
     "game_name": "Super Battle Golf",
     "type": "live",
     "title": "[ENVtuber] Battle Golfing with @ThatUserKai @AzureAetherium",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-04-08T20:03:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -124,33 +124,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   },
   {
-    "id": "316841730392",
-    "user_id": "265674058",
-    "user_login": "skyla_skydancer",
-    "user_name": "Skyla_SkyDancer",
-    "game_id": "27602",
-    "game_name": "Pokémon Black/White",
-    "type": "live",
-    "title": "Pokemon Randomizer soullink with cookie !discord",
-    "viewer_count": 4,
-    "started_at": "2026-04-08T20:29:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "AffiliateStreamer",
-      "ChatReader",
-      "Trans",
-      "Transfem",
-      "booba"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
-  },
-  {
     "id": "318063057628",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -178,5 +151,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "316841730392",
+    "user_id": "265674058",
+    "user_login": "skyla_skydancer",
+    "user_name": "Skyla_SkyDancer",
+    "game_id": "27602",
+    "game_name": "Pokémon Black/White",
+    "type": "live",
+    "title": "Pokemon Randomizer soullink with cookie !discord",
+    "viewer_count": 1,
+    "started_at": "2026-04-08T20:29:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "AffiliateStreamer",
+      "ChatReader",
+      "Trans",
+      "Transfem",
+      "booba"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   }
 ]
