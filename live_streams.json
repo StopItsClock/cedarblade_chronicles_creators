@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Schedule lied im so sorry || !discord !dono !lurk !throne !merch",
-    "viewer_count": 19,
+    "viewer_count": 27,
     "started_at": "2026-04-10T19:12:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -53,35 +53,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
-    "id": "318697061722",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[18+] Follower Goal = Cow Outfit Redeem?! 🐄✨(it's ok cause cows aren't real) [260+ Mods Vtuber SMP] | !throne !socials !lurk !discord",
-    "viewer_count": 6,
-    "started_at": "2026-04-10T20:08:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "girl",
-      "LGBT",
-      "English",
-      "Canadian",
-      "BRAINROT",
-      "minecraft",
-      "minecraftsmp",
-      "BRAINROT"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
     "id": "318634582745",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -108,5 +79,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "318697061722",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[18+] Follower Goal = Cow Outfit Redeem?! 🐄✨(it's ok cause cows aren't real) [260+ Mods Vtuber SMP] | !throne !socials !lurk !discord",
+    "viewer_count": 4,
+    "started_at": "2026-04-10T20:08:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "BRAINROT",
+      "minecraft",
+      "minecraftsmp",
+      "BRAINROT"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   }
 ]
