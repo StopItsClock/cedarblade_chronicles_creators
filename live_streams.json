@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Schedule lied im so sorry || !discord !dono !lurk !throne !merch",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-04-10T19:12:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -23,6 +23,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
+  },
+  {
+    "id": "318092081372",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "3395282",
+    "game_name": "Monster Care Simulator",
+    "type": "live",
+    "title": "[Subathon] Caring for monsters while Gina plays bad cop with em (Monster Care Sim w/ @regina_kardinal)",
+    "viewer_count": 6,
+    "started_at": "2026-04-10T19:18:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "hilarious",
+      "PartnerPush",
+      "HighEnergy",
+      "Subathon",
+      "chattyfunny",
+      "GirlFailureExperience"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
     "id": "318634582745",
@@ -51,33 +79,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
-    "id": "318092081372",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "3395282",
-    "game_name": "Monster Care Simulator",
-    "type": "live",
-    "title": "[Subathon] Caring for monsters while Gina plays bad cop with em (Monster Care Sim w/ @regina_kardinal)",
-    "viewer_count": 4,
-    "started_at": "2026-04-10T19:18:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon",
-      "chattyfunny",
-      "GirlFailureExperience"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   }
 ]
