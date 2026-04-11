@@ -8,7 +8,7 @@
     "game_name": "The Outlast Trials",
     "type": "live",
     "title": "[18+]  Throwing a bottle at the first freak I see @redmercuryEXE @pongzuu @illithsailing 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 26,
+    "viewer_count": 27,
     "started_at": "2026-04-11T16:11:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -109,30 +109,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
-    "id": "315436817106",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1294658629",
-    "game_name": "R.E.P.O.",
-    "type": "live",
-    "title": "TROUBLE MAKERS! | R.E.P.O time!",
-    "viewer_count": 1,
-    "started_at": "2026-04-11T17:26:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
     "id": "316995225702",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -156,5 +132,29 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "315436817106",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1294658629",
+    "game_name": "R.E.P.O.",
+    "type": "live",
+    "title": "TROUBLE MAKERS! | R.E.P.O time!",
+    "viewer_count": 1,
+    "started_at": "2026-04-11T17:26:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
