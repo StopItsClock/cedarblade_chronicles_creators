@@ -8,7 +8,7 @@
     "game_name": "The Outlast Trials",
     "type": "live",
     "title": "[18+]  Throwing a bottle at the first freak I see @redmercuryEXE @pongzuu @illithsailing 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 21,
+    "viewer_count": 20,
     "started_at": "2026-04-11T16:11:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "First time playing hardcore minecraft!!",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-04-11T16:28:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -79,5 +79,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "316995225702",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "1294658629",
+    "game_name": "R.E.P.O.",
+    "type": "live",
+    "title": "WAYFARERS TROUBLEMAKERS | Repossession",
+    "viewer_count": 0,
+    "started_at": "2026-04-11T17:23:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber",
+      "yippee",
+      "LGBTQ",
+      "repo"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
