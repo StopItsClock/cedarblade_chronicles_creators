@@ -1,34 +1,5 @@
 [
   {
-    "id": "318720903258",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "[TADC REACT] \ud83e\uddca What Am I Getting Into? \u2746 !Discord !Socials !Cover \ud83c\udf67 @frostedplague7",
-    "viewer_count": 15,
-    "started_at": "2026-04-11T20:57:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "Hispanic",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
     "id": "318827569755",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -36,7 +7,7 @@
     "game_id": "511212",
     "game_name": "Subnautica: Below Zero",
     "type": "live",
-    "title": "COSMIC PLAYS! Move the plot along and don't get eaten! \u2307 18+ \u2307 !discord !social",
+    "title": "COSMIC PLAYS! Move the plot along and don't get eaten! ⌇ 18+ ⌇ !discord !social",
     "viewer_count": 9,
     "started_at": "2026-04-11T22:00:02Z",
     "language": "en",
@@ -66,7 +37,7 @@
     "game_name": "Marvel: Ultimate Alliance 2",
     "type": "live",
     "title": "[18+] THE ALLIANCE STRIKES AGAIN | MARVEL ULTIMATE ALLIANCE 2 (!clip)",
-    "viewer_count": 6,
+    "viewer_count": 9,
     "started_at": "2026-04-11T20:50:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -87,6 +58,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
+    "id": "318720903258",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "[TADC REACT] 🧊 What Am I Getting Into? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
+    "viewer_count": 8,
+    "started_at": "2026-04-11T20:57:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
     "id": "317394973143",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -95,7 +95,7 @@
     "game_name": "UMIGARI",
     "type": "live",
     "title": "JUMP ON THE BOAT WE ARE FINISHING UMIGARI!!",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-11T21:00:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -113,28 +113,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
-  },
-  {
-    "id": "318222508128",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "458781",
-    "game_name": "No Man's Sky",
-    "type": "live",
-    "title": "The stars call for us, let\u2019s heed that call",
-    "viewer_count": 1,
-    "started_at": "2026-04-11T22:12:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "316866294616",
@@ -189,5 +167,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "318222508128",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "458781",
+    "game_name": "No Man's Sky",
+    "type": "live",
+    "title": "The stars call for us, let’s heed that call",
+    "viewer_count": 1,
+    "started_at": "2026-04-11T22:12:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
