@@ -37,7 +37,7 @@
     "game_name": "Brotato",
     "type": "live",
     "title": "EVEN A CYCLONE WON'T STOP ME! [!discord] [!dubby] [18+]",
-    "viewer_count": 11,
+    "viewer_count": 8,
     "started_at": "2026-04-11T20:02:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -58,35 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
-    "id": "318827569755",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "511212",
-    "game_name": "Subnautica: Below Zero",
-    "type": "live",
-    "title": "COSMIC PLAYS! Move the plot along and don't get eaten! ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 6,
-    "started_at": "2026-04-11T22:00:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Comfy",
-      "Chaotic",
-      "Yapper",
-      "chill",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318826100571",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -95,7 +66,7 @@
     "game_name": "Marvel: Ultimate Alliance 2",
     "type": "live",
     "title": "[18+] THE ALLIANCE STRIKES AGAIN | MARVEL ULTIMATE ALLIANCE 2 (!clip)",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-04-11T20:50:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -116,6 +87,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
+    "id": "318827569755",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "511212",
+    "game_name": "Subnautica: Below Zero",
+    "type": "live",
+    "title": "COSMIC PLAYS! Move the plot along and don't get eaten! ⌇ 18+ ⌇ !discord !social",
+    "viewer_count": 7,
+    "started_at": "2026-04-11T22:00:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318111988444",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -124,7 +124,7 @@
     "game_name": "SUPER ROBOT WARS Y",
     "type": "live",
     "title": "[18+] Now, count up your sins~ | Super Robot Wars Y | !lurk !throne !tip !discord",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-04-11T23:00:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -143,6 +143,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "318829444571",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[CRESTFALL ACADEMY/V-ORIGINS SMP] Closing ceremonies for Crestfall then Event time in V-Origins!",
+    "viewer_count": 3,
+    "started_at": "2026-04-11T23:32:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese",
+      "ViewerRewards",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
     "id": "318168560862",
@@ -214,6 +243,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
   },
   {
+    "id": "318222508128",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "458781",
+    "game_name": "No Man's Sky",
+    "type": "live",
+    "title": "The stars call for us, let’s heed that call",
+    "viewer_count": 1,
+    "started_at": "2026-04-11T22:12:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
     "id": "316866294616",
     "user_id": "1106409619",
     "user_login": "wannabe__va",
@@ -237,27 +288,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
-    "id": "318222508128",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "458781",
-    "game_name": "No Man's Sky",
-    "type": "live",
-    "title": "The stars call for us, let’s heed that call",
-    "viewer_count": 1,
-    "started_at": "2026-04-11T22:12:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
