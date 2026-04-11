@@ -7,8 +7,8 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "[TADC REACT] 🧊 What Am I Getting Into? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 11,
+    "title": "[TADC REACT] \ud83e\uddca What Am I Getting Into? \u2746 !Discord !Socials !Cover \ud83c\udf67 @frostedplague7",
+    "viewer_count": 12,
     "started_at": "2026-04-11T20:57:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "UMIGARI",
     "type": "live",
     "title": "JUMP ON THE BOAT WE ARE FINISHING UMIGARI!!",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-11T21:00:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -80,31 +80,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "316866294616",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Everwinter stress test!",
-    "viewer_count": 1,
-    "started_at": "2026-04-11T19:10:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English",
-      "ViewerRewards",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "318826100571",
@@ -163,5 +138,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "316866294616",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Everwinter stress test!",
+    "viewer_count": 1,
+    "started_at": "2026-04-11T19:10:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English",
+      "ViewerRewards",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
