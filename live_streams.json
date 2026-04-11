@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "[VTuber Jeopardy] 🧊 What Do You Know About Vtubers? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 27,
+    "viewer_count": 24,
     "started_at": "2026-04-11T01:36:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -27,35 +27,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "318697061722",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[18+] Follower Goal = Cow Outfit Redeem?! 🐄✨(it's ok cause cows aren't real) [260+ Mods Vtuber SMP] | !throne !socials !lurk !discord",
-    "viewer_count": 12,
-    "started_at": "2026-04-10T20:08:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "girl",
-      "LGBT",
-      "English",
-      "Canadian",
-      "BRAINROT",
-      "minecraft",
-      "minecraftsmp",
-      "BRAINROT"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
     "id": "318153067614",
@@ -84,6 +55,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
+  },
+  {
+    "id": "318697061722",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[18+] Follower Goal = Cow Outfit Redeem?! 🐄✨(it's ok cause cows aren't real) [260+ Mods Vtuber SMP] | !throne !socials !lurk !discord",
+    "viewer_count": 11,
+    "started_at": "2026-04-10T20:08:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "BRAINROT",
+      "minecraft",
+      "minecraftsmp",
+      "BRAINROT"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
     "id": "318806940635",
@@ -226,5 +226,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "318810810715",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "[18+] Sunshi Draws a Little Maybe Yapapa ✸ Draw n Yap Stream✸",
+    "viewer_count": 0,
+    "started_at": "2026-04-11T02:29:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "Tentacles",
+      "ENVtuber",
+      "boyfriend",
+      "EldritchVTuber",
+      "MaleVtuber",
+      "Chıll",
+      "ADHD",
+      "TentacleMonster"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
