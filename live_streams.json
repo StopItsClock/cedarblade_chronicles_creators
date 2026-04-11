@@ -8,7 +8,7 @@
     "game_name": "The Outlast Trials",
     "type": "live",
     "title": "[18+]  Throwing a bottle at the first freak I see @redmercuryEXE @pongzuu @illithsailing 💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 20,
+    "viewer_count": 23,
     "started_at": "2026-04-11T16:11:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "First time playing hardcore minecraft!!",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-04-11T16:28:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -54,6 +54,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
+  },
+  {
+    "id": "315436817106",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1294658629",
+    "game_name": "R.E.P.O.",
+    "type": "live",
+    "title": "TROUBLE MAKERS! | R.E.P.O time!",
+    "viewer_count": 3,
+    "started_at": "2026-04-11T17:26:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "318217283296",
@@ -89,7 +113,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "WAYFARERS TROUBLEMAKERS | Repossession",
-    "viewer_count": 0,
+    "viewer_count": 1,
     "started_at": "2026-04-11T17:23:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
@@ -104,5 +128,33 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "318654570969",
+    "user_id": "167298417",
+    "user_login": "gilded_wolfe",
+    "user_name": "Gilded_Wolfe",
+    "game_id": "1294658629",
+    "game_name": "R.E.P.O.",
+    "type": "live",
+    "title": "REPO DEPOT || !puppers !discord !dnd",
+    "viewer_count": 1,
+    "started_at": "2026-04-11T17:25:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "catgirl",
+      "english",
+      "cat",
+      "chattingwithviewers",
+      "English",
+      "repo",
+      "repogame",
+      "repogameplay",
+      "repowithfriends"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   }
 ]
