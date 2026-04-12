@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch Punishes Himself (Yap N Chat) ✸Low Energy Stream✸",
-    "viewer_count": 15,
+    "viewer_count": 14,
     "started_at": "2026-04-12T02:35:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[CRESTFALL ACADEMY/V-ORIGINS SMP] Closing ceremonies for Crestfall then Event time in V-Origins!",
-    "viewer_count": 9,
+    "viewer_count": 5,
     "started_at": "2026-04-11T23:32:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -56,53 +56,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318225274720",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Back to overwatch drives",
-    "viewer_count": 1,
-    "started_at": "2026-04-12T01:09:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "318114196316",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Minecraft BINGO w/friend :D",
-    "viewer_count": 1,
-    "started_at": "2026-04-12T01:19:47Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ViewerRewards",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "318727586522",
@@ -132,5 +85,27 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+  },
+  {
+    "id": "318114196316",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Minecraft BINGO w/friend :D",
+    "viewer_count": 1,
+    "started_at": "2026-04-12T01:19:47Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ViewerRewards",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
