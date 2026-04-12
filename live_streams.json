@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "317007609702",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "1317379021",
+    "game_name": "Look Outside",
+    "type": "live",
+    "title": "Screw looking outside, im playing super jump lad",
+    "viewer_count": 0,
+    "started_at": "2026-04-12T18:06:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  }
+]
