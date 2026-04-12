@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] HELLO EVERYBODY MY NAME IS MARKIPLIER-💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-04-12T10:49:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -24,5 +24,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
+  },
+  {
+    "id": "316784616551",
+    "user_id": "169349524",
+    "user_login": "frostvirinightfang",
+    "user_name": "FrostViriNightfang",
+    "game_id": "1286840579",
+    "game_name": "Demonologist",
+    "type": "live",
+    "title": "☽ I'm finally back! ☾ !discord",
+    "viewer_count": 0,
+    "started_at": "2026-04-12T12:59:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostvirinightfang-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "BPD",
+      "Genderfluid",
+      "Omnisexual",
+      "English",
+      "LGBTQ",
+      "LGBTQFriendly",
+      "DyslexicStreamer",
+      "Vtuber",
+      "chill"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/89e47358-a571-4e69-add0-d64cd5a89514-profile_image-300x300.png"
   }
 ]
