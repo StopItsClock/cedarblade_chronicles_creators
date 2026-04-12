@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "COMMUNITY MC SERVER!!!+END EVNT +1080p!!!!!- !discord !lurk",
-    "viewer_count": 13,
+    "viewer_count": 14,
     "started_at": "2026-04-11T23:59:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[TADC REACT] 🧊 What Am I Getting Into? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-04-11T20:57:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Marvel: Ultimate Alliance 2",
     "type": "live",
     "title": "[18+] THE ALLIANCE STRIKES AGAIN | MARVEL ULTIMATE ALLIANCE 2 (!clip)",
-    "viewer_count": 9,
+    "viewer_count": 7,
     "started_at": "2026-04-11T20:50:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "Subnautica: Below Zero",
     "type": "live",
     "title": "COSMIC PLAYS! Move the plot along and don't get eaten! ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-11T22:00:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -113,35 +113,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318111988444",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1046204006",
-    "game_name": "SUPER ROBOT WARS Y",
-    "type": "live",
-    "title": "[18+] Now, count up your sins~ | Super Robot Wars Y | !lurk !throne !tip !discord",
-    "viewer_count": 3,
-    "started_at": "2026-04-11T23:00:57Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
     "id": "315461059560",
@@ -173,6 +144,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
+    "id": "317394973143",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "492934",
+    "game_name": "RESIDENT EVIL 7 biohazard",
+    "type": "live",
+    "title": "JUMP ON THE BOAT WE ARE FINISHING UMIGARI!! ENDING WITH RES EVIL 7",
+    "viewer_count": 3,
+    "started_at": "2026-04-11T21:00:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
     "id": "318829444571",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -181,7 +179,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[CRESTFALL ACADEMY/V-ORIGINS SMP] Closing ceremonies for Crestfall then Event time in V-Origins!",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-04-11T23:32:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -202,31 +200,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
-    "id": "317394973143",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "492934",
-    "game_name": "RESIDENT EVIL 7 biohazard",
+    "id": "318111988444",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1046204006",
+    "game_name": "SUPER ROBOT WARS Y",
     "type": "live",
-    "title": "JUMP ON THE BOAT WE ARE FINISHING UMIGARI!! ENDING WITH RES EVIL 7",
+    "title": "[18+] Now, count up your sins~ | Super Robot Wars Y | !lurk !throne !tip !discord",
     "viewer_count": 2,
-    "started_at": "2026-04-11T21:00:56Z",
+    "started_at": "2026-04-11T23:00:57Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "English",
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
       "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly"
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
     "id": "318222508128",
@@ -251,26 +251,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
-    "id": "318168560862",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "PEAK - Being the scoutmaster for a new player",
-    "viewer_count": 1,
-    "started_at": "2026-04-11T22:49:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "316868083800",
     "user_id": "114779237",
     "user_login": "velkais370",
@@ -291,5 +271,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
+  },
+  {
+    "id": "318168560862",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "PEAK - Being the scoutmaster for a new player",
+    "viewer_count": 1,
+    "started_at": "2026-04-11T22:49:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
