@@ -35,8 +35,8 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "[TADC REACT] 🧊 What Am I Getting Into? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 12,
+    "title": "[TADC REACT] \ud83e\uddca What Am I Getting Into? \u2746 !Discord !Socials !Cover \ud83c\udf67 @frostedplague7",
+    "viewer_count": 13,
     "started_at": "2026-04-11T20:57:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -55,6 +55,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "318664400985",
+    "user_id": "686234820",
+    "user_login": "miyuwanchan",
+    "user_name": "miyuwanchan",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "hatred on the seas [VORIGINS SMP] | !hug !discord",
+    "viewer_count": 6,
+    "started_at": "2026-04-12T01:02:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "SafeSpace",
+      "English",
+      "Anime",
+      "Live2D",
+      "DogVtuber",
+      "ENVtuber",
+      "LGBTQPlus",
+      "gyaru",
+      "ComfyChaotic"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
     "id": "318829444571",
@@ -86,35 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
-    "id": "318664400985",
-    "user_id": "686234820",
-    "user_login": "miyuwanchan",
-    "user_name": "miyuwanchan",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "hatred on the seas [VORIGINS SMP] | !hug !discord",
-    "viewer_count": 4,
-    "started_at": "2026-04-12T01:02:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "SafeSpace",
-      "English",
-      "Anime",
-      "Live2D",
-      "DogVtuber",
-      "ENVtuber",
-      "LGBTQPlus",
-      "gyaru",
-      "ComfyChaotic"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
-  },
-  {
     "id": "318111988444",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -123,7 +123,7 @@
     "game_name": "SUPER ROBOT WARS Y",
     "type": "live",
     "title": "[18+] Now, count up your sins~ | Super Robot Wars Y | !lurk !throne !tip !discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-04-11T23:00:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -142,48 +142,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "318168560862",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "PEAK - Being the scoutmaster for a new player",
-    "viewer_count": 2,
-    "started_at": "2026-04-11T22:49:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "318222508128",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "458781",
-    "game_name": "No Man's Sky",
-    "type": "live",
-    "title": "The stars call for us, let’s heed that call",
-    "viewer_count": 1,
-    "started_at": "2026-04-11T22:12:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "316868083800",
@@ -206,5 +164,72 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
+  },
+  {
+    "id": "318222508128",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "458781",
+    "game_name": "No Man's Sky",
+    "type": "live",
+    "title": "The stars call for us, let\u2019s heed that call",
+    "viewer_count": 1,
+    "started_at": "2026-04-11T22:12:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
+    "id": "318168560862",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "PEAK - Being the scoutmaster for a new player",
+    "viewer_count": 1,
+    "started_at": "2026-04-11T22:49:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
+    "id": "318225274720",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "Back to overwatch drives",
+    "viewer_count": 0,
+    "started_at": "2026-04-12T01:09:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
