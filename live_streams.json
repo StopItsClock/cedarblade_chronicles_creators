@@ -8,7 +8,7 @@
     "game_name": "Super Battle Golf",
     "type": "live",
     "title": "[ENVtuber] Golf with my friends :3 @RyoAsada @Frozabbit @Daark_Karma @LunarProjections",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-13T17:38:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -78,31 +78,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
-    "id": "318861050715",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "31376",
-    "game_name": "Terraria",
-    "type": "live",
-    "title": "Time to gain power for Golem!!!! the nerfed idiot!!|| Terraria (!lurk, !links,  !discord)",
-    "viewer_count": 2,
-    "started_at": "2026-04-13T18:00:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "316483648996",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -126,5 +101,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "318861050715",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "31376",
+    "game_name": "Terraria",
+    "type": "live",
+    "title": "Time to gain power for Golem!!!! the nerfed idiot!!|| Terraria (!lurk, !links,  !discord)",
+    "viewer_count": 2,
+    "started_at": "2026-04-13T18:00:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
