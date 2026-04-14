@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Lets go!! NEW OW SEASON!  !Discord !lurk | 🐉🧟",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-04-14T21:03:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -27,6 +27,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
+    "id": "318712993369",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "11912",
+    "game_name": "Pokémon XD: Gale of Darkness",
+    "type": "live",
+    "title": "They stole me nerd, now I'll take them down || Pokemon XD: Gale of Darkness",
+    "viewer_count": 2,
+    "started_at": "2026-04-14T21:03:36Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pokemon",
+      "XDGALEOFDARKNESS",
+      "PokemonXDGaleOfDarkness",
+      "FirstaPlayThrough"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   },
   {
     "id": "316890329560",
@@ -55,31 +80,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
-  },
-  {
-    "id": "318712993369",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "11912",
-    "game_name": "Pokémon XD: Gale of Darkness",
-    "type": "live",
-    "title": "They stole me nerd, now I'll take them down || Pokemon XD: Gale of Darkness",
-    "viewer_count": 1,
-    "started_at": "2026-04-14T21:03:36Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pokemon",
-      "XDGALEOFDARKNESS",
-      "PokemonXDGaleOfDarkness",
-      "FirstaPlayThrough"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   },
   {
     "id": "315471425640",
