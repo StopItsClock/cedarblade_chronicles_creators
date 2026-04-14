@@ -8,7 +8,7 @@
     "game_name": "Fortnite",
     "type": "live",
     "title": "✧ Fortnutting together then raft ✧ !lurk !merch !throne !clip",
-    "viewer_count": 28,
+    "viewer_count": 30,
     "started_at": "2026-04-13T23:03:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,35 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "318862388315",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "75467",
-    "game_name": "Euro Truck Simulator 2",
-    "type": "live",
-    "title": "[18+] Are Highway U-Turns Legal in France? w/ @dragonekho [Bingus My Beloved + Euro Truck Simulator 2] | !throne !socials !lurk !discord",
-    "viewer_count": 16,
-    "started_at": "2026-04-13T20:11:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "girl",
-      "LGBT",
-      "English",
-      "Canadian",
-      "BRAINROT",
-      "EuroTruckSimulator2",
-      "cozychaotic",
-      "Collab"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
     "id": "318252371552",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -66,7 +37,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] I'm an ace class detective, nothing but the best | Limbus + DotW | !lurk !throne !tip !discord",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-13T23:00:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -123,7 +94,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "WE GO AGAIN!!! | RE9 additional playthrough | !Clip !Discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-04-13T21:57:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -141,5 +112,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318702044761",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "The wedding!! i finally get to marry my man || !discord !dono !lurk !throne !merch",
+    "viewer_count": 0,
+    "started_at": "2026-04-14T01:00:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   }
 ]
