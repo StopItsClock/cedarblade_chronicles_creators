@@ -66,7 +66,7 @@
     "game_name": "The Closing Shift",
     "type": "live",
     "title": "I AM NOT THE KING OF FNAF we play chillas art THE CLOSING SHIFT now",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-04-14T21:04:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -115,6 +115,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
+    "id": "315448242642",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "Editor | Finishing this video or I will throw myself into the SUN",
+    "viewer_count": 1,
+    "started_at": "2026-04-14T21:59:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "318712993369",
     "user_id": "210165894",
     "user_login": "illustriousmyth",
@@ -138,29 +162,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
-  },
-  {
-    "id": "315448242642",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "509660",
-    "game_name": "Art",
-    "type": "live",
-    "title": "Editor | Finishing this video or I will throw myself into the SUN",
-    "viewer_count": 1,
-    "started_at": "2026-04-14T21:59:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
