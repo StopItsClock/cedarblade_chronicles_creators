@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Lets go!! NEW OW SEASON!  !Discord !lurk | 🐉🧟",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-04-14T21:03:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -29,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   },
   {
+    "id": "318713937241",
+    "user_id": "846373427",
+    "user_login": "seraphselkie",
+    "user_name": "seraphselkie",
+    "game_id": "518144",
+    "game_name": "The Outlast Trials",
+    "type": "live",
+    "title": "Screamin streamin and idk another word to rhyme !lurk  !throne !kofi !discord",
+    "viewer_count": 8,
+    "started_at": "2026-04-14T21:57:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "chatting",
+      "English",
+      "chattingwithviewers",
+      "chill",
+      "18pluschannel",
+      "Vtuber",
+      "maturecontent",
+      "Mature",
+      "Chaotic",
+      "warframe"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
+  },
+  {
     "id": "316890329560",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -37,7 +66,7 @@
     "game_name": "Five Nights at Freddy's 4",
     "type": "live",
     "title": "FNAF4 SOMONE PLEASE EXORCISE ME SO I DONT HAVE TO PLAY THIS",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-14T21:04:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -109,5 +138,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "315448242642",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "Editor | Finishing this video or I will throw myself into the SUN",
+    "viewer_count": 0,
+    "started_at": "2026-04-14T21:59:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
