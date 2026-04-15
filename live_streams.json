@@ -8,7 +8,7 @@
     "game_name": "Office Simulator",
     "type": "live",
     "title": "[IB Major Previews His Job] 🧊 Milk or Cream in Coffee? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-04-15T21:02:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -110,30 +110,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
-    "id": "318166371676",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "513143",
-    "game_name": "Teamfight Tactics",
-    "type": "live",
-    "title": "New tft set day (Apex rankies later)",
-    "viewer_count": 2,
-    "started_at": "2026-04-15T20:11:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "318895683035",
     "user_id": "781092139",
     "user_login": "thatuserkai",
@@ -157,5 +133,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
+  },
+  {
+    "id": "318166371676",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "513143",
+    "game_name": "Teamfight Tactics",
+    "type": "live",
+    "title": "New tft set day (Apex rankies later)",
+    "viewer_count": 2,
+    "started_at": "2026-04-15T20:11:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
