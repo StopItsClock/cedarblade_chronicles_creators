@@ -25,6 +25,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   },
   {
+    "id": "316516233955",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "1148603226",
+    "game_name": "Retro Rewind: Video Store Simulator",
+    "type": "live",
+    "title": "Continuing the Stoob Collection | 18+ | !fishcord !kofi !waifu",
+    "viewer_count": 6,
+    "started_at": "2026-04-15T18:01:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "Transgender"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
     "id": "318894103515",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -33,7 +59,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "STARDEW WEDNESDAY || !puppers !discord !dnd",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-04-15T18:28:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
@@ -52,32 +78,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
-    "id": "316516233955",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "1148603226",
-    "game_name": "Retro Rewind: Video Store Simulator",
-    "type": "live",
-    "title": "Continuing the Stoob Collection | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 4,
-    "started_at": "2026-04-15T18:01:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "Transgender"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
     "id": "316820262119",
