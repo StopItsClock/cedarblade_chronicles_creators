@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "i love overwatch || !discord !dono !lurk !throne !merch",
-    "viewer_count": 25,
+    "viewer_count": 22,
     "started_at": "2026-04-15T19:00:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[IB Major Previews His Job] 🧊 Milk or Cream in Coffee? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-04-15T21:02:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -107,6 +107,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
+    "id": "318895683035",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "417872",
+    "game_name": "100% Orange Juice",
+    "type": "live",
+    "title": "{ENVtuber} Orange Juice w/ @calmarvt @onetruemink @azureaetherium | 18+ He/Him",
+    "viewer_count": 2,
+    "started_at": "2026-04-15T20:58:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "16plus",
+      "VTuber",
+      "ENVTuber",
+      "HeHim"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
+  },
+  {
     "id": "318166371676",
     "user_id": "254478860",
     "user_login": "ispebble",
@@ -129,30 +154,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "318895683035",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "417872",
-    "game_name": "100% Orange Juice",
-    "type": "live",
-    "title": "{ENVtuber} Orange Juice w/ @calmarvt @onetruemink @azureaetherium | 18+ He/Him",
-    "viewer_count": 1,
-    "started_at": "2026-04-15T20:58:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "16plus",
-      "VTuber",
-      "ENVTuber",
-      "HeHim"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
