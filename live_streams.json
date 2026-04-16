@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] Trouble on the high seas?",
-    "viewer_count": 21,
+    "viewer_count": 17,
     "started_at": "2026-04-16T00:35:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -29,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
+    "id": "318738555993",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "[18+] Eldritch Goes Shopping ✸ Window Shopping Stream✸",
+    "viewer_count": 10,
+    "started_at": "2026-04-16T04:42:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "Tentacles",
+      "ENVtuber",
+      "boyfriend",
+      "EldritchVTuber",
+      "MaleVtuber",
+      "Chıll",
+      "ADHD",
+      "TentacleMonster"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
     "id": "318796004186",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -37,7 +66,7 @@
     "game_name": "Hollow Knight",
     "type": "live",
     "title": "18+ | Who knew Hollow Knight had its own tour guide | Switch 2 | Hollow Knight | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-04-16T02:05:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
@@ -55,6 +84,29 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+  },
+  {
+    "id": "316900563416",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "32982",
+    "game_name": "Grand Theft Auto V",
+    "type": "live",
+    "title": "#LodestarRP Levi is sick, and only money will heal him.",
+    "viewer_count": 5,
+    "started_at": "2026-04-16T02:17:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "318166371676",
@@ -99,57 +151,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "316900563416",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "32982",
-    "game_name": "Grand Theft Auto V",
-    "type": "live",
-    "title": "#LodestarRP Levi is sick, and only money will heal him.",
-    "viewer_count": 1,
-    "started_at": "2026-04-16T02:17:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
-    "id": "318738555993",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "[18+] Eldritch Goes Shopping ✸ Window Shopping Stream✸",
-    "viewer_count": 0,
-    "started_at": "2026-04-16T04:42:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "Tentacles",
-      "ENVtuber",
-      "boyfriend",
-      "EldritchVTuber",
-      "MaleVtuber",
-      "Chıll",
-      "ADHD",
-      "TentacleMonster"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
