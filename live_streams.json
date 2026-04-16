@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ hehe winton badge hehe ✧ !lurk !merch !throne !clip",
-    "viewer_count": 34,
+    "viewer_count": 32,
     "started_at": "2026-04-15T22:56:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "QP WITH THE GHOSTIE | !Clip !Discord",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-15T22:12:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -80,7 +80,8 @@
       "indievtuber",
       "ENVtuber",
       "vtubers",
-      "CloacaKing"
+      "CloacaKing",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
@@ -110,6 +111,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
+    "id": "318796004186",
+    "user_id": "116714793",
+    "user_login": "marioairheart",
+    "user_name": "MarioAirheart",
+    "game_id": "490147",
+    "game_name": "Hollow Knight",
+    "type": "live",
+    "title": "18+ | Who knew Hollow Knight had its own tour guide | Switch 2 | Hollow Knight | !CreatorClub !discord !Blacklyte !Nekomart |",
+    "viewer_count": 3,
+    "started_at": "2026-04-16T02:05:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "VtuberEN",
+      "PNGtuberEN",
+      "Variety",
+      "English",
+      "CreatorClub",
+      "VTuberUprising",
+      "18maturelanguage"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+  },
+  {
     "id": "318168834140",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -118,7 +147,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "[18+] Blowing their head SHMOOVE off | RESIDENT EVIL: requiem | !lurk !throne !tip !discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-04-15T23:02:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -139,34 +168,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "318796004186",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "490147",
-    "game_name": "Hollow Knight",
-    "type": "live",
-    "title": "18+ | Who knew Hollow Knight had its own tour guide | Switch 2 | Hollow Knight | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 2,
-    "started_at": "2026-04-16T02:05:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "CreatorClub",
-      "VTuberUprising",
-      "18maturelanguage"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
     "id": "318899922395",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -175,7 +176,7 @@
     "game_name": "Mages Arena",
     "type": "live",
     "title": "[MAGE ARENA] IGNIS LIVES ON! Time to enter our Mage era",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-04-16T00:35:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -192,5 +193,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "316900563416",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "32982",
+    "game_name": "Grand Theft Auto V",
+    "type": "live",
+    "title": "LodestarRP Levi is sick, and only money will heal him.",
+    "viewer_count": 0,
+    "started_at": "2026-04-16T02:17:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
