@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ hehe winton badge hehe ✧ !lurk !merch !throne !clip",
-    "viewer_count": 32,
+    "viewer_count": 26,
     "started_at": "2026-04-15T22:56:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] Trouble on the high seas?",
-    "viewer_count": 27,
+    "viewer_count": 16,
     "started_at": "2026-04-16T00:35:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -86,6 +86,58 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
+    "id": "318168018268",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "QP WITH THE GHOSTIE | !Clip !Discord",
+    "viewer_count": 5,
+    "started_at": "2026-04-15T22:12:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "316900563416",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "32982",
+    "game_name": "Grand Theft Auto V",
+    "type": "live",
+    "title": "#LodestarRP Levi is sick, and only money will heal him.",
+    "viewer_count": 5,
+    "started_at": "2026-04-16T02:17:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
     "id": "318166371676",
     "user_id": "254478860",
     "user_login": "ispebble",
@@ -110,35 +162,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
-    "id": "318168018268",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "QP WITH THE GHOSTIE | !Clip !Discord",
-    "viewer_count": 4,
-    "started_at": "2026-04-15T22:12:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318173159260",
     "user_id": "174585401",
     "user_login": "yumein",
@@ -157,28 +180,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "316900563416",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "32982",
-    "game_name": "Grand Theft Auto V",
-    "type": "live",
-    "title": "#LodestarRP Levi is sick, and only money will heal him.",
-    "viewer_count": 1,
-    "started_at": "2026-04-16T02:17:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
