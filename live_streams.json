@@ -8,7 +8,7 @@
     "game_name": "Subnautica: Below Zero",
     "type": "live",
     "title": "✧ Oh god please hold my hand qwq ✧ !lurk !merch !throne !clip",
-    "viewer_count": 39,
+    "viewer_count": 33,
     "started_at": "2026-04-16T23:06:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "BIRB STRUGGLES WITH RANDO NUZLOCKE | Pt. 2| !Clip !Discord",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-04-16T21:29:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -141,5 +141,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
+  },
+  {
+    "id": "318809989466",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "67824",
+    "game_name": "Tomodachi Life",
+    "type": "live",
+    "title": "Too broke for Living the Dream, but hey, at least we still have the 3DS version! [ENPNGTuber] | !discord !hello",
+    "viewer_count": 0,
+    "started_at": "2026-04-17T00:23:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
