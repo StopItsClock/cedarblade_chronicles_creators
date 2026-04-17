@@ -1,34 +1,5 @@
 [
   {
-    "id": "318750653785",
-    "user_id": "686234820",
-    "user_login": "miyuwanchan",
-    "user_name": "miyuwanchan",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[VORIGINS SMP] disgraced and disowned (in game) | !hug !discord",
-    "viewer_count": 19,
-    "started_at": "2026-04-17T00:56:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "SafeSpace",
-      "English",
-      "Anime",
-      "Live2D",
-      "DogVtuber",
-      "ENVtuber",
-      "LGBTQPlus",
-      "gyaru",
-      "ComfyChaotic"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
-  },
-  {
     "id": "318750809049",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -37,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] Having the hard conversations, Can we sort this out?",
-    "viewer_count": 15,
+    "viewer_count": 19,
     "started_at": "2026-04-17T01:02:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
