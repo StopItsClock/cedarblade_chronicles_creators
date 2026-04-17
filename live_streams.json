@@ -8,7 +8,7 @@
     "game_name": "Subnautica: Below Zero",
     "type": "live",
     "title": "✧ Oh god please hold my hand qwq ✧ !lurk !merch !throne !clip",
-    "viewer_count": 33,
+    "viewer_count": 39,
     "started_at": "2026-04-16T23:06:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "[18+] ON THE RANCH WITH @heyvelleity | STARDEW VALLEY",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-04-16T23:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -86,34 +86,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "317450322519",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "2132205352",
-    "game_name": "Deadlock",
-    "type": "live",
-    "title": "Deadlock with Omennnn~",
-    "viewer_count": 4,
-    "started_at": "2026-04-16T23:01:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "deadlock"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
-  },
-  {
     "id": "318182224604",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -141,5 +113,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
+  },
+  {
+    "id": "317450322519",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "2132205352",
+    "game_name": "Deadlock",
+    "type": "live",
+    "title": "Deadlock with Omennnn~",
+    "viewer_count": 3,
+    "started_at": "2026-04-16T23:01:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "deadlock"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
   }
 ]
