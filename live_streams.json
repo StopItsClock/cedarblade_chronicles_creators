@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] COLLAB DAY! YES I CAN HIT THE HOLE!💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-04-17T17:53:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "ITS FINALLY TIME. AFTER TEN THOUSAND YEARS | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-04-17T15:32:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -60,7 +60,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "[Subathon] We are almost done with subathon!!!!! Yippee (DBD w/ @regina_kardinal @smugsucc)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-04-17T19:25:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -80,7 +80,7 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
-    "id": "316517609060",
+    "id": "316517745764",
     "user_id": "916904675",
     "user_login": "articglow_",
     "user_name": "ArticGlow_",
@@ -89,7 +89,7 @@
     "type": "live",
     "title": "EVER WINTER SMP LORE!? FIRST DAY!!",
     "viewer_count": 2,
-    "started_at": "2026-04-17T20:03:03Z",
+    "started_at": "2026-04-17T20:14:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
     "tag_ids": [],
@@ -162,31 +162,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
   },
   {
-    "id": "317459343191",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "#EverwinterSMP First day! Surely I won't die half an hour in right?",
-    "viewer_count": 1,
-    "started_at": "2026-04-17T19:12:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English",
-      "ViewerRewards",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
     "id": "317459483095",
     "user_id": "574560089",
     "user_login": "kayvender",
@@ -214,5 +189,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
+    "id": "317459343191",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "#EverwinterSMP First day! Surely I won't die half an hour in right?",
+    "viewer_count": 1,
+    "started_at": "2026-04-17T19:12:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English",
+      "ViewerRewards",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
