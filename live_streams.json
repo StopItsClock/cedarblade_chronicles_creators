@@ -8,7 +8,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "✧ Trying to murder my friends up the mountain :D ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 29,
     "started_at": "2026-04-17T22:01:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "The Lord of the Rings: Return to Moria",
     "type": "live",
     "title": "THE MINES, THEY'RE CALLING ME BACK | !Clip !Discord",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-17T22:04:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -119,7 +119,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] What is it with Bloodfiends and W Corp? | Limbus Company | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-17T23:00:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -138,30 +138,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "317459343191",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "#EverwinterSMP First day! Surely I won't die half an hour in right?",
-    "viewer_count": 3,
-    "started_at": "2026-04-17T19:12:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English",
-      "ViewerRewards",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
