@@ -8,7 +8,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "✧ Trying to murder my friends up the mountain :D ✧ !lurk !merch !throne !clip",
-    "viewer_count": 41,
+    "viewer_count": 39,
     "started_at": "2026-04-17T22:01:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[Eureka! Grinding StB Relic] 🧊 What is the BEST Relic in FFXIV? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 11,
+    "viewer_count": 9,
     "started_at": "2026-04-18T00:31:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -112,6 +112,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
+    "id": "318831454426",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "[18+] Lets Beat Cobblemon Palooza | ✸Afterhours Stream✸",
+    "viewer_count": 6,
+    "started_at": "2026-04-18T03:22:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "Tentacles",
+      "ENVtuber",
+      "boyfriend",
+      "EldritchVTuber",
+      "MaleVtuber",
+      "Chıll",
+      "ADHD",
+      "TentacleMonster"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
     "id": "318825220442",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -139,34 +168,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "318831454426",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "[18+] Lets Beat Cobblemon Palooza | ✸Afterhours Stream✸",
-    "viewer_count": 1,
-    "started_at": "2026-04-18T03:22:30Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "Tentacles",
-      "ENVtuber",
-      "boyfriend",
-      "EldritchVTuber",
-      "MaleVtuber",
-      "Chıll",
-      "ADHD",
-      "TentacleMonster"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
