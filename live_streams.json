@@ -8,7 +8,7 @@
     "game_name": "Left 4 Dead 2",
     "type": "live",
     "title": "✧ Ghost vs Zombies? Who wins? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 40,
+    "viewer_count": 38,
     "started_at": "2026-04-18T22:55:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Pokémon FireRed/LeafGreen",
     "type": "live",
     "title": "[18+]  -short and chill- This is the start right?💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 32,
+    "viewer_count": 30,
     "started_at": "2026-04-18T23:46:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -82,31 +82,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   },
   {
-    "id": "318846157018",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "75115",
-    "game_name": "Mewgenics",
-    "type": "live",
-    "title": "The crimes I commit are full of cats || Mewgenics (!lurk, !links,  !discord)",
-    "viewer_count": 10,
-    "started_at": "2026-04-18T22:00:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "318956740315",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -115,7 +90,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "I miss you ???-? ✸3D Stream✸",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-04-19T01:26:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -192,54 +167,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
-    "id": "318322280544",
-    "user_id": "82448589",
-    "user_login": "avidstorm020",
-    "user_name": "Avidstorm020",
-    "game_id": "497057",
-    "game_name": "Destiny 2",
-    "type": "live",
-    "title": "raiding is back",
-    "viewer_count": 1,
-    "started_at": "2026-04-18T22:22:35Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "English",
-      "Black",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318213305436",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "A great day to derank",
-    "viewer_count": 1,
-    "started_at": "2026-04-18T22:37:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "318847493978",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -267,5 +194,53 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318213305436",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "A great day to derank",
+    "viewer_count": 1,
+    "started_at": "2026-04-18T22:37:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "318322280544",
+    "user_id": "82448589",
+    "user_login": "avidstorm020",
+    "user_name": "Avidstorm020",
+    "game_id": "497057",
+    "game_name": "Destiny 2",
+    "type": "live",
+    "title": "raiding is back",
+    "viewer_count": 1,
+    "started_at": "2026-04-18T22:22:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "English",
+      "Black",
+      "Vtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
   }
 ]
