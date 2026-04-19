@@ -8,7 +8,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "✧ Living the dream!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 49,
+    "viewer_count": 48,
     "started_at": "2026-04-18T22:55:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,6 +29,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "315549828330",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "🦝| Vorigins: RIPTIDE | Redemption Arc go crazy | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 16,
+    "started_at": "2026-04-19T01:16:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English",
+      "DropsEnabled",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
+  },
+  {
     "id": "318956740315",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -37,7 +64,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "[18+] 3D Eldritch Being Draws While Watching Cringe Vids!! ✸3D Art Stream✸",
-    "viewer_count": 11,
+    "viewer_count": 12,
     "started_at": "2026-04-19T01:26:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -66,7 +93,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] Creating Unity on the High Seas",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-04-18T23:05:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -113,32 +140,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9b36daa-7868-4427-9e37-14f809ee9dcf-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315549828330",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "🦝| Vorigins: RIPTIDE | Redemption Arc go crazy | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 2,
-    "started_at": "2026-04-19T01:16:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English",
-      "DropsEnabled",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   }
 ]
