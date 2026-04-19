@@ -8,7 +8,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "✧ Living the dream!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 38,
+    "viewer_count": 37,
     "started_at": "2026-04-18T22:55:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -87,31 +87,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
-    "id": "318213305436",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "A great day to derank",
-    "viewer_count": 4,
-    "started_at": "2026-04-18T22:37:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "315549828330",
     "user_id": "209565401",
     "user_login": "aidenchii",
@@ -120,7 +95,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "🦝| Vorigins: RIPTIDE | Redemption Arc go crazy | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-04-19T01:16:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -137,5 +112,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
+  },
+  {
+    "id": "318213305436",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "A great day to derank",
+    "viewer_count": 2,
+    "started_at": "2026-04-18T22:37:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
