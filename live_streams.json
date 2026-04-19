@@ -1,5 +1,33 @@
 [
   {
+    "id": "318226446684",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512923",
+    "game_name": "Baldur's Gate 3",
+    "type": "live",
+    "title": "[Subathon] Guys! Final 11hrs! I am Almost free from the subathon! (BG3 w/ @regina_kardinal",
+    "viewer_count": 16,
+    "started_at": "2026-04-19T20:26:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "hilarious",
+      "PartnerPush",
+      "HighEnergy",
+      "Subathon",
+      "chattyfunny",
+      "GirlFailureExperience"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318278663902",
     "user_id": "100422083",
     "user_login": "plompers",
@@ -35,7 +63,7 @@
     "game_name": "Resident Evil 6",
     "type": "live",
     "title": "[18+] I FINALLY HAVE A PARTNER! @dianaisnumber1 | RESIDENT EVIL 6",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-04-19T16:20:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -54,33 +82,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318226446684",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "512923",
-    "game_name": "Baldur's Gate 3",
-    "type": "live",
-    "title": "[Subathon] Guys! Final 11hrs! I am Almost free from the subathon! (BG3 w/ @regina_kardinal",
-    "viewer_count": 4,
-    "started_at": "2026-04-19T20:26:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon",
-      "chattyfunny",
-      "GirlFailureExperience"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   }
 ]
