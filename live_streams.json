@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Sunshi Cleans his Room ✸??? Stream✸",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-04-20T00:37:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Minecraft Bedwars !discord",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-19T20:55:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -56,6 +56,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
+  },
+  {
+    "id": "317489816663",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "21779",
+    "game_name": "League of Legends",
+    "type": "live",
+    "title": "rotting on a sunday evening w/ league",
+    "viewer_count": 7,
+    "started_at": "2026-04-20T01:24:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
   },
   {
     "id": "318337547616",
@@ -81,30 +105,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "317489816663",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "21779",
-    "game_name": "League of Legends",
-    "type": "live",
-    "title": "rotting on a sunday evening w/ league",
-    "viewer_count": 6,
-    "started_at": "2026-04-20T01:24:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
   },
   {
     "id": "315489220072",
@@ -134,29 +134,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
-    "id": "318228064732",
-    "user_id": "82448589",
-    "user_login": "avidstorm020",
-    "user_name": "Avidstorm020",
-    "game_id": "497057",
-    "game_name": "Destiny 2",
-    "type": "live",
-    "title": "raiding is back",
-    "viewer_count": 1,
-    "started_at": "2026-04-19T22:22:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "English",
-      "Black",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318337410144",
     "user_id": "164312667",
     "user_login": "baronobeefdipvt",
@@ -178,5 +155,28 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
+  },
+  {
+    "id": "318228064732",
+    "user_id": "82448589",
+    "user_login": "avidstorm020",
+    "user_name": "Avidstorm020",
+    "game_id": "497057",
+    "game_name": "Destiny 2",
+    "type": "live",
+    "title": "raiding is back",
+    "viewer_count": 1,
+    "started_at": "2026-04-19T22:22:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "English",
+      "Black",
+      "Vtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
   }
 ]
