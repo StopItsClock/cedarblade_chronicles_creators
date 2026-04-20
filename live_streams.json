@@ -1,34 +1,5 @@
 [
   {
-    "id": "318818182233",
-    "user_id": "115462971",
-    "user_login": "cricketinmyhead",
-    "user_name": "cricketinmyhead",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "🟫I'm going to scream now! Maybe DIE! - MINECRAFT HORROR (MODDED!)🌱🔪   - !discord !lurk 🦗",
-    "viewer_count": 8,
-    "started_at": "2026-04-20T18:23:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cricketinmyhead-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "chatting",
-      "ADHD",
-      "vtuber",
-      "Hyper",
-      "English",
-      "Tomboy",
-      "Gremlin",
-      "Gothic",
-      "PunksNotDead",
-      "BugVtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22296da3-6f8e-44d0-839a-68241cca7e86-profile_image-300x300.png"
-  },
-  {
     "id": "316541700708",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -53,5 +24,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "318818182233",
+    "user_id": "115462971",
+    "user_login": "cricketinmyhead",
+    "user_name": "cricketinmyhead",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "\ud83d\udfebI'm going to scream now! Maybe DIE! - MINECRAFT HORROR (MODDED!)\ud83c\udf31\ud83d\udd2a   - !discord !lurk \ud83e\udd97",
+    "viewer_count": 5,
+    "started_at": "2026-04-20T18:23:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cricketinmyhead-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "chatting",
+      "ADHD",
+      "vtuber",
+      "Hyper",
+      "English",
+      "Tomboy",
+      "Gremlin",
+      "Gothic",
+      "PunksNotDead",
+      "BugVtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22296da3-6f8e-44d0-839a-68241cca7e86-profile_image-300x300.png"
   }
 ]
