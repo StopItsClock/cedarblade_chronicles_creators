@@ -1,5 +1,31 @@
 [
   {
+    "id": "315892599766",
+    "user_id": "604764355",
+    "user_login": "zachibee",
+    "user_name": "zachibee",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "[18+] SLEEPY GOAT? FUUUDGE MAN💙 join for yap!⚡!lurk !discord !merch !throne !socials",
+    "viewer_count": 4,
+    "started_at": "2026-04-21T17:37:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "adhd",
+      "anime",
+      "autism",
+      "silly",
+      "energetic",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
+  },
+  {
     "id": "318894846042",
     "user_id": "115462971",
     "user_login": "cricketinmyhead",
@@ -8,7 +34,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "🟫I will turn into a truck now. PLAYING A (hopefully better) HORROR MINECRAFT MOD!   - !discord !lurk 🦗",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-21T16:47:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cricketinmyhead-{width}x{height}.jpg",
