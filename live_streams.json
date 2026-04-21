@@ -8,7 +8,7 @@
     "game_name": "Miniatures & Models",
     "type": "live",
     "title": "✨[18+ Eng/Esp] ✨WE BUILD THE GQUUUUUUUUX✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-04-21T22:30:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -27,35 +27,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
-  },
-  {
-    "id": "319003049819",
-    "user_id": "193636646",
-    "user_login": "captainyeeticus",
-    "user_name": "captainyeeticus",
-    "game_id": "1947375016",
-    "game_name": "Windrose",
-    "type": "live",
-    "title": "Yo ho a Pirate's Life for me! [ENPNGTuber] | !discord !hello",
-    "viewer_count": 2,
-    "started_at": "2026-04-21T21:22:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "lgbt",
-      "gremlin",
-      "artist",
-      "author",
-      "transgender",
-      "vtuber",
-      "pngtuber",
-      "envtuber",
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   },
   {
     "id": "318306928862",
@@ -85,5 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319003049819",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "1947375016",
+    "game_name": "Windrose",
+    "type": "live",
+    "title": "Yo ho a Pirate's Life for me! [ENPNGTuber] | !discord !hello",
+    "viewer_count": 1,
+    "started_at": "2026-04-21T21:22:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
