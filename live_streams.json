@@ -35,7 +35,7 @@
     "game_id": "1397210469",
     "game_name": "Miniatures & Models",
     "type": "live",
-    "title": "\u2728[18+ Eng/Esp] \u2728WE BUILD THE GQUUUUUUUUX\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "title": "✨[18+ Eng/Esp] ✨WE BUILD THE GQUUUUUUUUX✨ !socials !discord !lurk !SMP @rams_404_ ✨",
     "viewer_count": 10,
     "started_at": "2026-04-21T22:30:26Z",
     "language": "en",
@@ -65,7 +65,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] OH BOY A THEME PARK!!! | Limbus Company + DotW | !lurk !throne !tip !discord",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-04-21T23:00:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -84,29 +84,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "318363280992",
-    "user_id": "164312667",
-    "user_login": "baronobeefdipvt",
-    "user_name": "BaronOBeefDipVT",
-    "game_id": "197489698",
-    "game_name": "DIGIMON STORY: TIME STRANGER",
-    "type": "live",
-    "title": "Went to the Past, As We Head For The Future! | Digimon Time Stranger | 18+ |",
-    "viewer_count": 4,
-    "started_at": "2026-04-21T23:01:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_baronobeefdipvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "Furry",
-      "gaming"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
   },
   {
     "id": "318306928862",
@@ -136,6 +113,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318363280992",
+    "user_id": "164312667",
+    "user_login": "baronobeefdipvt",
+    "user_name": "BaronOBeefDipVT",
+    "game_id": "197489698",
+    "game_name": "DIGIMON STORY: TIME STRANGER",
+    "type": "live",
+    "title": "Went to the Past, As We Head For The Future! | Digimon Time Stranger | 18+ |",
+    "viewer_count": 3,
+    "started_at": "2026-04-21T23:01:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_baronobeefdipvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "Furry",
+      "gaming"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
   },
   {
     "id": "319003049819",
