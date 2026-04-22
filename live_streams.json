@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch Draws, Yaps and Cringes ✸Yap Art Stream✸",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-04-22T01:29:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -86,35 +86,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "318310265182",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "488844",
-    "game_name": "Devil May Cry 3: Dante's Awakening - Special Edition",
-    "type": "live",
-    "title": "[Subathon] We will make this devil cry or die trying (Devil May Cry 3 pt.1)",
-    "viewer_count": 5,
-    "started_at": "2026-04-22T01:36:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "hilarious",
-      "PartnerPush",
-      "HighEnergy",
-      "Subathon",
-      "chattyfunny",
-      "GirlFailureExperience",
-      "Dmc3"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318365357792",
     "user_id": "174585401",
     "user_login": "yumein",
@@ -134,6 +105,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
+    "id": "318310265182",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "488844",
+    "game_name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+    "type": "live",
+    "title": "[Subathon] We will make this devil cry or die trying (Devil May Cry 3 pt.1)",
+    "viewer_count": 4,
+    "started_at": "2026-04-22T01:36:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "hilarious",
+      "PartnerPush",
+      "HighEnergy",
+      "Subathon",
+      "chattyfunny",
+      "GirlFailureExperience",
+      "Dmc3"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
   },
   {
     "id": "319007064539",
@@ -163,57 +163,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "318363280992",
-    "user_id": "164312667",
-    "user_login": "baronobeefdipvt",
-    "user_name": "BaronOBeefDipVT",
-    "game_id": "197489698",
-    "game_name": "DIGIMON STORY: TIME STRANGER",
-    "type": "live",
-    "title": "Went to the Past, As We Head For The Future! | Digimon Time Stranger | 18+ |",
-    "viewer_count": 2,
-    "started_at": "2026-04-21T23:01:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_baronobeefdipvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "Furry",
-      "gaming"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
-  },
-  {
-    "id": "319003049819",
-    "user_id": "193636646",
-    "user_login": "captainyeeticus",
-    "user_name": "captainyeeticus",
-    "game_id": "1947375016",
-    "game_name": "Windrose",
-    "type": "live",
-    "title": "Yo ho a Pirate's Life for me! [ENPNGTuber] | !discord !hello",
-    "viewer_count": 1,
-    "started_at": "2026-04-21T21:22:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "lgbt",
-      "gremlin",
-      "artist",
-      "author",
-      "transgender",
-      "vtuber",
-      "pngtuber",
-      "envtuber",
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
