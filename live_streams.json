@@ -8,7 +8,7 @@
     "game_name": "Retro Rewind: Video Store Simulator",
     "type": "live",
     "title": "LATE STREAM! Back to the past to get my late fee! ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-22T22:17:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -27,35 +27,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318914042074",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "1846293708",
-    "game_name": "Fields of Mistria",
-    "type": "live",
-    "title": "[Yearning For The Mines!] 🧊 Who Would You Marry? (Adeline's MINE) ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 6,
-    "started_at": "2026-04-22T22:02:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "Hispanic",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
     "id": "318851757401",
@@ -85,6 +56,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318914042074",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "1846293708",
+    "game_name": "Fields of Mistria",
+    "type": "live",
+    "title": "[Yearning For The Mines!] 🧊 Who Would You Marry? (Adeline's MINE) ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
+    "viewer_count": 5,
+    "started_at": "2026-04-22T22:02:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
     "id": "318319030238",
@@ -139,5 +139,33 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "318320816478",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "yapping horror game collab w/ @gunkey_ +1080p!!!!!- !discord !lurk !pp !stinky !brat",
+    "viewer_count": 2,
+    "started_at": "2026-04-22T22:50:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "ENGLISH",
+      "Vtuber",
+      "brat",
+      "twinkmaxxing",
+      "yappingstreamer",
+      "newVTuber",
+      "English",
+      "Gremlin"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   }
 ]
