@@ -8,7 +8,7 @@
     "game_name": "Windrose",
     "type": "live",
     "title": "✧ Its time for pirate ghost!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
+    "viewer_count": 33,
     "started_at": "2026-04-22T22:57:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] At world's end",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-04-23T01:24:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "GTFO",
     "type": "live",
     "title": "[Subathon] Getting Out with People",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-04-23T00:42:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -80,29 +80,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/572e0aa7-2c28-4613-bacd-656ea9fa2b77-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318270926044",
-    "user_id": "160049351",
-    "user_login": "cosmosslayer1994",
-    "user_name": "cosmosslayer1994",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Welcome to the Guardian protector of realms",
-    "viewer_count": 1,
-    "started_at": "2026-04-23T00:29:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "minecraftsurivial",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
   },
   {
     "id": "319025025499",
@@ -132,5 +109,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "318270926044",
+    "user_id": "160049351",
+    "user_login": "cosmosslayer1994",
+    "user_name": "cosmosslayer1994",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Welcome to the Guardian protector of realms",
+    "viewer_count": 1,
+    "started_at": "2026-04-23T00:29:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cosmosslayer1994-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "minecraftsurivial",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c805666b-7145-4df3-a1ba-59171d3dc70f-profile_image-300x300.png"
   }
 ]
