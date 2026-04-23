@@ -1,34 +1,5 @@
 [
   {
-    "id": "316421342839",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "1947375016",
-    "game_name": "Windrose",
-    "type": "live",
-    "title": "✧ Its time for pirate ghost!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
-    "started_at": "2026-04-22T22:57:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "Bilingual",
-      "YappingEncouraged"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
     "id": "319024159707",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -37,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] At world's end",
-    "viewer_count": 15,
+    "viewer_count": 19,
     "started_at": "2026-04-23T01:24:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
