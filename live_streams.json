@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "\u2728[18+ Eng/Esp] \u2728We break em blocks before we clock into the office\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "title": "✨[18+ Eng/Esp] ✨We break em blocks before we clock into the office✨ !socials !discord !lurk !SMP @rams_404_ ✨",
     "viewer_count": 6,
     "started_at": "2026-04-23T20:16:18Z",
     "language": "en",
@@ -27,34 +27,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
-  },
-  {
-    "id": "316963210712",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "458224",
-    "game_name": "SOMA",
-    "type": "live",
-    "title": "SOMACEPTION Finally playing SOMA",
-    "viewer_count": 2,
-    "started_at": "2026-04-23T21:01:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "SOMA"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
   },
   {
     "id": "316962898136",
@@ -83,5 +55,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
+    "id": "316963210712",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "458224",
+    "game_name": "SOMA",
+    "type": "live",
+    "title": "SOMACEPTION Finally playing SOMA",
+    "viewer_count": 1,
+    "started_at": "2026-04-23T21:01:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "SOMA"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b7e4298-5bea-46d5-84cb-9684152cb8aa-profile_image-300x300.png"
   }
 ]
