@@ -36,7 +36,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] KISS ME ON MY HOT MOUTH IM FEELING ROMANTICAL 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-04-23T18:07:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -80,6 +80,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "315500376915",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1294658629",
+    "game_name": "R.E.P.O.",
+    "type": "live",
+    "title": "\"Chilled stream\" REPO with Gilded_Wolfe and Burnium",
+    "viewer_count": 1,
+    "started_at": "2026-04-23T17:50:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "315458310609",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -105,29 +129,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
-  },
-  {
-    "id": "315500376915",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1294658629",
-    "game_name": "R.E.P.O.",
-    "type": "live",
-    "title": "\"Chilled stream\" REPO with Gilded_Wolfe and Burnium",
-    "viewer_count": 1,
-    "started_at": "2026-04-23T17:50:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
