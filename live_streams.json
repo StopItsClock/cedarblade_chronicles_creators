@@ -8,7 +8,7 @@
     "game_name": "The Legend of Zelda: The Wind Waker",
     "type": "live",
     "title": "[18+] Into the Forbidden Woods.",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-24T19:51:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Day 6 of Everwinter SMP! The Lore is building up! [!lurk !discord]",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-04-24T20:26:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -60,7 +60,7 @@
     "game_name": "Super Battle Golf",
     "type": "live",
     "title": "✨[18+ Eng/Esp] ✨Will I get angry? Will I win or loose?✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-04-24T21:24:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -79,5 +79,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
+  },
+  {
+    "id": "318945338970",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "31376",
+    "game_name": "Terraria",
+    "type": "live",
+    "title": "Gathering the power I need to kill a heratic || Terraria  (!lurk, !links,  !discord)",
+    "viewer_count": 3,
+    "started_at": "2026-04-24T22:00:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
