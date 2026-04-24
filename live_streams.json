@@ -8,7 +8,7 @@
     "game_name": "The Legend of Zelda: The Wind Waker",
     "type": "live",
     "title": "[18+] Into the Forbidden Woods.",
-    "viewer_count": 10,
+    "viewer_count": 8,
     "started_at": "2026-04-24T19:51:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -25,6 +25,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
+    "id": "315856885619",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Day 6 of Everwinter SMP! The Lore is building up! [!lurk !discord]",
+    "viewer_count": 5,
+    "started_at": "2026-04-24T20:26:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
     "id": "318345607902",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -33,7 +60,7 @@
     "game_name": "Super Battle Golf",
     "type": "live",
     "title": "✨[18+ Eng/Esp] ✨Will I get angry? Will I win or loose?✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-24T21:24:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -52,32 +79,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
-  },
-  {
-    "id": "315856885619",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Day 6 of Everwinter SMP! The Lore is building up! [!lurk !discord]",
-    "viewer_count": 4,
-    "started_at": "2026-04-24T20:26:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   }
 ]
