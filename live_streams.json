@@ -8,7 +8,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "✧ Making my friends kiss :D ✧ !lurk !merch !throne !clip",
-    "viewer_count": 24,
+    "viewer_count": 22,
     "started_at": "2026-04-23T23:01:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "[18+] Cardboard Eldritch RETURNS to GOONer Rivals For Realsies ✸Yap And RIVALS Stream✸",
-    "viewer_count": 17,
+    "viewer_count": 15,
     "started_at": "2026-04-23T22:00:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "Gotta Catche Em all!!!!! !lurk  !throne !kofi !discord !dgg",
-    "viewer_count": 12,
+    "viewer_count": 14,
     "started_at": "2026-04-23T23:18:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "RELAXING NIGHTREIGN | !Clip !Discord",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-04-23T23:22:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -142,26 +142,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
-    "id": "318391324896",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "31437",
-    "game_name": "Botanicula",
-    "type": "live",
-    "title": "Botanicula! Cozy Vibes only!",
-    "viewer_count": 1,
-    "started_at": "2026-04-24T00:23:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "318334352222",
     "user_id": "164312667",
     "user_login": "baronobeefdipvt",
@@ -183,5 +163,25 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
+  },
+  {
+    "id": "318391324896",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "31437",
+    "game_name": "Botanicula",
+    "type": "live",
+    "title": "Botanicula! Cozy Vibes only!",
+    "viewer_count": 1,
+    "started_at": "2026-04-24T00:23:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
