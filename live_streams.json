@@ -8,7 +8,7 @@
     "game_name": "Boxroom",
     "type": "live",
     "title": "✧ NOOOO NOT THE TREES AHHHH ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 25,
     "started_at": "2026-04-23T23:01:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "Gotta Catche Em all!!!!! !lurk  !throne !kofi !discord !dgg",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-04-23T23:18:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "DERANKING KINDA NIGHT!!! | !Clip !Discord",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-04-23T23:22:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -135,6 +135,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
+    "id": "318334352222",
+    "user_id": "164312667",
+    "user_login": "baronobeefdipvt",
+    "user_name": "BaronOBeefDipVT",
+    "game_id": "197489698",
+    "game_name": "DIGIMON STORY: TIME STRANGER",
+    "type": "live",
+    "title": "Went to the Past, As We Head For The Future! | Digimon Time Stranger | 18+ |",
+    "viewer_count": 1,
+    "started_at": "2026-04-23T22:59:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_baronobeefdipvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VtuberEN",
+      "Furry",
+      "gaming"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
+  },
+  {
     "id": "318388777568",
     "user_id": "39084354",
     "user_login": "enigmaticslime",
@@ -162,28 +185,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35a9b99d-c953-4959-b2f0-db5a134e5b5d-profile_image-300x300.png"
-  },
-  {
-    "id": "318334352222",
-    "user_id": "164312667",
-    "user_login": "baronobeefdipvt",
-    "user_name": "BaronOBeefDipVT",
-    "game_id": "197489698",
-    "game_name": "DIGIMON STORY: TIME STRANGER",
-    "type": "live",
-    "title": "Went to the Past, As We Head For The Future! | Digimon Time Stranger | 18+ |",
-    "viewer_count": 1,
-    "started_at": "2026-04-23T22:59:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_baronobeefdipvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "Furry",
-      "gaming"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
   }
 ]
