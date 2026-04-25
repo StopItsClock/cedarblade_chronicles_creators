@@ -8,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Evercold Hype! Back to Eorzea [!lurk !discord]",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-04-25T13:35:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -25,5 +25,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
+    "id": "317143789542",
+    "user_id": "169349524",
+    "user_login": "frostvirinightfang",
+    "user_name": "FrostViriNightfang",
+    "game_id": "1986835154",
+    "game_name": "Yakuza Kiwami 2",
+    "type": "live",
+    "title": "☽ The Dragon (finally) Returns! ☾ !discord",
+    "viewer_count": 1,
+    "started_at": "2026-04-25T14:07:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostvirinightfang-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Genderfluid",
+      "English",
+      "LGBTQ",
+      "LGBTQFriendly",
+      "DyslexicStreamer",
+      "Vtuber",
+      "chill",
+      "LurkersWelcome",
+      "Omnisexual",
+      "witch"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/89e47358-a571-4e69-add0-d64cd5a89514-profile_image-300x300.png"
   }
 ]
