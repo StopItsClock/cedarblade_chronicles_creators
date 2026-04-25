@@ -1,5 +1,31 @@
 [
   {
+    "id": "317081872613",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "494839",
+    "game_name": "Deep Rock Galactic",
+    "type": "live",
+    "title": "TROUBLEMAKERS | Damn, this game sure is buggy...Get it?",
+    "viewer_count": 2,
+    "started_at": "2026-04-25T17:32:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber",
+      "yippee",
+      "LGBTQ",
+      "stardewvalley",
+      "stardew"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
     "id": "315465309777",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -22,31 +48,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
-    "id": "317081872613",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "494839",
-    "game_name": "Deep Rock Galactic",
-    "type": "live",
-    "title": "TROUBLEMAKERS | Damn, this game sure is buggy...Get it?",
-    "viewer_count": 1,
-    "started_at": "2026-04-25T17:32:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber",
-      "yippee",
-      "LGBTQ",
-      "stardewvalley",
-      "stardew"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
