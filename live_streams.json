@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "NEW MODEL DEBUT! || !discord !dono !lurk !throne !merch",
-    "viewer_count": 31,
+    "viewer_count": 30,
     "started_at": "2026-04-25T19:02:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -58,7 +58,7 @@
     "game_name": "",
     "type": "live",
     "title": "First Tournament with Rivals! Team #OneBelowAll ft @Just_Kiste , @LuckiiVT , @wrathfulhart , @KawaKindleVT , @glorpiichip as my team mates!",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-04-25T18:59:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zippingyeti-{width}x{height}.jpg",
@@ -97,5 +97,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "318902500697",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "[DROPS | Emet Selch???] 🧊 What's Your Favorite Fanfest Reveal? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
+    "viewer_count": 0,
+    "started_at": "2026-04-25T19:14:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   }
 ]
