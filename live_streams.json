@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "NEW MODEL DEBUT! || !discord !dono !lurk !throne !merch",
-    "viewer_count": 25,
+    "viewer_count": 31,
     "started_at": "2026-04-25T19:02:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[DROPS | Emet Selch???] 🧊 What's Your Favorite Fanfest Reveal? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 5,
+    "viewer_count": 7,
     "started_at": "2026-04-25T19:14:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -76,5 +76,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e39ece7-efb9-4e9a-974d-eeaf86c14ba2-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315800257777",
+    "user_id": "1106398757",
+    "user_login": "ashetonne",
+    "user_name": "AsheTonne",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "DAY 5 OF EVERWINTER I HOPE I DON'T DIE! | [VTuber] Road to 400 🗣️🔬 | !discord |",
+    "viewer_count": 0,
+    "started_at": "2026-04-25T20:00:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashetonne-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "MaleVtuber",
+      "ENVtuber",
+      "Vtuber",
+      "SwearWarning",
+      "ChaoticChillVibes",
+      "Scientist",
+      "English",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
   }
 ]
