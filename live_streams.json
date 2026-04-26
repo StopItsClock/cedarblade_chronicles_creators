@@ -8,7 +8,7 @@
     "game_name": "PRAGMATA",
     "type": "live",
     "title": "✧ Daddy Daughter bonding time✧ !lurk !merch !throne !clip",
-    "viewer_count": 38,
+    "viewer_count": 37,
     "started_at": "2026-04-25T20:39:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "This time I will hold the torch. [VORIGINS SMP] The Finale | !hug !discord",
-    "viewer_count": 15,
+    "viewer_count": 16,
     "started_at": "2026-04-26T00:58:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] Fighting Gods and Facing Judgement in the Season 3 Finale",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-04-25T23:31:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "Pokémon Ruby/Sapphire",
     "type": "live",
     "title": "18+ | Yo @hellionvt, Can I catch a Legendary this time? | PC | Pokemon Ruby & Sapphire | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-04-26T02:13:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
@@ -122,7 +122,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "LEGO BUILD STREAM 2 ELECTRIC BOOGALOO (FORTNITE EDITION) | !discord !Throne",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-04-26T01:20:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -151,7 +151,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "🦝| Vorigins: RIPTIDE | Final day...might have to fight a god or two | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-04-26T00:35:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -167,27 +167,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
-  },
-  {
-    "id": "318313600476",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "First Day in Tinhorn Town - COWBOYS SMP - Ms.Bell POV",
-    "viewer_count": 1,
-    "started_at": "2026-04-26T01:15:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "318417311072",
@@ -234,5 +213,26 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
+  },
+  {
+    "id": "318313600476",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "First Day in Tinhorn Town - COWBOYS SMP - Ms.Bell POV",
+    "viewer_count": 1,
+    "started_at": "2026-04-26T01:15:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
