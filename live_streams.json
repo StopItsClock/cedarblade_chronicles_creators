@@ -66,7 +66,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-ORIGINS SMP] Fighting Gods and Facing Judgement in the Season 3 Finale",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-04-25T23:31:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "LEGO BUILD STREAM 2 ELECTRIC BOOGALOO (FORTNITE EDITION) | !discord !Throne",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-04-26T01:20:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -113,32 +113,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b550da45-af71-483a-8d3c-5151d2b9fc8d-profile_image-300x300.png"
-  },
-  {
-    "id": "315509141992",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "🦝| Vorigins: RIPTIDE | Final day...might have to fight a god or two | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 2,
-    "started_at": "2026-04-26T00:35:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "319077817179",
@@ -167,5 +141,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+  },
+  {
+    "id": "315509141992",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "🦝| Vorigins: RIPTIDE | Final day...might have to fight a god or two | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 2,
+    "started_at": "2026-04-26T00:35:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   }
 ]
