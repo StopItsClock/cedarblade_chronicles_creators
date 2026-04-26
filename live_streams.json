@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Minecraft Bedwars !discord",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-04-26T22:10:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -62,7 +62,7 @@
     "game_id": "144418804",
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
-    "title": "\u2728[18+ Eng/Esp] \u2728I WILL NOT GET FLUSTERED\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
+    "title": "✨[18+ Eng/Esp] ✨I WILL NOT GET FLUSTERED✨ !socials !discord !lurk !SMP @rams_404_ ✨",
     "viewer_count": 5,
     "started_at": "2026-04-26T20:57:27Z",
     "language": "en",
@@ -108,33 +108,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
-    "id": "315812602994",
-    "user_id": "1106398757",
-    "user_login": "ashetonne",
-    "user_name": "AsheTonne",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "FINAL DAY OF EVERWINTER I HOPE I CAN ESCAPE! | [VTuber] Road to 400 \ud83d\udde3\ufe0f\ud83d\udd2c | !discord |",
-    "viewer_count": 2,
-    "started_at": "2026-04-26T20:06:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashetonne-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "MaleVtuber",
-      "ENVtuber",
-      "Vtuber",
-      "SwearWarning",
-      "ChaoticChillVibes",
-      "Scientist",
-      "English",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
-  },
-  {
     "id": "316570428770",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -143,7 +116,7 @@
     "game_name": "Resident Evil",
     "type": "live",
     "title": "[Resident Evil] FINALE! Come hell or high water [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-04-26T22:30:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -162,5 +135,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "315812602994",
+    "user_id": "1106398757",
+    "user_login": "ashetonne",
+    "user_name": "AsheTonne",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "FINAL DAY OF EVERWINTER I HOPE I CAN ESCAPE! | [VTuber] Road to 400 🗣️🔬 | !discord |",
+    "viewer_count": 1,
+    "started_at": "2026-04-26T20:06:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashetonne-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "MaleVtuber",
+      "ENVtuber",
+      "Vtuber",
+      "SwearWarning",
+      "ChaoticChillVibes",
+      "Scientist",
+      "English",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
   }
 ]
