@@ -24,31 +24,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   },
   {
-    "id": "318373914974",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Ranked grind cause I forgot to stream for a week",
-    "viewer_count": 6,
-    "started_at": "2026-04-26T19:42:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "318373992542",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -75,6 +50,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "318373914974",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "Ranked grind cause I forgot to stream for a week",
+    "viewer_count": 6,
+    "started_at": "2026-04-26T19:42:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
     "id": "318374875486",
     "user_id": "228334289",
     "user_login": "rams_404_",
@@ -82,7 +82,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "✨[18+ Eng/Esp] ✨I WILL NOT GET FLUSTERED but first we craft✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "title": "\u2728[18+ Eng/Esp] \u2728I WILL NOT GET FLUSTERED but first we craft\u2728 !socials !discord !lurk !SMP @rams_404_ \u2728",
     "viewer_count": 5,
     "started_at": "2026-04-26T20:57:27Z",
     "language": "en",
@@ -166,7 +166,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "FINAL DAY OF EVERWINTER I HOPE I CAN ESCAPE! | [VTuber] Road to 400 🗣️🔬 | !discord |",
+    "title": "FINAL DAY OF EVERWINTER I HOPE I CAN ESCAPE! | [VTuber] Road to 400 \ud83d\udde3\ufe0f\ud83d\udd2c | !discord |",
     "viewer_count": 1,
     "started_at": "2026-04-26T20:06:13Z",
     "language": "en",
