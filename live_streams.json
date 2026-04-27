@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "STARDEW MONDAY'S! I'm back! Flocker's miss me? ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 17,
+    "viewer_count": 15,
     "started_at": "2026-04-27T21:00:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -29,6 +29,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "318939229913",
+    "user_id": "219160446",
+    "user_login": "midasredding",
+    "user_name": "midasredding",
+    "game_id": "23453",
+    "game_name": "Fallout: New Vegas",
+    "type": "live",
+    "title": "Can you Kill Every NPC in Fallout New Vegas?",
+    "viewer_count": 10,
+    "started_at": "2026-04-27T20:30:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Amateur",
+      "gamer",
+      "ChallengeRun",
+      "Modded"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
+  },
+  {
     "id": "318999516634",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -37,7 +61,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "STREAM AFFILIATE ANNIVERSARY || !puppers !discord !dnd",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-04-27T20:08:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
@@ -57,30 +81,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
-    "id": "318939229913",
-    "user_id": "219160446",
-    "user_login": "midasredding",
-    "user_name": "midasredding",
-    "game_id": "23453",
-    "game_name": "Fallout: New Vegas",
-    "type": "live",
-    "title": "Can you Kill Every NPC in Fallout New Vegas?",
-    "viewer_count": 6,
-    "started_at": "2026-04-27T20:30:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Amateur",
-      "gamer",
-      "ChallengeRun",
-      "Modded"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
-  },
-  {
     "id": "318335620444",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -89,7 +89,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] This is lowkey torture but in the fun way! (Baldur's Gate 3 w/ @Regina_Kardinal)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-04-27T19:39:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -115,7 +115,7 @@
     "game_name": "Bingus: My Beloved",
     "type": "live",
     "title": "[18+] Does This Make Us... Furries? @dragonekho @livilightvt @divineklein254 [Bingus my Beloved] | !throne !socials !lurk !discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-04-27T18:58:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -159,5 +159,30 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "318940547801",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1286077738",
+    "game_name": "Monster Hunter Wilds",
+    "type": "live",
+    "title": "The Wilds are calling, Maybe these monsters are hard?|| Monster hunter wilds (!lurk, !links,  !discord)",
+    "viewer_count": 1,
+    "started_at": "2026-04-27T21:59:36Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
