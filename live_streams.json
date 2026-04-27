@@ -28,6 +28,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   },
   {
+    "id": "318374875486",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "✨[18+ Eng/Esp] ✨I WILL NOT GET FLUSTERED✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 7,
+    "started_at": "2026-04-26T20:57:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "femboy",
+      "English",
+      "spanish",
+      "18plus",
+      "MaleVtuber",
+      "chaos",
+      "feet",
+      "brat"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
+  },
+  {
     "id": "316570428770",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -36,7 +64,7 @@
     "game_name": "Cyberpunk 2077",
     "type": "live",
     "title": "[Cyberpunk 2077] Zombies Beat. Time to get Eddies [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 9,
+    "viewer_count": 6,
     "started_at": "2026-04-26T22:30:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -55,34 +83,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "318374875486",
-    "user_id": "228334289",
-    "user_login": "rams_404_",
-    "user_name": "Rams_404_",
-    "game_id": "144418804",
-    "game_name": "LOCKDOWN Protocol",
-    "type": "live",
-    "title": "✨[18+ Eng/Esp] ✨I WILL NOT GET FLUSTERED✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 5,
-    "started_at": "2026-04-26T20:57:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "femboy",
-      "English",
-      "spanish",
-      "18plus",
-      "MaleVtuber",
-      "chaos",
-      "feet",
-      "brat"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
   },
   {
     "id": "318373914974",
@@ -108,28 +108,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "317566743639",
-    "user_id": "114779237",
-    "user_login": "velkais370",
-    "user_name": "velkais370",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "No More Dragon?",
-    "viewer_count": 2,
-    "started_at": "2026-04-26T23:07:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "pngtuber",
-      "minecraft",
-      "CedarbladeSMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
   }
 ]
