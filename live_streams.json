@@ -8,7 +8,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "INTO THE KARAVERSE | Tomodachi Life | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-04-27T17:49:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -25,5 +25,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "318385483230",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "1556454558",
+    "game_name": "Bingus: My Beloved",
+    "type": "live",
+    "title": "[18+] Does This Make Us... Furries? [Bingus my Beloved: Cat Dating Sim] | !throne !socials !lurk !discord",
+    "viewer_count": 3,
+    "started_at": "2026-04-27T18:58:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "VoiceActing",
+      "VoiceActor",
+      "datingsim",
+      "doesthismakemeafurry"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   }
 ]
