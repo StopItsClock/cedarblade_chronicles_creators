@@ -27,6 +27,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
+    "id": "318335620444",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512923",
+    "game_name": "Baldur's Gate 3",
+    "type": "live",
+    "title": "[Subathon] This is lowkey torture but in the fun way! (Baldur's Gate 3 w/ @Regina_Kardinal)",
+    "viewer_count": 4,
+    "started_at": "2026-04-27T19:39:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "ac130",
+      "jetengine",
+      "scaredycat"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "316602625508",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -50,32 +76,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "318335620444",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "512923",
-    "game_name": "Baldur's Gate 3",
-    "type": "live",
-    "title": "[Subathon] This is lowkey torture but in the fun way! (Baldur's Gate 3 w/ @Regina_Kardinal)",
-    "viewer_count": 3,
-    "started_at": "2026-04-27T19:39:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "ac130",
-      "jetengine",
-      "scaredycat"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "318385483230",
@@ -105,33 +105,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
-    "id": "318938657625",
-    "user_id": "167298417",
-    "user_login": "gilded_wolfe",
-    "user_name": "Gilded_Wolfe",
-    "game_id": "509663",
-    "game_name": "Special Events",
-    "type": "live",
-    "title": "STREAM AFFILIATE ANNIVERSARY || !puppers !discord !dnd",
-    "viewer_count": 2,
-    "started_at": "2026-04-27T19:40:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "catgirl",
-      "english",
-      "cat",
-      "chattingwithviewers",
-      "English",
-      "AffiliateStreamer",
-      "AffiliateAnniversary",
-      "AffiliateStream",
-      "affiliatecelebration"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   }
 ]
