@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "STARDEW MONDAY'S! I'm back! Flocker's miss me? ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 14,
+    "viewer_count": 15,
     "started_at": "2026-04-27T21:00:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "STREAM AFFILIATE ANNIVERSARY || !puppers !discord !dnd",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-04-27T20:08:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Subathon] This is lowkey torture but in the fun way! (Baldur's Gate 3 w/ @Regina_Kardinal)",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-04-27T19:39:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -81,6 +81,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318939229913",
+    "user_id": "219160446",
+    "user_login": "midasredding",
+    "user_name": "midasredding",
+    "game_id": "23453",
+    "game_name": "Fallout: New Vegas",
+    "type": "live",
+    "title": "Can you Kill Every NPC in Fallout New Vegas?",
+    "viewer_count": 5,
+    "started_at": "2026-04-27T20:30:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Amateur",
+      "gamer",
+      "ChallengeRun",
+      "Modded"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
   },
   {
     "id": "318385483230",
@@ -110,30 +134,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
-    "id": "318939229913",
-    "user_id": "219160446",
-    "user_login": "midasredding",
-    "user_name": "midasredding",
-    "game_id": "23453",
-    "game_name": "Fallout: New Vegas",
-    "type": "live",
-    "title": "Can you Kill Every NPC in Fallout New Vegas?",
-    "viewer_count": 4,
-    "started_at": "2026-04-27T20:30:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Amateur",
-      "gamer",
-      "ChallengeRun",
-      "Modded"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
   },
   {
     "id": "316602625508",
