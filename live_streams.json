@@ -8,7 +8,7 @@
     "game_name": "VRChat",
     "type": "live",
     "title": "[18+] Back with cigarettes💚 @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 32,
+    "viewer_count": 30,
     "started_at": "2026-04-28T00:48:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -50,30 +50,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
-    "id": "318939229913",
-    "user_id": "219160446",
-    "user_login": "midasredding",
-    "user_name": "midasredding",
-    "game_id": "23453",
-    "game_name": "Fallout: New Vegas",
-    "type": "live",
-    "title": "Can you Kill Every NPC in Fallout New Vegas?",
-    "viewer_count": 10,
-    "started_at": "2026-04-27T20:30:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Amateur",
-      "gamer",
-      "ChallengeRun",
-      "Modded"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
-  },
-  {
     "id": "319115056603",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -82,7 +58,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch Does Yo Mama✸Mother 3 Stream✸",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-04-28T03:31:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -101,6 +77,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "318939229913",
+    "user_id": "219160446",
+    "user_login": "midasredding",
+    "user_name": "midasredding",
+    "game_id": "23453",
+    "game_name": "Fallout: New Vegas",
+    "type": "live",
+    "title": "Ending Stream when I kill 300 unique named NPCs",
+    "viewer_count": 9,
+    "started_at": "2026-04-27T20:30:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Amateur",
+      "gamer",
+      "ChallengeRun",
+      "Modded"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
   },
   {
     "id": "319002318938",
