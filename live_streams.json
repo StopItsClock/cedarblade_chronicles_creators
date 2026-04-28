@@ -7,8 +7,8 @@
     "game_id": "499003",
     "game_name": "VRChat",
     "type": "live",
-    "title": "[18+] Back with cigarettes\ud83d\udc9a @cutenysnys \ud83d\udc9a !socials !Merch \ud83d\udc9a",
-    "viewer_count": 36,
+    "title": "[18+] Back with cigarettes💚 @cutenysnys 💚 !socials !Merch 💚",
+    "viewer_count": 38,
     "started_at": "2026-04-28T00:48:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -29,6 +29,27 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
   },
   {
+    "id": "319111674459",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "I do what i want stream",
+    "viewer_count": 15,
+    "started_at": "2026-04-28T00:47:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319115056603",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -36,8 +57,8 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "[18+] Mike Tyson Eldritch Does Yo Mama \u2738Mother 3 Stream\u2738",
-    "viewer_count": 18,
+    "title": "[18+] Mike Tyson Eldritch Does Yo Mama ✸Mother 3 Stream✸",
+    "viewer_count": 12,
     "started_at": "2026-04-28T03:31:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -58,27 +79,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "319111674459",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "I do what i want stream",
-    "viewer_count": 16,
-    "started_at": "2026-04-28T00:47:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318939229913",
     "user_id": "219160446",
     "user_login": "midasredding",
@@ -87,7 +87,7 @@
     "game_name": "Fallout: New Vegas",
     "type": "live",
     "title": "Ending Stream when I kill 300 unique named NPCs",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-04-27T20:30:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
