@@ -28,6 +28,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "317003041368",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "458224",
+    "game_name": "SOMA",
+    "type": "live",
+    "title": "SOMACEPTION pt 3 TRY NOT TO MO AND KRILL OURSELVES THE GAME",
+    "viewer_count": 5,
+    "started_at": "2026-04-28T21:00:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "indiegames",
+      "Cozy",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "SOMA"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
     "id": "319123565275",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -36,7 +64,7 @@
     "game_name": "Resident Evil",
     "type": "live",
     "title": "[18+] Oh god he's playing that game again | RESIDENT EVIL",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-04-28T21:50:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -65,7 +93,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "Time to get Pierre's seed! [ENPNGTuber] | !discord !hello",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-04-28T19:46:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
@@ -83,33 +111,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
-  },
-  {
-    "id": "317003041368",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "458224",
-    "game_name": "SOMA",
-    "type": "live",
-    "title": "SOMACEPTION pt 3 TRY NOT TO MO AND KRILL OURSELVES THE GAME",
-    "viewer_count": 4,
-    "started_at": "2026-04-28T21:00:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "indiegames",
-      "Cozy",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "SOMA"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   }
 ]
