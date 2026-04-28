@@ -1,5 +1,33 @@
 [
   {
+    "id": "318953530841",
+    "user_id": "115462971",
+    "user_login": "cricketinmyhead",
+    "user_name": "cricketinmyhead",
+    "game_id": "418063",
+    "game_name": "FNaF 1",
+    "type": "live",
+    "title": "Freddy fargusbear.. - 🍕🐻 FNAF HORROR GAMING! (Fangames+Originals) - !discord !lurk 🦗",
+    "viewer_count": 5,
+    "started_at": "2026-04-28T18:29:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cricketinmyhead-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "chatting",
+      "ADHD",
+      "vtuber",
+      "English",
+      "Tomboy",
+      "Gremlin",
+      "PunksNotDead",
+      "BugVtuber",
+      "fnaf"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22296da3-6f8e-44d0-839a-68241cca7e86-profile_image-300x300.png"
+  },
+  {
     "id": "316609083108",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -8,7 +36,7 @@
     "game_name": "Games + Demos",
     "type": "live",
     "title": "Checking out inKonbini Demo | 18+ | !fishcord !kofi !waifu",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-04-28T18:00:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
