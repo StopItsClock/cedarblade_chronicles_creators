@@ -8,7 +8,7 @@
     "game_name": " SEKIRO: SHADOWS DIE TWICE",
     "type": "live",
     "title": "[18+] agonymaxing in feudal Japan ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 43,
+    "viewer_count": 41,
     "started_at": "2026-04-28T23:15:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "VALORANT",
     "type": "live",
     "title": "✧ Sloosh go pewpew weee ✧ !lurk !merch !throne !clip",
-    "viewer_count": 32,
+    "viewer_count": 40,
     "started_at": "2026-04-28T23:00:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch w/ Grippers Draws New Emote with Videos ✸Art n Video Stream✸",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-04-29T02:09:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Balatro",
     "type": "live",
     "title": "mmm yummy chips and mult || !discord !dono !lurk !throne !merch",
-    "viewer_count": 10,
+    "viewer_count": 13,
     "started_at": "2026-04-29T02:33:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -109,6 +109,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
+  },
+  {
+    "id": "318354357084",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "21779",
+    "game_name": "League of Legends",
+    "type": "live",
+    "title": "Poppy hammer",
+    "viewer_count": 4,
+    "started_at": "2026-04-29T00:49:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "318961945177",
@@ -187,29 +211,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35a9b99d-c953-4959-b2f0-db5a134e5b5d-profile_image-300x300.png"
-  },
-  {
-    "id": "318354357084",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "21779",
-    "game_name": "League of Legends",
-    "type": "live",
-    "title": "Poppy hammer",
-    "viewer_count": 2,
-    "started_at": "2026-04-29T00:49:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
