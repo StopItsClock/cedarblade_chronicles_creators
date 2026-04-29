@@ -8,7 +8,7 @@
     "game_name": " SEKIRO: SHADOWS DIE TWICE",
     "type": "live",
     "title": "[18+] agonymaxing in feudal Japan ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 33,
+    "viewer_count": 32,
     "started_at": "2026-04-28T23:15:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "✧ Forcing my friends to kiss ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
+    "viewer_count": 30,
     "started_at": "2026-04-28T23:00:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -110,6 +110,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
+    "id": "319128816987",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "I'm out of cookies",
+    "viewer_count": 1,
+    "started_at": "2026-04-29T01:35:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318457519072",
     "user_id": "164312667",
     "user_login": "baronobeefdipvt",
@@ -133,23 +153,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
   },
   {
-    "id": "319128816987",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
+    "id": "318961945177",
+    "user_id": "116714793",
+    "user_login": "marioairheart",
+    "user_name": "MarioAirheart",
+    "game_id": "1099705332",
+    "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
-    "title": "I'm out of cookies",
-    "viewer_count": 1,
-    "started_at": "2026-04-29T01:35:03Z",
+    "title": "18+ | IM NOT A POWER BOTTOM | Switch 2 | Tomodachi Life: Living The Dream | !CreatorClub !discord !Blacklyte !Nekomart |",
+    "viewer_count": 0,
+    "started_at": "2026-04-29T02:05:38Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "English"
+      "Vtuber",
+      "pngtuber",
+      "VtuberEN",
+      "PNGtuberEN",
+      "Variety",
+      "English",
+      "CreatorClub",
+      "VTuberUprising",
+      "18maturelanguage"
     ],
     "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   }
 ]
