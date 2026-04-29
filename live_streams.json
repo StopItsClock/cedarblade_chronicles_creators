@@ -8,7 +8,7 @@
     "game_name": " SEKIRO: SHADOWS DIE TWICE",
     "type": "live",
     "title": "[18+] agonymaxing in feudal Japan ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 34,
+    "viewer_count": 32,
     "started_at": "2026-04-28T23:15:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "✧ Forcing my friends to kiss ✧ !lurk !merch !throne !clip",
-    "viewer_count": 28,
+    "viewer_count": 27,
     "started_at": "2026-04-28T23:00:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -110,6 +110,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
+    "id": "319128816987",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "I'm out of cookies",
+    "viewer_count": 1,
+    "started_at": "2026-04-29T01:35:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318457519072",
     "user_id": "164312667",
     "user_login": "baronobeefdipvt",
@@ -131,25 +151,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
-  },
-  {
-    "id": "319128816987",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "I'm out of cookies",
-    "viewer_count": 1,
-    "started_at": "2026-04-29T01:35:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
