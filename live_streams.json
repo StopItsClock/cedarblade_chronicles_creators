@@ -8,7 +8,7 @@
     "game_name": "Subnautica: Below Zero",
     "type": "live",
     "title": "✧ Oh boy we're going deeper... ✧ !lurk !merch !throne !clip",
-    "viewer_count": 14,
+    "viewer_count": 17,
     "started_at": "2026-04-30T23:01:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -118,7 +118,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "DND SESSION WITH SOME COMRADESSS!!",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-04-30T22:45:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -147,7 +147,7 @@
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
     "title": "✨[18+ Eng/Esp] ✨Time to be mischievous [PARTNER Push]✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-04-30T21:47:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -165,6 +165,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
+  },
+  {
+    "id": "319156001627",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "1158884259",
+    "game_name": "Splatoon 3",
+    "type": "live",
+    "title": "Coral Clash Low Tide w/ Squid Est? !",
+    "viewer_count": 4,
+    "started_at": "2026-04-30T23:04:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "16plus",
+      "VTuber",
+      "ENVTuber",
+      "HeHim"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   },
   {
     "id": "318378592220",
@@ -187,28 +212,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
-    "id": "319045013978",
-    "user_id": "219160446",
-    "user_login": "midasredding",
-    "user_name": "midasredding",
-    "game_id": "127694361",
-    "game_name": "Species: Unknown",
+    "id": "318985667673",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "31376",
+    "game_name": "Terraria",
     "type": "live",
-    "title": "Goth Nigel Thornberry makes Space Men Question God",
-    "viewer_count": 2,
-    "started_at": "2026-04-30T18:58:57Z",
+    "title": "An Empress and a duke SHALL FALL to my magic|| Terraria, Calamity (!lurk, !links,  !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-04-30T21:02:28Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "English",
-      "Amateur",
-      "gamer",
-      "Modded",
-      "SCP"
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "318987805401",
@@ -240,29 +266,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
-    "id": "318985667673",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "31376",
-    "game_name": "Terraria",
+    "id": "319045013978",
+    "user_id": "219160446",
+    "user_login": "midasredding",
+    "user_name": "midasredding",
+    "game_id": "127694361",
+    "game_name": "Species: Unknown",
     "type": "live",
-    "title": "An Empress and a duke SHALL FALL to my magic|| Terraria, Calamity (!lurk, !links,  !discord)",
-    "viewer_count": 1,
-    "started_at": "2026-04-30T21:02:28Z",
+    "title": "Goth Nigel Thornberry makes Space Men Question God",
+    "viewer_count": 2,
+    "started_at": "2026-04-30T18:58:57Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
+      "Amateur",
+      "gamer",
+      "Modded",
+      "SCP"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
   },
   {
     "id": "318378274396",
@@ -320,30 +345,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319156001627",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "1158884259",
-    "game_name": "Splatoon 3",
-    "type": "live",
-    "title": "Coral Clash Low Tide w/ Squid Est? !",
-    "viewer_count": 1,
-    "started_at": "2026-04-30T23:04:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "16plus",
-      "VTuber",
-      "ENVTuber",
-      "HeHim"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
