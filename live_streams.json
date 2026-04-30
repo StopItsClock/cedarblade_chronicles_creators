@@ -1,31 +1,5 @@
 [
   {
-    "id": "318425376222",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "493174",
-    "game_name": "Jackbox Party Packs",
-    "type": "live",
-    "title": "[Subathon] The subathon ends today maybe?!? Jackbox community night! (Jackbox with the cuttle cult)",
-    "viewer_count": 10,
-    "started_at": "2026-04-30T19:37:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "ac130",
-      "jetengine",
-      "PleaseBeNice"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
     "id": "319151790427",
     "user_id": "846373427",
     "user_login": "seraphselkie",
@@ -52,6 +26,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
+  },
+  {
+    "id": "318425376222",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "493174",
+    "game_name": "Jackbox Party Packs",
+    "type": "live",
+    "title": "[Subathon] The subathon ends today maybe?!? Jackbox community night! (Jackbox with the cuttle cult)",
+    "viewer_count": 9,
+    "started_at": "2026-04-30T19:37:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "ac130",
+      "jetengine",
+      "PleaseBeNice"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "318376000604",
@@ -117,7 +117,7 @@
     "game_name": "SCP: Labrat",
     "type": "live",
     "title": "Backrooms Movie Leak COME GET IT WHILE IT'S HOT",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-04-30T18:58:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
@@ -140,7 +140,7 @@
     "game_id": "390159386",
     "game_name": "SCP: Labrat",
     "type": "live",
-    "title": "SCP!!! LETS GOOO | !Discord !lurk | 🐉🧟",
+    "title": "SCP!!! LETS GOOO | !Discord !lurk | \ud83d\udc09\ud83e\udddf",
     "viewer_count": 1,
     "started_at": "2026-04-30T18:55:39Z",
     "language": "en",
