@@ -37,7 +37,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "Yapping and catching!! !lurk  !throne !kofi !discord !dgg",
-    "viewer_count": 10,
+    "viewer_count": 16,
     "started_at": "2026-04-30T00:13:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -115,6 +115,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "315826707058",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Yap session after busy times [!lurk !discord]",
+    "viewer_count": 5,
+    "started_at": "2026-04-29T23:16:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
     "id": "318470549984",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -143,32 +169,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "315826707058",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Yap session after busy times [!lurk !discord]",
-    "viewer_count": 4,
-    "started_at": "2026-04-29T23:16:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
-  },
-  {
     "id": "319140764507",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -177,7 +177,7 @@
     "game_name": "Fatal Fury: City of the Wolves",
     "type": "live",
     "title": "[18+] ARE YOU OKAY? BUSTER WOLF | FATAL FURY CITY OF THE WOLVES",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-04-29T22:50:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
