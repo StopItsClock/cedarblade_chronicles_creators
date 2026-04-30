@@ -8,7 +8,7 @@
     "game_name": "PANICORE",
     "type": "live",
     "title": "Screaming until @crimsonbloodcat blocks me !lurk  !throne !kofi !discord !dgg",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-04-30T17:55:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Space Engineers",
     "type": "live",
     "title": "We be huntin pirates!",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-04-30T17:59:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -53,6 +53,56 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
+    "id": "315502843474",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "118198",
+    "game_name": "Assassin's Creed IV Black Flag",
+    "type": "live",
+    "title": "PERMADEATH PIRATE STYLE!",
+    "viewer_count": 3,
+    "started_at": "2026-04-30T17:06:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "318425376222",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "493174",
+    "game_name": "Jackbox Party Packs",
+    "type": "live",
+    "title": "[Subathon] The subathon ends today maybe?!? Jackbox community night! (Jackbox with the cuttle cult)",
+    "viewer_count": 3,
+    "started_at": "2026-04-30T19:37:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "ac130",
+      "jetengine",
+      "PleaseBeNice"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "319045013978",
@@ -104,29 +154,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "315502843474",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "118198",
-    "game_name": "Assassin's Creed IV Black Flag",
-    "type": "live",
-    "title": "PERMADEATH PIRATE STYLE!",
-    "viewer_count": 2,
-    "started_at": "2026-04-30T17:06:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
