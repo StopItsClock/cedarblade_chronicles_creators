@@ -8,7 +8,7 @@
     "game_name": "Subnautica: Below Zero",
     "type": "live",
     "title": "✧ Oh boy we're going deeper... ✧ !lurk !merch !throne !clip",
-    "viewer_count": 33,
+    "viewer_count": 34,
     "started_at": "2026-04-30T23:01:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,26 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "318378592220",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 09 - Squad T-1236",
-    "viewer_count": 5,
-    "started_at": "2026-04-30T22:56:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "318431300318",
     "user_id": "459187886",
     "user_login": "starryskiesvt",
@@ -57,7 +37,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "DEADLOCK'N IT!? | !discord !Throne",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-05-01T02:11:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -76,5 +56,25 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b550da45-af71-483a-8d3c-5151d2b9fc8d-profile_image-300x300.png"
+  },
+  {
+    "id": "318378592220",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 09 - Squad T-1236",
+    "viewer_count": 5,
+    "started_at": "2026-04-30T22:56:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
