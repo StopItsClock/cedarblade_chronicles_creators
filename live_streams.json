@@ -27,5 +27,33 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
+  },
+  {
+    "id": "317612601815",
+    "user_id": "137648142",
+    "user_login": "leyonlagure",
+    "user_name": "LeyonLaGure",
+    "game_id": "804395556",
+    "game_name": "Copycat",
+    "type": "live",
+    "title": "『Copycat』What if We Fed a Stray || !discord !essay !hmo !idea 『18+』",
+    "viewer_count": 1,
+    "started_at": "2026-05-01T04:19:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leyonlagure-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "WolfVtuber",
+      "MaleVtuber",
+      "Englishandspanish",
+      "himbo",
+      "LGBTQIAFriendlySpace",
+      "Vtuber",
+      "MentalHealthAdvocate",
+      "Latino"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9b36daa-7868-4427-9e37-14f809ee9dcf-profile_image-300x300.jpeg"
   }
 ]
