@@ -1,5 +1,29 @@
 [
   {
+    "id": "318999966169",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "457724187",
+    "game_name": "Lobotomy Corporation",
+    "type": "live",
+    "title": "something something abnormality something something netzach || !discord !dono !lurk !throne !merch",
+    "viewer_count": 10,
+    "started_at": "2026-05-01T19:00:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
+  },
+  {
     "id": "316652464739",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -26,30 +50,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
-    "id": "318999966169",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "457724187",
-    "game_name": "Lobotomy Corporation",
-    "type": "live",
-    "title": "something something abnormality something something netzach || !discord !dono !lurk !throne !merch",
-    "viewer_count": 5,
-    "started_at": "2026-05-01T19:00:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
-  },
-  {
     "id": "318388392412",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -70,7 +70,8 @@
       "Crazy",
       "ac130",
       "jetengine",
-      "PleaseBeNice"
+      "PleaseBeNice",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
