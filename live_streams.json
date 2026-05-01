@@ -37,7 +37,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "DEADLOCK'N IT!? | !discord !Throne",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-05-01T02:11:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -58,6 +58,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b550da45-af71-483a-8d3c-5151d2b9fc8d-profile_image-300x300.png"
   },
   {
+    "id": "319156001627",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "1158884259",
+    "game_name": "Splatoon 3",
+    "type": "live",
+    "title": "Coral Clash Low Tide w/ Squid Est? !",
+    "viewer_count": 5,
+    "started_at": "2026-04-30T23:04:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "16plus",
+      "VTuber",
+      "ENVTuber",
+      "HeHim"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
+  },
+  {
     "id": "318378592220",
     "user_id": "174585401",
     "user_login": "yumein",
@@ -76,31 +101,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "319156001627",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "1158884259",
-    "game_name": "Splatoon 3",
-    "type": "live",
-    "title": "Coral Clash Low Tide w/ Squid Est? !",
-    "viewer_count": 4,
-    "started_at": "2026-04-30T23:04:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "16plus",
-      "VTuber",
-      "ENVTuber",
-      "HeHim"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   },
   {
     "id": "318991417433",
