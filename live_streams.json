@@ -24,6 +24,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5fc148-99b4-41f6-94c8-3c3fe6b564be-profile_image-300x300.png"
   },
   {
+    "id": "318388392412",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "[Subathon] Custom by daylight with my lovely friends",
+    "viewer_count": 9,
+    "started_at": "2026-05-01T19:07:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "ac130",
+      "jetengine",
+      "PleaseBeNice",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318493945568",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -31,7 +58,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "[18+] One Last Adventure 🥀 RIP Server w/ @dragonekho [260+ Mod Minecraft SMP] | !throne !socials !lurk !discord",
+    "title": "[18+] One Last Adventure \ud83e\udd40 RIP Server w/ @dragonekho [260+ Mod Minecraft SMP] | !throne !socials !lurk !discord",
     "viewer_count": 8,
     "started_at": "2026-05-01T20:33:53Z",
     "language": "en",
@@ -53,33 +80,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
-    "id": "318388392412",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "491487",
-    "game_name": "Dead by Daylight",
-    "type": "live",
-    "title": "[Subathon] Custom by daylight with my lovely friends",
-    "viewer_count": 8,
-    "started_at": "2026-05-01T19:07:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "ac130",
-      "jetengine",
-      "PleaseBeNice",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
     "id": "319000768217",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -87,7 +87,7 @@
     "game_id": "492546",
     "game_name": "Star Wars Battlefront II",
     "type": "live",
-    "title": "COSMIC PLAYS! Star Wars month? Star Wars month! ⌇ 18+ ⌇ !discord !social",
+    "title": "COSMIC PLAYS! Star Wars month? Star Wars month! \u2307 18+ \u2307 !discord !social",
     "viewer_count": 7,
     "started_at": "2026-05-01T20:08:17Z",
     "language": "en",
@@ -109,6 +109,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "317618325463",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "I <3 torturing myself!! :^D",
+    "viewer_count": 4,
+    "started_at": "2026-05-01T21:20:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Cr\u0131nge",
+      "soulsgames"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
+  },
+  {
     "id": "319169935067",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -117,7 +142,7 @@
     "game_name": "Enshrouded",
     "type": "live",
     "title": "#Enshrouded blind! #Keymailer || !puppers !discord !dnd",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-05-01T21:13:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
@@ -146,7 +171,7 @@
     "game_name": "The Legend of Zelda: The Wind Waker",
     "type": "live",
     "title": "[18+] Guess we gotta be the Hero of Hyrule now, I just wanted to save my sister",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-05-01T19:34:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -161,30 +186,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "317618325463",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "I <3 torturing myself!! :^D",
-    "viewer_count": 2,
-    "started_at": "2026-05-01T21:20:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
   }
 ]
