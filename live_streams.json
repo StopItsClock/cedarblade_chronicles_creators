@@ -8,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Some late night MSQ progression! [!lurk !discord]",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-05-02T14:52:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -24,5 +24,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
+    "id": "319079727578",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "24239",
+    "game_name": "Super Mario Galaxy 2",
+    "type": "live",
+    "title": "I FINALLY GOT MORE AA BATTERIES :D",
+    "viewer_count": 0,
+    "started_at": "2026-05-02T17:16:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Retro",
+      "ComfyCafe",
+      "eepy"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   }
 ]
