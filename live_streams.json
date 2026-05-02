@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Silly lil ghost times ✧ !lurk !merch !throne !clip",
-    "viewer_count": 20,
+    "viewer_count": 21,
     "started_at": "2026-05-02T23:03:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "yapp maxing+dungeon bodega!!!!!- !discord !lurk !pp !stinky !brat",
-    "viewer_count": 13,
+    "viewer_count": 15,
     "started_at": "2026-05-02T22:57:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[Eureka! What's Pagos?] 🧊 What is the BEST Relic in FFXIV? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-05-02T22:08:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
     "title": "LOCKDOWN COLLAB AND THEN WE VIBIN FOR A BIT",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-05-02T21:54:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -123,7 +123,7 @@
     "game_name": "Portal 2",
     "type": "live",
     "title": "[18+] (don't tell @66grimdemise66 this but i rigged her robot to explode) | PORTAL 2 (IM ALSO SICK IM SORRY)",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-05-02T21:25:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -198,6 +198,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   },
   {
+    "id": "318406922588",
+    "user_id": "82448589",
+    "user_login": "avidstorm020",
+    "user_name": "Avidstorm020",
+    "game_id": "497057",
+    "game_name": "Destiny 2",
+    "type": "live",
+    "title": "suffering the game",
+    "viewer_count": 1,
+    "started_at": "2026-05-02T22:39:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "English",
+      "Black",
+      "Vtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318454428638",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -222,28 +245,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "318406922588",
-    "user_id": "82448589",
-    "user_login": "avidstorm020",
-    "user_name": "Avidstorm020",
-    "game_id": "497057",
-    "game_name": "Destiny 2",
-    "type": "live",
-    "title": "suffering the game",
-    "viewer_count": 1,
-    "started_at": "2026-05-02T22:39:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "English",
-      "Black",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
   }
 ]
