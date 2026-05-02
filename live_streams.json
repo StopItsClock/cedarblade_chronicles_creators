@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch overrides your dopamine levels ✸Gamble Stream✸",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-05-02T17:33:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -27,6 +27,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "319079727578",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "24239",
+    "game_name": "Super Mario Galaxy 2",
+    "type": "live",
+    "title": "I FINALLY GOT MORE AA BATTERIES :D",
+    "viewer_count": 6,
+    "started_at": "2026-05-02T17:16:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Retro",
+      "ComfyCafe",
+      "eepy"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "317224142822",
@@ -51,29 +75,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
-  },
-  {
-    "id": "319079727578",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "24239",
-    "game_name": "Super Mario Galaxy 2",
-    "type": "live",
-    "title": "I FINALLY GOT MORE AA BATTERIES :D",
-    "viewer_count": 4,
-    "started_at": "2026-05-02T17:16:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Retro",
-      "ComfyCafe",
-      "eepy"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   }
 ]
