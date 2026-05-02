@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] One Last Adventure 🥀 RIP Server w/ @dragonekho [260+ Mod Minecraft SMP] | !throne !socials !lurk !discord",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-05-01T20:33:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Magic: The Gathering",
     "type": "live",
     "title": "🦝| MTG | Gathering all the magic innit (i was forced by my sister ;-;) | !Discord | !Socials | 🦝👟👑",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-05-01T23:24:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
@@ -120,7 +120,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "430 HOURS AND I'M STILL AWFUL AT THIS GAME | !Clip !Discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-05-01T23:25:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -140,6 +140,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
+    "id": "319065592666",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "2132205352",
+    "game_name": "Deadlock",
+    "type": "live",
+    "title": "We are doing some deadlock",
+    "viewer_count": 2,
+    "started_at": "2026-05-01T23:45:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "16plus"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
+  },
+  {
     "id": "319065123802",
     "user_id": "781092139",
     "user_login": "thatuserkai",
@@ -148,7 +171,7 @@
     "game_name": "Splatoon 3",
     "type": "live",
     "title": "A41 #62 w/ Squid Est? !",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-05-01T23:24:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
@@ -163,28 +186,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
-  },
-  {
-    "id": "319065592666",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "2132205352",
-    "game_name": "Deadlock",
-    "type": "live",
-    "title": "We are doing some deadlock",
-    "viewer_count": 1,
-    "started_at": "2026-05-01T23:45:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "16plus"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
