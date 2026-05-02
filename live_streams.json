@@ -7,7 +7,7 @@
     "game_id": "1063197245",
     "game_name": "The Last Gas Station",
     "type": "live",
-    "title": "\u2727 Nothing can go wrong at our little gas station..right? \u2727 !lurk !merch !throne !clip",
+    "title": "✧ Nothing can go wrong at our little gas station..right? ✧ !lurk !merch !throne !clip",
     "viewer_count": 26,
     "started_at": "2026-05-01T23:00:06Z",
     "language": "en",
@@ -27,6 +27,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
+  },
+  {
+    "id": "315572890985",
+    "user_id": "209565401",
+    "user_login": "aidenchii",
+    "user_name": "AidenChii",
+    "game_id": "2748",
+    "game_name": "Magic: The Gathering",
+    "type": "live",
+    "title": "🦝| MTG | Gathering all the magic innit (i was forced by my sister ;-;) | !Discord | !Socials | 🦝👟👑",
+    "viewer_count": 7,
+    "started_at": "2026-05-01T23:24:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Austrailan",
+      "Vtuber",
+      "Raccoon",
+      "LOUD",
+      "Yapper",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "319064566618",
@@ -56,31 +81,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "315572890985",
-    "user_id": "209565401",
-    "user_login": "aidenchii",
-    "user_name": "AidenChii",
-    "game_id": "2748",
-    "game_name": "Magic: The Gathering",
-    "type": "live",
-    "title": "\ud83e\udd9d| MTG | Gathering all the magic innit (i was forced by my sister ;-;) | !Discord | !Socials | \ud83e\udd9d\ud83d\udc5f\ud83d\udc51",
-    "viewer_count": 6,
-    "started_at": "2026-05-01T23:24:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchii-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Austrailan",
-      "Vtuber",
-      "Raccoon",
-      "LOUD",
-      "Yapper",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49de8b12-0fa4-45ba-b7d9-edcc115ba796-profile_image-300x300.png"
   },
   {
     "id": "319065123802",
