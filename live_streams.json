@@ -8,7 +8,7 @@
     "game_name": "The Last Gas Station",
     "type": "live",
     "title": "✧ Nothing can go wrong at our little gas station..right? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 21,
     "started_at": "2026-05-01T23:00:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "430 HOURS AND I'M STILL AWFUL AT THIS GAME | !Clip !Discord",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-05-01T23:25:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -84,30 +84,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "319065123802",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "1158884259",
-    "game_name": "Splatoon 3",
-    "type": "live",
-    "title": "A41 #62 w/ Squid Est? !",
-    "viewer_count": 2,
-    "started_at": "2026-05-01T23:24:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "16plus",
-      "VTuber",
-      "ENVTuber",
-      "HeHim"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
