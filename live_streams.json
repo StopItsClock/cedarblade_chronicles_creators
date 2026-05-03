@@ -8,7 +8,7 @@
     "game_name": "Goose Goose Duck",
     "type": "live",
     "title": "We out goosing the ducks",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-05-03T22:38:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
@@ -25,26 +25,60 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   },
   {
-    "id": "317644044119",
-    "user_id": "114779237",
-    "user_login": "velkais370",
-    "user_name": "velkais370",
-    "game_id": "",
-    "game_name": "",
+    "id": "318422068316",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
     "type": "live",
-    "title": "How does one goose",
-    "viewer_count": 1,
-    "started_at": "2026-05-03T22:41:41Z",
+    "title": "yapp maxing+final fantasy XIV online!!!!!- !discord !lurk !pp !stinky !brat",
+    "viewer_count": 2,
+    "started_at": "2026-05-03T22:58:44Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
+      "english",
+      "ENGLISH",
+      "Vtuber",
+      "brat",
+      "twinkmaxxing",
+      "yappingstreamer",
+      "newVTuber",
       "English",
-      "pngtuber",
-      "goosegooseduck"
+      "Gremlin"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
+  },
+  {
+    "id": "318470055774",
+    "user_id": "228334289",
+    "user_login": "rams_404_",
+    "user_name": "Rams_404_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "✨[18+ Eng/Esp] ✨I'm gonna loose my mind [PARTNER Push]✨ !socials !discord !lurk !SMP @rams_404_ ✨",
+    "viewer_count": 1,
+    "started_at": "2026-05-03T22:54:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "femboy",
+      "English",
+      "spanish",
+      "18plus",
+      "MaleVtuber",
+      "chaos",
+      "feet",
+      "brat"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
   },
   {
     "id": "319212369243",
@@ -69,5 +103,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
+    "id": "317644044119",
+    "user_id": "114779237",
+    "user_login": "velkais370",
+    "user_name": "velkais370",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "How does one goose",
+    "viewer_count": 1,
+    "started_at": "2026-05-03T22:41:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "pngtuber",
+      "goosegooseduck"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
   }
 ]
