@@ -8,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "yapp maxing+final fantasy XIV online!!!!!- !discord !lurk !pp !stinky !brat",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-05-03T22:58:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "LOCKDOWN Protocol",
     "type": "live",
     "title": "✨[18+ Eng/Esp] ✨I'm gonna loose my mind [PARTNER Push]✨ !socials !discord !lurk !SMP @rams_404_ ✨",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-05-03T22:54:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams_404_-{width}x{height}.jpg",
@@ -54,30 +54,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ff8cef8-9174-48f4-a413-69e7514c2603-profile_image-300x300.png"
-  },
-  {
-    "id": "319212369243",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "14333696",
-    "game_name": "Goose Goose Duck",
-    "type": "live",
-    "title": "Goose Goose Duck collab; Awaiting redebut",
-    "viewer_count": 3,
-    "started_at": "2026-05-03T22:41:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Transgender",
-      "English",
-      "SafePlaceForAll",
-      "LGTBQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "316497792631",
@@ -125,5 +101,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
+  },
+  {
+    "id": "319212369243",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "14333696",
+    "game_name": "Goose Goose Duck",
+    "type": "live",
+    "title": "Goose Goose Duck collab; Awaiting redebut",
+    "viewer_count": 1,
+    "started_at": "2026-05-03T22:41:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Transgender",
+      "English",
+      "SafePlaceForAll",
+      "LGTBQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
