@@ -8,7 +8,7 @@
     "game_name": "Please, Don't Touch Anything",
     "type": "live",
     "title": "✧ Silly lil ghost times ✧ !lurk !merch !throne !clip",
-    "viewer_count": 27,
+    "viewer_count": 29,
     "started_at": "2026-05-02T23:03:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Pokémon FireRed/LeafGreen",
     "type": "live",
     "title": "[18+] Slowly losing my mind over big bird from seasame street ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 16,
+    "viewer_count": 17,
     "started_at": "2026-05-03T01:00:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -56,6 +56,34 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
+    "id": "319087658842",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[V-ORIGINS SMP] Epilogue Day, the fates of the Seas",
+    "viewer_count": 7,
+    "started_at": "2026-05-02T23:58:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese",
+      "ViewerRewards"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
     "id": "319086486234",
@@ -87,34 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "319087658842",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[V-ORIGINS SMP] Epilogue Day, the fates of the Seas",
-    "viewer_count": 3,
-    "started_at": "2026-05-02T23:58:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
     "id": "319085498714",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -144,6 +144,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "318408975580",
+    "user_id": "82448589",
+    "user_login": "avidstorm020",
+    "user_name": "Avidstorm020",
+    "game_id": "497057",
+    "game_name": "Destiny 2",
+    "type": "live",
+    "title": "suffering the game",
+    "viewer_count": 1,
+    "started_at": "2026-05-03T00:53:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "English",
+      "Black",
+      "Vtuber"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318454428638",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -168,28 +191,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "318408975580",
-    "user_id": "82448589",
-    "user_login": "avidstorm020",
-    "user_name": "Avidstorm020",
-    "game_id": "497057",
-    "game_name": "Destiny 2",
-    "type": "live",
-    "title": "suffering the game",
-    "viewer_count": 1,
-    "started_at": "2026-05-03T00:53:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_avidstorm020-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "English",
-      "Black",
-      "Vtuber"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ec55a2d-ee85-4f83-a822-fb07066a9575-profile_image-300x300.jpeg"
   }
 ]
