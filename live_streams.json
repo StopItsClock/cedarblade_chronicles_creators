@@ -8,7 +8,7 @@
     "game_name": "LEGO Star Wars: The Complete Saga",
     "type": "live",
     "title": "reliving my childhood one \"aughhh\" at a time || !discord !dono !lurk !throne !merch",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-05-04T19:04:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -22,6 +22,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
+  },
+  {
+    "id": "316682552291",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "16967",
+    "game_name": "The Legend of Zelda: The Wind Waker",
+    "type": "live",
+    "title": "[18+] [3rd Streaming Anniversary] I'm a big Dumb Dumb, who didn't plan anything, So YAY more Wind Waker",
+    "viewer_count": 5,
+    "started_at": "2026-05-04T19:39:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "316638120418",
@@ -49,31 +74,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
-  },
-  {
-    "id": "316682552291",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "16967",
-    "game_name": "The Legend of Zelda: The Wind Waker",
-    "type": "live",
-    "title": "[18+] [3rd Streaming Anniversary] I'm a big Dumb Dumb, who didn't plan anything, So YAY more Wind Waker",
-    "viewer_count": 4,
-    "started_at": "2026-05-04T19:39:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "319056649945",
