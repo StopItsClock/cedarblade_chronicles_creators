@@ -8,7 +8,7 @@
     "game_name": "LEGO Star Wars: The Complete Saga",
     "type": "live",
     "title": "reliving my childhood one \"aughhh\" at a time || !discord !dono !lurk !throne !merch",
-    "viewer_count": 12,
+    "viewer_count": 14,
     "started_at": "2026-05-04T19:04:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Eepy Shark continues her Indecisive Streak | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-05-04T18:00:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -59,7 +59,7 @@
     "game_name": "The Legend of Zelda: The Wind Waker",
     "type": "live",
     "title": "[18+] [3rd Streaming Anniversary] I'm a big Dumb Dumb, who didn't plan anything, So YAY more Wind Waker",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-05-04T19:39:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -105,6 +105,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
+    "id": "315517160018",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "Editor: Captions for very basic editing then shorts probs",
+    "viewer_count": 1,
+    "started_at": "2026-05-04T19:37:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "319224137179",
     "user_id": "210165894",
     "user_login": "illustriousmyth",
@@ -129,29 +153,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
-  },
-  {
-    "id": "315517160018",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "509660",
-    "game_name": "Art",
-    "type": "live",
-    "title": "Editor: Captions for very basic editing then shorts probs",
-    "viewer_count": 1,
-    "started_at": "2026-05-04T19:37:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
