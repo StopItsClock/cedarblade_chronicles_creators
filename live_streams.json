@@ -7,8 +7,8 @@
     "game_id": "1081998272",
     "game_name": "PEAK",
     "type": "live",
-    "title": "✧ The ONE round of peak! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 37,
+    "title": "\u2727 The ONE round of peak! \u2727 !lurk !merch !throne !clip",
+    "viewer_count": 34,
     "started_at": "2026-05-04T22:54:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319065616985",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "[18+] Eldritch Does your MOM \u2738Mother 3 Stream\u2738",
+    "viewer_count": 6,
+    "started_at": "2026-05-05T03:38:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "ENVtuber",
+      "boyfriend",
+      "TentacleMonster",
+      "boyfailure",
+      "feet",
+      "eboy",
+      "DeepVoice",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
     "id": "319226978523",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -37,7 +66,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] Finishing up Canto 7! | Limbus + DotW | !lurk !throne !tip !discord",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-05-04T23:00:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -85,35 +114,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
-    "id": "319065616985",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "[18+] Eldritch Does your MOM ✸Mother 3 Stream✸",
-    "viewer_count": 3,
-    "started_at": "2026-05-05T03:38:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "ENVtuber",
-      "boyfriend",
-      "TentacleMonster",
-      "boyfailure",
-      "feet",
-      "eboy",
-      "DeepVoice",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
     "id": "318486233694",
     "user_id": "431657944",
     "user_login": "saltyfarzi",
@@ -143,6 +143,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/86cf0679-8d2e-4fac-a207-cfd6d7b325f2-profile_image-300x300.png"
   },
   {
+    "id": "319231339355",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "2000561327",
+    "game_name": "Sledding Game",
+    "type": "live",
+    "title": "Starwars Day!",
+    "viewer_count": 1,
+    "started_at": "2026-05-05T02:19:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319062646489",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -169,25 +189,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "319231339355",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "2000561327",
-    "game_name": "Sledding Game",
-    "type": "live",
-    "title": "Starwars Day!",
-    "viewer_count": 1,
-    "started_at": "2026-05-05T02:19:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
