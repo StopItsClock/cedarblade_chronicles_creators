@@ -7,7 +7,7 @@
     "game_id": "24241",
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
-    "title": "mayhem taking it slow \u2727",
+    "title": "mayhem taking it slow ✧",
     "viewer_count": 18,
     "started_at": "2026-05-05T19:03:45Z",
     "language": "en",
@@ -25,6 +25,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
+  },
+  {
+    "id": "318445081052",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "I know nothing and I'm short",
+    "viewer_count": 6,
+    "started_at": "2026-05-05T19:55:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "317057847512",
@@ -55,31 +80,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "318445081052",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "I know nothing and I'm short",
-    "viewer_count": 6,
-    "started_at": "2026-05-05T19:55:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
     "id": "318492311902",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -88,7 +88,7 @@
     "game_name": "Among Us",
     "type": "live",
     "title": "[Subathon] Sussing in Among Us With My friends for Community Night!",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-05-05T19:00:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
