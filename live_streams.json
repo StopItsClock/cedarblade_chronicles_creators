@@ -8,7 +8,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "mayhem taking it slow ✧",
-    "viewer_count": 21,
+    "viewer_count": 22,
     "started_at": "2026-05-05T19:03:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -35,7 +35,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "I know nothing and I'm short",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-05-05T19:55:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -50,30 +50,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "315519877970",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "118198",
-    "game_name": "Assassin's Creed IV Black Flag",
-    "type": "live",
-    "title": "AC BLACK FLAG PERMADEATH!",
-    "viewer_count": 4,
-    "started_at": "2026-05-05T17:01:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "318492311902",
