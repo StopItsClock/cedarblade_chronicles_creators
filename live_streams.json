@@ -8,7 +8,7 @@
     "game_name": " SEKIRO: SHADOWS DIE TWICE",
     "type": "live",
     "title": "[18+]  Cracking or getting cracked  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 31,
+    "viewer_count": 30,
     "started_at": "2026-05-05T22:48:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "War Thunder",
     "type": "live",
     "title": "chaos,explosion and fire in warthunder",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-05-06T00:14:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
@@ -135,6 +135,27 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
+    "id": "319245735003",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "1901865180",
+    "game_name": "NTE: Neverness to Everness",
+    "type": "live",
+    "title": "Cinco De Mayo, so you owe me 50K Pesos",
+    "viewer_count": 3,
+    "started_at": "2026-05-06T01:34:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319135797466",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -143,7 +164,7 @@
     "game_name": "Dragon Quest I & II HD-2D Remake",
     "type": "live",
     "title": "[18+] I will not crash out on a boss this time... | DQ2HD2D | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-05-05T23:00:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -162,25 +183,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "319245735003",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "1901865180",
-    "game_name": "NTE: Neverness to Everness",
-    "type": "live",
-    "title": "Cinco De Mayo, so you owe me 50K Pesos",
-    "viewer_count": 4,
-    "started_at": "2026-05-06T01:34:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
