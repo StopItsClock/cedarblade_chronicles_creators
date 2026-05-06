@@ -8,7 +8,7 @@
     "game_name": "Stellaris",
     "type": "live",
     "title": "A New Machine Rises. | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-05-06T18:00:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -51,6 +51,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
+    "id": "317268590182",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "STARDEW WEDNESDAY | throw it back on those plants",
+    "viewer_count": 2,
+    "started_at": "2026-05-06T18:13:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber",
+      "yippee",
+      "LGBTQ",
+      "stardewvalley",
+      "stardew"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
     "id": "319146933466",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -77,31 +103,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
-    "id": "317268590182",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "STARDEW WEDNESDAY | throw it back on those plants",
-    "viewer_count": 2,
-    "started_at": "2026-05-06T18:13:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber",
-      "yippee",
-      "LGBTQ",
-      "stardewvalley",
-      "stardew"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
