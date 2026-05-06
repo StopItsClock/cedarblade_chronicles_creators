@@ -8,7 +8,7 @@
     "game_name": " SEKIRO: SHADOWS DIE TWICE",
     "type": "live",
     "title": "[18+]  Cracking or getting cracked  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 21,
+    "viewer_count": 22,
     "started_at": "2026-05-05T22:48:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -27,52 +27,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
-  },
-  {
-    "id": "318554640864",
-    "user_id": "595484950",
-    "user_login": "thehashibira",
-    "user_name": "TheHashibira",
-    "game_id": "2132205352",
-    "game_name": "Deadlock",
-    "type": "live",
-    "title": "I hate keiser while playind deadlock",
-    "viewer_count": 4,
-    "started_at": "2026-05-06T03:23:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Friends",
-      "Gaming",
-      "Male",
-      "Vtuber",
-      "Funny",
-      "Fun",
-      "English"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
-  },
-  {
-    "id": "319245735003",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "1901865180",
-    "game_name": "NTE: Neverness to Everness",
-    "type": "live",
-    "title": "Cinco De Mayo, so you owe me 50K Pesos",
-    "viewer_count": 4,
-    "started_at": "2026-05-06T01:34:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
