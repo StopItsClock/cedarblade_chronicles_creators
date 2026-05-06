@@ -8,7 +8,7 @@
     "game_name": " SEKIRO: SHADOWS DIE TWICE",
     "type": "live",
     "title": "[18+]  Cracking or getting cracked  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 24,
+    "viewer_count": 25,
     "started_at": "2026-05-05T22:48:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -58,6 +58,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
+    "id": "315855138290",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "Switching to FF14 coz my Endfield broke [!lurk !discord]",
+    "viewer_count": 4,
+    "started_at": "2026-05-06T00:05:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
     "id": "319135797466",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -95,7 +121,7 @@
     "game_name": "NTE: Neverness to Everness",
     "type": "live",
     "title": "Cinco De Mayo, so you owe me 50K Pesos",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-05-06T01:34:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
@@ -106,31 +132,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315855138290",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "Switching to FF14 coz my Endfield broke [!lurk !discord]",
-    "viewer_count": 3,
-    "started_at": "2026-05-06T00:05:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   }
 ]
