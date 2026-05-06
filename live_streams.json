@@ -8,7 +8,7 @@
     "game_name": " SEKIRO: SHADOWS DIE TWICE",
     "type": "live",
     "title": "[18+]  Cracking or getting cracked  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 31,
+    "viewer_count": 32,
     "started_at": "2026-05-05T22:48:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "NTE: Neverness to Everness",
     "type": "live",
     "title": "Cinco De Mayo, so you owe me 50K Pesos",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-05-06T01:34:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
@@ -77,5 +77,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318554640864",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "516575",
+    "game_name": "VALORANT",
+    "type": "live",
+    "title": "Valorant with the homies at Sleep Deprived YAYAYAYAYy:D",
+    "viewer_count": 0,
+    "started_at": "2026-05-06T03:23:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Funny",
+      "Fun",
+      "English"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   }
 ]
