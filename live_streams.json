@@ -8,7 +8,7 @@
     "game_name": "Space Engineers",
     "type": "live",
     "title": "It's lopsided but it flies! (maybe. Still gotta check that)",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-05-07T17:58:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -25,5 +25,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
+    "id": "318573482208",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "1269910315",
+    "game_name": "We Gotta Go",
+    "type": "live",
+    "title": "I CANT HOLD IT IN | !Discord !lurk | \ud83d\udc09\ud83e\udddf",
+    "viewer_count": 1,
+    "started_at": "2026-05-07T19:02:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   }
 ]
