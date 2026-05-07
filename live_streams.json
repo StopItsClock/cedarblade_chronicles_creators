@@ -1,30 +1,5 @@
 [
   {
-    "id": "319163831386",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1286077738",
-    "game_name": "Monster Hunter Wilds",
-    "type": "live",
-    "title": "We're at the foot of a volcano, WHAT MONSTERS ARE HERE?|| Monster Hunter Wilds (!lurk, !links,  !discord)",
-    "viewer_count": 3,
-    "started_at": "2026-05-07T20:56:10Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "317685159639",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -33,7 +8,7 @@
     "game_name": "Lethal Company",
     "type": "live",
     "title": "LETHAL COMPANY COLLAB RAHHHHH @theomenclature and @velkais370",
-    "viewer_count": 1,
+    "viewer_count": 3,
     "started_at": "2026-05-07T22:37:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -51,5 +26,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
+    "id": "319163831386",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1286077738",
+    "game_name": "Monster Hunter Wilds",
+    "type": "live",
+    "title": "We're at the foot of a volcano, WHAT MONSTERS ARE HERE?|| Monster Hunter Wilds (!lurk, !links,  !discord)",
+    "viewer_count": 2,
+    "started_at": "2026-05-07T20:56:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
