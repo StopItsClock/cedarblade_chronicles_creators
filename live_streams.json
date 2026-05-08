@@ -32,7 +32,7 @@
     "game_name": "Stellaris",
     "type": "live",
     "title": "Yap then Murder Meatbags | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-05-08T18:00:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -48,33 +48,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
-  },
-  {
-    "id": "318488637660",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
-    "game_id": "330674872",
-    "game_name": "Dark Pals",
-    "type": "live",
-    "title": "these pals are EVIL | !Discord !lurk | 🐉🧟",
-    "viewer_count": 3,
-    "started_at": "2026-05-08T19:12:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   },
   {
     "id": "316716055011",
@@ -113,7 +86,7 @@
     "game_id": "24241",
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
-    "title": "[12hr FFXIV Strem] 🧊 Dailies -> ??? -> ShB MSQ ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
+    "title": "[12hr FFXIV Strem] \ud83e\uddca Dailies -> ??? -> ShB MSQ \u2746 !Discord !Socials !Cover \ud83c\udf67 @frostedplague7",
     "viewer_count": 3,
     "started_at": "2026-05-08T18:03:15Z",
     "language": "en",
@@ -133,5 +106,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "318488637660",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "330674872",
+    "game_name": "Dark Pals",
+    "type": "live",
+    "title": "these pals are EVIL | !Discord !lurk | \ud83d\udc09\ud83e\udddf",
+    "viewer_count": 3,
+    "started_at": "2026-05-08T19:12:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   }
 ]
