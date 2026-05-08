@@ -8,7 +8,7 @@
     "game_name": "Phasmophobia",
     "type": "live",
     "title": "✧ Ghost returns to ghost hunting!! So many updates ahhh ✧ !lurk !merch !throne !clip",
-    "viewer_count": 34,
+    "viewer_count": 35,
     "started_at": "2026-05-07T22:58:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "yapp maxing+raiting mexican and shian candys!!!!!- !discord !lurk !pp !stinky !brat",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-05-07T23:00:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Lethal Company",
     "type": "live",
     "title": "LETHAL COMPANY COLLAB RAHHHHH @theomenclature and @velkais370",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-05-07T22:37:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -85,31 +85,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "319163831386",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1286077738",
-    "game_name": "Monster Hunter Wilds",
-    "type": "live",
-    "title": "We're at the foot of a volcano, WHAT MONSTERS ARE HERE?|| Monster Hunter Wilds (!lurk, !links,  !discord)",
-    "viewer_count": 5,
-    "started_at": "2026-05-07T20:56:10Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "318576357856",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -118,7 +93,7 @@
     "game_name": "Games + Demos",
     "type": "live",
     "title": "RANDOM HORROR NIGHT | !Clip !Discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-05-07T22:52:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -136,6 +111,51 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319163831386",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1286077738",
+    "game_name": "Monster Hunter Wilds",
+    "type": "live",
+    "title": "We're at the foot of a volcano, WHAT MONSTERS ARE HERE?|| Monster Hunter Wilds (!lurk, !links,  !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-05-07T20:56:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "318521749470",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 10 - Squad T-1236",
+    "viewer_count": 2,
+    "started_at": "2026-05-07T23:41:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "319166413018",
@@ -190,26 +210,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
-  },
-  {
-    "id": "318521749470",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 10 - Squad T-1236",
-    "viewer_count": 1,
-    "started_at": "2026-05-07T23:41:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "317685657175",
