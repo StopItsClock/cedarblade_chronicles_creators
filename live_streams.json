@@ -8,7 +8,7 @@
     "game_name": "Lobotomy Corporation",
     "type": "live",
     "title": "im so scared bro || !discord !dono !lurk !throne !merch",
-    "viewer_count": 13,
+    "viewer_count": 18,
     "started_at": "2026-05-08T19:09:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[12hr FFXIV Strem] 🧊 Dailies -> ??? -> ShB MSQ ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-05-08T18:03:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -51,35 +51,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "316716055011",
-    "user_id": "916904675",
-    "user_login": "articglow_",
-    "user_name": "ArticGlow_",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "LAST DAY OF FONXCRAFT SMP!!",
-    "viewer_count": 4,
-    "started_at": "2026-05-08T19:35:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "gamer",
-      "SheHer",
-      "Bubbly",
-      "PositiveVibes",
-      "pngtuber",
-      "Anime",
-      "Vtuber",
-      "Cozy",
-      "SMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
     "id": "316696732900",
@@ -133,5 +104,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
+    "id": "316716213731",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "LAST DAY OF FONXCRAFT SMP!!",
+    "viewer_count": 2,
+    "started_at": "2026-05-08T19:51:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy",
+      "SMP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   }
 ]
