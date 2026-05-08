@@ -7,7 +7,7 @@
     "game_id": "518184",
     "game_name": "Phasmophobia",
     "type": "live",
-    "title": "\u2727 Ghost returns to ghost hunting!! So many updates ahhh \u2727 !lurk !merch !throne !clip",
+    "title": "✧ Ghost returns to ghost hunting!! So many updates ahhh ✧ !lurk !merch !throne !clip",
     "viewer_count": 37,
     "started_at": "2026-05-07T22:58:59Z",
     "language": "en",
@@ -64,7 +64,7 @@
     "game_id": "499003",
     "game_name": "VRChat",
     "type": "live",
-    "title": "[18+] YAPPA YAPPA YAPPA YAPPA  \u2665 @cutenysnys \ud83d\udc9a !socials !Merch \ud83d\udc9a",
+    "title": "[18+] YAPPA YAPPA YAPPA YAPPA  ♥ @cutenysnys 💚 !socials !Merch 💚",
     "viewer_count": 13,
     "started_at": "2026-05-08T01:04:02Z",
     "language": "en",
@@ -195,6 +195,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   },
   {
+    "id": "319274275803",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "13332",
+    "game_name": "Pokémon FireRed/LeafGreen",
+    "type": "live",
+    "title": "Trying to get up the mountain and stop the Shadows!! || Pokemon Unbound!!",
+    "viewer_count": 1,
+    "started_at": "2026-05-08T00:25:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pokemon",
+      "FirstaPlayThrough",
+      "fangame",
+      "Romhack",
+      "PokemonUnbound"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
+  },
+  {
     "id": "317685657175",
     "user_id": "114779237",
     "user_login": "velkais370",
@@ -235,31 +261,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "319274275803",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "13332",
-    "game_name": "Pok\u00e9mon FireRed/LeafGreen",
-    "type": "live",
-    "title": "Trying to get up the mountain and stop the Shadows!! || Pokemon Unbound!!",
-    "viewer_count": 1,
-    "started_at": "2026-05-08T00:25:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pokemon",
-      "FirstaPlayThrough",
-      "fangame",
-      "Romhack",
-      "PokemonUnbound"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   }
 ]
