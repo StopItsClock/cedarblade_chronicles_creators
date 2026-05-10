@@ -8,7 +8,7 @@
     "game_name": "Subnautica: Below Zero",
     "type": "live",
     "title": "✧ Please come hold my hand water is scury ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
+    "viewer_count": 33,
     "started_at": "2026-05-09T23:03:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[FFXIV w/ Chat] 🧊 Level Grinding Classes + Eureka??? ❆ !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 14,
+    "viewer_count": 12,
     "started_at": "2026-05-09T23:20:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -58,6 +58,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "318612924768",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "TINHORN TOWN SMP - Building a \"Positive\" Reputation",
+    "viewer_count": 3,
+    "started_at": "2026-05-10T01:40:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "319313742555",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -66,7 +86,7 @@
     "game_name": "Pokémon Ruby/Sapphire",
     "type": "live",
     "title": "18+ | Will me and @hellionvt make it to the Ellite Four? | PC | Pokemon Ruby & Sapphire. | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-05-10T02:04:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
@@ -84,26 +104,6 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "318612924768",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "TINHORN TOWN SMP - Building a \"Positive\" Reputation",
-    "viewer_count": 2,
-    "started_at": "2026-05-10T01:40:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "317092373464",
