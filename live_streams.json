@@ -27,30 +27,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
-    "id": "319326711131",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "513181",
-    "game_name": "Genshin Impact",
-    "type": "live",
-    "title": "{ENVtuber} | Genshin story quests!! | He/Him 18+",
-    "viewer_count": 5,
-    "started_at": "2026-05-10T21:11:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "VTuber",
-      "ENVTuber",
-      "HeHim",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
