@@ -50,33 +50,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
-    "id": "317726456151",
-    "user_id": "265674058",
-    "user_login": "skyla_skydancer",
-    "user_name": "Skyla_SkyDancer",
-    "game_id": "32399",
-    "game_name": "Counter-Strike",
-    "type": "live",
-    "title": "CSGO WITH FRIENDS !discord",
-    "viewer_count": 4,
-    "started_at": "2026-05-11T18:47:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "AffiliateStreamer",
-      "ChatReader",
-      "Trans",
-      "Transfem",
-      "booba"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
-  },
-  {
     "id": "318635042016",
     "user_id": "254478860",
     "user_login": "ispebble",
@@ -101,5 +74,32 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "317726456151",
+    "user_id": "265674058",
+    "user_login": "skyla_skydancer",
+    "user_name": "Skyla_SkyDancer",
+    "game_id": "32399",
+    "game_name": "Counter-Strike",
+    "type": "live",
+    "title": "CSGO WITH FRIENDS !discord",
+    "viewer_count": 2,
+    "started_at": "2026-05-11T18:47:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "AffiliateStreamer",
+      "ChatReader",
+      "Trans",
+      "Transfem",
+      "booba"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   }
 ]
