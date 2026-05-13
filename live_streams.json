@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Screaming crying kicking - Horror Modpack w friends ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 18,
     "started_at": "2026-05-13T22:52:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -25,7 +25,7 @@
       "Bilingual",
       "YappingEncouraged"
     ],
-    "is_mature": true,
+    "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
@@ -37,7 +37,7 @@
     "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
     "type": "live",
     "title": "[18+] Im Sad...Will You Throw Cheese at Me? [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 11,
+    "viewer_count": 15,
     "started_at": "2026-05-13T21:35:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -54,7 +54,7 @@
       "Skyrim",
       "Skyrim"
     ],
-    "is_mature": true,
+    "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
@@ -66,7 +66,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "[DROPS] OVERWATCH LEAGUE IS CALLING!! (its not) || !discord !dono !lurk !throne !merch",
-    "viewer_count": 11,
+    "viewer_count": 14,
     "started_at": "2026-05-13T19:12:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -91,7 +91,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Ranking Things I've Never Played 🧊 !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-05-13T22:03:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -112,33 +112,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "317118934232",
-    "user_id": "265674058",
-    "user_login": "skyla_skydancer",
-    "user_name": "Skyla_SkyDancer",
-    "game_id": "512034",
-    "game_name": "Stellar Blade",
-    "type": "live",
-    "title": "Continuing StellarBlade !discord",
-    "viewer_count": 5,
-    "started_at": "2026-05-13T20:42:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "AffiliateStreamer",
-      "ChatReader",
-      "Trans",
-      "Transfem",
-      "booba"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
-  },
-  {
     "id": "319372169691",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -147,7 +120,7 @@
     "game_name": "Tomodachi Life: Living the Dream",
     "type": "live",
     "title": "[18+] BIG MAN IN THE SKY WILL FLOOD YOU UNGRATEFUL WORMS | TOMODACHI LIFE LIVING THE DREAM (OLD MODEL)",
-    "viewer_count": 4,
+    "viewer_count": 7,
     "started_at": "2026-05-13T21:26:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -168,29 +141,59 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
-    "id": "316758106979",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "532988445",
-    "game_name": "PowerWash Simulator 2",
+    "id": "317118934232",
+    "user_id": "265674058",
+    "user_login": "skyla_skydancer",
+    "user_name": "Skyla_SkyDancer",
+    "game_id": "512034",
+    "game_name": "Stellar Blade",
     "type": "live",
-    "title": "Relaxing Adventure Time stream between story game",
-    "viewer_count": 3,
-    "started_at": "2026-05-13T19:35:18Z",
+    "title": "Continuing StellarBlade !discord",
+    "viewer_count": 7,
+    "started_at": "2026-05-13T20:42:15Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
       "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer"
+      "English",
+      "ENVtuber",
+      "AffiliateStreamer",
+      "ChatReader",
+      "Trans",
+      "Transfem",
+      "booba"
     ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
+  },
+  {
+    "id": "318542801502",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[18+] HORROR MINECRAFT NIGHT!!! | w/@slushieghost and friends (I'm in the and friends section)| !Clip !Discord",
+    "viewer_count": 3,
+    "started_at": "2026-05-13T22:57:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
     "id": "319373784539",
@@ -220,33 +223,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "318542801502",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[18+] HORROR MINECRAFT NIGHT!!! | w/@slushieghost and friends (I'm in the and friends section)| !Clip !Discord",
-    "viewer_count": 1,
-    "started_at": "2026-05-13T22:57:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   }
 ]
