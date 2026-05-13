@@ -32,7 +32,7 @@
     "game_id": "506970540",
     "game_name": "NO BACKUP",
     "type": "live",
-    "title": "I LIED! WE ARE PLAYING HORROR GAME| !Discord !lurk | \ud83d\udc09\ud83e\udddf",
+    "title": "I LIED! WE ARE PLAYING HORROR GAME| !Discord !lurk | 🐉🧟",
     "viewer_count": 10,
     "started_at": "2026-05-13T20:26:07Z",
     "language": "en",
@@ -52,34 +52,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   },
   {
-    "id": "319370111579",
-    "user_id": "167298417",
-    "user_login": "gilded_wolfe",
-    "user_name": "Gilded_Wolfe",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "STARDEW WEDNESDAY || !puppers !discord !dnd",
-    "viewer_count": 4,
-    "started_at": "2026-05-13T18:17:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "catgirl",
-      "english",
-      "cat",
-      "chattingwithviewers",
-      "English",
-      "stardewvalley",
-      "stardew",
-      "stardewvalleyandchill",
-      "stardewvalleymodded"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
-  },
-  {
     "id": "319370395483",
     "user_id": "115462971",
     "user_login": "cricketinmyhead",
@@ -87,7 +59,7 @@
     "game_id": "490744",
     "game_name": "Stardew Valley",
     "type": "live",
-    "title": "Stardew Valley and Yap! - I FORGOT TO CHANGE THE NAME LOL - !discord !lurk \ud83e\udd97",
+    "title": "Stardew Valley and Yap! - I FORGOT TO CHANGE THE NAME LOL - !discord !lurk 🦗",
     "viewer_count": 4,
     "started_at": "2026-05-13T18:51:03Z",
     "language": "en",
@@ -135,6 +107,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
+    "id": "319370111579",
+    "user_id": "167298417",
+    "user_login": "gilded_wolfe",
+    "user_name": "Gilded_Wolfe",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "STARDEW WEDNESDAY || !puppers !discord !dnd",
+    "viewer_count": 4,
+    "started_at": "2026-05-13T18:17:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "catgirl",
+      "english",
+      "cat",
+      "chattingwithviewers",
+      "English",
+      "stardewvalley",
+      "stardew",
+      "stardewvalleyandchill",
+      "stardewvalleymodded"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
     "id": "317129536743",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -159,6 +159,31 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "316758106979",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "532988445",
+    "game_name": "PowerWash Simulator 2",
+    "type": "live",
+    "title": "Relaxing Adventure Time stream between story game",
+    "viewer_count": 1,
+    "started_at": "2026-05-13T19:35:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "18maturelanguage",
+      "18PlusStreamer"
+    ],
+    "is_mature": true,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "317118934232",
@@ -186,30 +211,5 @@
     ],
     "is_mature": true,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
-  },
-  {
-    "id": "316758106979",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "532988445",
-    "game_name": "PowerWash Simulator 2",
-    "type": "live",
-    "title": "Relaxing Adventure Time stream between story game",
-    "viewer_count": 1,
-    "started_at": "2026-05-13T19:35:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber",
-      "18maturelanguage",
-      "18PlusStreamer"
-    ],
-    "is_mature": true,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
