@@ -8,7 +8,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "✧ Screaming crying kicking - Horror Modpack w friends ✧ !lurk !merch !throne !clip",
-    "viewer_count": 28,
+    "viewer_count": 27,
     "started_at": "2026-05-13T22:52:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Kerbal Space Program",
     "type": "live",
     "title": "[18+] Does a recent Biology graduate know Astrophysics? | Kerbal Space Program | !lurk !throne !tip !discord",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-05-13T23:00:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -58,32 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "315885561073",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "513181",
-    "game_name": "Genshin Impact",
-    "type": "live",
-    "title": "Lohen pulled me back. I need to catch up. [!lurk !discord]",
-    "viewer_count": 7,
-    "started_at": "2026-05-14T00:22:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
-  },
-  {
     "id": "318542801502",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -92,7 +66,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "[18+] HORROR NIGHT | !Clip !Discord",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-05-13T22:57:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -110,5 +84,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315885561073",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "513181",
+    "game_name": "Genshin Impact",
+    "type": "live",
+    "title": "Lohen pulled me back. I need to catch up. [!lurk !discord]",
+    "viewer_count": 5,
+    "started_at": "2026-05-14T00:22:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   }
 ]
