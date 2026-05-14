@@ -8,7 +8,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "✧ Screaming crying kicking - Horror Modpack w friends ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 28,
     "started_at": "2026-05-13T22:52:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "Grind to 2500! more pokemans! let's beat the game! !lurk  !throne !kofi !discord !dgg",
-    "viewer_count": 19,
+    "viewer_count": 17,
     "started_at": "2026-05-13T23:21:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -83,6 +83,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
+    "id": "319373784539",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "32742",
+    "game_name": "Kerbal Space Program",
+    "type": "live",
+    "title": "[18+] Does a recent Biology graduate know Astrophysics? | Kerbal Space Program | !lurk !throne !tip !discord",
+    "viewer_count": 7,
+    "started_at": "2026-05-13T23:00:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
     "id": "318542801502",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -109,34 +138,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319373784539",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "32742",
-    "game_name": "Kerbal Space Program",
-    "type": "live",
-    "title": "[18+] Does a recent Biology graduate know Astrophysics? | Kerbal Space Program | !lurk !throne !tip !discord",
-    "viewer_count": 4,
-    "started_at": "2026-05-13T23:00:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
