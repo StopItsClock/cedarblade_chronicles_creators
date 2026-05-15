@@ -26,6 +26,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   },
   {
+    "id": "316730657506",
+    "user_id": "149397923",
+    "user_login": "ravenincarnate",
+    "user_name": "ravenincarnate",
+    "game_id": "1584836809",
+    "game_name": "Schedule I",
+    "type": "live",
+    "title": "Pipe bombs and mushrooms",
+    "viewer_count": 4,
+    "started_at": "2026-05-15T16:57:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "Relaxing",
+      "Chill",
+      "English",
+      "18plusstream",
+      "18pluschannel",
+      "18maturelanguage"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
     "id": "315536385233",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -50,33 +77,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
-    "id": "316730657506",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
-    "game_id": "1584836809",
-    "game_name": "Schedule I",
-    "type": "live",
-    "title": "Pipe bombs and mushrooms",
-    "viewer_count": 3,
-    "started_at": "2026-05-15T16:57:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
-      "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
-  },
-  {
     "id": "316755343972",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -85,7 +85,7 @@
     "game_name": "Stellaris",
     "type": "live",
     "title": "WE GO AGAIN?! | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-05-15T18:00:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
