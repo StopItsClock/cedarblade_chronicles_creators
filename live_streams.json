@@ -8,7 +8,7 @@
     "game_name": "Path of Exile 2",
     "type": "live",
     "title": "[18+] Morrow4 is a no go :( ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 18,
+    "viewer_count": 15,
     "started_at": "2026-05-15T01:17:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -27,6 +27,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
+    "id": "319396612315",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "[18+] Eldritch Gambles with no Friends! ✸Gamble With Your Friends Stream✸",
+    "viewer_count": 8,
+    "started_at": "2026-05-15T05:12:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "ENVtuber",
+      "boyfriend",
+      "TentacleMonster",
+      "boyfailure",
+      "feet",
+      "eboy",
+      "DeepVoice",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
     "id": "316570571383",
@@ -50,34 +79,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
-    "id": "319396612315",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "[18+] Eldritch Gambles with no Friends! ✸Gamble With Your Friends Stream✸",
-    "viewer_count": 0,
-    "started_at": "2026-05-15T05:12:12Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "ENVtuber",
-      "boyfriend",
-      "TentacleMonster",
-      "boyfailure",
-      "feet",
-      "eboy",
-      "DeepVoice",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
