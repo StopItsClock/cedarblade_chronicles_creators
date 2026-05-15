@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ Its time to shoot things!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 23,
     "started_at": "2026-05-14T23:01:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Far Far West",
     "type": "live",
     "title": "Stream exploded but now its time for far far west! (w/ @buttonsynheart @snickerdoodle_Demon and @fievol",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-05-15T00:39:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -180,7 +180,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "First time on the Aeronautics SMP!",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-05-15T02:07:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
@@ -242,31 +242,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35a9b99d-c953-4959-b2f0-db5a134e5b5d-profile_image-300x300.png"
-  },
-  {
-    "id": "319284495962",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Continuing our journey in cobbleverse and finishing the rest of the Johto gyms. !18+ stream",
-    "viewer_count": 1,
-    "started_at": "2026-05-14T23:11:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "18plusstream",
-      "chill",
-      "Rerun",
-      "minecraft",
-      "cobblemon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
