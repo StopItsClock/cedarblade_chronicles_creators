@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "OVERWAT | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-05-15T18:00:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -53,6 +53,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
+    "id": "318690974560",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "723826053",
+    "game_name": "Subnautica 2",
+    "type": "live",
+    "title": "Fish game w/ @thefiredraken",
+    "viewer_count": 1,
+    "started_at": "2026-05-15T20:22:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
     "id": "318690095328",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -61,7 +87,7 @@
     "game_name": "Subnautica 2",
     "type": "live",
     "title": "The fish returns to her ocean home with some good friends (Subnautica 2 w/ @regina_kardinal @Kiba_safir @smugsucc)",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-05-15T19:06:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -79,31 +105,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318690974560",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "723826053",
-    "game_name": "Subnautica 2",
-    "type": "live",
-    "title": "Fish game w/ @thefiredraken",
-    "viewer_count": 0,
-    "started_at": "2026-05-15T20:22:50Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
