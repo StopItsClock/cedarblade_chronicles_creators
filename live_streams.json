@@ -8,7 +8,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "✧ enough worming around its gaming time ✧ !lurk !merch !throne !clip",
-    "viewer_count": 24,
+    "viewer_count": 33,
     "started_at": "2026-05-15T23:00:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Grand Theft Auto V",
     "type": "live",
     "title": "[LODESTAR SMP] Welcome to the world of Lodestar! | First Time on the Server | #LodestarRP",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-05-16T00:05:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -74,33 +74,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319408723291",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "18+ | BONUS STREAM: Lets watch Gameoververse! | PC | Just Chatting | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 1,
-    "started_at": "2026-05-16T01:41:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "VTuberUprising",
-      "18maturelanguage",
-      "feet"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   }
 ]
