@@ -8,7 +8,7 @@
     "game_name": "Super Mario Galaxy 2",
     "type": "live",
     "title": "Mario gets the soup finale?",
-    "viewer_count": 13,
+    "viewer_count": 11,
     "started_at": "2026-05-16T18:10:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -24,6 +24,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
+    "id": "315906799602",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Blood on the Clocktower Collab! [!lurk !discord !clip]",
+    "viewer_count": 6,
+    "started_at": "2026-05-16T16:53:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
     "id": "319312165722",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -32,7 +58,7 @@
     "game_name": "The Murder of Sonic the Hedgehog",
     "type": "live",
     "title": "[18+] S TIER VOICE ACTING | THE MURDER OF SONIC THE HEDGEHOG VOICE OVER! @66grimdemise66 @articglow_ @stopitsclock @velkais370 @zachibee",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-05-16T14:50:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -61,7 +87,7 @@
     "game_name": "Subnautica 2",
     "type": "live",
     "title": "\"You're being hunted\" Subnautica 2 then some deadlock or fortnite!!| !discord !Throne",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-05-16T17:21:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -80,31 +106,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b550da45-af71-483a-8d3c-5151d2b9fc8d-profile_image-300x300.png"
-  },
-  {
-    "id": "315906799602",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Blood on the Clocktower Collab! [!lurk !discord !clip]",
-    "viewer_count": 5,
-    "started_at": "2026-05-16T16:53:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   }
 ]
