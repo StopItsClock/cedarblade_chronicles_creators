@@ -35,7 +35,7 @@
     "game_name": "Pokémon Trading Card Game Live",
     "type": "live",
     "title": "A quick game of pokemon before stream ends c:",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-05-16T18:10:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -78,34 +78,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
-    "id": "318578081502",
-    "user_id": "459187886",
-    "user_login": "starryskiesvt",
-    "user_name": "StarrySkiesVT",
-    "game_id": "723826053",
-    "game_name": "Subnautica 2",
-    "type": "live",
-    "title": "\"You're being hunted\" Subnautica 2 then some deadlock or fortnite!!| !discord !Throne",
-    "viewer_count": 3,
-    "started_at": "2026-05-16T17:21:10Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "VTuber",
-      "English",
-      "LGBTQ",
-      "stinky",
-      "mouse",
-      "cottoncandy",
-      "Trans",
-      "ratgirl",
-      "Pisstuber",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b550da45-af71-483a-8d3c-5151d2b9fc8d-profile_image-300x300.png"
   }
 ]
