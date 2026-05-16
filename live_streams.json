@@ -58,34 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
-    "id": "318616016860",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "1143686580",
-    "game_name": "Gamble With Your Friends",
-    "type": "live",
-    "title": "Now THIS is what friends are for | !Clip !Discord",
-    "viewer_count": 9,
-    "started_at": "2026-05-16T00:15:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
     "id": "319242293593",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -111,6 +83,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318616016860",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "1143686580",
+    "game_name": "Gamble With Your Friends",
+    "type": "live",
+    "title": "Now THIS is what friends are for | !Clip !Discord",
+    "viewer_count": 8,
+    "started_at": "2026-05-16T00:15:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers",
+      "CloacaKing"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
     "id": "317770512727",
@@ -170,6 +170,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "319407781851",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "2128193047",
+    "game_name": "Super Battle Golf",
+    "type": "live",
+    "title": "GOLF with @shadowemoneko",
+    "viewer_count": 2,
+    "started_at": "2026-05-16T01:01:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319408723291",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -196,26 +216,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "319407781851",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "2128193047",
-    "game_name": "Super Battle Golf",
-    "type": "live",
-    "title": "GOLF with @shadowemoneko",
-    "viewer_count": 1,
-    "started_at": "2026-05-16T01:01:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "317771152727",
