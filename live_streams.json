@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Screaming and crying.....in minecraft - Horrorcraft ✧ !lurk !merch !throne !clip",
-    "viewer_count": 34,
+    "viewer_count": 35,
     "started_at": "2026-05-16T22:57:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Gamble With Your Friends",
     "type": "live",
     "title": "18+ | LETS GO GAMBLING WITH @hellionvt LIFE SAVINGS! | PC | Gamble With Friends | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 13,
+    "viewer_count": 11,
     "started_at": "2026-05-16T23:19:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
@@ -94,7 +94,7 @@
     "game_name": "Clair Obscur: Expedition 33",
     "type": "live",
     "title": "It's been a minute, but we're back to the canvas | E33 Expert+ playthrough",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-05-17T00:00:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
@@ -115,6 +115,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   },
   {
+    "id": "317783037527",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Day 2 on the Aeronautics SMP! Ender Dragon fight????",
+    "viewer_count": 3,
+    "started_at": "2026-05-16T21:53:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
     "id": "319427908699",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -123,7 +146,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "SWEATY RIVAL CUSTOMS 🧊 !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-05-16T23:59:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -142,28 +165,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "317783037527",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Day 2 on the Aeronautics SMP! Ender Dragon fight????",
-    "viewer_count": 2,
-    "started_at": "2026-05-16T21:53:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
