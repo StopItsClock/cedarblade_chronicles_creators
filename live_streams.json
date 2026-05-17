@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Screaming and crying.....in minecraft - Horrorcraft ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 34,
     "started_at": "2026-05-16T22:57:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,34 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "319427121883",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "1143686580",
-    "game_name": "Gamble With Your Friends",
-    "type": "live",
-    "title": "18+ | LETS GO GAMBLING WITH @hellionvt LIFE SAVINGS! | PC | Gamble With Friends | !CreatorClub !discord !Blacklyte !Nekomart |",
-    "viewer_count": 17,
-    "started_at": "2026-05-16T23:19:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "VTuberUprising",
-      "18maturelanguage",
-      "feet"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
     "id": "319265038169",
     "user_id": "686234820",
     "user_login": "miyuwanchan",
@@ -65,7 +37,7 @@
     "game_name": "Dollmare",
     "type": "live",
     "title": "stuffing beans into dolls | !hug !discord",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-05-17T00:54:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -84,6 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
+  },
+  {
+    "id": "319427121883",
+    "user_id": "116714793",
+    "user_login": "marioairheart",
+    "user_name": "MarioAirheart",
+    "game_id": "1143686580",
+    "game_name": "Gamble With Your Friends",
+    "type": "live",
+    "title": "18+ | LETS GO GAMBLING WITH @hellionvt LIFE SAVINGS! | PC | Gamble With Friends | !CreatorClub !discord !Blacklyte !Nekomart |",
+    "viewer_count": 13,
+    "started_at": "2026-05-16T23:19:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "VtuberEN",
+      "PNGtuberEN",
+      "Variety",
+      "English",
+      "VTuberUprising",
+      "18maturelanguage",
+      "feet"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
     "id": "319427923803",
@@ -115,6 +115,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   },
   {
+    "id": "319427908699",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "SWEATY RIVAL CUSTOMS 🧊 !Discord !Socials !Cover 🍧 @frostedplague7",
+    "viewer_count": 3,
+    "started_at": "2026-05-16T23:59:47Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
     "id": "317783037527",
     "user_id": "1106409619",
     "user_login": "wannabe__va",
@@ -136,34 +165,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
-    "id": "319427908699",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "SWEATY RIVAL CUSTOMS 🧊 !Discord !Socials !Cover 🍧 @frostedplague7",
-    "viewer_count": 2,
-    "started_at": "2026-05-16T23:59:47Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "Hispanic",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   }
 ]
