@@ -1,5 +1,25 @@
 [
   {
+    "id": "319443206107",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "Killing my Wife's family so she can become god. [Elden Ring Playthrough] New model + Road to affiliate!!!",
+    "viewer_count": 5,
+    "started_at": "2026-05-17T19:48:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "316751466594",
     "user_id": "916904675",
     "user_login": "articglow_",
@@ -8,7 +28,7 @@
     "game_name": "Content Warning",
     "type": "live",
     "title": "WE MAKIN CONTENT BY GOIN TO SPOOKY PLACES?! LETS GO AND FIND OUT!!",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-05-17T22:03:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -27,26 +47,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
-  },
-  {
-    "id": "319443206107",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "Killing my Wife's family so she can become god. [Elden Ring Playthrough] New model + Road to affiliate!!!",
-    "viewer_count": 3,
-    "started_at": "2026-05-17T19:48:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "319338058970",
