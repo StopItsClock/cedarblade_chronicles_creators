@@ -1,29 +1,5 @@
 [
   {
-    "id": "317422451686",
-    "user_id": "176717390",
-    "user_login": "calmarvt",
-    "user_name": "CalmarVT",
-    "game_id": "941530474",
-    "game_name": "Mario Kart 8 Deluxe",
-    "type": "live",
-    "title": "[ENVtuber] Mario Kart time :33 @azureaetherium @Thatuserkai",
-    "viewer_count": 7,
-    "started_at": "2026-05-20T19:57:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "GERVtuber",
-      "ENVtuber",
-      "English",
-      "Splatoon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
-  },
-  {
     "id": "316610118391",
     "user_id": "265674058",
     "user_login": "skyla_skydancer",
@@ -32,7 +8,7 @@
     "game_name": "Pokémon Legends: Z-A",
     "type": "live",
     "title": "Finishing Legends Z-A DEX !discord",
-    "viewer_count": 7,
+    "viewer_count": 10,
     "started_at": "2026-05-20T21:02:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -51,6 +27,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   },
   {
+    "id": "317422451686",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "941530474",
+    "game_name": "Mario Kart 8 Deluxe",
+    "type": "live",
+    "title": "[ENVtuber] Mario Kart time :33 @azureaetherium @Thatuserkai",
+    "viewer_count": 8,
+    "started_at": "2026-05-20T19:57:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
+  },
+  {
     "id": "318631050590",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -59,7 +59,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Chilling with rivals comp! | !Discord !lurk | 🐉🧟",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-05-20T20:23:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -115,7 +115,7 @@
     "game_name": "Mario Kart 8 Deluxe",
     "type": "live",
     "title": "{ENVTuber} MK8D w/ @calmarvt @azureaetherium | He/Him 18+",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-05-20T20:08:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
