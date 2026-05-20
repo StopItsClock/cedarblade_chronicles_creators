@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Ahhh we're back in fing building qwq ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
+    "viewer_count": 31,
     "started_at": "2026-05-19T23:01:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,30 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "319317890521",
-    "user_id": "219160446",
-    "user_login": "midasredding",
-    "user_name": "midasredding",
-    "game_id": "31339",
-    "game_name": "Project Zomboid",
-    "type": "live",
-    "title": "SELF CENTERED BIRTHDAY WEEK DAY 1 - Project Zomboid but my friends have to escort my useless body to the EVAC Zone",
-    "viewer_count": 11,
-    "started_at": "2026-05-20T00:39:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Amateur",
-      "gamer",
-      "Modded",
-      "ChallengeRuns"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
-  },
-  {
     "id": "319487094363",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -61,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch Horror Comforts  your Dumb*ss ✸Late Stream✸",
-    "viewer_count": 8,
+    "viewer_count": 11,
     "started_at": "2026-05-20T05:10:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -80,6 +56,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "319317890521",
+    "user_id": "219160446",
+    "user_login": "midasredding",
+    "user_name": "midasredding",
+    "game_id": "31339",
+    "game_name": "Project Zomboid",
+    "type": "live",
+    "title": "SELF CENTERED BIRTHDAY WEEK DAY 1 - Project Zomboid but my friends have to escort my useless body to the EVAC Zone",
+    "viewer_count": 9,
+    "started_at": "2026-05-20T00:39:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Amateur",
+      "gamer",
+      "Modded",
+      "ChallengeRuns"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
   },
   {
     "id": "318749508576",
