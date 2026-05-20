@@ -8,7 +8,7 @@
     "game_name": "Subnautica 2",
     "type": "live",
     "title": "✧ mmm thalasaphobic ghost time ✧ !lurk !merch !throne !clip",
-    "viewer_count": 29,
+    "viewer_count": 30,
     "started_at": "2026-05-20T21:58:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -27,33 +27,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
-    "id": "318632075358",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "1887625367",
-    "game_name": "Scritchy Scratchy",
-    "type": "live",
-    "title": "aw dangit ✧",
-    "viewer_count": 14,
-    "started_at": "2026-05-20T21:49:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "Asian",
-      "vcanada"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
   },
   {
     "id": "319390562906",
@@ -83,6 +56,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "318632075358",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1887625367",
+    "game_name": "Scritchy Scratchy",
+    "type": "live",
+    "title": "aw dangit ✧",
+    "viewer_count": 10,
+    "started_at": "2026-05-20T21:49:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "Asian",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
   },
   {
     "id": "318632252126",
@@ -122,7 +122,7 @@
     "game_name": "Hollow Knight: Silksong",
     "type": "live",
     "title": "[18+] I HATE THESE STUPID BIRDS | Hollow Knight: Silksong | !lurk !throne !tip !discord",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-05-20T22:59:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -141,31 +141,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "319496718043",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "1982936547",
-    "game_name": "Pokémon",
-    "type": "live",
-    "title": "Unlocked Mega Evolution, now time for a team rebuild  || Pokemon Unbound!!",
-    "viewer_count": 0,
-    "started_at": "2026-05-20T23:11:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pokemon",
-      "FirstaPlayThrough",
-      "fangame",
-      "Romhack",
-      "PokemonUnbound"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   }
 ]
