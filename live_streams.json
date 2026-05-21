@@ -8,7 +8,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "✧ Hunting for da loot ✧ !lurk !merch !throne !clip",
-    "viewer_count": 28,
+    "viewer_count": 25,
     "started_at": "2026-05-20T21:58:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "BACK TO LEAGUE 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-05-20T21:58:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -110,6 +110,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319394597082",
+    "user_id": "87014181",
+    "user_login": "thetactician",
+    "user_name": "TheTactician",
+    "game_id": "1044890345",
+    "game_name": "Pokémon Infinite Fusion",
+    "type": "live",
+    "title": "@cedarvt and I are here to look at more goofy ahh fusions",
+    "viewer_count": 2,
+    "started_at": "2026-05-21T01:00:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NoBackseating",
+      "Anime",
+      "Vtuber",
+      "funnymoments",
+      "English",
+      "Collab",
+      "pokemon",
+      "PokemonInfiniteFusion",
+      "Nuzlocke",
+      "SoulLink"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   },
   {
     "id": "319395258970",
@@ -163,34 +192,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "319394597082",
-    "user_id": "87014181",
-    "user_login": "thetactician",
-    "user_name": "TheTactician",
-    "game_id": "1044890345",
-    "game_name": "Pokémon Infinite Fusion",
-    "type": "live",
-    "title": "@cedarvt and I are here to look at more goofy ahh fusions",
-    "viewer_count": 2,
-    "started_at": "2026-05-21T01:00:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "NoBackseating",
-      "Anime",
-      "Vtuber",
-      "funnymoments",
-      "English",
-      "Collab",
-      "pokemon",
-      "PokemonInfiniteFusion",
-      "Nuzlocke",
-      "SoulLink"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   }
 ]
