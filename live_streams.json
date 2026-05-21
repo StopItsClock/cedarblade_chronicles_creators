@@ -8,7 +8,7 @@
     "game_name": "Subnautica 2",
     "type": "live",
     "title": "✧ oooo my thalasaphobia is spiking ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
+    "viewer_count": 39,
     "started_at": "2026-05-21T21:59:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "yap maxing!!!- !discord !lurk !pp !stinky !brat",
-    "viewer_count": 13,
+    "viewer_count": 11,
     "started_at": "2026-05-21T22:58:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -93,7 +93,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] ANOTHER DND SESSION?! LETS DO THIS!! With friendoosss!!",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-05-21T22:15:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -112,30 +112,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
-  },
-  {
-    "id": "317218484839",
-    "user_id": "176717390",
-    "user_login": "calmarvt",
-    "user_name": "CalmarVT",
-    "game_id": "2000561327",
-    "game_name": "Sledding Game",
-    "type": "live",
-    "title": "[ENVtuber] Me when I sled with friends :3 @locklanstareyes_ @mccanadia & Yume",
-    "viewer_count": 6,
-    "started_at": "2026-05-21T23:12:41Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "GERVtuber",
-      "ENVtuber",
-      "English",
-      "Splatoon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
   },
   {
     "id": "318772759264",
@@ -165,6 +141,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
+    "id": "317218484839",
+    "user_id": "176717390",
+    "user_login": "calmarvt",
+    "user_name": "CalmarVT",
+    "game_id": "2000561327",
+    "game_name": "Sledding Game",
+    "type": "live",
+    "title": "[ENVtuber] Me when I sled with friends :3 @locklanstareyes_ @mccanadia & Yume",
+    "viewer_count": 6,
+    "started_at": "2026-05-21T23:12:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "GERVtuber",
+      "ENVtuber",
+      "English",
+      "Splatoon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
   },
   {
     "id": "319346633817",
