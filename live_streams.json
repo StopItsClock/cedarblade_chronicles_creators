@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "ITS ME, YOUR SHORK GF, HERE TO DO THINGS? | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-05-22T19:03:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -52,5 +52,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319527098459",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "723826053",
+    "game_name": "Subnautica 2",
+    "type": "live",
+    "title": "COSMIC PLAYS! I don't stink, it's these damn fish! ⌇ 18+ ⌇ !discord !social",
+    "viewer_count": 0,
+    "started_at": "2026-05-22T21:16:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Comfy",
+      "Chaotic",
+      "Yapper",
+      "chill",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   }
 ]
