@@ -8,7 +8,7 @@
     "game_name": "Fast Food Simulator",
     "type": "live",
     "title": "✧ Put da borgor in da bag ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 37,
     "started_at": "2026-05-21T21:59:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Forza Horizon 6",
     "type": "live",
     "title": "[18+] Ill give you a cookie if you guess my favorite car ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 20,
+    "viewer_count": 22,
     "started_at": "2026-05-22T01:16:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] Happy Tea Day! 🍵 Craft a Cozy TeaHouse with Me~ *GIFT SUB DISCOUNT* [400+ Mod Minecraft] | !throne !socials !lurk !discord",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-05-21T22:48:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -169,6 +169,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
+    "id": "319410200794",
+    "user_id": "219160446",
+    "user_login": "midasredding",
+    "user_name": "midasredding",
+    "game_id": "498744",
+    "game_name": "SCP: Secret Laboratory",
+    "type": "live",
+    "title": "SELF CENTERED BIRTHDAY WEEK DAY 3 - SCP Secret Labratory",
+    "viewer_count": 5,
+    "started_at": "2026-05-22T00:36:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Amateur",
+      "gamer",
+      "SCPSecretLaboratory"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
+  },
+  {
     "id": "318647169502",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -194,29 +217,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "319410200794",
-    "user_id": "219160446",
-    "user_login": "midasredding",
-    "user_name": "midasredding",
-    "game_id": "498744",
-    "game_name": "SCP: Secret Laboratory",
-    "type": "live",
-    "title": "SELF CENTERED BIRTHDAY WEEK DAY 3 - SCP Secret Labratory",
-    "viewer_count": 4,
-    "started_at": "2026-05-22T00:36:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Amateur",
-      "gamer",
-      "SCPSecretLaboratory"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
   },
   {
     "id": "318647998302",
