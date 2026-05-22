@@ -8,7 +8,7 @@
     "game_name": "Gamble With Your Friends",
     "type": "live",
     "title": "MAKING MILLIONS 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-05-22T22:06:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Subnautica 2",
     "type": "live",
     "title": "COSMIC PLAYS! I don't stink, it's these damn fish! ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-05-22T21:16:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -56,32 +56,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318705892060",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "508455",
-    "game_name": "Valheim",
-    "type": "live",
-    "title": "Nathaniel is a viking w/ Regi, Smuggy, and Da Cube (Valheim w/ @defaultcube_va @smugsucc @regina_kardinal)",
-    "viewer_count": 3,
-    "started_at": "2026-05-22T19:30:53Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "ac130",
-      "jetengine",
-      "Vtuber",
-      "prismmodel"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   }
 ]
