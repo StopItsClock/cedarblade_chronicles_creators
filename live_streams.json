@@ -1,34 +1,5 @@
 [
   {
-    "id": "317849195991",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "✧ Surviving the outside horrors!!! HorrorCraft Server ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
-    "started_at": "2026-05-22T23:01:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "Bilingual",
-      "YappingEncouraged"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
     "id": "318713321692",
     "user_id": "459187886",
     "user_login": "starryskiesvt",
@@ -37,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "OVERWATCH WITH @teacakedraws :3 | !discord !Throne",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-05-23T03:38:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
