@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "SELF CENTERED BIRTHDAY WEEK DAY 4 - Smash or Pass until I Find My Lover",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-05-22T23:55:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
@@ -82,6 +82,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
+    "id": "315990300915",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Minecraft Community time! [!lurk !discord !clip]",
+    "viewer_count": 10,
+    "started_at": "2026-05-23T00:27:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
     "id": "319364083545",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -111,32 +137,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "315990300915",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Minecraft Community time! [!lurk !discord !clip]",
-    "viewer_count": 8,
-    "started_at": "2026-05-23T00:27:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
-  },
-  {
     "id": "318785475936",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -145,7 +145,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "IT WONT STOP RAINING!!! | Doing runs with the Mods | !Clip",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-05-22T23:01:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
