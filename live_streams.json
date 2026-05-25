@@ -82,7 +82,7 @@
     "game_name": "Mewgenics",
     "type": "live",
     "title": "UMMMMM Meow? || Mewgenics (!lurk, !links,  !discord)",
-    "viewer_count": 0,
+    "viewer_count": 3,
     "started_at": "2026-05-25T21:00:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -97,5 +97,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "319583740763",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "795788384",
+    "game_name": "Trees Hate You",
+    "type": "live",
+    "title": "{ENVTuber} The trees hate me :( | He/Him 18+",
+    "viewer_count": 1,
+    "started_at": "2026-05-25T21:05:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "VTuber",
+      "ENVTuber",
+      "HeHim",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
   }
 ]
