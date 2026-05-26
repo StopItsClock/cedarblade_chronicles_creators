@@ -8,7 +8,7 @@
     "game_name": "LEGO Batman: Legacy of the Dark Knight",
     "type": "live",
     "title": "✧ I am Batghost ✧ !lurk !merch !throne !clip",
-    "viewer_count": 38,
+    "viewer_count": 36,
     "started_at": "2026-05-25T23:07:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[18+] Eldritch Gambles with the Umas ACTUAL MONEYYYYY ✸Engage Stream✸",
-    "viewer_count": 32,
+    "viewer_count": 31,
     "started_at": "2026-05-26T00:58:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -111,6 +111,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
   },
   {
+    "id": "318829573856",
+    "user_id": "938069605",
+    "user_login": "cedarvt",
+    "user_name": "CedarVT",
+    "game_id": "209738946",
+    "game_name": "Wuthering Waves",
+    "type": "live",
+    "title": "Trying to catch up before Cyberpunk Collab :3  ~🍂 !discord !merch",
+    "viewer_count": 3,
+    "started_at": "2026-05-26T01:16:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "ComfyChaotic",
+      "leaf",
+      "skibidirizz",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318750700508",
     "user_id": "459187886",
     "user_login": "starryskiesvt",
@@ -119,7 +145,7 @@
     "game_name": "Star Citizen",
     "type": "live",
     "title": "Bounty Hunting with a cute catgirl :3| !discord !Throne",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-05-25T22:47:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -138,31 +164,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/570775aa-f5e0-4c4d-a2fb-39ab2f7ff14d-profile_image-300x300.png"
-  },
-  {
-    "id": "318829573856",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "209738946",
-    "game_name": "Wuthering Waves",
-    "type": "live",
-    "title": "Trying to catch up before Cyberpunk Collab :3  ~🍂 !discord !merch",
-    "viewer_count": 1,
-    "started_at": "2026-05-26T01:16:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   }
 ]
