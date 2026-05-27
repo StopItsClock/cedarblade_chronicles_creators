@@ -8,7 +8,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "✧ omg is that league of legends??✧ !lurk !merch !throne !clip",
-    "viewer_count": 33,
+    "viewer_count": 30,
     "started_at": "2026-05-26T23:00:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "【18+】Lady CHUDS only~| Drawing with Videos ✸Art Stream✸",
-    "viewer_count": 21,
+    "viewer_count": 29,
     "started_at": "2026-05-26T23:29:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -58,27 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "319439008729",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "Hero stuff",
-    "viewer_count": 17,
-    "started_at": "2026-05-26T23:46:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318839390560",
     "user_id": "846373427",
     "user_login": "seraphselkie",
@@ -87,7 +66,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "2500 Celebration! Tip-a-Thon day 1 and first time playing subnautica!!! pls help ;-; !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 17,
+    "viewer_count": 16,
     "started_at": "2026-05-26T23:01:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -105,6 +84,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
+  },
+  {
+    "id": "319439008729",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "Hero stuff",
+    "viewer_count": 16,
+    "started_at": "2026-05-26T23:46:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "319602030683",
