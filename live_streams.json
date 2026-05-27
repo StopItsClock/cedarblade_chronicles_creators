@@ -8,7 +8,7 @@
     "game_name": "RESIDENT EVIL: requiem",
     "type": "live",
     "title": "Fire Yokai Playing Scary Zombie GAME!?!?!",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-05-27T20:21:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -26,6 +26,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
+    "id": "316869584355",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "518379",
+    "game_name": "Pokémon UNITE",
+    "type": "live",
+    "title": "I've been having fun, so lets run this back again",
+    "viewer_count": 3,
+    "started_at": "2026-05-27T20:08:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
     "id": "318849808736",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -33,8 +56,8 @@
     "game_id": "1264310518",
     "game_name": "Marvel Rivals",
     "type": "live",
-    "title": "COMP TIME | !Discord !lurk | \ud83d\udc09\ud83e\udddf",
-    "viewer_count": 6,
+    "title": "COMP TIME | !Discord !lurk | 🐉🧟",
+    "viewer_count": 2,
     "started_at": "2026-05-27T20:12:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -52,28 +75,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "316869584355",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "518379",
-    "game_name": "Pok\u00e9mon UNITE",
-    "type": "live",
-    "title": "I've been having fun, so lets run this back again",
-    "viewer_count": 3,
-    "started_at": "2026-05-27T20:08:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
