@@ -8,7 +8,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "COMP TIME | !Discord !lurk | 🐉🧟",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-05-27T20:12:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -26,6 +26,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
+    "id": "318774057564",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "1597660489",
+    "game_name": "RESIDENT EVIL: requiem",
+    "type": "live",
+    "title": "Fire Yokai Playing Scary Zombie GAME!?!?!",
+    "viewer_count": 4,
+    "started_at": "2026-05-27T20:21:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Funny",
+      "Fun",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
     "id": "316869584355",
@@ -51,29 +77,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
-    "id": "318774057564",
-    "user_id": "595484950",
-    "user_login": "thehashibira",
-    "user_name": "TheHashibira",
-    "game_id": "1597660489",
-    "game_name": "RESIDENT EVIL: requiem",
+    "id": "319453347545",
+    "user_id": "846373427",
+    "user_login": "seraphselkie",
+    "user_name": "seraphselkie",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
     "type": "live",
-    "title": "Fire Yokai Playing Scary Zombie GAME!?!?!",
-    "viewer_count": 3,
-    "started_at": "2026-05-27T20:21:58Z",
+    "title": "2500 Celebration! Tip-a-Thon day 2 Subnautica with others?! pokemons after !tip !lurk  !throne !discord !dgg",
+    "viewer_count": 0,
+    "started_at": "2026-05-27T21:59:38Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Friends",
-      "Gaming",
-      "Male",
+      "chatting",
+      "English",
+      "chattingwithviewers",
+      "chill",
+      "18pluschannel",
       "Vtuber",
-      "Funny",
-      "Fun",
-      "English"
+      "maturecontent",
+      "Mature",
+      "Chaotic"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
   }
 ]
