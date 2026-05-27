@@ -28,34 +28,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
   },
   {
-    "id": "318849808736",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "COMP TIME | !Discord !lurk | 🐉🧟",
-    "viewer_count": 5,
-    "started_at": "2026-05-27T20:12:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
     "id": "318775298652",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -83,5 +55,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
+    "id": "318849808736",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "COMP TIME | !Discord !lurk | 🐉🧟",
+    "viewer_count": 3,
+    "started_at": "2026-05-27T20:12:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   }
 ]
