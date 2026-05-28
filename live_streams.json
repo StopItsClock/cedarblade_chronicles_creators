@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Hero stuff bby",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-05-28T02:38:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
@@ -18,59 +18,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "318778462044",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "1044890345",
-    "game_name": "Pokémon Infinite Fusion",
-    "type": "live",
-    "title": "Polymerization! :3  ~🍂 !discord !merch",
-    "viewer_count": 3,
-    "started_at": "2026-05-28T01:03:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319517199322",
-    "user_id": "87014181",
-    "user_login": "thetactician",
-    "user_name": "TheTactician",
-    "game_id": "1044890345",
-    "game_name": "Pokémon Infinite Fusion",
-    "type": "live",
-    "title": "Babe wake up, @cedarvt and I are fusing Pokemon again!",
-    "viewer_count": 1,
-    "started_at": "2026-05-28T01:00:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "NoBackseating",
-      "Anime",
-      "Vtuber",
-      "funnymoments",
-      "English",
-      "Collab",
-      "pokemon",
-      "PokemonInfiniteFusion",
-      "Nuzlocke",
-      "SoulLinkNuzlocke"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   }
 ]
