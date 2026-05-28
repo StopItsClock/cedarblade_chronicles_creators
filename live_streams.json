@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ HorrorCrafting time time to cry and fly ✧ !lurk !merch !throne !clip",
-    "viewer_count": 32,
+    "viewer_count": 31,
     "started_at": "2026-05-27T23:09:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319625846235",
+    "user_id": "686234820",
+    "user_login": "miyuwanchan",
+    "user_name": "miyuwanchan",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "why did i come back? im a masochist | !hug !discord",
+    "viewer_count": 28,
+    "started_at": "2026-05-28T04:06:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "SafeSpace",
+      "English",
+      "Anime",
+      "Live2D",
+      "DogVtuber",
+      "ENVtuber",
+      "LGBTQPlus",
+      "gyaru",
+      "ComfyChaotic"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
+  },
+  {
     "id": "319453347545",
     "user_id": "846373427",
     "user_login": "seraphselkie",
@@ -37,7 +66,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "2500 Celebration! Tip-a-Thon day 2 Subnautica with others?! pokemons after !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 21,
+    "viewer_count": 20,
     "started_at": "2026-05-27T21:59:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -65,7 +94,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "The Hottest Eureka Zone 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 10,
+    "viewer_count": 7,
     "started_at": "2026-05-28T00:08:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -86,6 +115,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "319459650777",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Hero stuff bby",
+    "viewer_count": 4,
+    "started_at": "2026-05-28T02:38:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318778462044",
     "user_id": "938069605",
     "user_login": "cedarvt",
@@ -94,7 +143,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "Polymerization! :3  ~🍂 !discord !merch",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-05-28T01:03:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
@@ -109,26 +158,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319459650777",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Hero stuff bby",
-    "viewer_count": 2,
-    "started_at": "2026-05-28T02:38:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "319517199322",
