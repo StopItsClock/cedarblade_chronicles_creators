@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Yappin and raftin later ✧ !lurk !merch !throne !clip",
-    "viewer_count": 27,
+    "viewer_count": 24,
     "started_at": "2026-05-28T23:01:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "2500 Celebration! Tip-a-Thon day 3 hanging out then some MC !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 18,
+    "viewer_count": 17,
     "started_at": "2026-05-28T22:18:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "SHARING HEALTH to beat minecraft! | #starbyte | !hug !discord | @dazzlingoriel @shizukach @zachibee @xionfox",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-05-28T23:00:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -86,31 +86,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
-    "id": "319469248985",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "120777474",
-    "game_name": "Persona 5 Tactica",
-    "type": "live",
-    "title": "Time to be more of a tactical thief || Persona 5 Tactica (!lurk, !links,  !discord)",
-    "viewer_count": 7,
-    "started_at": "2026-05-28T20:57:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "319636340315",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -119,7 +94,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[MINECRAFT] Starbyte Against the world! Project Starbyte takes on Minecraft!",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-05-28T23:05:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -146,7 +121,7 @@
     "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
     "type": "live",
     "title": "[18+] How Long Before Horses Crash the Stream? [Crowd Control Modded Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-05-28T23:07:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -167,6 +142,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
+    "id": "319469248985",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "120777474",
+    "game_name": "Persona 5 Tactica",
+    "type": "live",
+    "title": "Time to be more of a tactical thief || Persona 5 Tactica (!lurk, !links,  !discord)",
+    "viewer_count": 6,
+    "started_at": "2026-05-28T20:57:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "316665443703",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -175,7 +175,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "BACK TO ELDEN RINGGGG",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-05-28T21:00:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -195,29 +195,49 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "315633567955",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "229772247",
-    "game_name": "007 First Light",
+    "id": "317918759767",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
     "type": "live",
-    "title": "No Spoilers. A British Cult Leader plays a 007 game for the first time!",
+    "title": "i wanna listen to music and yap <_<",
     "viewer_count": 3,
-    "started_at": "2026-05-28T17:53:24Z",
+    "started_at": "2026-05-28T23:43:17Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Vtuber",
-      "Nonbinary",
+      "vtuber",
       "English",
-      "LGBTQIAPlus",
-      "CultLeader",
-      "DropsEnabled"
+      "Chaotic",
+      "Wolf",
+      "Crınge",
+      "soulsgames"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
+  },
+  {
+    "id": "318737303646",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 12 - Squad T-1236 - Downtime",
+    "viewer_count": 2,
+    "started_at": "2026-05-28T22:30:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "319636195035",
@@ -247,25 +267,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "318737303646",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 12 - Squad T-1236 - Downtime",
-    "viewer_count": 2,
-    "started_at": "2026-05-28T22:30:41Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
