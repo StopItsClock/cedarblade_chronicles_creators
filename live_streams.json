@@ -1,30 +1,5 @@
 [
   {
-    "id": "319469248985",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "120777474",
-    "game_name": "Persona 5 Tactica",
-    "type": "live",
-    "title": "Time to be more of a tactical thief || Persona 5 Tactica (!lurk, !links,  !discord)",
-    "viewer_count": 6,
-    "started_at": "2026-05-28T20:57:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "315633567955",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -50,6 +25,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
+    "id": "319469248985",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "120777474",
+    "game_name": "Persona 5 Tactica",
+    "type": "live",
+    "title": "Time to be more of a tactical thief || Persona 5 Tactica (!lurk, !links,  !discord)",
+    "viewer_count": 6,
+    "started_at": "2026-05-28T20:57:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "316665443703",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -58,7 +58,7 @@
     "game_name": "Subnautica 2",
     "type": "live",
     "title": "SUBNAUTICA 2 PT 4 The End??",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-05-28T21:00:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
