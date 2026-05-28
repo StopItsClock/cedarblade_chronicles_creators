@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Yappin and raftin later ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 24,
     "started_at": "2026-05-28T23:01:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "2500 Celebration! Tip-a-Thon day 3 hanging out then some MC !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 18,
+    "viewer_count": 17,
     "started_at": "2026-05-28T22:18:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -55,34 +55,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
-  },
-  {
-    "id": "318737730142",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "yap maxing~ LAST STREAM BEFORE DEBUT!!!!!- !discord !lurk !pp !stinky !brat",
-    "viewer_count": 12,
-    "started_at": "2026-05-28T22:59:12Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "ENGLISH",
-      "Vtuber",
-      "brat",
-      "twinkmaxxing",
-      "yappingstreamer",
-      "newVTuber",
-      "English",
-      "Gremlin"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   },
   {
     "id": "319531102554",
@@ -114,33 +86,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
-    "id": "318789321436",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "1050003477",
-    "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
+    "id": "319636340315",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "27471",
+    "game_name": "Minecraft",
     "type": "live",
-    "title": "[18+] How Long Before Horses Crash the Stream? [Crowd Control Modded Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 7,
-    "started_at": "2026-05-28T23:07:38Z",
+    "title": "[MINECRAFT] Starbyte Against the world! Project Starbyte takes on Minecraft!",
+    "viewer_count": 8,
+    "started_at": "2026-05-28T23:05:48Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "girl",
-      "LGBT",
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
       "English",
-      "Canadian",
-      "Skyrim",
-      "CrowdControl",
-      "CrowdControlActivated",
-      "DagothUr"
+      "Japanese"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
     "id": "319469248985",
@@ -196,31 +166,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "319636340315",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "27471",
-    "game_name": "Minecraft",
+    "id": "318789321436",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "1050003477",
+    "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
     "type": "live",
-    "title": "[MINECRAFT] Starbyte Against the world! Project Starbyte takes on Minecraft!",
-    "viewer_count": 4,
-    "started_at": "2026-05-28T23:05:48Z",
+    "title": "[18+] How Long Before Horses Crash the Stream? [Crowd Control Modded Skyrim] | !throne !socials !lurk !discord",
+    "viewer_count": 3,
+    "started_at": "2026-05-28T23:07:38Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
+      "Vtuber",
+      "ENVtuber",
+      "girl",
+      "LGBT",
       "English",
-      "Japanese"
+      "Canadian",
+      "Skyrim",
+      "CrowdControl",
+      "CrowdControlActivated",
+      "DagothUr"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
     "id": "315633567955",
@@ -246,26 +218,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
-    "id": "318737303646",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 12 - Squad T-1236 - Downtime",
-    "viewer_count": 2,
-    "started_at": "2026-05-28T22:30:41Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "319636195035",
@@ -295,5 +247,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "318737303646",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 12 - Squad T-1236 - Downtime",
+    "viewer_count": 2,
+    "started_at": "2026-05-28T22:30:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
