@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ HorrorCrafting time time to cry and fly ✧ !lurk !merch !throne !clip",
-    "viewer_count": 29,
+    "viewer_count": 26,
     "started_at": "2026-05-27T23:09:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Phoenix Wright: Ace Attorney Trilogy",
     "type": "live",
     "title": "[18+] Lawyer Vtuber = Mommy-in-Law [Phoenix Wright: Trials and Tribulations] | !throne !socials !lurk !discord",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-05-27T22:01:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -143,6 +143,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
+    "id": "316659231223",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "417749",
+    "game_name": "Tabletop Simulator",
+    "type": "live",
+    "title": "Hearts for Women's Healthcare |!donate| ultimate mayhem",
+    "viewer_count": 2,
+    "started_at": "2026-05-27T22:52:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "EN",
+      "ElfVTuber",
+      "Elf",
+      "smallstream",
+      "ADHD",
+      "English",
+      "CharityStream"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
     "id": "319515987802",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -170,32 +197,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "316659231223",
-    "user_id": "574560089",
-    "user_login": "kayvender",
-    "user_name": "kayvender",
-    "game_id": "417749",
-    "game_name": "Tabletop Simulator",
-    "type": "live",
-    "title": "Hearts for Women's Healthcare |!donate| ultimate mayhem",
-    "viewer_count": 2,
-    "started_at": "2026-05-27T22:52:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "EN",
-      "ElfVTuber",
-      "Elf",
-      "smallstream",
-      "ADHD",
-      "English",
-      "CharityStream"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
