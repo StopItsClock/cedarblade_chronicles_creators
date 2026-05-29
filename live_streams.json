@@ -7,8 +7,8 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "\u2727 Yappin and raftin later \u2727 !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "title": "✧ Yappin and raftin later ✧ !lurk !merch !throne !clip",
+    "viewer_count": 25,
     "started_at": "2026-05-28T23:01:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -57,33 +57,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
   },
   {
-    "id": "319636340315",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[MINECRAFT] Starbyte Against the world! Project Starbyte takes on Minecraft!",
-    "viewer_count": 12,
-    "started_at": "2026-05-28T23:05:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
     "id": "319531102554",
     "user_id": "686234820",
     "user_login": "miyuwanchan",
@@ -111,6 +84,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
+  },
+  {
+    "id": "319636340315",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[MINECRAFT] Starbyte Against the world! Project Starbyte takes on Minecraft!",
+    "viewer_count": 10,
+    "started_at": "2026-05-28T23:05:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
     "id": "318789321436",
@@ -142,6 +142,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
+    "id": "319469248985",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "120777474",
+    "game_name": "Persona 5 Tactica",
+    "type": "live",
+    "title": "Time to be more of a tactical thief || Persona 5 Tactica (!lurk, !links,  !discord)",
+    "viewer_count": 6,
+    "started_at": "2026-05-28T20:57:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "316665443703",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -170,31 +195,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "319469248985",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "120777474",
-    "game_name": "Persona 5 Tactica",
-    "type": "live",
-    "title": "Time to be more of a tactical thief || Persona 5 Tactica (!lurk, !links,  !discord)",
-    "viewer_count": 6,
-    "started_at": "2026-05-28T20:57:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "319636195035",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -203,7 +203,7 @@
     "game_name": "LEGO Batman: Legacy of the Dark Knight",
     "type": "live",
     "title": "[18+] Alfred where is my yuri? | Lego Batman: Legacy of the Dark Knight | !lurk !throne !tip !discord",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-05-28T23:00:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -242,7 +242,7 @@
       "English",
       "Chaotic",
       "Wolf",
-      "Cr\u0131nge",
+      "Crınge",
       "soulsgames"
     ],
     "is_mature": false,
