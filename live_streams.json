@@ -8,7 +8,7 @@
     "game_name": "Raft",
     "type": "live",
     "title": "✧ Extreme raft makeover edition ✧ !lurk !merch !throne !clip",
-    "viewer_count": 34,
+    "viewer_count": 33,
     "started_at": "2026-05-28T23:01:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Pokémon XD: Gale of Darkness",
     "type": "live",
     "title": "[18+] Gaming until chat tells me Im their favorite streamer ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 21,
+    "viewer_count": 19,
     "started_at": "2026-05-29T01:03:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -56,33 +56,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
-  },
-  {
-    "id": "315955052273",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "513181",
-    "game_name": "Genshin Impact",
-    "type": "live",
-    "title": "Starting Nod Krai this time fr [!lurk !discord !clip]",
-    "viewer_count": 17,
-    "started_at": "2026-05-29T00:28:12Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
     "id": "319530263130",
@@ -121,7 +94,7 @@
     "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
     "type": "live",
     "title": "[18+] How Long Before Horses Crash the Stream? [Crowd Control Modded Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 15,
+    "viewer_count": 17,
     "started_at": "2026-05-28T23:07:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -140,6 +113,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
+    "id": "315955052273",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "513181",
+    "game_name": "Genshin Impact",
+    "type": "live",
+    "title": "Starting Nod Krai this time fr [!lurk !discord !clip]",
+    "viewer_count": 16,
+    "started_at": "2026-05-29T00:28:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
     "id": "319469248985",
@@ -175,7 +175,7 @@
     "game_name": "HELLDIVERS 2",
     "type": "live",
     "title": "It's Super Sonic RACIN! (Sonic Racing Crossworlds)",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-05-29T01:22:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -223,6 +223,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/58e2d504-313d-41b3-bb76-5362dac77fd7-profile_image-300x300.png"
   },
   {
+    "id": "318737303646",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 12 - Squad T-1236 - Downtime",
+    "viewer_count": 2,
+    "started_at": "2026-05-28T22:30:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "319636195035",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -250,26 +270,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "318737303646",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 12 - Squad T-1236 - Downtime",
-    "viewer_count": 2,
-    "started_at": "2026-05-28T22:30:41Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "319640390235",
