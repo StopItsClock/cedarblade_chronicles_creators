@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Building a kingdom ✧ !lurk !merch !throne !clip",
-    "viewer_count": 33,
+    "viewer_count": 29,
     "started_at": "2026-05-29T22:59:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Date Everything!",
     "type": "live",
     "title": "【18+】Eldritch Goons Everything ✸Date Everything Stream✸",
-    "viewer_count": 17,
+    "viewer_count": 13,
     "started_at": "2026-05-30T01:07:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "Fighting Streamers Then Fighting My Demons 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-05-29T20:58:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -114,31 +114,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
-  },
-  {
-    "id": "318806590684",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Back from momocon and E-girl times are upon us",
-    "viewer_count": 3,
-    "started_at": "2026-05-30T03:07:36Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
