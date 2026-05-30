@@ -7,8 +7,8 @@
     "game_id": "226996866",
     "game_name": "is this seat taken?",
     "type": "live",
-    "title": "COSMIC PLAYS! Bird brain vs. Puzzle game! \u2307 18+ \u2307 !discord !social",
-    "viewer_count": 8,
+    "title": "COSMIC PLAYS! Bird brain vs. Puzzle game! ⌇ 18+ ⌇ !discord !social",
+    "viewer_count": 9,
     "started_at": "2026-05-30T21:00:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Ys VIII: Lacrimosa of Dana",
     "type": "live",
     "title": "I'm trapped on this island, lets find people|| YS VIII: Lacrimosa of Dana (!lurk, !links,  !discord)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-05-30T20:59:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -52,6 +52,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "319505127001",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "starfastwolf",
+    "game_id": "511224",
+    "game_name": "Apex Legends",
+    "type": "live",
+    "title": "starting off with rivals then going to apex legend later",
+    "viewer_count": 2,
+    "started_at": "2026-05-30T19:32:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "18plusstream",
+      "chill",
+      "Rerun",
+      "forza",
+      "forzahorizon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   },
   {
     "id": "318891458784",
@@ -74,31 +100,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
-  },
-  {
-    "id": "319505127001",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "511224",
-    "game_name": "Apex Legends",
-    "type": "live",
-    "title": "starting off with rivals then going to apex legend later",
-    "viewer_count": 1,
-    "started_at": "2026-05-30T19:32:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "18plusstream",
-      "chill",
-      "Rerun",
-      "forza",
-      "forzahorizon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
