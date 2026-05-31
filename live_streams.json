@@ -8,7 +8,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "Balding gates episode no idea (BG3 w/ @regina_kardinal)",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-05-31T19:20:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -53,5 +53,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
+    "id": "315700691562",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Infinity's Paradox Debut! [18+] [!discord] [!dubby] [!merch]",
+    "viewer_count": 0,
+    "started_at": "2026-05-31T21:00:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NewZealand",
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   }
 ]
