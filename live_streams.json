@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "₊✩‧₊˚౨ 1.0 DEBUT STREAMৎ˚₊✩‧₊ ~ welcome to my treehouse <3 | !discord !lurk",
-    "viewer_count": 27,
+    "viewer_count": 30,
     "started_at": "2026-05-30T22:58:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -63,7 +63,7 @@
     "game_name": "SUPER ROBOT WARS Y",
     "type": "live",
     "title": "[18+] Crashing out on the Ideon (gone wrong) | Super Robot Wars Y | !lurk !throne !tip !discord",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-05-30T23:00:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -155,5 +155,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
+    "id": "318893967200",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "582430476",
+    "game_name": "Far Far West",
+    "type": "live",
+    "title": "Cowboys and Angels (Far Far West w/ @psysly_dvlmn @syrin_the_mermaid and @kiba_safir)",
+    "viewer_count": 0,
+    "started_at": "2026-05-31T00:00:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "ac130",
+      "jetengine",
+      "Vtuber",
+      "prismmodel",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   }
 ]
