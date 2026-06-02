@@ -8,7 +8,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "✧ Becoming tiny lil guys ✧ !lurk !merch !throne !clip",
-    "viewer_count": 23,
+    "viewer_count": 22,
     "started_at": "2026-06-01T22:59:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] I'm in a very Chinese time of my life | DOTW + Limbus | !lurk !throne !tip !discord",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-06-01T23:00:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Slay the Spire II",
     "type": "live",
     "title": "Yapping -> STS2  🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-06-01T23:20:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Terraria",
     "type": "live",
     "title": "Let us prepare to fight a devourer of small gods|| Terraria (!lurk, !links,  !discord)",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-06-01T20:59:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -140,6 +140,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
+    "id": "319547854297",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Hero struggles",
+    "viewer_count": 2,
+    "started_at": "2026-06-02T01:05:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319608021594",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -166,25 +186,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "319547854297",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Hero struggles",
-    "viewer_count": 1,
-    "started_at": "2026-06-02T01:05:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
