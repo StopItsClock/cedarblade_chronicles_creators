@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "CAIN Session 0 - A Tavern of Tales",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-06-02T19:26:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
@@ -47,34 +47,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   },
   {
-    "id": "317284856408",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "ELDEN RING WE WILL FIND THE MEETING PLACE",
-    "viewer_count": 4,
-    "started_at": "2026-06-02T21:08:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "Cozy",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "goth",
-      "eldenring"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
     "id": "318858257244",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -96,10 +68,39 @@
       "VTuberUprising",
       "dragonvtuber",
       "undeadvtuber",
-      "Horror"
+      "Horror",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
+    "id": "317284856408",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "ELDEN RING WE WILL FIND THE MEETING PLACE",
+    "viewer_count": 2,
+    "started_at": "2026-06-02T21:08:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "Cozy",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "eldenring"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
     "id": "315687895657",
@@ -110,7 +111,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "more ATM10! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-06-02T21:00:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
