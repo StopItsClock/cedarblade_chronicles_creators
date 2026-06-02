@@ -1,25 +1,5 @@
 [
   {
-    "id": "318857768540",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN Session 0 - A Tavern of Tales",
-    "viewer_count": 7,
-    "started_at": "2026-06-02T19:26:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "317284856408",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -48,6 +28,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
+    "id": "318857768540",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN Session 0 - A Tavern of Tales",
+    "viewer_count": 5,
+    "started_at": "2026-06-02T19:26:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "316702643063",
     "user_id": "265674058",
     "user_login": "skyla_skydancer",
@@ -56,7 +56,7 @@
     "game_name": "Pokémon Scarlet/Violet",
     "type": "live",
     "title": "Living Dex Professor Oak !discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-06-02T21:21:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -83,7 +83,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "more ATM10! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-06-02T21:00:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
