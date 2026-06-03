@@ -7,7 +7,7 @@
     "game_id": "1813168901",
     "game_name": "LEGO Batman: Legacy of the Dark Knight",
     "type": "live",
-    "title": "\u2727 Batghost returns!!! \u2727 !lurk !merch !throne !clip",
+    "title": "✧ Batghost returns!!! ✧ !lurk !merch !throne !clip",
     "viewer_count": 23,
     "started_at": "2026-06-02T23:06:16Z",
     "language": "en",
@@ -36,8 +36,8 @@
     "game_id": "107194810",
     "game_name": "Phoenix Wright: Ace Attorney Trilogy",
     "type": "live",
-    "title": "[18+] Wrightworth Wedding Bells \ud83d\udd4a\ufe0f [Phoenix Wright: Trials and Tribulations] | !throne !socials !lurk !discord",
-    "viewer_count": 10,
+    "title": "[18+] Wrightworth Wedding Bells 🕊️ [Phoenix Wright: Trials and Tribulations] | !throne !socials !lurk !discord",
+    "viewer_count": 13,
     "started_at": "2026-06-02T22:50:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -91,7 +91,7 @@
     "user_login": "skyla_skydancer",
     "user_name": "Skyla_SkyDancer",
     "game_id": "670867987",
-    "game_name": "Pok\u00e9mon Scarlet/Violet",
+    "game_name": "Pokémon Scarlet/Violet",
     "type": "live",
     "title": "Living Dex Professor Oak !discord",
     "viewer_count": 7,
@@ -199,6 +199,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "318808486366",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "511224",
+    "game_name": "Apex Legends",
+    "type": "live",
+    "title": "I got dragged into playing this game",
+    "viewer_count": 1,
+    "started_at": "2026-06-02T23:24:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
     "id": "319621656666",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -223,30 +248,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
-    "id": "318808486366",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "511224",
-    "game_name": "Apex Legends",
-    "type": "live",
-    "title": "I got dragged into playing this game",
-    "viewer_count": 1,
-    "started_at": "2026-06-02T23:24:50Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
