@@ -24,31 +24,27 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/935b46b5-7040-4e16-babd-260a3118d354-profile_image-300x300.png"
   },
   {
-    "id": "316881167202",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
+    "id": "316905220836",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "479862517",
+    "game_name": "Dragon Quest XI: Echoes of an Elusive Age",
     "type": "live",
-    "title": "BIRTHDAY DONOTHON! SPOOKIES | 18+ | !fishcord !kofi !throne",
+    "title": "Starting my first real Dragon Quest game",
     "viewer_count": 4,
-    "started_at": "2026-06-03T18:14:10Z",
+    "started_at": "2026-06-03T19:44:47Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Vtuber",
-      "BritishStreamer",
+      "Pirate",
       "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "Transgender",
-      "PrideMonth"
+      "Penguin",
+      "Vtuber"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "319574167769",
@@ -59,7 +55,7 @@
     "game_name": "Crashout Crew",
     "type": "live",
     "title": "{ENVTuber 18+} We're crashing out!! w/ @calmarvt @onetruemink @azureaetherium | !socials !discord !lurk",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-06-03T18:59:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
@@ -74,28 +70,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/208e0fbd-6621-40f5-8524-51726b841ee6-profile_image-300x300.png"
-  },
-  {
-    "id": "316905220836",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "479862517",
-    "game_name": "Dragon Quest XI: Echoes of an Elusive Age",
-    "type": "live",
-    "title": "Starting my first real Dragon Quest game",
-    "viewer_count": 2,
-    "started_at": "2026-06-03T19:44:47Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
