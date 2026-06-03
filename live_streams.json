@@ -8,7 +8,7 @@
     "game_name": "LEGO Batman: Legacy of the Dark Knight",
     "type": "live",
     "title": "✧ Batghost returns!!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 38,
+    "viewer_count": 36,
     "started_at": "2026-06-02T23:06:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Luna Abyss",
     "type": "live",
     "title": "[18+] MOONS HAUNTED  #lunaabyss #KeyMailer ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 23,
+    "viewer_count": 21,
     "started_at": "2026-06-03T00:16:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "MOTORSLICE",
     "type": "live",
     "title": "『Motorslice』I am Directionally Challenged || !discord !essay !hmo !idea 『18+』",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-06-03T03:14:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leyonlagure-{width}x{height}.jpg",
@@ -84,26 +84,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9b36daa-7868-4427-9e37-14f809ee9dcf-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319732035163",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "Hero struggles2",
-    "viewer_count": 1,
-    "started_at": "2026-06-03T02:13:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
