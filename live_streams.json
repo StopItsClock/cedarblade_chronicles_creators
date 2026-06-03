@@ -8,7 +8,7 @@
     "game_name": "LEGO Batman: Legacy of the Dark Knight",
     "type": "live",
     "title": "✧ Batghost returns!!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 39,
     "started_at": "2026-06-02T23:06:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Luna Abyss",
     "type": "live",
     "title": "[18+] MOONS HAUNTED  #lunaabyss #KeyMailer ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 22,
+    "viewer_count": 24,
     "started_at": "2026-06-03T00:16:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "more ATM10! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-06-02T21:00:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -116,6 +116,27 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
+    "id": "319732035163",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "Hero struggles2",
+    "viewer_count": 1,
+    "started_at": "2026-06-03T02:13:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318862274652",
     "user_id": "39084354",
     "user_login": "enigmaticslime",
@@ -124,7 +145,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "A slimy first ever sub-a-thon; Day 2 I still have no idea what I'm doing: Electric Boogaloo.",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-06-03T00:15:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enigmaticslime-{width}x{height}.jpg",
@@ -143,25 +164,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35a9b99d-c953-4959-b2f0-db5a134e5b5d-profile_image-300x300.png"
-  },
-  {
-    "id": "319732035163",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "Hero struggles2",
-    "viewer_count": 1,
-    "started_at": "2026-06-03T02:13:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
