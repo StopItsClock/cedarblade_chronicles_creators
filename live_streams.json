@@ -8,7 +8,7 @@
     "game_name": "Phasmophobia",
     "type": "live",
     "title": "BIRTHDAY DONOTHON! SPOOKIES | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-06-03T18:14:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -25,5 +25,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "317348976615",
+    "user_id": "585602924",
+    "user_login": "cyberdragonvt",
+    "user_name": "CyberDragonVT",
+    "game_id": "518184",
+    "game_name": "Phasmophobia",
+    "type": "live",
+    "title": "Kara Bday Collab! featuring Kantha and Lepi    Pushing for affiliate",
+    "viewer_count": 1,
+    "started_at": "2026-06-03T18:44:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cyberdragonvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "LGBTQ",
+      "Trans",
+      "homoflexible"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63054ac4-011a-47f7-aaef-9e6049b5f974-profile_image-300x300.png"
   }
 ]
