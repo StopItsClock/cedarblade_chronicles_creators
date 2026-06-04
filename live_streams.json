@@ -8,7 +8,7 @@
     "game_name": "Dokapon Kingdom: Connect",
     "type": "live",
     "title": "[18+] No Mercy Mario Party 💀🎲 w/ @nokoadragon @seraphselkie & @asteriawynter [Dokapon Kingdom Connect] | !throne !socials !lurk !discord",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-06-04T20:59:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -54,6 +54,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
+    "id": "318000708311",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "1081045825",
+    "game_name": "ON THY KNEES",
+    "type": "live",
+    "title": "INDE HORROR GAME SPREEEE",
+    "viewer_count": 6,
+    "started_at": "2026-06-04T21:03:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "horrorgames",
+      "Horror",
+      "itchio"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
     "id": "315714416106",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -81,34 +110,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "318000708311",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "1081045825",
-    "game_name": "ON THY KNEES",
-    "type": "live",
-    "title": "INDE HORROR GAME SPREEEE",
-    "viewer_count": 4,
-    "started_at": "2026-06-04T21:03:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "goth",
-      "horrorgames",
-      "Horror",
-      "itchio"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   }
 ]
