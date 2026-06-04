@@ -8,7 +8,7 @@
     "game_name": "Bus Bound",
     "type": "live",
     "title": "✧ PUT YOUR SEAT BELTS ON ITS TIME TO DRIVE!!! Ty Saber interactive for the key! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
+    "viewer_count": 32,
     "started_at": "2026-06-03T23:07:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "2500 Celebration! Tip-a-Thon day 5   Pokemannnssss! !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 15,
+    "viewer_count": 17,
     "started_at": "2026-06-03T23:37:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -121,7 +121,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "The Final Frontier 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-06-03T23:34:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -198,31 +198,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35a9b99d-c953-4959-b2f0-db5a134e5b5d-profile_image-300x300.png"
-  },
-  {
-    "id": "319576676569",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "1982936547",
-    "game_name": "Pokémon",
-    "type": "live",
-    "title": "Gotta get up that Mountain!! || Pokemon Unbound!!",
-    "viewer_count": 1,
-    "started_at": "2026-06-03T22:07:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pokemon",
-      "FirstaPlayThrough",
-      "fangame",
-      "Romhack",
-      "PokemonUnbound"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   }
 ]
