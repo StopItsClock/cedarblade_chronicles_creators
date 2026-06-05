@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "【18+】Eldritch Horror Draws Busty VTubers AND Watching Vids ✸Art n Yapapapa Stream✸",
-    "viewer_count": 23,
+    "viewer_count": 18,
     "started_at": "2026-06-05T01:35:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -29,33 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "315995802994",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "513181",
-    "game_name": "Genshin Impact",
-    "type": "live",
-    "title": "I need Lohen now [!lurk !discord !clip]",
-    "viewer_count": 15,
-    "started_at": "2026-06-05T00:29:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
-  },
-  {
     "id": "319763536731",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -64,7 +37,7 @@
     "game_name": "PowerWash Simulator",
     "type": "live",
     "title": "[Powerwash Simulator] Powerwashing with Pals: AlectoEumenid Edition!",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-06-05T00:58:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -110,5 +83,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "315987480945",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "513181",
+    "game_name": "Genshin Impact",
+    "type": "live",
+    "title": "I need Lohen now [!lurk !discord !clip]",
+    "viewer_count": 4,
+    "started_at": "2026-06-05T03:26:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   }
 ]
