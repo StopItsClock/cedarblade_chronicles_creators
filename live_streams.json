@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "IT'S MY BIRTHDAY COME SAY HI",
-    "viewer_count": 0,
+    "viewer_count": 15,
     "started_at": "2026-06-05T17:23:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
@@ -17,7 +17,8 @@
       "Voiceacting",
       "Backseating",
       "Vtuber",
-      "English"
+      "English",
+      "ViewerRewards"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
