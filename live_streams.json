@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "【18+】Eldritch Horror Draws Busty VTubers ✸Art n Yapapapa Stream✸",
-    "viewer_count": 17,
+    "viewer_count": 16,
     "started_at": "2026-06-05T01:35:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Your Only Move Is HUSTLE",
     "type": "live",
     "title": "The cookie smokes the fish in Yomi Hustle (Your Only Move Is Hustle w/ @snickerdoodle_demon)",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-06-04T23:53:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Genshin Impact",
     "type": "live",
     "title": "I need Lohen now [!lurk !discord !clip]",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-06-05T00:29:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -140,26 +140,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "319762826075",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "ELDEN RING STREAMMMMMMMMMMMM {Road to affiliate}",
-    "viewer_count": 3,
-    "started_at": "2026-06-05T00:27:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
     "id": "315714416106",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -187,5 +167,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "319762826075",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "ELDEN RING STREAMMMMMMMMMMMM {Road to affiliate}",
+    "viewer_count": 2,
+    "started_at": "2026-06-05T00:27:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
