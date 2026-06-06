@@ -7,7 +7,7 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "✧ Watching the backrooms! (YT series) ✧ !lurk !merch !throne !clip",
+    "title": "\u2727 Watching the backrooms! (YT series) \u2727 !lurk !merch !throne !clip",
     "viewer_count": 33,
     "started_at": "2026-06-05T20:36:14Z",
     "language": "en",
@@ -27,6 +27,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
+  },
+  {
+    "id": "318903644252",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "1050003477",
+    "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
+    "type": "live",
+    "title": "[18+] WEDDING CRASHERS -- Honse Edition! \ud83d\udc34 [Crowd Control Skyrim] | !throne !socials !lurk !discord",
+    "viewer_count": 18,
+    "started_at": "2026-06-05T23:22:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "LGBTQFriendly",
+      "Skyrim",
+      "CrowdControl",
+      "CrowdControlActivated"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
     "id": "319674683226",
@@ -58,35 +87,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
-    "id": "318903644252",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "1050003477",
-    "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
-    "type": "live",
-    "title": "[18+] WEDDING CRASHERS -- Honse Edition! 🐴 [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 10,
-    "started_at": "2026-06-05T23:22:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "girl",
-      "LGBT",
-      "English",
-      "Canadian",
-      "LGBTQFriendly",
-      "Skyrim",
-      "CrowdControl",
-      "CrowdControlActivated"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
     "id": "319670655194",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -94,8 +94,8 @@
     "game_id": "21779",
     "game_name": "League of Legends",
     "type": "live",
-    "title": "Suns Out Guns Out, MF Save Me!!! 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 7,
+    "title": "Suns Out Guns Out, MF Save Me!!! \ud83e\uddca !Discord !Socials !Pine \ud83c\udf67 @frostedplague7",
+    "viewer_count": 8,
     "started_at": "2026-06-05T22:18:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -172,6 +172,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
+    "id": "317308253528",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "1840896223",
+    "game_name": "REANIMAL",
+    "type": "live",
+    "title": "Help us find our friends W/ @rams404vt",
+    "viewer_count": 4,
+    "started_at": "2026-06-05T21:53:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
+  },
+  {
     "id": "319781470939",
     "user_id": "232460847",
     "user_login": "theomenclature",
@@ -190,31 +215,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
-    "id": "317308253528",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "1840896223",
-    "game_name": "REANIMAL",
-    "type": "live",
-    "title": "Help us find our friends W/ @rams404vt",
-    "viewer_count": 3,
-    "started_at": "2026-06-05T21:53:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   },
   {
     "id": "319779077211",
@@ -271,32 +271,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "319779274075",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cobbleverse smp server opening",
-    "viewer_count": 1,
-    "started_at": "2026-06-05T22:54:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "18plusstream",
-      "chill",
-      "Rerun",
-      "forza",
-      "forzahorizon",
-      "ViewerRewards"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
