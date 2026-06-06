@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "✧ Watching the backrooms! (YT series) ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 33,
     "started_at": "2026-06-05T20:36:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Jackbox Party Packs",
     "type": "live",
     "title": "IT'S MY BIRTHDAY COME SAY HI",
-    "viewer_count": 13,
+    "viewer_count": 14,
     "started_at": "2026-06-05T17:23:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
@@ -60,7 +60,7 @@
     "game_name": "Two Point Museum",
     "type": "live",
     "title": "COSMIC PLAYS! One day late to my Affiliate anniversary LOL ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-06-05T21:29:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -89,7 +89,7 @@
     "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
     "type": "live",
     "title": "[18+] WEDDING CRASHERS -- Honse Edition! 🐴 [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-06-05T23:22:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -118,7 +118,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "Suns Out Guns Out, MF Save Me!!! 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-06-05T22:18:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -147,7 +147,7 @@
     "game_name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
     "type": "live",
     "title": "CRAWLING IN MY SURVIVOR, THESE VAMPIRES I CANNOT SLAY | !Clip",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-06-05T23:17:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -221,6 +221,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/899603d3-13f0-4c2f-aa15-ed43e9a3c36e-profile_image-300x300.png"
   },
   {
+    "id": "319781470939",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
+    "type": "live",
+    "title": "I swear i am not only an Elden ring streams.  ELDEN RING NR with @somanella & @slimechemist {Road to affiliate}",
+    "viewer_count": 3,
+    "started_at": "2026-06-06T00:21:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "319779274075",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -273,25 +293,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
-  },
-  {
-    "id": "319781470939",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "982348888",
-    "game_name": "ELDEN RING NIGHTREIGN",
-    "type": "live",
-    "title": "I swear i am not only an Elden ring streams.  ELDEN RING NR with @somanella & @slimechemist {Road to affiliate}",
-    "viewer_count": 1,
-    "started_at": "2026-06-06T00:21:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
