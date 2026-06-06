@@ -8,7 +8,7 @@
     "game_name": "Warframe",
     "type": "live",
     "title": "✧ Ghosties first Warframe playthrough - 10 hr stream ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 23,
     "started_at": "2026-06-06T21:00:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Super Mario Sunshine",
     "type": "live",
     "title": "starting sunshine and dealing with the consequences.",
-    "viewer_count": 7,
+    "viewer_count": 11,
     "started_at": "2026-06-06T17:39:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -61,7 +61,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "Elden ring LETS GET SMARTER",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-06-06T21:04:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -81,33 +81,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "318075468406",
-    "user_id": "1275381753",
-    "user_login": "mimiluna2",
-    "user_name": "MimiLuna2",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "PEAK time! with @winglyss",
-    "viewer_count": 3,
-    "started_at": "2026-06-06T20:01:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ADHD",
-      "Latina",
-      "LGBTQIAPIus",
-      "spanish",
-      "chill",
-      "Español",
-      "Inglés"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
-  },
-  {
     "id": "319798765659",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -116,7 +89,7 @@
     "game_name": "Persona 5 Tactica",
     "type": "live",
     "title": "We need to save the rest of our friends!!!|| Persona 5 Tactica(!lurk, !links,  !discord)",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-06-06T20:59:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -133,26 +106,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
-    "id": "318991124064",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "83175946",
-    "game_name": "Habilis",
+    "id": "318075468406",
+    "user_id": "1275381753",
+    "user_login": "mimiluna2",
+    "user_name": "MimiLuna2",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
     "type": "live",
-    "title": "Checking out Habilis!",
-    "viewer_count": 1,
-    "started_at": "2026-06-06T20:59:06Z",
+    "title": "PEAK time! with @winglyss",
+    "viewer_count": 2,
+    "started_at": "2026-06-06T20:01:27Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "English",
-      "VTuber",
-      "lgbtq"
+      "ADHD",
+      "Latina",
+      "LGBTQIAPIus",
+      "spanish",
+      "chill",
+      "Español",
+      "Inglés"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   },
   {
     "id": "319629393881",
@@ -179,5 +157,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+  },
+  {
+    "id": "318991124064",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "83175946",
+    "game_name": "Habilis",
+    "type": "live",
+    "title": "Checking out Habilis!",
+    "viewer_count": 1,
+    "started_at": "2026-06-06T20:59:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
