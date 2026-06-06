@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "✧ Watching the backrooms! (YT series) ✧ !lurk !merch !throne !clip",
-    "viewer_count": 37,
+    "viewer_count": 39,
     "started_at": "2026-06-05T20:36:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "SUBSUMED",
     "type": "live",
     "title": "holes? holes anyone? we love holes! | !hug !merch",
-    "viewer_count": 21,
+    "viewer_count": 19,
     "started_at": "2026-06-06T00:59:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -56,6 +56,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
+  },
+  {
+    "id": "319670655194",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "21779",
+    "game_name": "League of Legends",
+    "type": "live",
+    "title": "Suns Out Guns Out, MF Save Me!!! 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
+    "viewer_count": 9,
+    "started_at": "2026-06-05T22:18:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
     "id": "318979060576",
@@ -86,35 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "319670655194",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "21779",
-    "game_name": "League of Legends",
-    "type": "live",
-    "title": "Suns Out Guns Out, MF Save Me!!! 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 8,
-    "started_at": "2026-06-05T22:18:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "Hispanic",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
     "id": "319779655259",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -142,25 +142,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "319781470939",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "982348888",
-    "game_name": "ELDEN RING NIGHTREIGN",
-    "type": "live",
-    "title": "I swear i am not only an Elden ring streams.  ELDEN RING NR with @somanella & @slimechemist {Road to affiliate}",
-    "viewer_count": 3,
-    "started_at": "2026-06-06T00:21:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
