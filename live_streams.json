@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "✧ Watching the backrooms! (YT series) ✧ !lurk !merch !throne !clip",
-    "viewer_count": 36,
+    "viewer_count": 35,
     "started_at": "2026-06-05T20:36:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "Suns Out Guns Out, MF Save Me!!! 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 9,
+    "viewer_count": 12,
     "started_at": "2026-06-05T22:18:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Devil May Cry 3: Dante's Awakening",
     "type": "live",
     "title": "Nana will cry but devil may? (Devil may cry 3 pt.3)",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-06-06T00:38:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -115,54 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "318850436318",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "1958242832",
-    "game_name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
-    "type": "live",
-    "title": "CRAWLING IN MY SURVIVOR, THESE VAMPIRES I CANNOT SLAY | !Clip",
-    "viewer_count": 6,
-    "started_at": "2026-06-05T23:17:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers",
-      "CloacaKing"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319781470939",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "982348888",
-    "game_name": "ELDEN RING NIGHTREIGN",
-    "type": "live",
-    "title": "I swear i am not only an Elden ring streams.  ELDEN RING NR with @somanella & @slimechemist {Road to affiliate}",
-    "viewer_count": 4,
-    "started_at": "2026-06-06T00:21:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
     "id": "319779655259",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -171,7 +123,7 @@
     "game_name": "Hollow Knight: Silksong",
     "type": "live",
     "title": "[18+] When does the iconic silk song play | Hollow Knight: Silksong | !lurk !throne !tip !discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-06-05T23:03:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -190,5 +142,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "319781470939",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
+    "type": "live",
+    "title": "I swear i am not only an Elden ring streams.  ELDEN RING NR with @somanella & @slimechemist {Road to affiliate}",
+    "viewer_count": 3,
+    "started_at": "2026-06-06T00:21:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
