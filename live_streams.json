@@ -8,7 +8,7 @@
     "game_name": "Lethal Company",
     "type": "live",
     "title": "[18+] REDEBUT STREAM AAA - NEW UPDATED RIG 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 21,
+    "viewer_count": 22,
     "started_at": "2026-06-06T17:43:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -26,6 +26,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
   },
   {
+    "id": "319794695003",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "6086",
+    "game_name": "Super Mario Sunshine",
+    "type": "live",
+    "title": "starting sunshine and dealing with the consequences.",
+    "viewer_count": 10,
+    "started_at": "2026-06-06T17:39:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Retro",
+      "ComfyCafe",
+      "eepy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
     "id": "316947737315",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -34,7 +58,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "LAST DAY OF BIRTHDAY SHARK WEEK! | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-06-06T16:00:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -53,30 +77,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
-    "id": "319794695003",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "6086",
-    "game_name": "Super Mario Sunshine",
-    "type": "live",
-    "title": "starting sunshine and dealing with the consequences.",
-    "viewer_count": 9,
-    "started_at": "2026-06-06T17:39:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Retro",
-      "ComfyCafe",
-      "eepy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
     "id": "318075468406",
     "user_id": "1275381753",
     "user_login": "mimiluna2",
@@ -85,7 +85,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "PEAK time! with @winglyss",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-06-06T20:01:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
