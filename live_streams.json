@@ -8,7 +8,7 @@
     "game_name": "Warframe",
     "type": "live",
     "title": "✧ Ghosties first Warframe playthrough - 10 hr stream ✧ !lurk !merch !throne !clip",
-    "viewer_count": 36,
+    "viewer_count": 37,
     "started_at": "2026-06-06T21:00:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Persona5: The Phantom X",
     "type": "live",
     "title": "Minato my boy, I need to get you [!lurk !discord !clip]",
-    "viewer_count": 8,
+    "viewer_count": 12,
     "started_at": "2026-06-06T23:56:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -63,7 +63,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "I Must Delete Vauthry From This Game 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-06-07T00:17:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -84,26 +84,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "319695358298",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "CHAT i might be an Elden ring streamer. {Road to affiliate}",
-    "viewer_count": 5,
-    "started_at": "2026-06-07T00:19:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
     "id": "318920439004",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -112,7 +92,7 @@
     "game_name": "Terraria",
     "type": "live",
     "title": "Exodus Can you believe it we are back! ( Terraria w/ @exodus_Vt)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-06-06T23:49:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -132,6 +112,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "319695358298",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "CHAT i might be an Elden ring streamer. {Road to affiliate}",
+    "viewer_count": 4,
+    "started_at": "2026-06-07T00:19:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "319693751642",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -140,7 +140,7 @@
     "game_name": "SUPER ROBOT WARS Y",
     "type": "live",
     "title": "[18+] It's been 84 years since we did Main Story content... | Super Robot Wars Y | !lurk !throne !tip !discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-06-06T23:00:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -159,6 +159,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "319636917977",
+    "user_id": "116714793",
+    "user_login": "marioairheart",
+    "user_name": "MarioAirheart",
+    "game_id": "1372121486",
+    "game_name": "Five Nights at Frickbear's 3",
+    "type": "live",
+    "title": "18+ | Ima kick Freddy in his Fazzballs | PC | Five Nights At Frickbears 3 | !CreatorClub !discord !Blacklyte !Nekomart",
+    "viewer_count": 3,
+    "started_at": "2026-06-07T01:02:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "VtuberEN",
+      "PNGtuberEN",
+      "Variety",
+      "English",
+      "VTuberUprising",
+      "18maturelanguage",
+      "feet"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
     "id": "319636520921",
@@ -187,5 +215,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
+  },
+  {
+    "id": "318867764190",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "1143686580",
+    "game_name": "Gamble With Your Friends",
+    "type": "live",
+    "title": "Gambling my rent money away so Keiser can pay it all.",
+    "viewer_count": 3,
+    "started_at": "2026-06-07T01:03:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Funny",
+      "Fun",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   }
 ]
