@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Omg a Slushie Sunday stream!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 39,
+    "viewer_count": 40,
     "started_at": "2026-06-07T23:05:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Wuthering Waves",
     "type": "live",
     "title": "Brithday week stream and yaps",
-    "viewer_count": 5,
+    "viewer_count": 10,
     "started_at": "2026-06-07T21:24:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
@@ -51,31 +51,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
-  },
-  {
-    "id": "318938467036",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "209738946",
-    "game_name": "Wuthering Waves",
-    "type": "live",
-    "title": "NEW UPDATE! Still trying to catch up... ^^'  :3  ~🍂 !discord !merch",
-    "viewer_count": 3,
-    "started_at": "2026-06-08T01:14:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   }
 ]
