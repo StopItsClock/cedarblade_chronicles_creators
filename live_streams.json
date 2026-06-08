@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ Omg a Slushie Sunday stream!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 33,
+    "viewer_count": 32,
     "started_at": "2026-06-07T23:05:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -49,10 +49,34 @@
       "Vtuber",
       "Funny",
       "Fun",
-      "English"
+      "English",
+      "Rerun"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "319819863003",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "209738946",
+    "game_name": "Wuthering Waves",
+    "type": "live",
+    "title": "Brithday week stream and yaps",
+    "viewer_count": 6,
+    "started_at": "2026-06-07T21:24:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "319826066139",
@@ -63,7 +87,7 @@
     "game_name": "Sky: Children of the Light",
     "type": "live",
     "title": "Regresando!! After 5 months of hiatus - June 7 [family]",
-    "viewer_count": 7,
+    "viewer_count": 5,
     "started_at": "2026-06-08T02:25:08Z",
     "language": "es",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloryettavt-{width}x{height}.jpg",
@@ -80,29 +104,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b32dec61-8a2f-4cb6-9907-435e90d82d8b-profile_image-300x300.png"
-  },
-  {
-    "id": "319819863003",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "209738946",
-    "game_name": "Wuthering Waves",
-    "type": "live",
-    "title": "Brithday week stream and yaps",
-    "viewer_count": 7,
-    "started_at": "2026-06-07T21:24:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "318938467036",
