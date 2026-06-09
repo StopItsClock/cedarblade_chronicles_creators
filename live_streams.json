@@ -8,7 +8,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "✧ Steam scuff central so REPO ✧ !lurk !merch !throne !clip",
-    "viewer_count": 32,
+    "viewer_count": 33,
     "started_at": "2026-06-08T23:01:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "BECOMING GOLD GOONERS 🧊 !Discord !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-06-08T21:08:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -58,6 +58,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "319733533018",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Hero Prepares for Marathon",
+    "viewer_count": 4,
+    "started_at": "2026-06-09T01:33:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318950062940",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -66,7 +86,7 @@
     "game_name": "R.E.P.O.",
     "type": "live",
     "title": "THE BACKROOMS GOT REPOd | !Clip",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-06-08T23:00:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -84,46 +104,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319733533018",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Hero Prepares for Marathon",
-    "viewer_count": 3,
-    "started_at": "2026-06-09T01:33:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319732211290",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "982348888",
-    "game_name": "ELDEN RING NIGHTREIGN",
-    "type": "live",
-    "title": "ELDEN RING NIGH REIGN WITH THE GIRLIES... and Lukka. {path to affiliate} w/ @somanella & @slimechemist",
-    "viewer_count": 2,
-    "started_at": "2026-06-09T00:33:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "318952413788",
@@ -151,30 +131,24 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
-    "id": "319731988058",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "starfastwolf",
-    "game_id": "1991115310",
-    "game_name": "Forza Horizon 6",
+    "id": "319732211290",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
-    "title": "working our way to the Legend wristband!",
+    "title": "ELDEN RING NIGH REIGN WITH THE GIRLIES... and Lukka. {path to affiliate} w/ @somanella & @slimechemist",
     "viewer_count": 2,
-    "started_at": "2026-06-09T00:22:37Z",
+    "started_at": "2026-06-09T00:33:07Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "English",
-      "Vtuber",
-      "18plusstream",
-      "chill",
-      "Rerun",
-      "forza",
-      "forzahorizon"
+      "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "319840368859",
@@ -203,5 +177,57 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+  },
+  {
+    "id": "319731988058",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "starfastwolf",
+    "game_id": "1991115310",
+    "game_name": "Forza Horizon 6",
+    "type": "live",
+    "title": "working our way to the Legend wristband!",
+    "viewer_count": 1,
+    "started_at": "2026-06-09T00:22:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "18plusstream",
+      "chill",
+      "Rerun",
+      "forza",
+      "forzahorizon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+  },
+  {
+    "id": "319024179296",
+    "user_id": "938069605",
+    "user_login": "cedarvt",
+    "user_name": "CedarVT",
+    "game_id": "209738946",
+    "game_name": "Wuthering Waves",
+    "type": "live",
+    "title": "NEW UPDATE! Still trying to catch up... ^^'  :3  ~🍂 !discord !merch",
+    "viewer_count": 1,
+    "started_at": "2026-06-09T01:56:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "ComfyChaotic",
+      "leaf",
+      "skibidirizz",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   }
 ]
