@@ -8,7 +8,7 @@
     "game_name": "Destiny 2",
     "type": "live",
     "title": "[18+] The final D2 update :( ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 23,
+    "viewer_count": 27,
     "started_at": "2026-06-09T21:45:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Warhammer 40,000: Space Marine II",
     "type": "live",
     "title": "CUBE THE SPACE MARINES! (Space Marine 2 w/  @DefaultCube_VA)",
-    "viewer_count": 18,
+    "viewer_count": 21,
     "started_at": "2026-06-09T19:09:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -57,6 +57,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "318904580830",
+    "user_id": "1142519722",
+    "user_login": "triagesylphiel",
+    "user_name": "TriageSylphiel",
+    "game_id": "14842174",
+    "game_name": "Chained Together",
+    "type": "live",
+    "title": "TIMES LIKE THIS I WISH I COULD FLY AGAIN!!! | Chained Together w/@asteriaanemone | !Clip",
+    "viewer_count": 6,
+    "started_at": "2026-06-09T19:57:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "birdtuber",
+      "peepeepoopoo",
+      "LGBTQFriendly",
+      "indievtuber",
+      "ENVtuber",
+      "vtubers"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
     "id": "315669785192",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -65,7 +92,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "ATM10 stuffs [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 8,
+    "viewer_count": 5,
     "started_at": "2026-06-09T21:01:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -84,32 +111,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "318904580830",
-    "user_id": "1142519722",
-    "user_login": "triagesylphiel",
-    "user_name": "TriageSylphiel",
-    "game_id": "14842174",
-    "game_name": "Chained Together",
-    "type": "live",
-    "title": "TIMES LIKE THIS I WISH I COULD FLY AGAIN!!! | Chained Together w/@asteriaanemone | !Clip",
-    "viewer_count": 7,
-    "started_at": "2026-06-09T19:57:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "birdtuber",
-      "peepeepoopoo",
-      "LGBTQFriendly",
-      "indievtuber",
-      "ENVtuber",
-      "vtubers"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   }
 ]
