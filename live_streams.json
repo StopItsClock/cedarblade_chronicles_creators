@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "318070828247",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "the booda in in",
+    "viewer_count": 1,
+    "started_at": "2026-06-10T17:38:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge",
+      "soulsgames"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
+  }
+]
