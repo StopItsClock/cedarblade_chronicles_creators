@@ -1,30 +1,5 @@
 [
   {
-    "id": "319778657626",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1280007947",
-    "game_name": "Limbus Company",
-    "type": "live",
-    "title": "We're going into a dungeon around the mirror|| Limbus Company (!lurk, !links,  !discord)",
-    "viewer_count": 5,
-    "started_at": "2026-06-11T20:55:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "316973641444",
     "user_id": "916904675",
     "user_login": "articglow_",
@@ -33,7 +8,7 @@
     "game_name": "Escape the Backrooms",
     "type": "live",
     "title": "WHERE ARE WE?! BACKROOMS?! With a friend!!",
-    "viewer_count": 4,
+    "viewer_count": 7,
     "started_at": "2026-06-11T21:32:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
@@ -54,6 +29,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
+    "id": "319778657626",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1280007947",
+    "game_name": "Limbus Company",
+    "type": "live",
+    "title": "We're going into a dungeon around the mirror|| Limbus Company (!lurk, !links,  !discord)",
+    "viewer_count": 6,
+    "started_at": "2026-06-11T20:55:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "315739709418",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -62,7 +62,7 @@
     "game_name": "Subnautica",
     "type": "live",
     "title": "PC hates me but i push through anyway! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 3,
+    "viewer_count": 1,
     "started_at": "2026-06-11T21:09:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
