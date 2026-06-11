@@ -8,7 +8,7 @@
     "game_name": "Fortnite",
     "type": "live",
     "title": "✧ Running it back...pls just one win qwq ✧ !lurk !merch !throne !clip",
-    "viewer_count": 21,
+    "viewer_count": 19,
     "started_at": "2026-06-10T23:15:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "Chat Chaos Stream!!!! !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 16,
+    "viewer_count": 15,
     "started_at": "2026-06-10T23:00:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -140,35 +140,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "319705143513",
-    "user_id": "87014181",
-    "user_login": "thetactician",
-    "user_name": "TheTactician",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Reacting to Nintendo Direct then Fusing and Nuzlocking with @cedarvt",
-    "viewer_count": 3,
-    "started_at": "2026-06-10T23:00:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "NoBackseating",
-      "Anime",
-      "Vtuber",
-      "funnymoments",
-      "English",
-      "Collab",
-      "Pokémon",
-      "Nuzlocke",
-      "SoulLink",
-      "InfiniteFusion"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
-  },
-  {
     "id": "318921006302",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -194,5 +165,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319705143513",
+    "user_id": "87014181",
+    "user_login": "thetactician",
+    "user_name": "TheTactician",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Reacting to Nintendo Direct then Fusing and Nuzlocking with @cedarvt",
+    "viewer_count": 2,
+    "started_at": "2026-06-10T23:00:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NoBackseating",
+      "Anime",
+      "Vtuber",
+      "funnymoments",
+      "English",
+      "Collab",
+      "Pokémon",
+      "Nuzlocke",
+      "SoulLink",
+      "InfiniteFusion"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   }
 ]
