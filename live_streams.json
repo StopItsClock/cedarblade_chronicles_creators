@@ -8,7 +8,7 @@
     "game_name": "Hollow Knight",
     "type": "live",
     "title": "COSMIC PLAYS! Okay ONE more try at this dang game! ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-06-12T21:25:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -27,28 +27,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "316958298594",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "488922836",
-    "game_name": "Solarpunk",
-    "type": "live",
-    "title": "Let's do some more punking of the sun.",
-    "viewer_count": 2,
-    "started_at": "2026-06-12T19:58:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
