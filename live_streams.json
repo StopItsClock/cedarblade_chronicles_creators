@@ -7,7 +7,7 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "【18+】Eldritch Horror Concert ✸Morning Stream✸",
+    "title": "\u301018+\u3011Eldritch Horror Concert \u2738Morning Stream\u2738",
     "viewer_count": 13,
     "started_at": "2026-06-12T13:53:40Z",
     "language": "en",
@@ -29,31 +29,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "316979389540",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
+    "id": "315690300115",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
     "game_id": "33945",
     "game_name": "Starbound",
     "type": "live",
-    "title": "Back to the stars! With the caravan!",
-    "viewer_count": 1,
-    "started_at": "2026-06-12T17:09:17Z",
+    "title": "Starbound. I need a bigger gun",
+    "viewer_count": 2,
+    "started_at": "2026-06-12T17:10:08Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
+      "Nonbinary",
       "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
+      "LGBTQIAPlus",
+      "CultLeader"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "317658210918",
@@ -83,27 +80,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   },
   {
-    "id": "315690300115",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
+    "id": "316979389540",
+    "user_id": "149397923",
+    "user_login": "ravenincarnate",
+    "user_name": "ravenincarnate",
     "game_id": "33945",
     "game_name": "Starbound",
     "type": "live",
-    "title": "Starbound. I need a bigger gun",
+    "title": "Back to the stars! With the caravan!",
     "viewer_count": 1,
-    "started_at": "2026-06-12T17:10:08Z",
+    "started_at": "2026-06-12T17:09:17Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "Vtuber",
-      "Nonbinary",
+      "ENVtuber",
+      "Relaxing",
+      "Chill",
       "English",
-      "LGBTQIAPlus",
-      "CultLeader"
+      "18plusstream",
+      "18pluschannel",
+      "18maturelanguage"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   }
 ]
