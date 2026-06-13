@@ -1,5 +1,25 @@
 [
   {
+    "id": "319816531034",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "Elden Ring Part 5 {Beating the breaks off my wife's brother} Road to affiliate.",
+    "viewer_count": 4,
+    "started_at": "2026-06-13T19:45:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "319759961689",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -7,7 +27,7 @@
     "game_id": "509541",
     "game_name": "Luigi's Mansion 3",
     "type": "live",
-    "title": "COSMIC PLAYS! First Switch stream?! \u2307 18+ \u2307 !discord !social",
+    "title": "COSMIC PLAYS! First Switch stream?! ⌇ 18+ ⌇ !discord !social",
     "viewer_count": 4,
     "started_at": "2026-06-13T21:09:46Z",
     "language": "en",
@@ -54,26 +74,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
-  },
-  {
-    "id": "319816531034",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "Elden Ring Part 5 {Beating the breaks off my wife's brother} Road to affiliate.",
-    "viewer_count": 4,
-    "started_at": "2026-06-13T19:45:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "318961830366",
