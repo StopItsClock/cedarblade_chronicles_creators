@@ -1,25 +1,5 @@
 [
   {
-    "id": "319944727643",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "Elden Ring Part 6 {YET AGAIN, Beating the breaks off my wife's brother} Road to affiliate.",
-    "viewer_count": 4,
-    "started_at": "2026-06-14T19:00:15Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
     "id": "318975990110",
     "user_id": "100422083",
     "user_login": "plompers",
@@ -28,7 +8,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "NEW GAME + EXISTS OHHHH ✧",
-    "viewer_count": 4,
+    "viewer_count": 9,
     "started_at": "2026-06-14T21:08:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -45,6 +25,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
+  },
+  {
+    "id": "319944727643",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "Elden Ring Part 6 {YET AGAIN, Beating the breaks off my wife's brother} Road to affiliate.",
+    "viewer_count": 3,
+    "started_at": "2026-06-14T19:00:15Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "315730776553",
