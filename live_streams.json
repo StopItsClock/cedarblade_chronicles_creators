@@ -37,7 +37,7 @@
     "game_name": "Super Battle Golf",
     "type": "live",
     "title": "✧ Straight up shrimp golfing!! - community game night ✧ !lurk !merch !throne !clip",
-    "viewer_count": 27,
+    "viewer_count": 24,
     "started_at": "2026-06-13T23:02:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Yapping -> Clearing Blue Quests 🧊 !Cover !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 16,
+    "viewer_count": 12,
     "started_at": "2026-06-13T23:32:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Luna Abyss",
     "type": "live",
     "title": "[Luna Abyss] WELCOME HOME STREAM! The 1 Month hiatus is over! [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-06-13T23:00:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -114,6 +114,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "316038080370",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "2066107586",
+    "game_name": "Escape the Backrooms",
+    "type": "live",
+    "title": "Horror is not my forte [!lurk !discord !clip]",
+    "viewer_count": 7,
+    "started_at": "2026-06-13T23:55:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy",
+      "animeboy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
     "id": "319820505818",
@@ -143,32 +170,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "316038080370",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "2066107586",
-    "game_name": "Escape the Backrooms",
-    "type": "live",
-    "title": "Horror is not my forte [!lurk !discord !clip]",
-    "viewer_count": 5,
-    "started_at": "2026-06-13T23:55:35Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy",
-      "animeboy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   }
 ]
