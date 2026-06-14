@@ -8,7 +8,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "NEW GAME + EXISTS OHHHH ✧",
-    "viewer_count": 16,
+    "viewer_count": 18,
     "started_at": "2026-06-14T21:08:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -25,34 +25,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
-  },
-  {
-    "id": "315730776553",
-    "user_id": "95084465",
-    "user_login": "deltarious5",
-    "user_name": "Deltarious5",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Rougelikes drive me nuts so back to modded mayhem! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 3,
-    "started_at": "2026-06-14T21:01:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Casual",
-      "ADHD",
-      "English",
-      "Vtuber",
-      "NoBackseatingUnlessAsked",
-      "18pluschannel",
-      "cosplayer",
-      "crossdresser",
-      "Anime"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
     "id": "319944727643",
@@ -73,5 +45,57 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
+    "id": "315730776553",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Rougelikes drive me nuts so back to modded mayhem! [18+] [!discord] [!dubby] [!merch]",
+    "viewer_count": 2,
+    "started_at": "2026-06-14T21:01:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "317387086552",
+    "user_id": "114779237",
+    "user_login": "velkais370",
+    "user_name": "velkais370",
+    "game_id": "774680424",
+    "game_name": "2XKO",
+    "type": "live",
+    "title": "Can I beat \"The Climb\"",
+    "viewer_count": 0,
+    "started_at": "2026-06-14T23:40:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "pngtuber",
+      "2xko",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
   }
 ]
