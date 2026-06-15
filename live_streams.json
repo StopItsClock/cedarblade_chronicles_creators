@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "[DROPS] back from my vacation only to be thrown into drives...|| !discord !dono !lurk !throne",
-    "viewer_count": 20,
+    "viewer_count": 19,
     "started_at": "2026-06-15T18:55:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "UNO",
     "type": "live",
     "title": "✧ It comes with your xbox ✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "viewer_count": 16,
     "started_at": "2026-06-15T18:40:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -62,7 +62,7 @@
     "game_name": "Vintage Story",
     "type": "live",
     "title": "The opening of the server!",
-    "viewer_count": 8,
+    "viewer_count": 5,
     "started_at": "2026-06-15T16:59:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -79,6 +79,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
+    "id": "318988351582",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1044890345",
+    "game_name": "Pokémon Infinite Fusion",
+    "type": "live",
+    "title": "i'm not committing crimes i'm committing science ✧",
+    "viewer_count": 4,
+    "started_at": "2026-06-15T21:04:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "Asian",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
   },
   {
     "id": "319794510297",
@@ -104,32 +131,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "318988351582",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "1044890345",
-    "game_name": "Pokémon Infinite Fusion",
-    "type": "live",
-    "title": "i'm not committing crimes i'm committing science ✧",
-    "viewer_count": 0,
-    "started_at": "2026-06-15T21:04:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "Asian",
-      "vcanada"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
   }
 ]
