@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] -Lucid SMP-  Vying for the \"catch of a lifetime\" ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 37,
+    "viewer_count": 33,
     "started_at": "2026-06-15T01:03:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "HELLDIVERS 2",
     "type": "live",
     "title": "Diving into hell bc i rage quit OW (Helldivers2)",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-06-15T01:04:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -55,5 +55,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319786421081",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "【18+】Eldritch Draws and Roller-coaster Ride ✸Art Stream✸",
+    "viewer_count": 4,
+    "started_at": "2026-06-15T03:21:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "ENVtuber",
+      "boyfriend",
+      "TentacleMonster",
+      "boyfailure",
+      "feet",
+      "eboy",
+      "DeepVoice",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
