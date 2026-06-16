@@ -37,7 +37,7 @@
     "game_name": "Phoenix Wright: Ace Attorney Trilogy",
     "type": "live",
     "title": "[18+] My PC Was HACKED 💀 Let's Yap and Put Criminals in Jail [Phoenix Wright: Trials and Tribulations] | !throne !socials !lurk !discord",
-    "viewer_count": 8,
+    "viewer_count": 10,
     "started_at": "2026-06-16T22:35:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -115,51 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
-    "id": "319058018268",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "497057",
-    "game_name": "Destiny 2",
-    "type": "live",
-    "title": "Haven't played in years, whats the lore",
-    "viewer_count": 3,
-    "started_at": "2026-06-16T20:11:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "319813386969",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "492535",
-    "game_name": "Celeste",
-    "type": "live",
-    "title": "Yes I'm Trans, yes this is a sterotype, but i'm here for the music. Celeste {Road to affiliate}",
-    "viewer_count": 2,
-    "started_at": "2026-06-16T22:55:10Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
     "id": "319003642462",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -185,5 +140,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319813386969",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "492535",
+    "game_name": "Celeste",
+    "type": "live",
+    "title": "Yes I'm Trans, yes this is a sterotype, but i'm here for the music. Celeste {Road to affiliate}",
+    "viewer_count": 2,
+    "started_at": "2026-06-16T22:55:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
