@@ -8,7 +8,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "✧ Nighting on our reign till we- ✧ !lurk !merch !throne !clip",
-    "viewer_count": 21,
+    "viewer_count": 23,
     "started_at": "2026-06-15T18:40:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] KJH SHOW ME MORE OF GARION/BINAH AND MY LIFE IS YOURS | Limbus + DotW | !lurk !throne !tip !discord",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-06-15T23:00:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "This Night be Reigning on my Elden till I Ring | !Clip",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-06-15T23:11:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -93,7 +93,7 @@
     "game_name": "FINAL FANTASY VII REMAKE",
     "type": "live",
     "title": "Nothin good ever comes from making deals with the devil (FF7R Pt.2 *Nana Red Debut*)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-06-16T00:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -168,26 +168,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
-    "id": "319800941017",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Hero Prepares for Marathon",
-    "viewer_count": 1,
-    "started_at": "2026-06-16T02:10:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
     "id": "319797827161",
     "user_id": "232460847",
     "user_login": "theomenclature",
@@ -206,5 +186,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
+    "id": "319800941017",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Hero Prepares for Marathon",
+    "viewer_count": 1,
+    "started_at": "2026-06-16T02:10:28Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
