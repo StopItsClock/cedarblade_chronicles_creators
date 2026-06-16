@@ -8,7 +8,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "✧ Nighting on our reign till we- ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
+    "viewer_count": 31,
     "started_at": "2026-06-15T18:40:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] KJH SHOW ME MORE OF GARION/BINAH AND MY LIFE IS YOURS | Limbus + DotW | !lurk !throne !tip !discord",
-    "viewer_count": 11,
+    "viewer_count": 12,
     "started_at": "2026-06-15T23:00:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "18+ | Screw the city life, i wanna enjoy life on the farm | PC | Stardew Valley | !CreatorClub !discord !Blacklyte !Nekomart",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-06-16T02:01:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
@@ -114,26 +114,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "319797827161",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "518184",
-    "game_name": "Phasmophobia",
-    "type": "live",
-    "title": "SAUCE COLLAB for phas. w/@eepysoma @somanella @slimechemist {Road to affiliate}",
-    "viewer_count": 2,
-    "started_at": "2026-06-15T23:55:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
     "id": "318134602199",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -159,6 +139,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
+    "id": "319797827161",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "518184",
+    "game_name": "Phasmophobia",
+    "type": "live",
+    "title": "SAUCE COLLAB for phas. w/@eepysoma @somanella @slimechemist {Road to affiliate}",
+    "viewer_count": 2,
+    "started_at": "2026-06-15T23:55:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "319800941017",
