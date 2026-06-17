@@ -37,7 +37,7 @@
     "game_name": "The Elder Scrolls V: Skyrim",
     "type": "live",
     "title": "[18+] 100+ MOD OVERHAUL!! 💥 Let the Cheesening Begin...[Crowd Control Skyrim SE] | !throne !socials !lurk !discord",
-    "viewer_count": 29,
+    "viewer_count": 30,
     "started_at": "2026-06-17T22:57:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "Eepy Elden Ringggg",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-06-17T21:04:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -120,7 +120,7 @@
     "game_name": "Games + Demos",
     "type": "live",
     "title": "NEXT FEST DEMOS w/Slushieghost | !Clip",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-06-17T22:59:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -166,5 +166,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "315664258513",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "Editor: Captions mainly with a little bit of effects if I have time",
+    "viewer_count": 0,
+    "started_at": "2026-06-17T23:30:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
