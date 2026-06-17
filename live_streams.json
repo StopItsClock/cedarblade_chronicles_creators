@@ -8,7 +8,7 @@
     "game_name": "Destiny 2",
     "type": "live",
     "title": "[18+] Causing enemies to explode by using the noble bow and arrow ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 53,
+    "viewer_count": 56,
     "started_at": "2026-06-16T23:47:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "✧ OMG IS THAT LEAGUEEE w/ @catoenvt ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 24,
     "started_at": "2026-06-16T23:00:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,32 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "319819033433",
-    "user_id": "934337822",
-    "user_login": "gloryettavt",
-    "user_name": "GloryettaVT",
-    "game_id": "1728683467",
-    "game_name": "Core Keeper",
-    "type": "live",
-    "title": "Sere lo mejor de lo mejor - June 16 (Dia 2/7) [Subconciente]",
-    "viewer_count": 9,
-    "started_at": "2026-06-17T03:01:53Z",
-    "language": "es",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloryettavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Espàñol",
-      "Vtuber",
-      "VtuberEN",
-      "VtuberES",
-      "PNGTuberES",
-      "Español"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b32dec61-8a2f-4cb6-9907-435e90d82d8b-profile_image-300x300.png"
-  },
-  {
     "id": "319820250841",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -92,7 +66,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "【18+】DASHCON 2.0 + Sad News :( + Starlites Save Summer!? ✸Late Night Moves Stream✸",
-    "viewer_count": 2,
+    "viewer_count": 11,
     "started_at": "2026-06-17T04:05:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -111,5 +85,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "319819033433",
+    "user_id": "934337822",
+    "user_login": "gloryettavt",
+    "user_name": "GloryettaVT",
+    "game_id": "1728683467",
+    "game_name": "Core Keeper",
+    "type": "live",
+    "title": "Sere lo mejor de lo mejor - June 16 (Dia 2/7) [Subconciente]",
+    "viewer_count": 7,
+    "started_at": "2026-06-17T03:01:53Z",
+    "language": "es",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloryettavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Espàñol",
+      "Vtuber",
+      "VtuberEN",
+      "VtuberES",
+      "PNGTuberES",
+      "Español"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b32dec61-8a2f-4cb6-9907-435e90d82d8b-profile_image-300x300.png"
   }
 ]
