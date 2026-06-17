@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[Hand Cam] Hot Sauce Challenge. RIP Shork | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-06-17T18:01:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -27,6 +27,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
+  },
+  {
+    "id": "319995974363",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "32982",
+    "game_name": "Grand Theft Auto V",
+    "type": "live",
+    "title": "[LODESTAR SMP] Casual Chaos on the money grind",
+    "viewer_count": 4,
+    "started_at": "2026-06-17T19:08:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
     "id": "319826869337",
