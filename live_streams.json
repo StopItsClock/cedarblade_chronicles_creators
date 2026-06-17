@@ -37,7 +37,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "UWUWATCH TO COOL DOWN FROM HOT SAUCES | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-06-17T18:01:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -58,29 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
-    "id": "316999821410",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "479862517",
-    "game_name": "Dragon Quest XI: Echoes of an Elusive Age",
-    "type": "live",
-    "title": "Questing for Dragons",
-    "viewer_count": 3,
-    "started_at": "2026-06-17T19:35:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
     "id": "319995974363",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -89,7 +66,7 @@
     "game_name": "Grand Theft Auto V",
     "type": "live",
     "title": "[LODESTAR SMP] Casual Chaos on the money grind",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-06-17T19:08:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -106,5 +83,56 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "316999821410",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "479862517",
+    "game_name": "Dragon Quest XI: Echoes of an Elusive Age",
+    "type": "live",
+    "title": "Questing for Dragons",
+    "viewer_count": 2,
+    "started_at": "2026-06-17T19:35:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "317495503079",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "STARDEW WEDNESDAY | I love my blue wife",
+    "viewer_count": 0,
+    "started_at": "2026-06-17T19:54:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber",
+      "yippee",
+      "LGBTQ",
+      "Comfy",
+      "sleepy",
+      "stardewvalley",
+      "stardew"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
