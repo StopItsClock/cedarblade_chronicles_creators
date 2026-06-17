@@ -1,33 +1,5 @@
 [
   {
-    "id": "319014910302",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "Marvel Rivals w/ The Cuttle Cult! Community night!",
-    "viewer_count": 15,
-    "started_at": "2026-06-17T20:09:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "ac130",
-      "jetengine",
-      "Vtuber",
-      "prismmodel",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318155256791",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -36,7 +8,7 @@
     "game_name": "Gamble With Your Friends",
     "type": "live",
     "title": "✧ LET IT RIDEEEE ✧ !lurk !merch !throne !clip",
-    "viewer_count": 11,
+    "viewer_count": 23,
     "started_at": "2026-06-17T20:24:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -57,6 +29,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319014910302",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "Marvel Rivals w/ The Cuttle Cult! Community night!",
+    "viewer_count": 12,
+    "started_at": "2026-06-17T20:09:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "ac130",
+      "jetengine",
+      "Vtuber",
+      "prismmodel",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319995974363",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -65,7 +65,7 @@
     "game_name": "Grand Theft Auto V",
     "type": "live",
     "title": "[LODESTAR SMP] Casual Chaos on the money grind",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-06-17T19:08:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -84,29 +84,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
-    "id": "316999821410",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "479862517",
-    "game_name": "Dragon Quest XI: Echoes of an Elusive Age",
-    "type": "live",
-    "title": "Questing for Dragons",
-    "viewer_count": 3,
-    "started_at": "2026-06-17T19:35:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
     "id": "319826869337",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -115,7 +92,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "STARDEW YIPPEE || !puppers !discord !dnd",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-06-17T18:27:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
@@ -136,6 +113,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
+    "id": "316999821410",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "479862517",
+    "game_name": "Dragon Quest XI: Echoes of an Elusive Age",
+    "type": "live",
+    "title": "Questing for Dragons",
+    "viewer_count": 4,
+    "started_at": "2026-06-17T19:35:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
     "id": "316998769122",
     "user_id": "1124868242",
     "user_login": "karaleuatomic",
@@ -144,7 +144,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "UWUWATCH TO COOL DOWN FROM HOT SAUCES | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-06-17T18:01:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -163,33 +163,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
-  },
-  {
-    "id": "317495658983",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "STARDEW WEDNESDAY | I love my blue wife",
-    "viewer_count": 1,
-    "started_at": "2026-06-17T20:08:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber",
-      "yippee",
-      "LGBTQ",
-      "Comfy",
-      "sleepy",
-      "stardewvalley",
-      "stardew"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
