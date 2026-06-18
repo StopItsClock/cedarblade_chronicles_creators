@@ -60,7 +60,7 @@
     "game_name": "Mewgenics",
     "type": "live",
     "title": "Braving Gilotina and some side quests, Lets make powerful cats|| Mewgenics (!lurk, !links,  !discord)",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-06-18T21:00:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -77,6 +77,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
+    "id": "315686277714",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "Editor: Captions that captions",
+    "viewer_count": 2,
+    "started_at": "2026-06-18T20:43:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "315701879528",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -85,7 +109,7 @@
     "game_name": "Pretend You're Xyzzy",
     "type": "live",
     "title": "questioning my friendships! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-06-18T21:00:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -103,29 +127,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "315686277714",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "509660",
-    "game_name": "Art",
-    "type": "live",
-    "title": "Editor: Captions that captions",
-    "viewer_count": 1,
-    "started_at": "2026-06-18T20:43:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
