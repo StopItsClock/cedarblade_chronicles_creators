@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "【18+】Eldritch Plans his trip to invade California ✸Yapapappa Stream✸ !punch",
-    "viewer_count": 14,
+    "viewer_count": 22,
     "started_at": "2026-06-18T04:14:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[ShB] Un-Final-ing Your Fantasies 🧊 !Cover !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-06-18T01:21:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -83,31 +83,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   },
   {
-    "id": "319891121114",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "Starfastwolf",
-    "game_id": "66366",
-    "game_name": "War Thunder",
-    "type": "live",
-    "title": "finishing the final stretch and getting that gold wristband then time for warthunder",
-    "viewer_count": 2,
-    "started_at": "2026-06-18T00:15:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "18plusstream",
-      "chill",
-      "Rerun",
-      "warthunder"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
-  },
-  {
     "id": "319833450841",
     "user_id": "87014181",
     "user_login": "thetactician",
@@ -135,5 +110,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
+  },
+  {
+    "id": "319891121114",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "Starfastwolf",
+    "game_id": "66366",
+    "game_name": "War Thunder",
+    "type": "live",
+    "title": "finishing the final stretch and getting that gold wristband then time for warthunder",
+    "viewer_count": 1,
+    "started_at": "2026-06-18T00:15:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "18plusstream",
+      "chill",
+      "Rerun",
+      "warthunder"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
