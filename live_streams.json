@@ -8,7 +8,7 @@
     "game_name": "Core Keeper",
     "type": "live",
     "title": "Casi pierdo mi racha- June 17 (Dia 3/7) [Subconciente]",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-06-18T02:41:22Z",
     "language": "es",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloryettavt-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[ShB] Un-Final-ing Your Fantasies 🧊 !Cover !Socials !Pine 🍧 @frostedplague7",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-06-18T01:21:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -55,6 +55,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "320006200795",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "【18+】Eldritch Plans his trip to invade California ✸Yapapappa Stream✸ !punch",
+    "viewer_count": 6,
+    "started_at": "2026-06-18T04:14:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "ENVtuber",
+      "boyfriend",
+      "TentacleMonster",
+      "boyfailure",
+      "feet",
+      "eboy",
+      "DeepVoice",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
     "id": "319147119712",
     "user_id": "938069605",
     "user_login": "cedarvt",
@@ -63,7 +92,7 @@
     "game_name": "Pokémon Infinite Fusion",
     "type": "live",
     "title": "Let's Fuse some mons!  :3  ~🍂 !discord !merch",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-06-18T01:31:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
@@ -78,6 +107,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319891121114",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "Starfastwolf",
+    "game_id": "66366",
+    "game_name": "War Thunder",
+    "type": "live",
+    "title": "finishing the final stretch and getting that gold wristband then time for warthunder",
+    "viewer_count": 1,
+    "started_at": "2026-06-18T00:15:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "18plusstream",
+      "chill",
+      "Rerun",
+      "warthunder"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   },
   {
     "id": "319833450841",
@@ -107,30 +161,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
-  },
-  {
-    "id": "319891121114",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "Starfastwolf",
-    "game_id": "66366",
-    "game_name": "War Thunder",
-    "type": "live",
-    "title": "finishing the final stretch and getting that gold wristband then time for warthunder",
-    "viewer_count": 1,
-    "started_at": "2026-06-18T00:15:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "18plusstream",
-      "chill",
-      "Rerun",
-      "warthunder"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
