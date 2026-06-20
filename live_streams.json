@@ -8,7 +8,7 @@
     "game_name": "I'm Only Sleeping",
     "type": "live",
     "title": "【18+】Eldritch Horror Sleeps so he's playing an old VOD ✸Sleep Stream✸ !donate",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-06-19T23:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -29,26 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "319941768026",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Birthday Marathon!!! Birthday!",
-    "viewer_count": 7,
-    "started_at": "2026-06-20T17:53:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
     "id": "317063745763",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -57,7 +37,7 @@
     "game_name": "Vintage Story",
     "type": "live",
     "title": "The dwarven keep wont build itself",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-06-20T18:00:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -76,6 +56,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   },
   {
+    "id": "319941768026",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Birthday Marathon!!! Birthday!",
+    "viewer_count": 6,
+    "started_at": "2026-06-20T17:53:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320054774875",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -84,7 +84,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] Un-Cobbles Your Mon 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-06-20T19:38:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
