@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "【18+】Eldritch Horror gives Tours! ✸Lampas RP Stream✸ !donate",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-06-19T23:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Genshin Impact",
     "type": "live",
     "title": "Nod Krai Act 4 begins today! [!lurk !discord !clip]",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-06-20T00:11:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -114,6 +114,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
+    "id": "319927005914",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "I woke up from a nap 15 minute ago and now I must Kill god. Elden Ring {Road to affiliate}",
+    "viewer_count": 4,
+    "started_at": "2026-06-20T00:16:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "319043062750",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -142,52 +162,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "319927005914",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "I woke up from a nap 15 minute ago and now I must Kill god. Elden Ring {Road to affiliate}",
-    "viewer_count": 4,
-    "started_at": "2026-06-20T00:16:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
-    "id": "318181241431",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Booda Lies about PP",
-    "viewer_count": 4,
-    "started_at": "2026-06-20T00:07:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames",
-      "LIESOFP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c532adb6-45dd-4cc6-9537-6e2c47264203-profile_image-300x300.png"
-  },
-  {
     "id": "319103710940",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -196,7 +170,7 @@
     "game_name": "Dale & Dawson Stationery Supplies",
     "type": "live",
     "title": "Time to work in the office| !Discord !lurk | 🐉🧟",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-06-20T01:18:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
