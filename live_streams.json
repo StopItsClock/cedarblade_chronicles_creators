@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] Un-Cobbles Your Mon 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 12,
+    "viewer_count": 15,
     "started_at": "2026-06-20T19:38:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -49,31 +49,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
-    "id": "319945443674",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1608308954",
-    "game_name": "Spyro the Dragon",
-    "type": "live",
-    "title": "Time to play a game about dragons|| Spyro the Dragon (!lurk, !links,  !discord)",
-    "viewer_count": 8,
-    "started_at": "2026-06-20T20:55:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "320036830171",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -82,7 +57,7 @@
     "game_name": "I'm Only Sleeping",
     "type": "live",
     "title": "【18+】Eldritch Horror VOD Reruns while AFK ✸Sleep Stream✸ !donate",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-06-19T23:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -101,6 +76,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "319945443674",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1608308954",
+    "game_name": "Spyro the Dragon",
+    "type": "live",
+    "title": "Time to play a game about dragons|| Spyro the Dragon (!lurk, !links,  !discord)",
+    "viewer_count": 7,
+    "started_at": "2026-06-20T20:55:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "320056355547",
@@ -158,5 +158,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
+    "id": "320057866459",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "Starfastwolf",
+    "game_id": "511224",
+    "game_name": "Apex Legends",
+    "type": "live",
+    "title": "solo grinding in apex ranked will i make it to plat",
+    "viewer_count": 1,
+    "started_at": "2026-06-20T22:13:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "18plusstream",
+      "warthunder",
+      "ENTuber",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
