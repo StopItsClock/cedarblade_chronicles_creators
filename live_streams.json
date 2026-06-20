@@ -8,7 +8,7 @@
     "game_name": "I'm Only Sleeping",
     "type": "live",
     "title": "【18+】Eldritch Horror Sleeps so he's playing an old VOD ✸Sleep Stream✸ !donate",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-06-19T23:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -29,30 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "315692706514",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1294658629",
-    "game_name": "R.E.P.O.",
-    "type": "live",
-    "title": "R.E.P.O Time with the Troublemakers!",
-    "viewer_count": 5,
-    "started_at": "2026-06-20T16:57:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
     "id": "318255483765",
     "user_id": "1275381753",
     "user_login": "mimiluna2",
@@ -61,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Cosmo Pride Championships! Ruby Rockets w/ @trulykev_ @graynyte and AxeSoulVA",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-06-20T16:49:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -81,6 +57,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   },
   {
+    "id": "315692706514",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1294658629",
+    "game_name": "R.E.P.O.",
+    "type": "live",
+    "title": "R.E.P.O Time with the Troublemakers!",
+    "viewer_count": 4,
+    "started_at": "2026-06-20T16:57:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "319941768026",
     "user_id": "265606341",
     "user_login": "nozomienv",
@@ -89,7 +89,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Birthday Marathon!!! Birthday!",
-    "viewer_count": 0,
+    "viewer_count": 2,
     "started_at": "2026-06-20T17:53:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
