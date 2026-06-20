@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Oh yeahhh its catching time - Day 1: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 34,
     "started_at": "2026-06-19T19:55:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Dale & Dawson Stationery Supplies",
     "type": "live",
     "title": "BIG VTUBER COLLAB OF RATS AND SOME ARE SLACKIN【VORIGINS S3 COLLAB】 | !hug !socials",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-06-20T01:10:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Genshin Impact",
     "type": "live",
     "title": "Nod Krai Act 4 begins today! [!lurk !discord !clip]",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-06-20T00:11:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -122,7 +122,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[V-SMP] FIRST TIME PLAYING COBBLEMON!!! | A \"Young\" Birb Begins His Journey To Be A Cobblemon Master! | !Clip",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-06-19T21:06:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -150,7 +150,7 @@
     "game_name": "Neva",
     "type": "live",
     "title": "Pido perdon de la unica forma que se - June 19 (Dia 5/7) [Subconcientes]",
-    "viewer_count": 5,
+    "viewer_count": 7,
     "started_at": "2026-06-20T02:50:06Z",
     "language": "es",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloryettavt-{width}x{height}.jpg",
@@ -188,6 +188,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
+    "id": "319871894105",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Birthday Marathon!!!",
+    "viewer_count": 3,
+    "started_at": "2026-06-20T03:00:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319103710940",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -214,25 +234,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "319871894105",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Birthday Marathon!!!",
-    "viewer_count": 2,
-    "started_at": "2026-06-20T03:00:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
