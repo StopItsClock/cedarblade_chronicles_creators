@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Oh yeahhh its catching time - Day 1: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 32,
+    "viewer_count": 34,
     "started_at": "2026-06-19T19:55:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "【18+】Eldritch Horror gives Tours! ✸Lampas RP Stream✸ !donate",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-06-19T23:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -58,6 +58,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
+    "id": "316120265971",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "513181",
+    "game_name": "Genshin Impact",
+    "type": "live",
+    "title": "Nod Krai Act 4 begins today! [!lurk !discord !clip]",
+    "viewer_count": 9,
+    "started_at": "2026-06-20T00:11:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy",
+      "animeboy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
     "id": "319863497817",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -66,7 +93,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "COBBLEMON FOR CHARITY 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-06-19T20:18:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -115,31 +142,24 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "316120265971",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "513181",
-    "game_name": "Genshin Impact",
+    "id": "319927005914",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
     "type": "live",
-    "title": "Nod Krai Act 4 begins today! [!lurk !discord !clip]",
-    "viewer_count": 5,
-    "started_at": "2026-06-20T00:11:45Z",
+    "title": "I woke up from a nap 15 minute ago and now I must Kill god. Elden Ring {Road to affiliate}",
+    "viewer_count": 2,
+    "started_at": "2026-06-20T00:16:19Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy",
-      "animeboy"
+      "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "318181241431",
@@ -150,7 +170,7 @@
     "game_name": "Lies of P",
     "type": "live",
     "title": "Booda Lies about PP",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-06-20T00:07:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
@@ -176,7 +196,7 @@
     "game_name": "Two Point Museum",
     "type": "live",
     "title": "COSMIC PLAYS! To the next museum! AND BEYOND! ⌇ 18+ ⌇ !discord !social",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-06-19T21:58:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -195,25 +215,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319927005914",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "I woke up from a nap 15 minute ago and now I must Kill god. Elden Ring {Road to affiliate}",
-    "viewer_count": 2,
-    "started_at": "2026-06-20T00:16:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
