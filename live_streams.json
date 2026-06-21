@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Raid Den Time?? - Day 3: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 38,
+    "viewer_count": 36,
     "started_at": "2026-06-21T21:15:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] SHINY BADGES!! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 16,
+    "viewer_count": 12,
     "started_at": "2026-06-21T20:02:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "MECCHA CHAMELEON",
     "type": "live",
     "title": "Birthday Marathon!!! Birthday! 2",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-06-21T17:59:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
@@ -136,6 +136,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
+    "id": "319908552025",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "Starfastwolf",
+    "game_id": "66366",
+    "game_name": "War Thunder",
+    "type": "live",
+    "title": "mid tier chaos",
+    "viewer_count": 2,
+    "started_at": "2026-06-21T22:49:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "PNGtuberEN",
+      "warthunder",
+      "18pluschannel",
+      "Rerun"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+  },
+  {
     "id": "319965125082",
     "user_id": "232460847",
     "user_login": "theomenclature",
@@ -154,29 +178,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
-    "id": "319908552025",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "Starfastwolf",
-    "game_id": "66366",
-    "game_name": "War Thunder",
-    "type": "live",
-    "title": "mid tier chaos",
-    "viewer_count": 1,
-    "started_at": "2026-06-21T22:49:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "PNGtuberEN",
-      "warthunder",
-      "18pluschannel",
-      "Rerun"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
