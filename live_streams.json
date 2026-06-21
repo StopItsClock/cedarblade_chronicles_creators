@@ -1,34 +1,5 @@
 [
   {
-    "id": "318194489175",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "✧ Gamba Gamba Gamba *froths at mouth* - Day 2: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 51,
-    "started_at": "2026-06-20T23:02:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "YappingEncouraged",
-      "Elf"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
     "id": "320036830171",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -37,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "【18+】Eldritch Horror Does RP in LAMPAS ✸72 Hour Stream✸ !donate",
-    "viewer_count": 50,
+    "viewer_count": 47,
     "started_at": "2026-06-19T23:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,5 +27,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "318194489175",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "✧ Gamba Gamba Gamba *froths at mouth* - Day 2: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
+    "viewer_count": 41,
+    "started_at": "2026-06-20T23:02:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Comfy",
+      "LGBT",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "YappingEncouraged",
+      "Elf"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   }
 ]
