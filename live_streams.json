@@ -29,33 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "319902146393",
-    "user_id": "210165894",
-    "user_login": "illustriousmyth",
-    "user_name": "IllustriousMyth",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "The End is finally opening in up!! || CobbleVerse Creators SMP",
-    "viewer_count": 2,
-    "started_at": "2026-06-21T16:09:32Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pokemon",
-      "openworld",
-      "Multiplayer",
-      "BaseBuilding",
-      "Collecting",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
-  },
-  {
     "id": "319903773657",
     "user_id": "265606341",
     "user_login": "nozomienv",
@@ -74,5 +47,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319902146393",
+    "user_id": "210165894",
+    "user_login": "illustriousmyth",
+    "user_name": "IllustriousMyth",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "The End is finally opening in up!! || CobbleVerse Creators SMP",
+    "viewer_count": 1,
+    "started_at": "2026-06-21T16:09:32Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_illustriousmyth-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pokemon",
+      "openworld",
+      "Multiplayer",
+      "BaseBuilding",
+      "Collecting",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8388f08a-eb9c-49e9-bad1-7092725682ea-profile_image-300x300.png"
   }
 ]
