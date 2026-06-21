@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Gamba Gamba Gamba *froths at mouth* - Day 2: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 27,
+    "viewer_count": 26,
     "started_at": "2026-06-20T23:02:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Core Keeper",
     "type": "live",
     "title": "Casi se me olvida hacer stream - June 20 (Dia 6/7) [Subconciente]",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-06-21T02:48:14Z",
     "language": "es",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloryettavt-{width}x{height}.jpg",
@@ -92,7 +92,7 @@
     "game_name": "Slay the Spire II",
     "type": "live",
     "title": "Random stuff go a bit of overwatch and then modded slay the spire me thinks  with @zaon9528 @eldrid_shatner",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-06-21T02:05:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
@@ -161,6 +161,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
+    "id": "319066906846",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "490147",
+    "game_name": "Hollow Knight",
+    "type": "live",
+    "title": "Let's go randomizing and racing",
+    "viewer_count": 3,
+    "started_at": "2026-06-21T02:54:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
     "id": "320054774875",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -169,7 +194,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] Un-Cobbles Your Mon 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-06-20T19:38:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -188,30 +213,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "319066906846",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "490147",
-    "game_name": "Hollow Knight",
-    "type": "live",
-    "title": "Let's go randomizing and racing",
-    "viewer_count": 2,
-    "started_at": "2026-06-21T02:54:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
