@@ -29,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
+    "id": "319964979034",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[Charity] SHINY BADGES!! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
+    "viewer_count": 8,
+    "started_at": "2026-06-21T20:02:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
     "id": "319132325724",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -77,32 +106,23 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
-    "id": "319964979034",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "27471",
-    "game_name": "Minecraft",
+    "id": "319965125082",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
     "type": "live",
-    "title": "[Charity] SHINY BADGES!! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 1,
-    "started_at": "2026-06-21T20:02:46Z",
+    "title": "WE FINALLY HIT AFFILIATE!!!!!!! Was not ready and will prepare a proper stream next week. Elden Ring Continues.",
+    "viewer_count": 0,
+    "started_at": "2026-06-21T20:11:33Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "Hispanic",
-      "18plus"
+      "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
