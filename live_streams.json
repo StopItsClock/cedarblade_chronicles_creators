@@ -4,11 +4,11 @@
     "user_id": "1148563591",
     "user_login": "veroniavvinter",
     "user_name": "VeroniaVvinter",
-    "game_id": "509663",
-    "game_name": "Special Events",
+    "game_id": "515025",
+    "game_name": "Overwatch",
     "type": "live",
     "title": "LETS CELEBRATE MY BIRTHDAY!!!! || !discord !dono !lurk !throne",
-    "viewer_count": 16,
+    "viewer_count": 17,
     "started_at": "2026-06-21T20:22:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -18,7 +18,8 @@
       "Vtuber",
       "Penguin",
       "ENVtuber",
-      "NoBackseating"
+      "NoBackseating",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
@@ -32,7 +33,7 @@
     "game_name": "I'm Only Sleeping",
     "type": "live",
     "title": "【18+】Eldritch Horror is Sleeping enjoy VODS ✸Sleep Stream✸ !donate",
-    "viewer_count": 14,
+    "viewer_count": 15,
     "started_at": "2026-06-19T23:50:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -61,7 +62,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] SHINY BADGES!! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-06-21T20:02:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -90,7 +91,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "The fish couldn't be bothered with model today! Yay Plushie! (Baldur's Gate 3 w/ @regina_kardinal)",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-06-21T19:44:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -108,26 +109,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319965125082",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "WE FINALLY HIT AFFILIATE!!!!!!! Was not ready and will prepare a proper stream next week. Elden Ring Continues.",
-    "viewer_count": 3,
-    "started_at": "2026-06-21T20:11:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "319903773657",
@@ -148,5 +129,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319965125082",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "WE FINALLY HIT AFFILIATE!!!!!!! Was not ready and will prepare a proper stream next week. Elden Ring Continues.",
+    "viewer_count": 3,
+    "started_at": "2026-06-21T20:11:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
