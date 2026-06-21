@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Raid Den Time?? - Day 3: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 38,
+    "viewer_count": 36,
     "started_at": "2026-06-21T21:15:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] SHINY BADGES!! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 15,
+    "viewer_count": 16,
     "started_at": "2026-06-21T20:02:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -87,8 +87,8 @@
     "user_id": "265606341",
     "user_login": "nozomienv",
     "user_name": "NozomiENV",
-    "game_id": "2058220722",
-    "game_name": "Poppy Playtime",
+    "game_id": "1820839024",
+    "game_name": "MECCHA CHAMELEON",
     "type": "live",
     "title": "Birthday Marathon!!! Birthday! 2",
     "viewer_count": 4,
@@ -132,6 +132,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
+    "id": "319965125082",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "WE FINALLY HIT AFFILIATE!!!!!!! Was not ready and will prepare a proper stream next week. Elden Ring Continues.",
+    "viewer_count": 3,
+    "started_at": "2026-06-21T20:11:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "317033201122",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -140,7 +160,7 @@
     "game_name": "Resident Evil Zero",
     "type": "live",
     "title": "[Resident Evil 0] What in the knock-off Spencer Mansion is this?? [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-06-21T22:30:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -159,25 +179,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "319965125082",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "WE FINALLY HIT AFFILIATE!!!!!!! Was not ready and will prepare a proper stream next week. Elden Ring Continues.",
-    "viewer_count": 2,
-    "started_at": "2026-06-21T20:11:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
