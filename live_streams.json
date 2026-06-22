@@ -1,34 +1,5 @@
 [
   {
-    "id": "319909307609",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "【18+】Eldritch Horror Gambles ✸Chairty Stream✸ !donate",
-    "viewer_count": 44,
-    "started_at": "2026-06-21T23:30:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "ENVtuber",
-      "boyfriend",
-      "TentacleMonster",
-      "boyfailure",
-      "feet",
-      "eboy",
-      "DeepVoice",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
     "id": "318205973591",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -37,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Raid Den Time?? - Day 3: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 43,
+    "viewer_count": 52,
     "started_at": "2026-06-21T21:15:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319909307609",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "【18+】Eldritch Horror Gambles ✸Chairty Stream✸ !donate",
+    "viewer_count": 31,
+    "started_at": "2026-06-21T23:30:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "ENVtuber",
+      "boyfriend",
+      "TentacleMonster",
+      "boyfailure",
+      "feet",
+      "eboy",
+      "DeepVoice",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
     "id": "319081142878",
     "user_id": "67504126",
     "user_login": "cutenysnys",
@@ -66,7 +66,7 @@
     "game_name": "Destiny 2",
     "type": "live",
     "title": "[18+] Sending multiple \"world ending threats\" to hell ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 20,
+    "viewer_count": 18,
     "started_at": "2026-06-22T01:22:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -87,26 +87,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
   },
   {
-    "id": "319903773657",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "1820839024",
-    "game_name": "MECCHA CHAMELEON",
-    "type": "live",
-    "title": "Birthday Marathon!!! Birthday! 2",
-    "viewer_count": 8,
-    "started_at": "2026-06-21T17:59:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
     "id": "316129843955",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -115,7 +95,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Father's Day yapping [!lurk !discord !clip]",
-    "viewer_count": 5,
+    "viewer_count": 9,
     "started_at": "2026-06-22T00:28:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -132,6 +112,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
+    "id": "319903773657",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "1820839024",
+    "game_name": "MECCHA CHAMELEON",
+    "type": "live",
+    "title": "Birthday Marathon!!! Birthday! 2",
+    "viewer_count": 7,
+    "started_at": "2026-06-21T17:59:27Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "315756414569",
