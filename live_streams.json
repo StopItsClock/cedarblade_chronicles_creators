@@ -29,6 +29,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319221561312",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "582430476",
+    "game_name": "Far Far West",
+    "type": "live",
+    "title": "Uh... am far far westing with the homies! (Far far west w/ friends)",
+    "viewer_count": 9,
+    "started_at": "2026-06-23T00:25:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "ac130",
+      "jetengine",
+      "Vtuber",
+      "prismmodel",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319924661209",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -37,7 +65,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] Catch 'Em ALL! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-06-22T22:01:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -56,34 +84,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "319221561312",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "582430476",
-    "game_name": "Far Far West",
-    "type": "live",
-    "title": "Uh... am far far westing with the homies! (Far far west w/ friends)",
-    "viewer_count": 8,
-    "started_at": "2026-06-23T00:25:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "ac130",
-      "jetengine",
-      "Vtuber",
-      "prismmodel",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "320096307931",
@@ -115,33 +115,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "317454760792",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "2085980140",
-    "game_name": "Lethal Company",
-    "type": "live",
-    "title": "LETHAL CO SOSS COLLAB @theomenclature @slimechemist @somanella",
-    "viewer_count": 5,
-    "started_at": "2026-06-23T00:21:35Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "goth",
-      "lethalcompany"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
     "id": "319222100320",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -169,30 +142,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
   },
   {
-    "id": "319096282206",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "209738946",
-    "game_name": "Wuthering Waves",
+    "id": "317454760792",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "2085980140",
+    "game_name": "Lethal Company",
     "type": "live",
-    "title": "Cyberpunk Time! :3  ~🍂 !discord !merch",
-    "viewer_count": 3,
-    "started_at": "2026-06-23T00:57:18Z",
+    "title": "LETHAL CO SOSS COLLAB @theomenclature @slimechemist @somanella",
+    "viewer_count": 4,
+    "started_at": "2026-06-23T00:21:35Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "English",
       "Vtuber",
       "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz",
-      "DropsEnabled"
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "lethalcompany"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
     "id": "320098071387",
@@ -213,5 +187,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
+    "id": "319096282206",
+    "user_id": "938069605",
+    "user_login": "cedarvt",
+    "user_name": "CedarVT",
+    "game_id": "209738946",
+    "game_name": "Wuthering Waves",
+    "type": "live",
+    "title": "Cyberpunk Time! :3  ~🍂 !discord !merch",
+    "viewer_count": 2,
+    "started_at": "2026-06-23T00:57:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "ComfyChaotic",
+      "leaf",
+      "skibidirizz",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   }
 ]
