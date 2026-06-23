@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ THE END IS OPENING!! - Day 4: VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 36,
+    "viewer_count": 34,
     "started_at": "2026-06-22T23:07:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,35 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "320095258715",
-    "user_id": "846373427",
-    "user_login": "seraphselkie",
-    "user_name": "seraphselkie",
-    "game_id": "1820839024",
-    "game_name": "MECCHA CHAMELEON",
-    "type": "live",
-    "title": "Meccha Chameleon collab! talent in the hands of a clown! !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 21,
-    "started_at": "2026-06-22T21:56:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "18pluschannel",
-      "Vtuber",
-      "maturecontent",
-      "Mature",
-      "Chaotic",
-      "LGBTQIAPIus",
-      "Dyslexia",
-      "ADHD",
-      "ENVtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
-  },
-  {
     "id": "319924661209",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -66,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] Catch 'Em ALL! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-06-22T22:01:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -85,6 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "319221561312",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "582430476",
+    "game_name": "Far Far West",
+    "type": "live",
+    "title": "Uh... am far far westing with the homies! (Far far west w/ friends)",
+    "viewer_count": 5,
+    "started_at": "2026-06-23T00:25:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "ac130",
+      "jetengine",
+      "Vtuber",
+      "prismmodel",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "320098071387",
@@ -161,28 +160,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
-    "id": "319220056928",
-    "user_id": "164312667",
-    "user_login": "baronobeefdipvt",
-    "user_name": "BaronOBeefDipVT",
-    "game_id": "197489698",
-    "game_name": "DIGIMON STORY: TIME STRANGER",
-    "type": "live",
-    "title": "More Digimon, More Strangers! | Digimon Time Stranger | 18+ |",
-    "viewer_count": 0,
-    "started_at": "2026-06-22T23:00:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_baronobeefdipvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VtuberEN",
-      "Furry",
-      "gaming"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242fb204-748b-4ee3-922f-41330d2277db-profile_image-300x300.png"
   }
 ]
