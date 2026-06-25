@@ -53,31 +53,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
-    "id": "320145156955",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "517404",
-    "game_name": "SCARLET NEXUS",
-    "type": "live",
-    "title": "This place seems like the military, What's the OSF?|| Scarlet Nexus (!lurk, !links,  !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-06-25T21:00:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "315769785705",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -104,6 +79,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "320145156955",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "517404",
+    "game_name": "SCARLET NEXUS",
+    "type": "live",
+    "title": "This place seems like the military, What's the OSF?|| Scarlet Nexus (!lurk, !links,  !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-06-25T21:00:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "319131990494",
@@ -140,7 +140,7 @@
     "game_id": "498592",
     "game_name": "I'm Only Sleeping",
     "type": "live",
-    "title": "\u301018+\u3011Eldritch Horror Goes Eepy! and plays VODS \u2738Charity Stream\u2738 !donate",
+    "title": "【18+】Eldritch Horror Goes Eepy! and plays VODS ✸Charity Stream✸ !donate",
     "viewer_count": 2,
     "started_at": "2026-06-25T00:12:12Z",
     "language": "en",
