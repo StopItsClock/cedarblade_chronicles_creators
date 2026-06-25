@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Finally starting a hardcore world!! || !discord !dono !lurk !throne",
-    "viewer_count": 14,
+    "viewer_count": 19,
     "started_at": "2026-06-25T19:12:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Chained Together",
     "type": "live",
     "title": "Birb and Fox VS The Pearly Gates Jumping Puzzle | Chained to @asteriaanemone | !Clip",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-06-25T19:44:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -50,35 +50,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319961504601",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "498592",
-    "game_name": "I'm Only Sleeping",
-    "type": "live",
-    "title": "【18+】Eldritch Horror Goes Eepy! and plays VODS ✸Charity Stream✸ !donate",
-    "viewer_count": 5,
-    "started_at": "2026-06-25T00:12:12Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "ENVtuber",
-      "boyfriend",
-      "TentacleMonster",
-      "boyfailure",
-      "feet",
-      "eboy",
-      "DeepVoice",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
     "id": "315710880210",
@@ -103,5 +74,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "319961504601",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "498592",
+    "game_name": "I'm Only Sleeping",
+    "type": "live",
+    "title": "【18+】Eldritch Horror Goes Eepy! and plays VODS ✸Charity Stream✸ !donate",
+    "viewer_count": 3,
+    "started_at": "2026-06-25T00:12:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "ENVtuber",
+      "boyfriend",
+      "TentacleMonster",
+      "boyfailure",
+      "feet",
+      "eboy",
+      "DeepVoice",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
