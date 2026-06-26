@@ -28,6 +28,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "320051472858",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "1568081763",
+    "game_name": "Mass Effect Legendary Edition",
+    "type": "live",
+    "title": "【 COSMIC EFFECT!】Returning to Mass Effect 2! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 7,
+    "started_at": "2026-06-26T21:00:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320164114523",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -36,7 +61,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] Becoming Legend.... ary! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-06-26T22:12:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -55,31 +80,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "320051472858",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "1568081763",
-    "game_name": "Mass Effect Legendary Edition",
-    "type": "live",
-    "title": "【 COSMIC EFFECT!】Returning to Mass Effect 2! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 5,
-    "started_at": "2026-06-26T21:00:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "319961504601",
@@ -119,7 +119,7 @@
     "game_name": "",
     "type": "live",
     "title": "Archipelago with friends (she made us turn on death link)",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-06-26T20:18:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
