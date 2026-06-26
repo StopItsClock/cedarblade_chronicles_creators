@@ -28,32 +28,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "316872590839",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "LOOK AT MY NEW ICON",
-    "viewer_count": 5,
-    "started_at": "2026-06-26T19:18:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames",
-      "LIESOFP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
-  },
-  {
     "id": "319961504601",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -62,7 +36,7 @@
     "game_name": "I'm Only Sleeping",
     "type": "live",
     "title": "【18+】Eldritch Horror Asleep Enjoy VODS ✸Charity Stream✸ !donate",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-06-25T00:12:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -81,5 +55,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "316872590839",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "LOOK AT MY NEW ICON | we draw in",
+    "viewer_count": 3,
+    "started_at": "2026-06-26T19:18:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge",
+      "soulsgames",
+      "LIESOFP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
   }
 ]
