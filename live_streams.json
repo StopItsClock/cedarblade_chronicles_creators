@@ -28,6 +28,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "316872590839",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "513143",
+    "game_name": "Teamfight Tactics",
+    "type": "live",
+    "title": "LOOK AT MY NEW ICON | we draw in",
+    "viewer_count": 3,
+    "started_at": "2026-06-26T19:18:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Cr\u0131nge",
+      "soulsgames",
+      "LIESOFP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
+  },
+  {
     "id": "319961504601",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -35,7 +61,7 @@
     "game_id": "498592",
     "game_name": "I'm Only Sleeping",
     "type": "live",
-    "title": "【18+】Eldritch Horror Asleep Enjoy VODS ✸Charity Stream✸ !donate",
+    "title": "\u301018+\u3011Eldritch Horror Asleep Enjoy VODS \u2738Charity Stream\u2738 !donate",
     "viewer_count": 3,
     "started_at": "2026-06-25T00:12:12Z",
     "language": "en",
@@ -55,32 +81,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
-    "id": "316872590839",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "513143",
-    "game_name": "Teamfight Tactics",
-    "type": "live",
-    "title": "LOOK AT MY NEW ICON | we draw in",
-    "viewer_count": 2,
-    "started_at": "2026-06-26T19:18:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames",
-      "LIESOFP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
   },
   {
     "id": "319201241564",
@@ -106,5 +106,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "317585405671",
+    "user_id": "169349524",
+    "user_login": "frostvirinightfang",
+    "user_name": "FrostViriNightfang",
+    "game_id": "1286840579",
+    "game_name": "Demonologist",
+    "type": "live",
+    "title": "\u263d Trying out the new update \u263e !discord",
+    "viewer_count": 0,
+    "started_at": "2026-06-26T20:58:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostvirinightfang-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Genderfluid",
+      "English",
+      "LGBTQ",
+      "LGBTQFriendly",
+      "DyslexicStreamer",
+      "Vtuber",
+      "chill",
+      "LurkersWelcome",
+      "Omnisexual",
+      "witch"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/89e47358-a571-4e69-add0-d64cd5a89514-profile_image-300x300.png"
   }
 ]
