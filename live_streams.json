@@ -8,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "✧ DELTARUNE CH 5 TODAY!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 29,
+    "viewer_count": 26,
     "started_at": "2026-06-26T23:07:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "The Elder Scrolls V: Skyrim",
     "type": "live",
     "title": "[18+] ~MODEL UPDATE~ 100+ Mods and Chat Spawns! [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 25,
+    "viewer_count": 24,
     "started_at": "2026-06-26T23:00:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "MECCHA CHAMELEON",
     "type": "live",
     "title": "miyu shows you how not to hide | !hug !socials",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-06-27T01:04:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -123,7 +123,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] Becoming Legend.... ary! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-06-26T22:12:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -169,6 +169,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   },
   {
+    "id": "320055207130",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
+    "type": "live",
+    "title": "NEW ACHIEVEMENT: [PLAY THE SAME GAME YET AGAIN] . At least its with @somanella & @slimechemist {An Elden Ring Night Reign Stream}",
+    "viewer_count": 4,
+    "started_at": "2026-06-27T00:16:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "320165020251",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -177,7 +197,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "[18+] I love Deadlock yuri | Deadlock | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-06-26T23:00:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -196,26 +216,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "320055207130",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "982348888",
-    "game_name": "ELDEN RING NIGHTREIGN",
-    "type": "live",
-    "title": "NEW ACHIEVEMENT: [PLAY THE SAME GAME YET AGAIN] . At least its with @somanella & @slimechemist {An Elden Ring Night Reign Stream}",
-    "viewer_count": 3,
-    "started_at": "2026-06-27T00:16:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "319205504348",
