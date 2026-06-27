@@ -8,7 +8,7 @@
     "game_name": "Crab Game",
     "type": "live",
     "title": "[ENVtuber] LATE BIRTHDAY EVENT AAAA CRAB GAME TIME",
-    "viewer_count": 19,
+    "viewer_count": 18,
     "started_at": "2026-06-27T15:54:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Random Marvel Rival Stream Omg",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-06-27T20:36:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -94,5 +94,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
+    "id": "319286612192",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "Time to Celebrate, Happy 10th Anniversary DBD!!!",
+    "viewer_count": 0,
+    "started_at": "2026-06-27T20:52:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
