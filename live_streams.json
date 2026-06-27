@@ -8,7 +8,7 @@
     "game_name": "Crab Game",
     "type": "live",
     "title": "[ENVtuber] LATE BIRTHDAY EVENT AAAA CRAB GAME TIME",
-    "viewer_count": 18,
+    "viewer_count": 20,
     "started_at": "2026-06-27T15:54:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Random Marvel Rival Stream Omg",
-    "viewer_count": 11,
+    "viewer_count": 12,
     "started_at": "2026-06-27T20:36:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -52,27 +52,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
-    "id": "319286612192",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "491487",
-    "game_name": "Dead by Daylight",
+    "id": "320182821083",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "1568081763",
+    "game_name": "Mass Effect Legendary Edition",
     "type": "live",
-    "title": "Time to Celebrate, Happy 10th Anniversary DBD!!!",
-    "viewer_count": 2,
-    "started_at": "2026-06-27T20:52:30Z",
+    "title": "【 COSMIC EFFECT!】Let's just have a weekend of Mass Errect! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 3,
+    "started_at": "2026-06-27T21:00:03Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
+      "Vtuber",
       "English",
-      "VTuber",
-      "lgbtq",
-      "DropsEnabled"
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "315717963090",
@@ -99,29 +101,24 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
-    "id": "320182821083",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "1568081763",
-    "game_name": "Mass Effect Legendary Edition",
+    "id": "320180873563",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
     "type": "live",
-    "title": "【 COSMIC EFFECT!】Let's just have a weekend of Mass Errect! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 2,
-    "started_at": "2026-06-27T21:00:03Z",
+    "title": "NEW ACHIEVEMENT: [Maybe Half Way There] You'd think with how often you stream this, you'd be done by now... Maybe Die less. [Elden Ring]",
+    "viewer_count": 1,
+    "started_at": "2026-06-27T19:11:37Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper"
+      "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "320182939099",
@@ -149,23 +146,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
-    "id": "320180873563",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
+    "id": "319286612192",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
     "type": "live",
-    "title": "NEW ACHIEVEMENT: [Maybe Half Way There] You'd think with how often you stream this, you'd be done by now... Maybe Die less. [Elden Ring]",
+    "title": "Time to Celebrate, Happy 10th Anniversary DBD!!!",
     "viewer_count": 1,
-    "started_at": "2026-06-27T19:11:37Z",
+    "started_at": "2026-06-27T20:52:30Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "English"
+      "English",
+      "VTuber",
+      "lgbtq",
+      "DropsEnabled"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
