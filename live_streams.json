@@ -8,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "✧ Fighting final boss then Minecraft VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 23,
+    "viewer_count": 20,
     "started_at": "2026-06-27T23:00:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -78,6 +78,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "320182939099",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1147745783",
+    "game_name": "Inscryption",
+    "type": "live",
+    "title": "Do I need the heart of the cards or 20 lands?|| Inscryption (!lurk, !links,  !discord)",
+    "viewer_count": 5,
+    "started_at": "2026-06-27T21:05:47Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "320073515098",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -107,58 +132,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "320074412122",
-    "user_id": "73150212",
-    "user_login": "xionfox",
-    "user_name": "XionFox",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[MINECRAFT] Starbyte Against the world! Time to fight the Wither! @ShizukaCh @DazzlingOriel @Miyuwanchan",
-    "viewer_count": 5,
-    "started_at": "2026-06-27T23:35:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "voiceacting",
-      "fox",
-      "foxtuber",
-      "scuff",
-      "chatting",
-      "English",
-      "Japanese"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "320182939099",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1147745783",
-    "game_name": "Inscryption",
-    "type": "live",
-    "title": "Do I need the heart of the cards or 20 lands?|| Inscryption (!lurk, !links,  !discord)",
-    "viewer_count": 4,
-    "started_at": "2026-06-27T21:05:47Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "320180873563",
     "user_id": "232460847",
     "user_login": "theomenclature",
@@ -167,7 +140,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "NEW ACHIEVEMENT: [Maybe Half Way There] You'd think with how often you stream this, you'd be done by now... Maybe Die less. [Elden Ring]",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-06-27T19:11:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
@@ -229,5 +202,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
+    "id": "320074412122",
+    "user_id": "73150212",
+    "user_login": "xionfox",
+    "user_name": "XionFox",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[MINECRAFT] Starbyte Against the world! Time to fight the Wither! @ShizukaCh @DazzlingOriel @Miyuwanchan",
+    "viewer_count": 1,
+    "started_at": "2026-06-27T23:35:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "voiceacting",
+      "fox",
+      "foxtuber",
+      "scuff",
+      "chatting",
+      "English",
+      "Japanese"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   }
 ]
