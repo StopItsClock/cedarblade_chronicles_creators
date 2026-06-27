@@ -1,34 +1,5 @@
 [
   {
-    "id": "319273852256",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "30028",
-    "game_name": "The Elder Scrolls V: Skyrim",
-    "type": "live",
-    "title": "[18+] ~MODEL UPDATE~ 100+ Mods and Chat Spawns! [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 20,
-    "started_at": "2026-06-26T23:00:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "girl",
-      "LGBT",
-      "English",
-      "Canadian",
-      "LGBTQFriendly",
-      "Skyrim",
-      "BRAINROT",
-      "SkyrimModded",
-      "modeldebut"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
     "id": "316873915895",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -37,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "✧ DELTARUNE CH 5 TODAY!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 22,
     "started_at": "2026-06-26T23:07:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319273852256",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "30028",
+    "game_name": "The Elder Scrolls V: Skyrim",
+    "type": "live",
+    "title": "[18+] ~MODEL UPDATE~ 100+ Mods and Chat Spawns! [Crowd Control Skyrim] | !throne !socials !lurk !discord",
+    "viewer_count": 17,
+    "started_at": "2026-06-26T23:00:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "LGBTQFriendly",
+      "Skyrim",
+      "BRAINROT",
+      "SkyrimModded",
+      "modeldebut"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
     "id": "319274825184",
     "user_id": "883915539",
     "user_login": "tw_jett",
@@ -66,7 +66,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "₊✩‧₊˚౨ yap + meccha chameleon collab ৎ˚₊✩‧₊ | !discord !lurk",
-    "viewer_count": 11,
+    "viewer_count": 15,
     "started_at": "2026-06-27T00:01:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -108,26 +108,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
-    "id": "320055207130",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "982348888",
-    "game_name": "ELDEN RING NIGHTREIGN",
-    "type": "live",
-    "title": "NEW ACHIEVEMENT: [PLAY THE SAME GAME YET AGAIN] . At least its with @somanella & @slimechemist {An Elden Ring Night Reign Stream}",
-    "viewer_count": 5,
-    "started_at": "2026-06-27T00:16:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
     "id": "320165020251",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -136,7 +116,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "[18+] I love Deadlock yuri | Deadlock | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-06-26T23:00:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -165,7 +145,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[Charity] Becoming Legend.... ary! 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-06-26T22:12:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -194,7 +174,7 @@
     "game_name": "",
     "type": "live",
     "title": "Archipelago with friends (she made us turn on death link)",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-06-26T20:18:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -209,5 +189,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "320055207130",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
+    "type": "live",
+    "title": "NEW ACHIEVEMENT: [PLAY THE SAME GAME YET AGAIN] . At least its with @somanella & @slimechemist {An Elden Ring Night Reign Stream}",
+    "viewer_count": 3,
+    "started_at": "2026-06-27T00:16:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
