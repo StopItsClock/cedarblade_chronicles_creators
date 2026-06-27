@@ -8,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "✧ DELTARUNE CH 5 TODAY!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 25,
     "started_at": "2026-06-26T23:07:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -91,7 +91,7 @@
     "game_name": "MECCHA CHAMELEON",
     "type": "live",
     "title": "miyu shows you how not to hide | !hug !socials",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-06-27T01:04:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -120,7 +120,7 @@
     "game_name": "ARKNIGHTS: ENDFIELD",
     "type": "live",
     "title": "New vampire husband dropped [!lurk !discord !clip]",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-06-27T01:05:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -198,6 +198,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "320055207130",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
+    "type": "live",
+    "title": "NEW ACHIEVEMENT: [PLAY THE SAME GAME YET AGAIN] . At least its with @somanella & @slimechemist {An Elden Ring Night Reign Stream}",
+    "viewer_count": 4,
+    "started_at": "2026-06-27T00:16:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "319205504348",
     "user_id": "243161944",
     "user_login": "dracolicheren",
@@ -249,25 +269,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "320055207130",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "982348888",
-    "game_name": "ELDEN RING NIGHTREIGN",
-    "type": "live",
-    "title": "NEW ACHIEVEMENT: [PLAY THE SAME GAME YET AGAIN] . At least its with @somanella & @slimechemist {An Elden Ring Night Reign Stream}",
-    "viewer_count": 2,
-    "started_at": "2026-06-27T00:16:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
