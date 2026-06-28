@@ -1,28 +1,5 @@
 [
   {
-    "id": "320020545753",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "489401",
-    "game_name": "Call of Duty: Black Ops III",
-    "type": "live",
-    "title": "1-2 games of deadlock before bo3 with @aumi_saki , @ariraakai and @kuroseshinya",
-    "viewer_count": 6,
-    "started_at": "2026-06-28T03:35:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
-  },
-  {
     "id": "317818308582",
     "user_id": "169349524",
     "user_login": "frostvirinightfang",
@@ -30,7 +7,7 @@
     "game_id": "1758638557",
     "game_name": "Dead as Disco",
     "type": "live",
-    "title": "\u263d I LOVE THIS GAME ALREADY!! (Early Access) \u263e !discord",
+    "title": "☽ I LOVE THIS GAME ALREADY!! (Early Access) ☾ !discord",
     "viewer_count": 5,
     "started_at": "2026-06-28T11:57:17Z",
     "language": "en",
@@ -48,5 +25,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/89e47358-a571-4e69-add0-d64cd5a89514-profile_image-300x300.png"
+  },
+  {
+    "id": "320020545753",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "489401",
+    "game_name": "Call of Duty: Black Ops III",
+    "type": "live",
+    "title": "1-2 games of deadlock before bo3 with @aumi_saki , @ariraakai and @kuroseshinya",
+    "viewer_count": 4,
+    "started_at": "2026-06-28T03:35:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
