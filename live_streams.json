@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "319170426590",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "Random Marvel Rival Stream AGAIN OMG WOWOWOWOWOW",
+    "viewer_count": 0,
+    "started_at": "2026-06-28T16:12:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Funny",
+      "Fun",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  }
+]
