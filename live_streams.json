@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ We all explode after this - Minecraft VSMP Cobblemon FINAL DAY ✧ !lurk !merch !throne !clip",
-    "viewer_count": 21,
+    "viewer_count": 25,
     "started_at": "2026-06-28T17:27:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Random Marvel Rival Stream AGAIN OMG WOWOWOWOWOW",
-    "viewer_count": 5,
+    "viewer_count": 2,
     "started_at": "2026-06-28T17:41:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -84,32 +84,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
-  },
-  {
-    "id": "317109163620",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
-    "game_id": "394568",
-    "game_name": "RimWorld",
-    "type": "live",
-    "title": "Back to the lab! the heat is manageable! ep 7",
-    "viewer_count": 3,
-    "started_at": "2026-06-28T16:54:10Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
-      "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   }
 ]
