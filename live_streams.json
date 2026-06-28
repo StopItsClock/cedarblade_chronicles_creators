@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Day beofore the final day! Minecraft VSMP Cobblemon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 120,
+    "viewer_count": 115,
     "started_at": "2026-06-27T23:00:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -36,8 +36,8 @@
     "game_id": "509660",
     "game_name": "Art",
     "type": "live",
-    "title": "【18+】Eldritch Horror Draws w/ Videos ✸Charity Stream✸ !donate !TADC !dox",
-    "viewer_count": 10,
+    "title": "【18+】Eldritch Horror Draws w/ Videos ✸Charity Stream✸ !donate !TADC !doxx",
+    "viewer_count": 20,
     "started_at": "2026-06-28T04:12:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,6 +56,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "320020545753",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "2132205352",
+    "game_name": "Deadlock",
+    "type": "live",
+    "title": "1-2 games of deadlock before bo3 with @aumi_saki , @ariraakai and @kuroseshinya",
+    "viewer_count": 7,
+    "started_at": "2026-06-28T03:35:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "320074412122",
@@ -83,28 +106,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "320020545753",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "2132205352",
-    "game_name": "Deadlock",
-    "type": "live",
-    "title": "1-2 games of deadlock before bo3 with @aumi_saki , @ariraakai and @kuroseshinya",
-    "viewer_count": 4,
-    "started_at": "2026-06-28T03:35:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
