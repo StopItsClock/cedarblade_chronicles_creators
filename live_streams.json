@@ -1,5 +1,34 @@
 [
   {
+    "id": "320028345433",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "CHAMPIONS FOR CHARITY 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
+    "viewer_count": 4,
+    "started_at": "2026-06-28T17:19:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
     "id": "319170426590",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -36,7 +65,7 @@
     "game_name": "RimWorld",
     "type": "live",
     "title": "Back to the lab! the heat is manageable! ep 7",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-06-28T16:54:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
