@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "\u2727 We all explode after this - Minecraft VSMP Cobblemon FINAL DAY \u2727 !lurk !merch !throne !clip",
+    "title": "✧ We all explode after this - Minecraft VSMP Cobblemon FINAL DAY ✧ !lurk !merch !throne !clip",
     "viewer_count": 14,
     "started_at": "2026-06-28T17:27:52Z",
     "language": "en",
@@ -57,35 +57,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
-    "id": "320028345433",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "CHAMPIONS FOR CHARITY \ud83e\uddca !Dono !Effects !Socials \ud83c\udf67 @frostedplague7 #VtuberSS2026",
-    "viewer_count": 4,
-    "started_at": "2026-06-28T17:19:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "Hispanic",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
     "id": "317109163620",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -111,5 +82,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
+    "id": "320028345433",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "CHAMPIONS FOR CHARITY 🧊 !Dono !Effects !Socials 🍧 @frostedplague7 #VtuberSS2026",
+    "viewer_count": 4,
+    "started_at": "2026-06-28T17:19:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   }
 ]
