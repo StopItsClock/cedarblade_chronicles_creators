@@ -1,5 +1,30 @@
 [
   {
+    "id": "320218149595",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "\u3010 STARDEW MONDAYS!\u3011Stream Deck is online!! \u2307 18+ \u2307 !clip !discord !social",
+    "viewer_count": 7,
+    "started_at": "2026-06-29T20:59:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319312514016",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -35,7 +60,7 @@
     "game_name": "Mewgenics",
     "type": "live",
     "title": "Creating and maybe using Eldritch cats|| Mewgenics (!lurk, !links,  !discord)",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-06-29T20:56:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -73,30 +98,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "320218149595",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "【 STARDEW MONDAYS!】Stream Deck is online!! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 0,
-    "started_at": "2026-06-29T20:59:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   }
 ]
