@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "【 STARDEW MONDAYS!】Stream Deck is online!! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-06-29T20:59:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -25,6 +25,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "320218102747",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "75115",
+    "game_name": "Mewgenics",
+    "type": "live",
+    "title": "Creating and maybe using Eldritch cats|| Mewgenics (!lurk, !links,  !discord)",
+    "viewer_count": 5,
+    "started_at": "2026-06-29T20:56:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "320220076635",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -33,7 +58,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] Hwell Hwell Hwell | DotW + Limbus | !lurk !throne !tip !discord",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-06-29T23:01:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -72,30 +97,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "320218102747",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "75115",
-    "game_name": "Mewgenics",
-    "type": "live",
-    "title": "Creating and maybe using Eldritch cats|| Mewgenics (!lurk, !links,  !discord)",
-    "viewer_count": 3,
-    "started_at": "2026-06-29T20:56:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
