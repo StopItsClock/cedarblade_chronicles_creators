@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "【 STARDEW MONDAYS!】Stream Deck is online!! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-06-29T20:59:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "Wyll's Dad is saved and Mizora is angy (BG3 w/ @Regina_Kardinal)",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-06-29T20:16:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -60,7 +60,7 @@
     "game_name": "Mewgenics",
     "type": "live",
     "title": "Creating and maybe using Eldritch cats|| Mewgenics (!lurk, !links,  !discord)",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-06-29T20:56:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -75,6 +75,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "317616882023",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "1143686580",
+    "game_name": "Gamble With Your Friends",
+    "type": "live",
+    "title": "I don't have a GAMBLING PROBLEM. ft. Veran Miyu Midas Ren!",
+    "viewer_count": 1,
+    "started_at": "2026-06-29T22:17:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "317093894498",
@@ -98,25 +118,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "317616882023",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "1143686580",
-    "game_name": "Gamble With Your Friends",
-    "type": "live",
-    "title": "I don't have a GAMBLING PROBLEM. ft. Veran Miyu Midas Ren!",
-    "viewer_count": 0,
-    "started_at": "2026-06-29T22:17:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
