@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "【18+】Eldritch Horror Draws Chatters AND Finishes TADC! ✸TADC Stream✸ !lurk !TADC !doxx !sacrifice",
-    "viewer_count": 23,
+    "viewer_count": 21,
     "started_at": "2026-06-29T23:55:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Fears to Fathom - Scratch Creek",
     "type": "live",
     "title": "₊✩‧₊˚౨ yap + fears to famthom w/ @miyuwanchan ৎ˚₊✩‧₊ | !discord !lurk",
-    "viewer_count": 16,
+    "viewer_count": 14,
     "started_at": "2026-06-29T23:58:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -118,7 +118,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] Hwell Hwell Hwell | DotW + Limbus | !lurk !throne !tip !discord",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-06-29T23:01:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -157,26 +157,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
-  },
-  {
-    "id": "320224553819",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "497057",
-    "game_name": "Destiny 2",
-    "type": "live",
-    "title": "Comfy Destiny 2",
-    "viewer_count": 1,
-    "started_at": "2026-06-30T02:36:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "320223801563",
@@ -231,5 +211,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "320224553819",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "497057",
+    "game_name": "Destiny 2",
+    "type": "live",
+    "title": "Comfy Destiny 2",
+    "viewer_count": 1,
+    "started_at": "2026-06-30T02:36:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
