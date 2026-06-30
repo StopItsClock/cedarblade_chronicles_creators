@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "【18+】Eldritch Horror Draws Chatters AND Finishes TADC! ✸TADC Stream✸ !lurk !TADC !doxx !sacrifice",
-    "viewer_count": 24,
+    "viewer_count": 23,
     "started_at": "2026-06-29T23:55:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Fears to Fathom - Scratch Creek",
     "type": "live",
     "title": "Time to face my biggest fear...creeks | !hug !socials",
-    "viewer_count": 15,
+    "viewer_count": 16,
     "started_at": "2026-06-30T01:01:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Fears to Fathom - Scratch Creek",
     "type": "live",
     "title": "₊✩‧₊˚౨ yap + fears to famthom w/ @miyuwanchan ৎ˚₊✩‧₊ | !discord !lurk",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-06-29T23:58:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -91,7 +91,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "We are Deadlocking it",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-06-30T00:49:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -108,6 +108,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "320224553819",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "497057",
+    "game_name": "Destiny 2",
+    "type": "live",
+    "title": "Comfy Destiny 2",
+    "viewer_count": 5,
+    "started_at": "2026-06-30T02:36:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "320223362395",
@@ -130,24 +150,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
-    "id": "320224553819",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "497057",
-    "game_name": "Destiny 2",
+    "id": "319190492382",
+    "user_id": "938069605",
+    "user_login": "cedarvt",
+    "user_name": "CedarVT",
+    "game_id": "209738946",
+    "game_name": "Wuthering Waves",
     "type": "live",
-    "title": "Comfy Destiny 2",
-    "viewer_count": 3,
-    "started_at": "2026-06-30T02:36:11Z",
+    "title": "Vibin' n' Thrivin' :3  ~🍂 !discord !merch",
+    "viewer_count": 2,
+    "started_at": "2026-06-30T01:28:05Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "English"
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "ComfyChaotic",
+      "leaf",
+      "skibidirizz",
+      "DropsEnabled"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   },
   {
     "id": "320223801563",
@@ -176,31 +202,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "319190492382",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "209738946",
-    "game_name": "Wuthering Waves",
-    "type": "live",
-    "title": "Vibin' n' Thrivin' :3  ~🍂 !discord !merch",
-    "viewer_count": 1,
-    "started_at": "2026-06-30T01:28:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   }
 ]
