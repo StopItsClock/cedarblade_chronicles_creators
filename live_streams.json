@@ -37,7 +37,7 @@
     "game_name": "Superliminal",
     "type": "live",
     "title": "✧ Uh oh Slushie vs Puzzles ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 25,
     "started_at": "2026-06-30T23:28:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -56,6 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
+  },
+  {
+    "id": "318309049303",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "1820839024",
+    "game_name": "MECCHA CHAMELEON",
+    "type": "live",
+    "title": "MECCHA CHAMELEON SOSS COLLAB @somanella @theomenclature @slimechemist",
+    "viewer_count": 7,
+    "started_at": "2026-07-01T00:05:47Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "Vampire",
+      "mecchachameleon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
     "id": "319200433118",
@@ -85,34 +113,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "318309049303",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "1820839024",
-    "game_name": "MECCHA CHAMELEON",
-    "type": "live",
-    "title": "MECCHA CHAMELEON SOSS COLLAB @somanella @theomenclature @slimechemist",
-    "viewer_count": 5,
-    "started_at": "2026-07-01T00:05:47Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "goth",
-      "Vampire",
-      "mecchachameleon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
     "id": "320065763801",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -121,7 +121,7 @@
     "game_name": "Dinocop",
     "type": "live",
     "title": "[18+] ACAB includes Dinocop????? | Dinocop | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-06-30T23:00:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -150,7 +150,7 @@
     "game_name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
     "type": "live",
     "title": "CHILL GAME NIGHT CAUSE I NEED IT | !Clip",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-06-30T22:48:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -167,6 +167,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "320126655066",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "1820839024",
+    "game_name": "MECCHA CHAMELEON",
+    "type": "live",
+    "title": "NEW ACHIEVEMENT: [Hide in plain sight] I'm just kidding, you're total going to be seen. |Meccha Chameleon @eepysoma @somanella @slimechemist",
+    "viewer_count": 3,
+    "started_at": "2026-07-01T00:01:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "318337461749",
@@ -192,25 +212,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
-  },
-  {
-    "id": "320126655066",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "1820839024",
-    "game_name": "MECCHA CHAMELEON",
-    "type": "live",
-    "title": "NEW ACHIEVEMENT: [Hide in plain sight] I'm just kidding, you're total going to be seen. |Meccha Chameleon @eepysoma @somanella @slimechemist",
-    "viewer_count": 2,
-    "started_at": "2026-07-01T00:01:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   }
 ]
