@@ -8,7 +8,7 @@
     "game_name": "Schedule I",
     "type": "live",
     "title": "✧ Building an empire! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 23,
+    "viewer_count": 26,
     "started_at": "2026-07-01T23:02:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,30 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "315791222249",
-    "user_id": "424839179",
-    "user_login": "thorn_fey_vt",
-    "user_name": "thorn_fey_vt",
-    "game_id": "509660",
-    "game_name": "Art",
-    "type": "live",
-    "title": "||Art Fight 2026 Day 1, Mystery Vs Tragedy Vs Comedy time to attack||#Vtuber||18+||!lurk !comms !coffee||",
-    "viewer_count": 5,
-    "started_at": "2026-07-01T22:55:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thorn_fey_vt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "LGBT",
-      "Autistic",
-      "ADHD",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/877ab6a2-4ac4-4f06-8711-330aa2c6acb3-profile_image-300x300.png"
-  },
-  {
     "id": "320141622618",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -61,7 +37,7 @@
     "game_name": "Morimens",
     "type": "live",
     "title": "[18+] All I know is this game has Saya | Morimens (FIRST TIME) | !lurk !throne !tip !discord",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-07-01T23:00:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -80,6 +56,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "315791222249",
+    "user_id": "424839179",
+    "user_login": "thorn_fey_vt",
+    "user_name": "thorn_fey_vt",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "||Art Fight 2026 Day 1, Mystery Vs Tragedy Vs Comedy time to attack||#Vtuber||18+||!lurk !comms !coffee||",
+    "viewer_count": 3,
+    "started_at": "2026-07-01T22:55:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thorn_fey_vt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "LGBT",
+      "Autistic",
+      "ADHD",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/877ab6a2-4ac4-4f06-8711-330aa2c6acb3-profile_image-300x300.png"
   },
   {
     "id": "319270991196",
