@@ -8,7 +8,7 @@
     "game_name": "Superliminal",
     "type": "live",
     "title": "✧ Uh oh Slushie vs Puzzles ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
+    "viewer_count": 29,
     "started_at": "2026-06-30T23:28:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Pokémon XD: Gale of Darkness",
     "type": "live",
     "title": "[18+] *licks you* got any shadow pokemon?  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 24,
+    "viewer_count": 25,
     "started_at": "2026-06-30T22:32:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "Playing League Until I want to jump into a vat of acid",
-    "viewer_count": 11,
+    "viewer_count": 9,
     "started_at": "2026-07-01T01:00:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -78,7 +78,8 @@
       "Vtuber",
       "Funny",
       "Fun",
-      "English"
+      "English",
+      "Rerun"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
@@ -166,33 +167,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "319200433118",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "431065997",
-    "game_name": "FINAL FANTASY VII REMAKE",
-    "type": "live",
-    "title": "I'm Grateful for all the words we've shared.... (FF7 Remake pt. 3)",
-    "viewer_count": 4,
-    "started_at": "2026-06-30T22:17:57Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "ac130",
-      "jetengine",
-      "Vtuber",
-      "prismmodel"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "320126655066",
