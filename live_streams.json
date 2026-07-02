@@ -33,7 +33,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "Deltarune Attack of the Killer queen!!",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-07-02T21:01:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -79,5 +79,59 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
+  },
+  {
+    "id": "315753502568",
+    "user_id": "424839179",
+    "user_login": "thorn_fey_vt",
+    "user_name": "thorn_fey_vt",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "||Art Fight 2026 Day 2, Mystery Vs Tragedy Vs Comedy time to attack||#Vtuber||18+||!lurk !comms||",
+    "viewer_count": 2,
+    "started_at": "2026-07-02T22:51:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thorn_fey_vt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "LGBT",
+      "Autistic",
+      "ADHD",
+      "English",
+      "artfight2026"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/877ab6a2-4ac4-4f06-8711-330aa2c6acb3-profile_image-300x300.png"
+  },
+  {
+    "id": "320157769050",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1820839024",
+    "game_name": "MECCHA CHAMELEON",
+    "type": "live",
+    "title": "[18+] They'll never find me.... | Meccha Chameleon Collab | !lurk !throne !tip !discord",
+    "viewer_count": 1,
+    "started_at": "2026-07-02T22:52:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
