@@ -8,7 +8,7 @@
     "game_name": "Schedule I",
     "type": "live",
     "title": "✧ Building an empire! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 23,
     "started_at": "2026-07-01T23:02:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -87,6 +87,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
+    "id": "320141622618",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "696838866",
+    "game_name": "Morimens",
+    "type": "live",
+    "title": "[18+] All I know is this game has Saya | Morimens (FIRST TIME) | !lurk !throne !tip !discord",
+    "viewer_count": 6,
+    "started_at": "2026-07-01T23:00:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
     "id": "319342084192",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -122,7 +151,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "||Art Fight 2026 Day 1, Mystery Vs Tragedy Vs Comedy time to attack||#Vtuber||18+||!lurk !comms !coffee||",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-07-01T22:55:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thorn_fey_vt-{width}x{height}.jpg",
@@ -163,34 +192,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/656f0ac1-dda4-421b-ba6c-5872f45058ce-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "320141622618",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "696838866",
-    "game_name": "Morimens",
-    "type": "live",
-    "title": "[18+] All I know is this game has Saya | Morimens (FIRST TIME) | !lurk !throne !tip !discord",
-    "viewer_count": 3,
-    "started_at": "2026-07-01T23:00:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
