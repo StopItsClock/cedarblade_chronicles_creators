@@ -8,7 +8,7 @@
     "game_name": "The Legend of Zelda: Ocarina of Time",
     "type": "live",
     "title": "[18+]-No Backseating or spoilers- -> FIRST TIME <- A little yappa, lotsa gaming  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 16,
+    "viewer_count": 27,
     "started_at": "2026-07-03T22:18:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -53,5 +53,58 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "316923984119",
+    "user_id": "137648142",
+    "user_login": "leyonlagure",
+    "user_name": "LeyonLaGure",
+    "game_id": "686119195",
+    "game_name": "Armored Core VI: Fires of Rubicon",
+    "type": "live",
+    "title": "『Armored Core V: Fires of Rubicon』I Have Been so Insufferable About This Game || !discord !essay !hmo !idea 『18+』",
+    "viewer_count": 5,
+    "started_at": "2026-07-03T22:54:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leyonlagure-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "WolfVtuber",
+      "MaleVtuber",
+      "Englishandspanish",
+      "himbo",
+      "LGBTQIAFriendlySpace",
+      "Vtuber",
+      "MentalHealthAdvocate",
+      "Latino"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9b36daa-7868-4427-9e37-14f809ee9dcf-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319366248672",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "₊✩‧₊˚౨ yap + art and thigh cam ৎ˚₊✩‧₊ | !discord !lurk",
+    "viewer_count": 1,
+    "started_at": "2026-07-03T22:58:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "brat",
+      "ComfyChaotic",
+      "twinkmaxxing",
+      "femboy",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   }
 ]
