@@ -8,7 +8,7 @@
     "game_name": "The Legend of Zelda: Ocarina of Time",
     "type": "live",
     "title": "[18+]-No Backseating or spoilers- -> FIRST TIME <- She spend time on my ocarina till I-  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 31,
+    "viewer_count": 29,
     "started_at": "2026-07-03T01:21:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Eldritch Horror Ends Stream ✸Ending Cermonies✸",
-    "viewer_count": 18,
+    "viewer_count": 17,
     "started_at": "2026-07-03T00:55:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,53 +56,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
-    "id": "319228467422",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "864092569",
-    "game_name": "Rhythm Heaven Groove",
-    "type": "live",
-    "title": "I impulse bought this because I heard ADO was in it c:",
-    "viewer_count": 15,
-    "started_at": "2026-07-03T00:50:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Retro",
-      "ComfyCafe",
-      "eepy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
-    "id": "320160912858",
-    "user_id": "743128134",
-    "user_login": "zippingyeti",
-    "user_name": "zippingyeti",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "Meccha Chameleon TIME! Never played it before but lets GOOOOO",
-    "viewer_count": 1,
-    "started_at": "2026-07-03T01:32:28Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zippingyeti-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "smallstrreamer",
-      "English",
-      "chilllin",
-      "pngtuber",
-      "mecchachameleon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e39ece7-efb9-4e9a-974d-eeaf86c14ba2-profile_image-300x300.jpeg"
   }
 ]
