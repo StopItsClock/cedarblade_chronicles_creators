@@ -1,30 +1,5 @@
 [
   {
-    "id": "320130142681",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "27602",
-    "game_name": "Pokémon Black/White",
-    "type": "live",
-    "title": "This Supermodel is going DOWN|| Pokemon White, No catching (!lurk, !links,  !discord)",
-    "viewer_count": 6,
-    "started_at": "2026-07-04T20:57:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "318355543255",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -33,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "DELTARUNE SPAMSON FIGHT AGH!!",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-07-04T21:57:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -51,6 +26,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
+    "id": "320130142681",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "27602",
+    "game_name": "Pokémon Black/White",
+    "type": "live",
+    "title": "This Supermodel is going DOWN|| Pokemon White, No catching (!lurk, !links,  !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-07-04T20:57:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "319308784988",
