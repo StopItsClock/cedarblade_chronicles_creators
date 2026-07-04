@@ -8,7 +8,7 @@
     "game_name": "Pokémon Black/White",
     "type": "live",
     "title": "This Supermodel is going DOWN|| Pokemon White, No catching (!lurk, !links,  !discord)",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-07-04T20:57:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -23,5 +23,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "318355543255",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "965771331",
+    "game_name": "Deltarune",
+    "type": "live",
+    "title": "DELTARUNE SPAMSON FIGHT AGH!!",
+    "viewer_count": 2,
+    "started_at": "2026-07-04T21:57:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "Vampire",
+      "deltarune"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   }
 ]
