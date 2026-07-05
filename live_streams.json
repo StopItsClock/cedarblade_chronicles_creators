@@ -7,8 +7,8 @@
     "game_id": "1692488131",
     "game_name": "Crashout Crew",
     "type": "live",
-    "title": "✧ Celebrating 4 years of Slushie!! 24hr stream!! ahhhh ✧ !lurk !merch !throne !clip",
-    "viewer_count": 43,
+    "title": "\u2727 Celebrating 4 years of Slushie!! 24hr stream!! ahhhh \u2727 !lurk !merch !throne !clip",
+    "viewer_count": 46,
     "started_at": "2026-07-05T18:00:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Stray",
     "type": "live",
     "title": "meow meow meow meow meow? || !discord !dono !lurk !throne",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-07-05T22:28:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -51,6 +51,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
+  },
+  {
+    "id": "320315117147",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "HUGE ANNOUNCEMENT!!! JUST CHATTING AND THEN BAROTRAUMA!!! @cubebie @theautumndryad @omegarift5",
+    "viewer_count": 4,
+    "started_at": "2026-07-05T22:02:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   },
   {
     "id": "315763933288",
@@ -79,33 +107,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "320315117147",
-    "user_id": "193636646",
-    "user_login": "captainyeeticus",
-    "user_name": "captainyeeticus",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "HUGE ANNOUNCEMENT!!! JUST CHATTING AND THEN BAROTRAUMA!!! @cubebie @theautumndryad @omegarift5",
-    "viewer_count": 3,
-    "started_at": "2026-07-05T22:02:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "lgbt",
-      "gremlin",
-      "artist",
-      "author",
-      "transgender",
-      "vtuber",
-      "pngtuber",
-      "envtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
