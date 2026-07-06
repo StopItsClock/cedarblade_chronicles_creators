@@ -8,7 +8,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "hoiiii i'm back ✧",
-    "viewer_count": 19,
+    "viewer_count": 20,
     "started_at": "2026-07-06T20:48:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -27,26 +27,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
   },
   {
-    "id": "317688411495",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 14 - Squad T-1236 - Mission 4",
-    "viewer_count": 7,
-    "started_at": "2026-07-06T22:10:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
     "id": "320161151833",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -55,7 +35,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] Xichun training arc is now in motion | DotW + Limbus | !lurk !throne !tip !discord",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-07-06T23:00:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -84,7 +64,7 @@
     "game_name": "Library of Ruina",
     "type": "live",
     "title": "I'm in this odd place and library, Time to read I guess|| Library of Runia (!lurk, !links,  !discord)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-07-06T20:55:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -99,6 +79,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "317688411495",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 14 - Squad T-1236 - Mission 4",
+    "viewer_count": 4,
+    "started_at": "2026-07-06T22:10:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "319400419680",
