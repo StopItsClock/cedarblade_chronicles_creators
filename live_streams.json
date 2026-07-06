@@ -8,7 +8,7 @@
     "game_name": "ARK: Survival Ascended",
     "type": "live",
     "title": "DINOS! WE LOVE THEM! [PNG for today!] | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 8,
+    "viewer_count": 15,
     "started_at": "2026-07-06T18:00:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -26,6 +26,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
+    "id": "317148554466",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "1397606945",
+    "game_name": "Indiana Jones and the Great Circle",
+    "type": "live",
+    "title": "[1st play through] Struggling to settle into a new stream game, let's see if Indy is the one.",
+    "viewer_count": 5,
+    "started_at": "2026-07-06T19:05:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
     "id": "319400419680",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -34,7 +57,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Marvel Rivals but I have a new MICROPHONE!?!?!?",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-07-06T19:02:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -54,29 +77,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
-    "id": "317148554466",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "1397606945",
-    "game_name": "Indiana Jones and the Great Circle",
-    "type": "live",
-    "title": "[1st play through] Struggling to settle into a new stream game, let's see if Indy is the one.",
-    "viewer_count": 4,
-    "started_at": "2026-07-06T19:05:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
     "id": "317833051749",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -85,7 +85,7 @@
     "game_name": "White Knuckle",
     "type": "live",
     "title": "MONDAY MANIA | Knuckling it in the new update",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-07-06T19:36:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
