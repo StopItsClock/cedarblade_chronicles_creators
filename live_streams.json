@@ -1,33 +1,5 @@
 [
   {
-    "id": "316951010679",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "965771331",
-    "game_name": "Deltarune",
-    "type": "live",
-    "title": "DELTARUNE CHAPTER 3 START",
-    "viewer_count": 6,
-    "started_at": "2026-07-07T21:08:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "goth",
-      "Vampire",
-      "deltarune"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
     "id": "319415824224",
     "user_id": "67504126",
     "user_login": "cutenysnys",
@@ -36,7 +8,7 @@
     "game_name": "Destiny 2",
     "type": "live",
     "title": "[18+] I want to suck the Corrupted Puppeteer's toes  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 3,
+    "viewer_count": 8,
     "started_at": "2026-07-07T22:15:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -55,6 +27,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94819f76-d1a6-4cee-91cc-a6d7071f44f5-profile_image-300x300.png"
+  },
+  {
+    "id": "316951010679",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "965771331",
+    "game_name": "Deltarune",
+    "type": "live",
+    "title": "DELTARUNE CHAPTER 3 START",
+    "viewer_count": 5,
+    "started_at": "2026-07-07T21:08:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "Vampire",
+      "deltarune"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
     "id": "315812553705",
