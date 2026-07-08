@@ -8,7 +8,7 @@
     "game_name": "Call of Duty: Black Ops III",
     "type": "live",
     "title": "Black ops 3 then some overwatch later wahooo",
-    "viewer_count": 11,
+    "viewer_count": 7,
     "started_at": "2026-07-08T20:58:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
@@ -49,6 +49,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
+    "id": "319360543324",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "₊✩‧₊˚౨ yap maxing + art ৎ˚₊✩‧₊ | !discord !lurk",
+    "viewer_count": 1,
+    "started_at": "2026-07-08T22:58:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "brat",
+      "ComfyChaotic",
+      "twinkmaxxing",
+      "femboy",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
+  },
+  {
     "id": "319360155996",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -57,7 +82,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "Nana Didn't want to reinstall a game so... dbd... (Dead By Daylight)",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-07-08T22:31:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -75,5 +100,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "320194599257",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "2132205352",
+    "game_name": "Deadlock",
+    "type": "live",
+    "title": "[18+] I built a desk and now I'm tired..... | Deadlock | !lurk !throne !tip !discord",
+    "viewer_count": 0,
+    "started_at": "2026-07-08T23:00:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
