@@ -1,33 +1,5 @@
 [
   {
-    "id": "319297369950",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Mine Deez | !Discord !lurk | 🐉🧟",
-    "viewer_count": 22,
-    "started_at": "2026-07-08T15:12:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror",
-      "RoseSMP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
     "id": "320249228506",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -65,7 +37,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "STARDEW WEDNESDAY | Do the Dew, Stardew, Stardon't",
-    "viewer_count": 0,
+    "viewer_count": 1,
     "started_at": "2026-07-08T18:32:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
