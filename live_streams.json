@@ -29,6 +29,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   },
   {
+    "id": "317188157924",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "1397606945",
+    "game_name": "Indiana Jones and the Great Circle",
+    "type": "live",
+    "title": "[1st play through] Following a \"Nun\" to find a Cat Mummy",
+    "viewer_count": 2,
+    "started_at": "2026-07-08T19:15:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
     "id": "317852271333",
     "user_id": "96403825",
     "user_login": "burnium",
