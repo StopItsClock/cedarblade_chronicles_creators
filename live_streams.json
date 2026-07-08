@@ -8,7 +8,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Marvel Rivals but we are trying to rank up!?!?!?!?",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-07-08T21:49:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -24,29 +24,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
-  },
-  {
-    "id": "320192533849",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "489401",
-    "game_name": "Call of Duty: Black Ops III",
-    "type": "live",
-    "title": "Black ops 3 then some overwatch later wahooo",
-    "viewer_count": 3,
-    "started_at": "2026-07-08T20:58:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "320361850331",
@@ -76,6 +53,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "320192533849",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "489401",
+    "game_name": "Call of Duty: Black Ops III",
+    "type": "live",
+    "title": "Black ops 3 then some overwatch later wahooo",
+    "viewer_count": 3,
+    "started_at": "2026-07-08T20:58:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "315756899282",
