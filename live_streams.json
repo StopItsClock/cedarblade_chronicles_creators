@@ -1,30 +1,5 @@
 [
   {
-    "id": "319433863136",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cobblemon but im actually just building teehee || !discord !dono !lurk !throne",
-    "viewer_count": 14,
-    "started_at": "2026-07-09T03:27:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating",
-      "Modded"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
-  },
-  {
     "id": "320197527513",
     "user_id": "686234820",
     "user_login": "miyuwanchan",
@@ -33,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "【ROSE SMP】What is Madness but a never-ending game? | !hug !socials",
-    "viewer_count": 13,
+    "viewer_count": 16,
     "started_at": "2026-07-09T01:14:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -54,6 +29,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
+    "id": "319433863136",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Cobblemon but im actually just building teehee || !discord !dono !lurk !throne",
+    "viewer_count": 10,
+    "started_at": "2026-07-09T03:27:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating",
+      "Modded"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
+  },
+  {
     "id": "320199250265",
     "user_id": "265606341",
     "user_login": "nozomienv",
@@ -62,7 +62,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Bikini season on Marvel Rivals! Help fund my swimsuit",
-    "viewer_count": 3,
+    "viewer_count": 6,
     "started_at": "2026-07-09T02:31:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
