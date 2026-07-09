@@ -32,7 +32,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "WE HAVE TO MOVE IN MINECRAFT",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-07-09T21:00:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -52,6 +52,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
+    "id": "315759967058",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "278441117",
+    "game_name": "Assassin's Creed Black Flag Resynced",
+    "type": "live",
+    "title": "IT'S TIME TO SEE IF THEY BUTCHERED MY FAVOURITE GAME!",
+    "viewer_count": 3,
+    "started_at": "2026-07-09T18:46:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "319371368796",
     "user_id": "39084354",
     "user_login": "enigmaticslime",
@@ -60,7 +85,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "I missed the dragon fight. Lets explore and work on the gym a bit.",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-07-09T19:14:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enigmaticslime-{width}x{height}.jpg",
@@ -79,31 +104,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35a9b99d-c953-4959-b2f0-db5a134e5b5d-profile_image-300x300.png"
-  },
-  {
-    "id": "315759967058",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "278441117",
-    "game_name": "Assassin's Creed Black Flag Resynced",
-    "type": "live",
-    "title": "IT'S TIME TO SEE IF THEY BUTCHERED MY FAVOURITE GAME!",
-    "viewer_count": 2,
-    "started_at": "2026-07-09T18:46:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "315840318826",
