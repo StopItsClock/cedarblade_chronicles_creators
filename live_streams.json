@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "✧ Workin on a new mc skin ✧ !lurk !merch !throne !clip",
-    "viewer_count": 33,
+    "viewer_count": 34,
     "started_at": "2026-07-08T23:02:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "₊✩‧₊˚౨ yap maxing + rose smp ৎ˚₊✩‧₊ | !discord !lurk",
-    "viewer_count": 19,
+    "viewer_count": 20,
     "started_at": "2026-07-08T22:58:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -81,54 +81,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "320192533849",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "489401",
-    "game_name": "Call of Duty: Black Ops III",
-    "type": "live",
-    "title": "Black ops 3 then some overwatch later wahooo",
-    "viewer_count": 5,
-    "started_at": "2026-07-08T20:58:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
-  },
-  {
-    "id": "319361303644",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "1044890345",
-    "game_name": "Pokémon Infinite Fusion",
-    "type": "live",
-    "title": "Soul Link Nuzlocke with the special Sauce ~🍂 !discord !merch",
-    "viewer_count": 2,
-    "started_at": "2026-07-08T23:44:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
-  },
-  {
     "id": "320194599257",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -137,7 +89,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "[18+] I built a desk and now I'm tired..... | Deadlock | !lurk !throne !tip !discord",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-07-08T23:00:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -213,5 +165,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
+  },
+  {
+    "id": "319361303644",
+    "user_id": "938069605",
+    "user_login": "cedarvt",
+    "user_name": "CedarVT",
+    "game_id": "1044890345",
+    "game_name": "Pokémon Infinite Fusion",
+    "type": "live",
+    "title": "Soul Link Nuzlocke with the special Sauce ~🍂 !discord !merch",
+    "viewer_count": 1,
+    "started_at": "2026-07-08T23:44:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "ComfyChaotic",
+      "leaf",
+      "skibidirizz"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   }
 ]
