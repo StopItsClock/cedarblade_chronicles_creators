@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "✧ Workin on a new mc skin ✧ !lurk !merch !throne !clip",
-    "viewer_count": 68,
+    "viewer_count": 67,
     "started_at": "2026-07-08T23:02:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -85,6 +85,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   },
   {
+    "id": "320194599257",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "2132205352",
+    "game_name": "Deadlock",
+    "type": "live",
+    "title": "[18+] I built a desk and now I'm tired..... | Deadlock | !lurk !throne !tip !discord",
+    "viewer_count": 5,
+    "started_at": "2026-07-08T23:00:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
     "id": "319361303644",
     "user_id": "938069605",
     "user_login": "cedarvt",
@@ -108,35 +137,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "320194599257",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "2132205352",
-    "game_name": "Deadlock",
-    "type": "live",
-    "title": "[18+] I built a desk and now I'm tired..... | Deadlock | !lurk !throne !tip !discord",
-    "viewer_count": 4,
-    "started_at": "2026-07-08T23:00:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
     "id": "320364385627",
@@ -194,5 +194,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
+  },
+  {
+    "id": "320257128154",
+    "user_id": "431657944",
+    "user_login": "saltyfarzi",
+    "user_name": "SaltyFarzi",
+    "game_id": "766571430",
+    "game_name": "HELLDIVERS 2",
+    "type": "live",
+    "title": "For Fighting for Democracy with ChouRaven and Friends",
+    "viewer_count": 0,
+    "started_at": "2026-07-09T02:00:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saltyfarzi-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ChillnGame",
+      "English",
+      "vtuber",
+      "VtuberEN",
+      "VtuberUprising",
+      "FPS",
+      "Shooter",
+      "RPG",
+      "RTS",
+      "Bookreading"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/86cf0679-8d2e-4fac-a207-cfd6d7b325f2-profile_image-300x300.png"
   }
 ]
