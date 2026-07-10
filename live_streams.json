@@ -8,7 +8,7 @@
     "game_name": "Witchfire",
     "type": "live",
     "title": "[18+] She puts the lotion on the skin or gets witchfired again  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 24,
+    "viewer_count": 23,
     "started_at": "2026-07-10T01:17:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "【ROSE SMP】If the king falls, who moves the board? | !hug !socials",
-    "viewer_count": 21,
+    "viewer_count": 22,
     "started_at": "2026-07-10T01:13:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -86,7 +86,7 @@
     "game_name": "Armored Core VI: Fires of Rubicon",
     "type": "live",
     "title": "『Armored Core V: Fires of Rubicon』She Armored on my Core Til I Fire my Rubicon || !discord !essay !hmo !idea 『18+』",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-07-10T04:16:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leyonlagure-{width}x{height}.jpg",
@@ -104,5 +104,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9b36daa-7868-4427-9e37-14f809ee9dcf-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319379522524",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "Ranking up Keiser cuz he needs me to win.,",
+    "viewer_count": 0,
+    "started_at": "2026-07-10T04:35:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Funny",
+      "Fun",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   }
 ]
