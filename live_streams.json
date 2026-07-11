@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "✧ PALWORLD AHHHHH THE PALS ARE CALLING ✧ !lurk !merch !throne !clip",
-    "viewer_count": 39,
+    "viewer_count": 38,
     "started_at": "2026-07-10T23:05:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "【ROSE SMP】Nothing bad ever happens at Tea time. | !hug !socials",
-    "viewer_count": 22,
+    "viewer_count": 23,
     "started_at": "2026-07-11T00:49:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -56,33 +56,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
-  },
-  {
-    "id": "320404852827",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "18+ | Farmin in the Summer time! | PC | Stardew Valley | !CreatorClub !discord !Blacklyte",
-    "viewer_count": 5,
-    "started_at": "2026-07-11T01:59:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "VTuberUprising",
-      "18maturelanguage",
-      "feet"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   }
 ]
