@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "✧ PALWORLD AHHHHH THE PALS ARE CALLING ✧ !lurk !merch !throne !clip",
-    "viewer_count": 38,
+    "viewer_count": 39,
     "started_at": "2026-07-10T23:05:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[18+] Vacation Stories + Modded BG3! I missed u guys 🥺💚 [Crowd Control BG3] | !throne !socials !lurk !discord",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-07-10T21:03:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -83,32 +83,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
-    "id": "320398462299",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "【 SMASH OR PASS】Pretty vtubers go brrrr ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 7,
-    "started_at": "2026-07-10T20:57:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "319455691104",
@@ -135,6 +109,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "320398462299",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "【 SMASH OR PASS】Pretty vtubers go brrrr ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 5,
+    "started_at": "2026-07-10T20:57:38Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "320289492058",
