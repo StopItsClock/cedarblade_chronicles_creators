@@ -8,7 +8,7 @@
     "game_name": "MECCHA CHAMELEON",
     "type": "live",
     "title": "✧ Painting and failing ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 24,
     "started_at": "2026-07-11T20:43:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,34 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "319470268128",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "516064",
-    "game_name": "Jump Space",
-    "type": "live",
-    "title": "OMG You're telling me i could jump ship?!?!? (Jump Space Sci-Fi Saturday w/ @kiba_safir @duskstride and @Snickerdoodle_Demon)",
-    "viewer_count": 11,
-    "started_at": "2026-07-11T20:58:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "Vtuber",
-      "prismmodel",
-      "seatuber",
-      "deadbydaylightsurvivour",
-      "SurvivorMain"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
     "id": "316165663346",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -65,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 1 [!lurk !discord !clip]",
-    "viewer_count": 9,
+    "viewer_count": 12,
     "started_at": "2026-07-11T19:39:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -85,6 +57,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
   },
   {
+    "id": "319470268128",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "516064",
+    "game_name": "Jump Space",
+    "type": "live",
+    "title": "OMG You're telling me i could jump ship?!?!? (Jump Space Sci-Fi Saturday w/ @kiba_safir @duskstride and @Snickerdoodle_Demon)",
+    "viewer_count": 9,
+    "started_at": "2026-07-11T20:58:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber",
+      "deadbydaylightsurvivour",
+      "SurvivorMain"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320419440987",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -93,7 +93,7 @@
     "game_name": "Goblin Cleanup",
     "type": "live",
     "title": "【 COSMIC PLAYS】Let's clean! Possible special guest later!! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-07-11T20:58:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -120,7 +120,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "I'M BACK! 🧊 Yapping -> Marvel Rivals 🍧!pine !socials @frostedplague7",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-07-11T19:09:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -139,6 +139,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "316979360503",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "VGala Day 1 Pointer POV",
+    "viewer_count": 1,
+    "started_at": "2026-07-11T19:41:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English",
+      "horror"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "316165731442",
@@ -165,29 +189,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bb6036e-5860-46e5-8413-9cd8f88f2a74-profile_image-300x300.png"
-  },
-  {
-    "id": "316979360503",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "VGala Day 1 Pointer POV",
-    "viewer_count": 1,
-    "started_at": "2026-07-11T19:41:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English",
-      "horror"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
