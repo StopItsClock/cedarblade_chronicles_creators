@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[VCiv] VGala Day 1: Please dont let me die first day qwq ✧  ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 36,
     "started_at": "2026-07-11T20:43:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,6 +29,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319472463968",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "₊✩‧₊˚౨ yap maxing + rose smp ৎ˚₊✩‧₊ | !discord !lurk",
+    "viewer_count": 15,
+    "started_at": "2026-07-11T23:50:21Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "brat",
+      "ComfyChaotic",
+      "twinkmaxxing",
+      "femboy",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
+  },
+  {
     "id": "319343438558",
     "user_id": "100422083",
     "user_login": "plompers",
@@ -37,7 +62,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "day 2 of my empire heheheh ✧",
-    "viewer_count": 15,
+    "viewer_count": 13,
     "started_at": "2026-07-11T21:28:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -55,31 +80,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
-  },
-  {
-    "id": "319472463968",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "₊✩‧₊˚౨ yap maxing + rose smp ৎ˚₊✩‧₊ | !discord !lurk",
-    "viewer_count": 12,
-    "started_at": "2026-07-11T23:50:21Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "brat",
-      "ComfyChaotic",
-      "twinkmaxxing",
-      "femboy",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   },
   {
     "id": "319401932508",
