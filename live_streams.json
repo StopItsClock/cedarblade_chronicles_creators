@@ -8,7 +8,7 @@
     "game_name": "Indiana Jones and the Great Circle",
     "type": "live",
     "title": "[1st play through] Following a \"Nun\" to find a Cat Mummy",
-    "viewer_count": 13,
+    "viewer_count": 9,
     "started_at": "2026-07-13T19:37:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
@@ -57,7 +57,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "Boom goes the robots tehe (BG3 w/ @regina_kardinal)",
-    "viewer_count": 5,
+    "viewer_count": 7,
     "started_at": "2026-07-13T19:22:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -101,6 +101,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
+    "id": "317906050277",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "CAIN TTRPG - Session 15 - Squad T-1236 - Mission 4",
+    "viewer_count": 2,
+    "started_at": "2026-07-13T22:12:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "319370949726",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -109,7 +129,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "THESE PALS BE WORLDIN!!! | SlushieGhost Private Server | !Clip",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-07-13T22:10:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -122,29 +142,10 @@
       "LGBTQFriendly",
       "indievtuber",
       "ENVtuber",
-      "vtubers"
+      "vtubers",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/528079f7-f1d7-48c4-8b28-7f485c3318f7-profile_image-300x300.png"
-  },
-  {
-    "id": "317906050277",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "CAIN TTRPG - Session 15 - Squad T-1236 - Mission 4",
-    "viewer_count": 0,
-    "started_at": "2026-07-13T22:12:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
