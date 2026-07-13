@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala ✧ EP 2 - Trying not to die? Harder than it looks ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
+    "viewer_count": 32,
     "started_at": "2026-07-12T20:03:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "The Binding of Isaac: Repentance",
     "type": "live",
     "title": "gaming! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-07-12T21:00:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -84,34 +84,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "320441840987",
-    "user_id": "193636646",
-    "user_login": "captainyeeticus",
-    "user_name": "captainyeeticus",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Sub Sundays! Versus Saxton Hale w/the community and then Meccha Chameleon! @cubebie @theautumndryad @omegarift5",
-    "viewer_count": 1,
-    "started_at": "2026-07-13T00:15:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "lgbt",
-      "gremlin",
-      "artist",
-      "author",
-      "transgender",
-      "vtuber",
-      "pngtuber",
-      "envtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   },
   {
     "id": "318447267543",
@@ -136,5 +108,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "320441840987",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "1820839024",
+    "game_name": "MECCHA CHAMELEON",
+    "type": "live",
+    "title": "Sub Sundays! Versus Saxton Hale w/the community and then Meccha Chameleon! @cubebie @theautumndryad @omegarift5",
+    "viewer_count": 1,
+    "started_at": "2026-07-13T00:15:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
