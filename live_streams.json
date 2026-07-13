@@ -7,8 +7,8 @@
     "game_id": "490744",
     "game_name": "Stardew Valley",
     "type": "live",
-    "title": "【 STARDEW MONDAYS】Water you doing with those plants?! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 10,
+    "title": "\u3010 STARDEW MONDAYS\u3011Water you doing with those plants?! \u2307 18+ \u2307 !clip !discord !social",
+    "viewer_count": 9,
     "started_at": "2026-07-13T20:57:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -24,32 +24,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319370102622",
-    "user_id": "595484950",
-    "user_login": "thehashibira",
-    "user_name": "TheHashibira",
-    "game_id": "1174919094",
-    "game_name": "Echoes of Aincrad",
-    "type": "live",
-    "title": "Im hearing... an echo.. of.. whats this.. AINCRAD!?",
-    "viewer_count": 5,
-    "started_at": "2026-07-13T21:09:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Friends",
-      "Gaming",
-      "Male",
-      "Vtuber",
-      "Funny",
-      "Fun",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
     "id": "319496505312",
@@ -76,6 +50,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319370102622",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "1174919094",
+    "game_name": "Echoes of Aincrad",
+    "type": "live",
+    "title": "Im hearing... an echo.. of.. whats this.. AINCRAD!?",
+    "viewer_count": 5,
+    "started_at": "2026-07-13T21:09:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Funny",
+      "Fun",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
     "id": "317203241058",
