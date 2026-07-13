@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "✧ The pals are calling to me AHHHHH ✧ !lurk !merch !throne !clip",
-    "viewer_count": 36,
+    "viewer_count": 33,
     "started_at": "2026-07-12T20:03:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "The Legend of Zelda: Ocarina of Time",
     "type": "live",
     "title": "[18+] -> FIRST TIME NO BACKSEATING <-Stuck in the nexus of torment and misery  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 29,
+    "viewer_count": 32,
     "started_at": "2026-07-13T00:44:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -58,7 +58,7 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d07e7eff-a657-4679-98c8-a9a0d9c5f91a-profile_image-300x300.png"
   },
   {
-    "id": "319488654816",
+    "id": "319488718560",
     "user_id": "595484950",
     "user_login": "thehashibira",
     "user_name": "TheHashibira",
@@ -66,8 +66,8 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "We are gonna be Pals in this world!",
-    "viewer_count": 2,
-    "started_at": "2026-07-13T01:33:20Z",
+    "viewer_count": 7,
+    "started_at": "2026-07-13T01:37:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
     "tag_ids": [],
@@ -78,7 +78,9 @@
       "Vtuber",
       "Funny",
       "Fun",
-      "English"
+      "English",
+      "Rerun",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
