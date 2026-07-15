@@ -1,34 +1,5 @@
 [
   {
-    "id": "320489629403",
-    "user_id": "846373427",
-    "user_login": "seraphselkie",
-    "user_name": "seraphselkie",
-    "game_id": "509659",
-    "game_name": "ASMR",
-    "type": "live",
-    "title": "shhhhhhhh its her first time asmr..... !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 15,
-    "started_at": "2026-07-15T22:03:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "18pluschannel",
-      "Vtuber",
-      "maturecontent",
-      "Mature",
-      "Chaotic",
-      "LGBTQIAPIus",
-      "Dyslexia",
-      "ADHD",
-      "ENVtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
-  },
-  {
     "id": "318484072535",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -37,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala ✧ Day 4: How am I still here?? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 14,
+    "viewer_count": 20,
     "started_at": "2026-07-15T22:54:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -90,7 +61,7 @@
     "game_id": "24241",
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
-    "title": "Scary game -> FFXIV later, long ahh stream",
+    "title": "[Sprout] HeavensWard MSQ -> a deep dungeon",
     "viewer_count": 6,
     "started_at": "2026-07-15T18:25:33Z",
     "language": "en",
@@ -116,7 +87,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 4: The plot thickens! [!lurk !discord !clip]",
-    "viewer_count": 1,
+    "viewer_count": 5,
     "started_at": "2026-07-15T23:14:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -135,6 +106,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e7685da-4893-4370-ab4b-35a13eed9cc9-profile_image-300x300.png"
+  },
+  {
+    "id": "319457390940",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "1050003477",
+    "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
+    "type": "live",
+    "title": "[18+] BEACH OUTFIT~~🌊 100+ Mods and WAY Too Many Horses... [Crowd Control Skyrim] | !throne !socials !lurk !discord",
+    "viewer_count": 2,
+    "started_at": "2026-07-15T23:20:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "LGBTQFriendly",
+      "justchattıng",
+      "Skyrim",
+      "Vtuber",
+      "moddedskyrim",
+      "CrowdControl"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
     "id": "320377112154",
@@ -188,5 +188,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "317640759000",
+    "user_id": "114779237",
+    "user_login": "velkais370",
+    "user_name": "velkais370",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "Mage Arena Collab",
+    "viewer_count": 1,
+    "started_at": "2026-07-15T23:19:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "pngtuber",
+      "magearena"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
   }
 ]
