@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "✧ IM SO SORRY IM ADDICTED ✧ !lurk !merch !throne !clip",
-    "viewer_count": 20,
+    "viewer_count": 26,
     "started_at": "2026-07-16T19:59:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Librarian: Tidy Up the Arcane Library!",
     "type": "live",
     "title": "[18+] 3000 Books on the Floor vs My Last Braincell [Librarian: Tidy UP the Arcane Library] | !throne !socials !lurk !discord",
-    "viewer_count": 8,
+    "viewer_count": 5,
     "started_at": "2026-07-16T20:25:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -76,5 +76,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
+    "id": "319537808992",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "Thirstday Fanfic Reading #1 w/ (@Regina_Kardinal and Malt)",
+    "viewer_count": 0,
+    "started_at": "2026-07-16T20:47:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   }
 ]
