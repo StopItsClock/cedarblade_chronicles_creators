@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "【 COSMIC PLAYS】First time with the Pals! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-07-17T20:57:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -25,34 +25,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315809613288",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "VGala: Build Day 2! We're gonna explore! [!lurk !discord !clip]",
-    "viewer_count": 8,
-    "started_at": "2026-07-17T20:18:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Filipino",
-      "Comfy",
-      "Fudanshi",
-      "vciv"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
     "id": "317655657176",
@@ -80,5 +52,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
+  },
+  {
+    "id": "315809613288",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "VGala: Build Day 2! We're gonna explore! [!lurk !discord !clip]",
+    "viewer_count": 7,
+    "started_at": "2026-07-17T20:18:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy",
+      "Fudanshi",
+      "vciv"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   }
 ]
