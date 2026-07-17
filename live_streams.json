@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "MOOOOOOOOOORE PALS MOOOOOOORE | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-07-17T17:59:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "[18+] Mountain of Copium w/ @divineklein254 [PEAK] | !throne !socials !lurk !discord",
-    "viewer_count": 5,
+    "viewer_count": 7,
     "started_at": "2026-07-17T18:09:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -58,32 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
-    "id": "317655657176",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "heyymust  regain my gooner musk",
-    "viewer_count": 4,
-    "started_at": "2026-07-17T18:56:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames",
-      "LIESOFP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
-  },
-  {
     "id": "319482049756",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -92,7 +66,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "We marvel on our Rivals (Marvel Rivals @Regina_Kardinal @pearlywhiteiris",
-    "viewer_count": 0,
+    "viewer_count": 6,
     "started_at": "2026-07-17T19:41:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -104,9 +78,37 @@
       "Crazy",
       "Vtuber",
       "prismmodel",
-      "seatuber"
+      "seatuber",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317655657176",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "511224",
+    "game_name": "Apex Legends",
+    "type": "live",
+    "title": "must regain my gooner musk",
+    "viewer_count": 2,
+    "started_at": "2026-07-17T18:56:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge",
+      "soulsgames",
+      "LIESOFP",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
   }
 ]
