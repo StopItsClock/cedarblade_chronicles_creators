@@ -7,7 +7,7 @@
     "game_id": "1036710512",
     "game_name": "Palworld",
     "type": "live",
-    "title": "【 COSMIC PLAYS】First time with the Pals! ⌇ 18+ ⌇ !clip !discord !social",
+    "title": "\u3010 COSMIC PLAYS\u3011First time with the Pals! \u2307 18+ \u2307 !clip !discord !social",
     "viewer_count": 12,
     "started_at": "2026-07-17T20:57:21Z",
     "language": "en",
@@ -25,33 +25,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317655657176",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "511224",
-    "game_name": "Apex Legends",
-    "type": "live",
-    "title": "must regain my gooner musk",
-    "viewer_count": 7,
-    "started_at": "2026-07-17T18:56:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames",
-      "LIESOFP",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
   },
   {
     "id": "315809613288",
@@ -80,5 +53,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
+  },
+  {
+    "id": "317655657176",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "511224",
+    "game_name": "Apex Legends",
+    "type": "live",
+    "title": "must regain my gooner musk",
+    "viewer_count": 7,
+    "started_at": "2026-07-17T18:56:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Cr\u0131nge",
+      "soulsgames",
+      "LIESOFP",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
   }
 ]
