@@ -1,34 +1,5 @@
 [
   {
-    "id": "320418638298",
-    "user_id": "686234820",
-    "user_login": "miyuwanchan",
-    "user_name": "miyuwanchan",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[ROSE SMP] Close your eyes and listen. Thats the sound of my heart. | !hug !merch",
-    "viewer_count": 16,
-    "started_at": "2026-07-18T01:22:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dog",
-      "vtuber",
-      "envtuber",
-      "gaming",
-      "cozy",
-      "safespace",
-      "sniffsniff",
-      "lgbtq",
-      "pngtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
-  },
-  {
     "id": "320363487961",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -36,8 +7,8 @@
     "game_id": "1036710512",
     "game_name": "Palworld",
     "type": "live",
-    "title": "\u301018+\u3011Enslaving Mankind and their flesh in Palworld \u2738After-Hours Stream\u2738",
-    "viewer_count": 13,
+    "title": "【18+】Enslaving Mankind and their flesh in Palworld ✸After-Hours Stream✸",
+    "viewer_count": 18,
     "started_at": "2026-07-18T03:31:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,5 +27,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "320418638298",
+    "user_id": "686234820",
+    "user_login": "miyuwanchan",
+    "user_name": "miyuwanchan",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[ROSE SMP] Close your eyes and listen. Thats the sound of my heart. | !hug !merch",
+    "viewer_count": 18,
+    "started_at": "2026-07-18T01:22:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dog",
+      "vtuber",
+      "envtuber",
+      "gaming",
+      "cozy",
+      "safespace",
+      "sniffsniff",
+      "lgbtq",
+      "pngtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a5300a0-d373-418f-ba3d-7fd592c2aa2f-profile_image-300x300.png"
   }
 ]
