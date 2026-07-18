@@ -7,8 +7,8 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "VGala Day 5 \u2727 The dawn of the final day \u2727 !lurk !merch !throne !clip",
-    "viewer_count": 16,
+    "title": "VGala Day 5 ✧ The dawn of the final day ✧ !lurk !merch !throne !clip",
+    "viewer_count": 19,
     "started_at": "2026-07-18T19:59:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,33 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "320375528921",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "1036710512",
-    "game_name": "Palworld",
-    "type": "live",
-    "title": "\u3010 COSMIC PLAYS\u3011Keep being my pal? Wait why do you have a gun?! \u2307 18+ \u2307 !clip !discord !social",
-    "viewer_count": 10,
-    "started_at": "2026-07-18T20:59:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "316187980529",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -64,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 5: Safety first! [!lurk !discord !clip]",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-07-18T20:17:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -82,6 +55,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
+  },
+  {
+    "id": "320375528921",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "1036710512",
+    "game_name": "Palworld",
+    "type": "live",
+    "title": "【 COSMIC PLAYS】Keep being my pal? Wait why do you have a gun?! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 7,
+    "started_at": "2026-07-18T20:59:20Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "318519760343",
@@ -160,6 +160,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "319498848220",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "Back into the Fog with a Friend!",
+    "viewer_count": 2,
+    "started_at": "2026-07-18T21:26:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "317665119832",
