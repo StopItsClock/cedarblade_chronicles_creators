@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "Who Up Pal-ing They World? 🧊 !pine !socials !cover🍧 @frostedplague7",
-    "viewer_count": 19,
+    "viewer_count": 16,
     "started_at": "2026-07-18T01:09:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[ROSE SMP] Close your eyes and listen. Thats the sound of my heart. | !hug !merch",
-    "viewer_count": 10,
+    "viewer_count": 16,
     "started_at": "2026-07-18T01:22:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -87,6 +87,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "320417291098",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
+    "type": "live",
+    "title": "Weekly NightReign with the girls (lukka counts I guess) w/ @somanella & @slimechemist",
+    "viewer_count": 2,
+    "started_at": "2026-07-18T00:25:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
     "id": "320419535194",
     "user_id": "710026427",
     "user_login": "wallowsett",
@@ -95,7 +115,7 @@
     "game_name": "Miracle Girls Festival",
     "type": "live",
     "title": "not so secret impulsive secret stream c:",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-07-18T02:01:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -140,23 +160,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   },
   {
-    "id": "320417291098",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "982348888",
-    "game_name": "ELDEN RING NIGHTREIGN",
+    "id": "320361695833",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "",
+    "game_name": "",
     "type": "live",
-    "title": "Weekly NightReign with the girls (lukka counts I guess) w/ @somanella & @slimechemist",
-    "viewer_count": 1,
-    "started_at": "2026-07-18T00:25:02Z",
+    "title": "test (and return date reveal)",
+    "viewer_count": 0,
+    "started_at": "2026-07-18T02:11:50Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
+      "Catboy",
+      "BoyWife",
+      "LGBTQ",
+      "femboy",
+      "Chatting",
+      "BackseatGamingAllowed",
+      "Vtuber",
+      "cute",
       "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   }
 ]
