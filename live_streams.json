@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 5 ✧ The dawn of the final day ✧ !lurk !merch !throne !clip",
-    "viewer_count": 14,
+    "viewer_count": 16,
     "started_at": "2026-07-18T19:59:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "【 COSMIC PLAYS】Keep being my pal? Wait why do you have a gun?! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-07-18T20:59:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Hollow Knight",
     "type": "live",
     "title": "Time to be a bit random in an archipeligo!|| Hollow Knight W/ VCanada (!lurk, !links,  !discord)",
-    "viewer_count": 7,
+    "viewer_count": 4,
     "started_at": "2026-07-18T18:56:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -89,7 +89,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "[Sprout, Trial] Finishing Heavensward today",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-07-18T19:59:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -162,6 +162,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
+    "id": "319498848220",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "Back into the Fog with a Friend!",
+    "viewer_count": 1,
+    "started_at": "2026-07-18T21:26:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
     "id": "317665119832",
     "user_id": "1106409619",
     "user_login": "wannabe__va",
@@ -184,27 +206,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
-    "id": "319498848220",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "491487",
-    "game_name": "Dead by Daylight",
-    "type": "live",
-    "title": "Back into the Fog with a Friend!",
-    "viewer_count": 1,
-    "started_at": "2026-07-18T21:26:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
