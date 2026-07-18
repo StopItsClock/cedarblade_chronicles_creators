@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 5 ✧ The dawn of the final day ✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "viewer_count": 19,
     "started_at": "2026-07-18T19:59:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "【 COSMIC PLAYS】Keep being my pal? Wait why do you have a gun?! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-07-18T20:59:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -206,5 +206,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "319500521180",
+    "user_id": "67504126",
+    "user_login": "cutenysnys",
+    "user_name": "CuteNysNys",
+    "game_id": "500628",
+    "game_name": "Witchfire",
+    "type": "live",
+    "title": "[18+] This streamers PC may explode during stream!  ♥ @cutenysnys 💚 !socials !Merch 💚",
+    "viewer_count": 0,
+    "started_at": "2026-07-18T23:16:57Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ADHD",
+      "PuertoRican",
+      "LGBTQIAPlus",
+      "Woman",
+      "ESOStreamTeam",
+      "YuriAddict",
+      "bigbitties",
+      "NiceHands",
+      "Spituber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d07e7eff-a657-4679-98c8-a9a0d9c5f91a-profile_image-300x300.png"
   }
 ]
