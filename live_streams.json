@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "VGala Day 5 \u2727 The dawn of the final day \u2727 !lurk !merch !throne !clip",
+    "title": "VGala Day 5 ✧ The dawn of the final day ✧ !lurk !merch !throne !clip",
     "viewer_count": 17,
     "started_at": "2026-07-18T19:59:27Z",
     "language": "en",
@@ -36,7 +36,7 @@
     "game_id": "1036710512",
     "game_name": "Palworld",
     "type": "live",
-    "title": "\u3010 COSMIC PLAYS\u3011Keep being my pal? Wait why do you have a gun?! \u2307 18+ \u2307 !clip !discord !social",
+    "title": "【 COSMIC PLAYS】Keep being my pal? Wait why do you have a gun?! ⌇ 18+ ⌇ !clip !discord !social",
     "viewer_count": 8,
     "started_at": "2026-07-18T20:59:20Z",
     "language": "en",
@@ -156,30 +156,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
-    "id": "317665119832",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "VGala Day 5 // Point to the horizon and you'll find me #VCiv",
-    "viewer_count": 1,
-    "started_at": "2026-07-18T20:21:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English",
-      "VCiv"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
     "id": "320376906457",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -206,5 +182,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
+  },
+  {
+    "id": "317665119832",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "VGala Day 5 // Point to the horizon and you'll find me #VCiv",
+    "viewer_count": 1,
+    "started_at": "2026-07-18T20:21:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English",
+      "VCiv"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
