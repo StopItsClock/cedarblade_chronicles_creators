@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 5 ✧ The dawn of the final day ✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "viewer_count": 18,
     "started_at": "2026-07-18T19:59:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Witchfire",
     "type": "live",
     "title": "[18+] This streamers PC may explode during stream!  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-07-18T23:16:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "【 COSMIC PLAYS】Keep being my pal? Wait why do you have a gun?! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 7,
+    "viewer_count": 5,
     "started_at": "2026-07-18T20:59:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -163,28 +163,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "319498848220",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "491487",
-    "game_name": "Dead by Daylight",
-    "type": "live",
-    "title": "Back into the Fog with a Friend!",
-    "viewer_count": 1,
-    "started_at": "2026-07-18T21:26:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
-  },
-  {
     "id": "316197040498",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -193,7 +171,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 5: Safety first! [!lurk !discord !clip]",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-07-18T22:15:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -235,5 +213,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "319498848220",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "Back into the Fog with a Friend!",
+    "viewer_count": 1,
+    "started_at": "2026-07-18T21:26:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
