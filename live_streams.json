@@ -7,7 +7,7 @@
     "game_id": "500628",
     "game_name": "Witchfire",
     "type": "live",
-    "title": "[18+] This streamers PC may explode during stream!  ♥ @cutenysnys 💚 !socials !Merch 💚",
+    "title": "[18+] This streamers PC may explode during stream!  \u2665 @cutenysnys \ud83d\udc9a !socials !Merch \ud83d\udc9a",
     "viewer_count": 21,
     "started_at": "2026-07-18T23:16:57Z",
     "language": "en",
@@ -36,7 +36,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "VGala Day 5 ✧ The dawn of the final day ✧ !lurk !merch !throne !clip",
+    "title": "VGala Day 5 \u2727 The dawn of the final day \u2727 !lurk !merch !throne !clip",
     "viewer_count": 11,
     "started_at": "2026-07-18T19:59:27Z",
     "language": "en",
@@ -56,32 +56,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
-    "id": "319569413856",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "31376",
-    "game_name": "Terraria",
-    "type": "live",
-    "title": "Oml Terrariaaa again guys! (Terraria w/ @Exodus_VT)",
-    "viewer_count": 7,
-    "started_at": "2026-07-18T23:47:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "Vtuber",
-      "prismmodel",
-      "seatuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "320542864987",
@@ -137,6 +111,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
+    "id": "319569413856",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "31376",
+    "game_name": "Terraria",
+    "type": "live",
+    "title": "Oml Terrariaaa again guys! (Terraria w/ @Exodus_VT)",
+    "viewer_count": 4,
+    "started_at": "2026-07-18T23:47:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319497651676",
     "user_id": "254478860",
     "user_login": "ispebble",
@@ -190,28 +190,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
-    "id": "319498848220",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "491487",
-    "game_name": "Dead by Daylight",
-    "type": "live",
-    "title": "Back into the Fog with a Friend!",
-    "viewer_count": 1,
-    "started_at": "2026-07-18T21:26:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
-  },
-  {
     "id": "317665119832",
     "user_id": "1106409619",
     "user_login": "wannabe__va",
@@ -234,5 +212,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "319498848220",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "Back into the Fog with a Friend!",
+    "viewer_count": 1,
+    "started_at": "2026-07-18T21:26:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
