@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 6 ✧ THERES A WAR TODAY??? - Finale ✧ !lurk !merch !throne !clip",
-    "viewer_count": 17,
+    "viewer_count": 15,
     "started_at": "2026-07-19T20:00:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,6 +29,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319453756766",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512923",
+    "game_name": "Baldur's Gate 3",
+    "type": "live",
+    "title": "Do We Boom Gortash today? or will we get lost on  one of my wifey's side quests again? (Baldur's Gate 3 w/ @regina_kardinal)",
+    "viewer_count": 6,
+    "started_at": "2026-07-19T20:34:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "315878367978",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -37,7 +63,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Day 6: The way back home? [!lurk !discord !clip]",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-07-19T20:09:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -57,30 +83,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
-    "id": "319453756766",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "512923",
-    "game_name": "Baldur's Gate 3",
+    "id": "317674269144",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
     "type": "live",
-    "title": "Do We Boom Gortash today? or will we get lost on  one of my wifey's side quests again? (Baldur's Gate 3 w/ @regina_kardinal)",
-    "viewer_count": 3,
-    "started_at": "2026-07-19T20:34:41Z",
+    "title": "VGala Day 6 // War points its way to salvation #VCiv",
+    "viewer_count": 1,
+    "started_at": "2026-07-19T20:01:46Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
+      "Voiceacting",
+      "Backseating",
       "Vtuber",
-      "prismmodel",
-      "seatuber"
+      "English",
+      "VCiv"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "320393232345",
@@ -110,29 +134,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
-  },
-  {
-    "id": "317674269144",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "VGala Day 6 // War points its way to salvation #VCiv",
-    "viewer_count": 1,
-    "started_at": "2026-07-19T20:01:46Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English",
-      "VCiv"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
