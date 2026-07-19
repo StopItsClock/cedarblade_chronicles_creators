@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "Vibing in a World of Pals with the Homies",
-    "viewer_count": 0,
+    "viewer_count": 2,
     "started_at": "2026-07-19T19:00:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
@@ -22,7 +22,8 @@
       "Collab",
       "palworld",
       "palworldonline",
-      "palworldmultiplayer"
+      "palworldmultiplayer",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
