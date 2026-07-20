@@ -1,31 +1,5 @@
 [
   {
-    "id": "320412376793",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "【 STARDEW MONDAYS】I ated a potato c: ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 25,
-    "started_at": "2026-07-20T21:00:07Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "318545716567",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -34,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "✧ Apparently today is my affiliate anniversary ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 27,
     "started_at": "2026-07-20T22:59:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -55,6 +29,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "320412376793",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "【 STARDEW MONDAYS】I ated a potato c: ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 23,
+    "started_at": "2026-07-20T21:00:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319468548830",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -63,7 +63,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "STILL SO MUCH TO DO!!! | ALL MY FELLAS server | !Clip",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-07-20T22:10:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -116,7 +116,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] I need Ryoshu to put her cig out on my tongue | Limbus + DOTW | !lurk !throne !tip !discord",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-07-20T23:00:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -135,5 +135,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "317258805986",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "SPOOKY MC WITH FRIEND!! LETS SURIVIVE!!",
+    "viewer_count": 1,
+    "started_at": "2026-07-20T23:21:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy",
+      "ASMR"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   }
 ]
