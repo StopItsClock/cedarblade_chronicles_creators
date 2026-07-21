@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "Mmmmmm nut room || !discord !dono !lurk !throne",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-07-21T19:07:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Far Far West",
     "type": "live",
     "title": "[Road to 1k] Cube takes me to the far far west! (Far Far West w/ @defaultcube_va)",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-07-21T19:45:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -49,6 +49,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "320427148505",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "518017",
+    "game_name": "Resident Evil Village",
+    "type": "live",
+    "title": "RE 8 \"speed run\"",
+    "viewer_count": 4,
+    "started_at": "2026-07-21T16:59:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "317691483864",
@@ -77,26 +97,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
-    "id": "320427148505",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "518017",
-    "game_name": "Resident Evil Village",
-    "type": "live",
-    "title": "RE 8 \"speed run\"",
-    "viewer_count": 3,
-    "started_at": "2026-07-21T16:59:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "315864707049",
