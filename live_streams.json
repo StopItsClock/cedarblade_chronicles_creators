@@ -8,7 +8,7 @@
     "game_name": "Resident Evil 6",
     "type": "live",
     "title": "[18+] Ada,,, my beloved,, w/ @afallenkitsune ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 14,
+    "viewer_count": 16,
     "started_at": "2026-07-21T22:03:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "CODE VEIN II",
     "type": "live",
     "title": "GIMMIE COOL MOVES!! | !Discord !lurk | 🐉🧟",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-07-22T00:19:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Miniatures & Models",
     "type": "live",
     "title": "[18+] Yippee more gunpla!!!! More HG Aerial time!!!! | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-07-21T23:01:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -84,25 +84,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "320492595930",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "497057",
-    "game_name": "Destiny 2",
-    "type": "live",
-    "title": "Early Short stream",
-    "viewer_count": 2,
-    "started_at": "2026-07-21T23:58:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
