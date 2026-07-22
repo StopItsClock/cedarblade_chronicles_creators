@@ -37,7 +37,7 @@
     "game_name": "Miniatures & Models",
     "type": "live",
     "title": "[18+] Yippee more gunpla!!!! More HG Aerial time!!!! | !lurk !throne !tip !discord",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-07-21T23:01:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -56,5 +56,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "318562249815",
+    "user_id": "137648142",
+    "user_login": "leyonlagure",
+    "user_name": "LeyonLaGure",
+    "game_id": "460102",
+    "game_name": "Rain World",
+    "type": "live",
+    "title": "『Rain World』Slugcat Adventure Begins ft. @thevaporwitch || !discord !essay !hmo !idea !tech 『18+』",
+    "viewer_count": 2,
+    "started_at": "2026-07-22T03:39:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leyonlagure-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "WolfVtuber",
+      "MaleVtuber",
+      "Englishandspanish",
+      "himbo",
+      "LGBTQIAFriendlySpace",
+      "Vtuber",
+      "MentalHealthAdvocate",
+      "Latino"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9b36daa-7868-4427-9e37-14f809ee9dcf-profile_image-300x300.jpeg"
   }
 ]
