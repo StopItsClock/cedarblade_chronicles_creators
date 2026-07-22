@@ -37,7 +37,7 @@
     "game_name": "Phoenix Wright: Ace Attorney Trilogy",
     "type": "live",
     "title": "[18+] Phoenix Wright Trilogy FINALE 💥 [Phoenix Wright: Trials and Tribulations] | !throne !socials !lurk !discord",
-    "viewer_count": 16,
+    "viewer_count": 14,
     "started_at": "2026-07-21T21:20:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -56,6 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
+    "id": "317691483864",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "965771331",
+    "game_name": "Deltarune",
+    "type": "live",
+    "title": "DELTARUNE CHAPTER 4 SECRET BOSS FIGHT",
+    "viewer_count": 7,
+    "started_at": "2026-07-21T21:00:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "Vampire",
+      "deltarune"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
     "id": "319484560222",
@@ -84,34 +112,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "317691483864",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "965771331",
-    "game_name": "Deltarune",
-    "type": "live",
-    "title": "DELTARUNE CHAPTER 4 SECRET BOSS FIGHT",
-    "viewer_count": 5,
-    "started_at": "2026-07-21T21:00:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "goth",
-      "Vampire",
-      "deltarune"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
     "id": "320492595930",
