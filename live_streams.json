@@ -8,7 +8,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "[Road to 1k] Nana plays Marvel Rivals with wife and smug",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-07-23T21:04:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -35,7 +35,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "DELTARUNE CHAPTER 4 WE STOLE THE GREAT AXE",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-07-23T21:01:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -53,34 +53,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
-    "id": "315872074345",
-    "user_id": "95084465",
-    "user_login": "deltarious5",
-    "user_name": "Deltarious5",
-    "game_id": "499003",
-    "game_name": "VRChat",
-    "type": "live",
-    "title": "VRChat Fridays! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 3,
-    "started_at": "2026-07-23T21:01:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Casual",
-      "ADHD",
-      "English",
-      "Vtuber",
-      "NoBackseatingUnlessAsked",
-      "18pluschannel",
-      "cosplayer",
-      "crossdresser",
-      "Anime"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
     "id": "320635872859",
@@ -101,5 +73,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
+  },
+  {
+    "id": "315872074345",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "499003",
+    "game_name": "VRChat",
+    "type": "live",
+    "title": "VRChat Fridays! [18+] [!discord] [!dubby] [!merch]",
+    "viewer_count": 1,
+    "started_at": "2026-07-23T21:01:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   }
 ]
