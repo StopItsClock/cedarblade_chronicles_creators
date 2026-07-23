@@ -8,7 +8,7 @@
     "game_name": "Shift at Midnight",
     "type": "live",
     "title": "✧ Local ghost works the night shift ✧ !lurk !merch !throne !clip",
-    "viewer_count": 32,
+    "viewer_count": 30,
     "started_at": "2026-07-22T22:58:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "[Road to 1k] So um... Nana Doesn't play this game normally... (Palworld)",
-    "viewer_count": 16,
+    "viewer_count": 12,
     "started_at": "2026-07-22T23:52:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Shift at Midnight",
     "type": "live",
     "title": "AVERAGE NIGHTSHIFT SIMULATOR | w/@slushieghost | !Clip",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-07-22T23:01:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -81,26 +81,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/528079f7-f1d7-48c4-8b28-7f485c3318f7-profile_image-300x300.png"
-  },
-  {
-    "id": "320515489882",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "965771331",
-    "game_name": "Deltarune",
-    "type": "live",
-    "title": "Deltarune chapter 5.. The End??? w/@lemonlilliee",
-    "viewer_count": 3,
-    "started_at": "2026-07-23T02:39:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "319628930016",
@@ -128,6 +108,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
+    "id": "320515489882",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "965771331",
+    "game_name": "Deltarune",
+    "type": "live",
+    "title": "Deltarune chapter 5.. The End??? w/@lemonlilliee",
+    "viewer_count": 3,
+    "started_at": "2026-07-23T02:39:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "320510330202",
