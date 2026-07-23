@@ -8,7 +8,7 @@
     "game_name": "Shift at Midnight",
     "type": "live",
     "title": "✧ Local ghost works the night shift ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
+    "viewer_count": 32,
     "started_at": "2026-07-22T22:58:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,6 +29,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
+    "id": "319625714528",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "1036710512",
+    "game_name": "Palworld",
+    "type": "live",
+    "title": "[Road to 1k] So um... Nana Doesn't play this game normally... (Palworld)",
+    "viewer_count": 16,
+    "started_at": "2026-07-22T23:52:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319497202270",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -37,7 +64,7 @@
     "game_name": "Shift at Midnight",
     "type": "live",
     "title": "AVERAGE NIGHTSHIFT SIMULATOR | w/@slushieghost | !Clip",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-07-22T23:01:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -56,31 +83,24 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/528079f7-f1d7-48c4-8b28-7f485c3318f7-profile_image-300x300.png"
   },
   {
-    "id": "319625714528",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "1036710512",
-    "game_name": "Palworld",
+    "id": "320515489882",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "965771331",
+    "game_name": "Deltarune",
     "type": "live",
-    "title": "[Road to 1k] So um... Nana Doesn't play this game normally... (Palworld)",
-    "viewer_count": 5,
-    "started_at": "2026-07-22T23:52:30Z",
+    "title": "Deltarune chapter 5.. The End??? w/@lemonlilliee",
+    "viewer_count": 3,
+    "started_at": "2026-07-23T02:39:39Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "Vtuber",
-      "prismmodel",
-      "seatuber",
-      "DropsEnabled"
+      "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "319628930016",
@@ -108,26 +128,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
-    "id": "320515489882",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "965771331",
-    "game_name": "Deltarune",
-    "type": "live",
-    "title": "Deltarune chapter 5.. The End??? w/@lemonlilliee",
-    "viewer_count": 2,
-    "started_at": "2026-07-23T02:39:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46ae4356-ad1b-4380-a599-3f31aa0c5c9c-profile_image-300x300.png"
   },
   {
     "id": "320510330202",
