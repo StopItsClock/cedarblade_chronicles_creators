@@ -8,7 +8,7 @@
     "game_name": "Northgard",
     "type": "live",
     "title": "[Road to 1k] Guard The North! (Northgard w/ @regina_kardinal)",
-    "viewer_count": 6,
+    "viewer_count": 10,
     "started_at": "2026-07-24T20:16:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -24,35 +24,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "319583101148",
-    "user_id": "240610101",
-    "user_login": "shatteredsoullive",
-    "user_name": "shatteredsoullive",
-    "game_id": "1820839024",
-    "game_name": "MECCHA CHAMELEON",
-    "type": "live",
-    "title": "TEST STREAM RUN IM BACK AND READY TO STREAM",
-    "viewer_count": 2,
-    "started_at": "2026-07-24T19:29:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "Variety",
-      "bipocstreamer",
-      "English",
-      "TwitchGuildUnity",
-      "LatinUnityGuild",
-      "Chaotic",
-      "PeanutButterGang",
-      "twitchprideguild",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
   },
   {
     "id": "317289446882",
@@ -76,5 +47,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "319583101148",
+    "user_id": "240610101",
+    "user_login": "shatteredsoullive",
+    "user_name": "shatteredsoullive",
+    "game_id": "1820839024",
+    "game_name": "MECCHA CHAMELEON",
+    "type": "live",
+    "title": "TEST STREAM RUN IM BACK AND READY TO STREAM",
+    "viewer_count": 1,
+    "started_at": "2026-07-24T19:29:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "Variety",
+      "bipocstreamer",
+      "English",
+      "TwitchGuildUnity",
+      "LatinUnityGuild",
+      "Chaotic",
+      "PeanutButterGang",
+      "twitchprideguild",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
   }
 ]
