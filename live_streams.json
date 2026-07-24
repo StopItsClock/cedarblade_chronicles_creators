@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Yapping after Dinoblade | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-07-24T17:54:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -59,7 +59,7 @@
     "game_name": "MECCHA CHAMELEON",
     "type": "live",
     "title": "TEST STREAM RUN IM BACK AND READY TO STREAM",
-    "viewer_count": 0,
+    "viewer_count": 1,
     "started_at": "2026-07-24T19:29:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
@@ -73,7 +73,8 @@
       "LatinUnityGuild",
       "Chaotic",
       "PeanutButterGang",
-      "twitchprideguild"
+      "twitchprideguild",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
