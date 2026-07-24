@@ -8,7 +8,7 @@
     "game_name": "Denshattack!",
     "type": "live",
     "title": "✧ Choo chooo im a train :D / Nightreign later ✧ !lurk !merch !throne !clip",
-    "viewer_count": 19,
+    "viewer_count": 18,
     "started_at": "2026-07-24T23:03:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -87,7 +87,7 @@
     "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
     "type": "live",
     "title": "[18+] GOAT CHEESE SUPREMACY [Crowd Control Skyrim] | !throne !socials !lurk !discord",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-07-24T21:36:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -106,35 +106,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
-    "id": "317332069731",
-    "user_id": "916904675",
-    "user_login": "articglow_",
-    "user_name": "ArticGlow_",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "IM BACK ON LOCKDOWN?!  || COLLAB ||",
-    "viewer_count": 3,
-    "started_at": "2026-07-24T23:01:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "gamer",
-      "SheHer",
-      "Bubbly",
-      "PositiveVibes",
-      "pngtuber",
-      "Anime",
-      "Vtuber",
-      "Cozy",
-      "ASMR"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
     "id": "320548404058",
@@ -164,5 +135,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "317332069731",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "IM BACK ON LOCKDOWN?!  || COLLAB ||",
+    "viewer_count": 2,
+    "started_at": "2026-07-24T23:01:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy",
+      "ASMR"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   }
 ]
