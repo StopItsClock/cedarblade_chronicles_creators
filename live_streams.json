@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "Best Monster Catcher Game",
-    "viewer_count": 31,
+    "viewer_count": 29,
     "started_at": "2026-07-23T22:46:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Killing Floor III",
     "type": "live",
     "title": "[18+]  If I walk into a room w a stalker im leaving pregnant ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 22,
+    "viewer_count": 23,
     "started_at": "2026-07-24T01:45:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -58,6 +58,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d07e7eff-a657-4679-98c8-a9a0d9c5f91a-profile_image-300x300.png"
   },
   {
+    "id": "319574792924",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "1458917212",
+    "game_name": "Happy's Humble Burger Cult",
+    "type": "live",
+    "title": "I'm a burger flipper now| !Discord !lurk | 🐉🧟",
+    "viewer_count": 5,
+    "started_at": "2026-07-24T01:39:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
     "id": "315872074345",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -66,7 +93,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "VR headset died. surprise PalWorld segment! [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-07-23T21:01:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -85,32 +112,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
-  },
-  {
-    "id": "319574792924",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
-    "game_id": "1458917212",
-    "game_name": "Happy's Humble Burger Cult",
-    "type": "live",
-    "title": "I'm a burger flipper now| !Discord !lurk | 🐉🧟",
-    "viewer_count": 4,
-    "started_at": "2026-07-24T01:39:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   }
 ]
