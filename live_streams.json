@@ -8,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "DELTARUNE CHAPTER 5 START!!",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-07-25T21:01:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -28,6 +28,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
+    "id": "320568297690",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "2128193047",
+    "game_name": "Super Battle Golf",
+    "type": "live",
+    "title": "【 COSMIC COLLABS】Battle Golf w/ @mstarotter @cronooni @riezae @chaos_dragon_gaming @flaskrat ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 4,
+    "started_at": "2026-07-25T22:00:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320679201499",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -36,7 +62,7 @@
     "game_name": "The Messenger",
     "type": "live",
     "title": "We shall become more then a messenger!|| The Messenger (!lurk, !links, !discord)",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-07-25T21:56:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -73,31 +99,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
-  },
-  {
-    "id": "320568297690",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "2128193047",
-    "game_name": "Super Battle Golf",
-    "type": "live",
-    "title": "【 COSMIC COLLABS】Battle Golf w/ @mstarotter @cronooni @riezae @chaos_dragon_gaming @flaskrat ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 0,
-    "started_at": "2026-07-25T22:00:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   }
 ]
