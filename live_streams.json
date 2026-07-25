@@ -8,7 +8,7 @@
     "game_name": "Denshattack!",
     "type": "live",
     "title": "✧ Choo chooo im a train :D / Nightreign later ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 24,
     "started_at": "2026-07-24T23:03:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Lies of P",
     "type": "live",
     "title": "affiliate anniversary lets get goofy",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-07-24T23:26:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
@@ -82,6 +82,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
+  },
+  {
+    "id": "320548404058",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1397210469",
+    "game_name": "Miniatures & Models",
+    "type": "live",
+    "title": "[18+] MG Guntank time!!!! I love my guntank so much | !lurk !throne !tip !discord",
+    "viewer_count": 2,
+    "started_at": "2026-07-24T23:00:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
     "id": "320492557273",
@@ -102,34 +131,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
-  },
-  {
-    "id": "320548404058",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1397210469",
-    "game_name": "Miniatures & Models",
-    "type": "live",
-    "title": "[18+] MG Guntank time!!!! I love my guntank so much | !lurk !throne !tip !discord",
-    "viewer_count": 1,
-    "started_at": "2026-07-24T23:00:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
