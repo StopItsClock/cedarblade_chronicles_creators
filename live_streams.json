@@ -35,7 +35,7 @@
     "game_id": "2128193047",
     "game_name": "Super Battle Golf",
     "type": "live",
-    "title": "\u3010 COSMIC COLLABS\u3011Battle Golf w/ @mstarotter @cronooni @riezae @chaos_dragon_gaming @flaskrat \u2307 18+ \u2307 !clip !discord !social",
+    "title": "【 COSMIC COLLABS】Battle Golf w/ @mstarotter @cronooni @riezae @chaos_dragon_gaming @flaskrat ⌇ 18+ ⌇ !clip !discord !social",
     "viewer_count": 5,
     "started_at": "2026-07-25T22:00:29Z",
     "language": "en",
@@ -107,6 +107,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "319599544284",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "940188387",
+    "game_name": "The Classrooms",
+    "type": "live",
+    "title": "Class Is In Session",
+    "viewer_count": 2,
+    "started_at": "2026-07-25T20:47:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
     "id": "317339902435",
     "user_id": "916904675",
     "user_login": "articglow_",
@@ -134,27 +156,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
-  },
-  {
-    "id": "319599544284",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "940188387",
-    "game_name": "The Classrooms",
-    "type": "live",
-    "title": "Class Is In Session",
-    "viewer_count": 2,
-    "started_at": "2026-07-25T20:47:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
