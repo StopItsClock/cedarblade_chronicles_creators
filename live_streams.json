@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] CABBY IS BACK! MERCH ANNOUNCEMENTS AND COBBLEMON WITH @velkais370 @stopitsclock @66grimdemise66 @starryskiesvt and @heyvelleity",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-07-26T21:01:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -27,6 +27,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "315905255274",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "1036710512",
+    "game_name": "Palworld",
+    "type": "live",
+    "title": "1st proper palworld playthrough! (no spoilers/backseating) [18+] [!discord] [!dubby] [!merch]",
+    "viewer_count": 7,
+    "started_at": "2026-07-26T21:02:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "crossdresser",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
     "id": "319613430748",
@@ -53,33 +81,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "315905255274",
-    "user_id": "95084465",
-    "user_login": "deltarious5",
-    "user_name": "Deltarious5",
-    "game_id": "1036710512",
-    "game_name": "Palworld",
-    "type": "live",
-    "title": "1st proper palworld playthrough! (no spoilers/backseating) [18+] [!discord] [!dubby] [!merch]",
-    "viewer_count": 1,
-    "started_at": "2026-07-26T21:02:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Casual",
-      "ADHD",
-      "English",
-      "Vtuber",
-      "NoBackseatingUnlessAsked",
-      "18pluschannel",
-      "cosplayer",
-      "crossdresser",
-      "Anime"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   }
 ]
