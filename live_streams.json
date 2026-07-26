@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] CABBY IS BACK! MERCH ANNOUNCEMENTS AND COBBLEMON WITH @velkais370 @stopitsclock @66grimdemise66 @starryskiesvt and @heyvelleity",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-07-26T21:25:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -23,7 +23,7 @@
       "Vtuber",
       "cute",
       "English",
-      "Pokémon"
+      "Pok\u00e9mon"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
@@ -37,7 +37,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Road to 1k] Hunting down the hot one then the crab is next... (BG3 w/ @regina_kardinal",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-07-26T19:25:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -83,28 +83,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
-    "id": "318620813399",
-    "user_id": "114779237",
-    "user_login": "velkais370",
-    "user_name": "velkais370",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "Minecraft Cobblemon Collab",
-    "viewer_count": 1,
-    "started_at": "2026-07-26T21:46:02Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "minecraftstream"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
-  },
-  {
     "id": "320529599961",
     "user_id": "193636646",
     "user_login": "captainyeeticus",
@@ -132,5 +110,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
+  },
+  {
+    "id": "318620813399",
+    "user_id": "114779237",
+    "user_login": "velkais370",
+    "user_name": "velkais370",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "Minecraft Cobblemon Collab",
+    "viewer_count": 1,
+    "started_at": "2026-07-26T21:46:02Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velkais370-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "minecraftstream"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69397b2e-96c8-4f04-8caa-d34c0648c9a5-profile_image-300x300.png"
   }
 ]
