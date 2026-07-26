@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "VGala Tourism weekend: Exploring with Manfred [!lurk !discord !clip]",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-07-26T00:46:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Music",
     "type": "live",
     "title": "[Road to 1k] I know today was supposed to be an off day but... Vocal Warmup Karaoke",
-    "viewer_count": 11,
+    "viewer_count": 7,
     "started_at": "2026-07-25T22:12:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -54,6 +54,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "320680547163",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "630009802",
+    "game_name": "MARVEL TŌKON: Fighting Souls",
+    "type": "live",
+    "title": "[18+] Why is Iron Man's Korean VA the same as Yi Sang | Tokon Beta | !lurk !throne !tip !discord",
+    "viewer_count": 6,
+    "started_at": "2026-07-25T23:09:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
     "id": "320679201499",
@@ -102,7 +131,8 @@
       "ChatReader",
       "Trans",
       "Transfem",
-      "booba"
+      "booba",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
@@ -134,34 +164,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "320680547163",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "630009802",
-    "game_name": "MARVEL TŌKON: Fighting Souls",
-    "type": "live",
-    "title": "[18+] Why is Iron Man's Korean VA the same as Yi Sang | Tokon Beta | !lurk !throne !tip !discord",
-    "viewer_count": 2,
-    "started_at": "2026-07-25T23:09:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
