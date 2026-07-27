@@ -128,6 +128,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "320715871835",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "369329",
+    "game_name": "Sonic Lost World",
+    "type": "live",
+    "title": "[18+] FASTEST THING ALIVE | SONIC LOST WORLD",
+    "viewer_count": 3,
+    "started_at": "2026-07-27T21:57:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Catboy",
+      "BoyWife",
+      "LGBTQ",
+      "femboy",
+      "Chatting",
+      "BackseatGamingAllowed",
+      "Vtuber",
+      "cute",
+      "English",
+      "sonic"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320715851227",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -136,7 +165,7 @@
     "game_name": "Persona 5 Tactica",
     "type": "live",
     "title": "We shall become more then a messenger!|| Persona 5 Tactica (!lurk, !links, !discord)",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-07-27T21:56:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -174,34 +203,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "320715871835",
-    "user_id": "952513348",
-    "user_login": "cabbytat",
-    "user_name": "CabbyTat",
-    "game_id": "369329",
-    "game_name": "Sonic Lost World",
-    "type": "live",
-    "title": "[18+] FASTEST THING ALIVE | SONIC LOST WORLD",
-    "viewer_count": 1,
-    "started_at": "2026-07-27T21:57:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Catboy",
-      "BoyWife",
-      "LGBTQ",
-      "femboy",
-      "Chatting",
-      "BackseatGamingAllowed",
-      "Vtuber",
-      "cute",
-      "English",
-      "sonic"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   }
 ]
