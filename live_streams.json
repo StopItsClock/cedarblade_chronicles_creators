@@ -8,7 +8,7 @@
     "game_name": "The Long Dark",
     "type": "live",
     "title": "i will not be walking around in circles || !discord !dono !lurk !throne",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-07-27T19:06:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "[ENVtuber] First time Palworld since EA release :33 @ThatUserKai @Bluishmaple @WhitestCat",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-07-27T17:00:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
@@ -71,5 +71,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da1a8e7f-e49e-4223-ad61-51ac320a4403-profile_image-300x300.png"
+  },
+  {
+    "id": "317314891874",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "1397606945",
+    "game_name": "Indiana Jones and the Great Circle",
+    "type": "live",
+    "title": "[1st play through] We could be near the end, or barely started, who even knows anymore",
+    "viewer_count": 1,
+    "started_at": "2026-07-27T19:43:47Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
