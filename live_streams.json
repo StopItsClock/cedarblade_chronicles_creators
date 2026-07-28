@@ -4,11 +4,11 @@
     "user_id": "133400606",
     "user_login": "slushieghost",
     "user_name": "SlushieGhost",
-    "game_id": "509660",
-    "game_name": "Art",
+    "game_id": "1457501816",
+    "game_name": "Cat Mail Co.",
     "type": "live",
     "title": "✧ *poof* you're a shrimp ✧ !lurk !merch !throne !clip",
-    "viewer_count": 31,
+    "viewer_count": 32,
     "started_at": "2026-07-27T22:59:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -27,5 +27,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
+  },
+  {
+    "id": "320555199449",
+    "user_id": "116714793",
+    "user_login": "marioairheart",
+    "user_name": "MarioAirheart",
+    "game_id": "965771331",
+    "game_name": "Deltarune",
+    "type": "live",
+    "title": "18+ | DELTARUNE TODAY BUT ACTUALY WAS...IDK HOW MANY WEEKS AGO | PC | Deltarune | !CreatorClub !discord !Blacklyte",
+    "viewer_count": 1,
+    "started_at": "2026-07-28T04:25:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "VtuberEN",
+      "PNGtuberEN",
+      "Variety",
+      "English",
+      "VTuberUprising",
+      "18maturelanguage",
+      "feet"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   }
 ]
