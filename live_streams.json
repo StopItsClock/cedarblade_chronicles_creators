@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "✧ *poof* you're a shrimp ✧ !lurk !merch !throne !clip",
-    "viewer_count": 27,
+    "viewer_count": 24,
     "started_at": "2026-07-27T22:59:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -93,7 +93,7 @@
     "game_name": "Persona 5 Tactica",
     "type": "live",
     "title": "We shall become more then a messenger!|| Persona 5 Tactica (!lurk, !links, !discord)",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-07-27T21:56:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -108,31 +108,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "319631683292",
-    "user_id": "938069605",
-    "user_login": "cedarvt",
-    "user_name": "CedarVT",
-    "game_id": "1820839024",
-    "game_name": "MECCHA CHAMELEON",
-    "type": "live",
-    "title": "The crew is back together! ~🍂 !discord !merch",
-    "viewer_count": 2,
-    "started_at": "2026-07-28T00:56:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "ComfyChaotic",
-      "leaf",
-      "skibidirizz"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   },
   {
     "id": "320719552219",
@@ -158,5 +133,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
+  },
+  {
+    "id": "319631683292",
+    "user_id": "938069605",
+    "user_login": "cedarvt",
+    "user_name": "CedarVT",
+    "game_id": "1820839024",
+    "game_name": "MECCHA CHAMELEON",
+    "type": "live",
+    "title": "The crew is back together! ~🍂 !discord !merch",
+    "viewer_count": 1,
+    "started_at": "2026-07-28T00:56:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "ComfyChaotic",
+      "leaf",
+      "skibidirizz"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed232ef-8c05-4129-a477-68bd22006e76-profile_image-300x300.jpeg"
   }
 ]
