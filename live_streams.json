@@ -29,35 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/748526d9-d489-4999-80cc-63cdb2f0fce6-profile_image-300x300.png"
   },
   {
-    "id": "319706657248",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "[18+] 3 Vtubers with 1 Brain Cell VS Gravity [PEAK w/ @dragonekho + @suppidish]| !throne !socials !lurk !discord",
-    "viewer_count": 6,
-    "started_at": "2026-07-28T19:29:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "girl",
-      "LGBT",
-      "English",
-      "Canadian",
-      "LGBTQFriendly",
-      "Vtuber",
-      "peak",
-      "multıplayer",
-      "Collab",
-      "BRAINROT"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
     "id": "317362007907",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -85,5 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "319706657248",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "[18+] 3 Vtubers with 1 Brain Cell VS Gravity [PEAK w/ @dragonekho + @suppidish]| !throne !socials !lurk !discord",
+    "viewer_count": 5,
+    "started_at": "2026-07-28T19:29:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "LGBTQFriendly",
+      "Vtuber",
+      "peak",
+      "multıplayer",
+      "Collab",
+      "BRAINROT"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   }
 ]
