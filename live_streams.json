@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "【DEBUT】Your Captain has landed! | !hug",
-    "viewer_count": 38,
+    "viewer_count": 37,
     "started_at": "2026-07-28T19:06:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "[18+] 3 Vtubers with 1 Brain Cell VS Gravity [PEAK w/ @dragonekho + @suppidish]| !throne !socials !lurk !discord",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-07-28T19:29:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -114,5 +114,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317750332632",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "1581126534",
+    "game_name": "DREDGE",
+    "type": "live",
+    "title": "DREDGE SHARK WEEK WOOOOO OWOWOWOWOWOWWWWW",
+    "viewer_count": 2,
+    "started_at": "2026-07-28T21:02:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "Vampire",
+      "Dredge",
+      "SharkWeek"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   }
 ]
