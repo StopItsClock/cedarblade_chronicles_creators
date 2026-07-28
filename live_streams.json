@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "【DEBUT】Your Captain has landed! | !hug",
-    "viewer_count": 14,
+    "viewer_count": 26,
     "started_at": "2026-07-28T19:06:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -27,31 +27,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/748526d9-d489-4999-80cc-63cdb2f0fce6-profile_image-300x300.png"
-  },
-  {
-    "id": "315855194835",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "278441117",
-    "game_name": "Assassin's Creed Black Flag Resynced",
-    "type": "live",
-    "title": "Assassin Creed Resynced. Sailing Across the ocean",
-    "viewer_count": 4,
-    "started_at": "2026-07-28T17:04:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "317362007907",
