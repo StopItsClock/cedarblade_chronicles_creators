@@ -8,7 +8,7 @@
     "game_name": "Funnel Runners",
     "type": "live",
     "title": "✧ Screaming, running, crying at storms ✧ !lurk !merch !throne !clip",
-    "viewer_count": 34,
+    "viewer_count": 36,
     "started_at": "2026-07-28T22:35:35Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Shift at Midnight",
     "type": "live",
     "title": "[18+] -Badge Drop- 12 YEARS OF NYSSA? ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 30,
+    "viewer_count": 28,
     "started_at": "2026-07-28T22:01:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "So my internet is broken.... [!lurk !discord !clip]",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-07-29T01:08:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -139,6 +139,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bae917c1-464e-4eae-a727-5d4b761fac21-profile_image-300x300.png"
   },
   {
+    "id": "320568639833",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "Starfastwolf",
+    "game_id": "71375",
+    "game_name": "Star Citizen",
+    "type": "live",
+    "title": "playing some star citizen with friends",
+    "viewer_count": 2,
+    "started_at": "2026-07-29T00:31:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "PNGtuberEN",
+      "18pluschannel",
+      "StarCitizen",
+      "starcitizengameplay",
+      "PvE",
+      "goodevibes"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+  },
+  {
     "id": "320625376986",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -165,31 +191,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "320568639833",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "Starfastwolf",
-    "game_id": "71375",
-    "game_name": "Star Citizen",
-    "type": "live",
-    "title": "playing some star citizen with friends",
-    "viewer_count": 1,
-    "started_at": "2026-07-29T00:31:30Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "PNGtuberEN",
-      "18pluschannel",
-      "StarCitizen",
-      "starcitizengameplay",
-      "PvE",
-      "goodevibes"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
