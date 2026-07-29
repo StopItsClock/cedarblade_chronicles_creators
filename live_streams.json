@@ -7,7 +7,7 @@
     "game_id": "1036710512",
     "game_name": "Palworld",
     "type": "live",
-    "title": "i'm innocent C: \u2727",
+    "title": "i'm innocent C: ✧",
     "viewer_count": 12,
     "started_at": "2026-07-29T21:22:53Z",
     "language": "en",
@@ -26,31 +26,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
   },
   {
-    "id": "320640181338",
-    "user_id": "781092139",
-    "user_login": "thatuserkai",
-    "user_name": "ThatUserKai",
-    "game_id": "126296160",
-    "game_name": "Dokapon Kingdom: Connect",
-    "type": "live",
-    "title": "{ENVTuber 18+} DokaponKingdon w/ @calmarvt @onetruemink @azureaetherium | !socials !discord !lurk",
-    "viewer_count": 4,
-    "started_at": "2026-07-29T20:09:30Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "aroace",
-      "VTuber",
-      "ENVTuber",
-      "HeHim",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da1a8e7f-e49e-4223-ad61-51ac320a4403-profile_image-300x300.png"
-  },
-  {
     "id": "320751759451",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -59,7 +34,7 @@
     "game_name": "Super Mario 64",
     "type": "live",
     "title": "[18+] THE MUSHROOM KINGDOM IS UNDER ATTACK | MARIO 64",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-07-29T20:50:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -78,6 +53,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "320640181338",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "126296160",
+    "game_name": "Dokapon Kingdom: Connect",
+    "type": "live",
+    "title": "{ENVTuber 18+} DokaponKingdon w/ @calmarvt @onetruemink @azureaetherium | !socials !discord !lurk",
+    "viewer_count": 3,
+    "started_at": "2026-07-29T20:09:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "VTuber",
+      "ENVTuber",
+      "HeHim",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da1a8e7f-e49e-4223-ad61-51ac320a4403-profile_image-300x300.png"
   },
   {
     "id": "319721890656",
