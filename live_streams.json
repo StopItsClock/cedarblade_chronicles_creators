@@ -8,7 +8,7 @@
     "game_name": "Uno",
     "type": "live",
     "title": "[Road to 1k] There will be paper cuts and ruined friendships (Uno w/ @BaguStreams @Regina_Kardinal)",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-07-29T20:47:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -24,6 +24,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319595080414",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1036710512",
+    "game_name": "Palworld",
+    "type": "live",
+    "title": "i'm innocent C: ✧",
+    "viewer_count": 8,
+    "started_at": "2026-07-29T21:22:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
   },
   {
     "id": "320749731035",
@@ -157,31 +183,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da1a8e7f-e49e-4223-ad61-51ac320a4403-profile_image-300x300.png"
-  },
-  {
-    "id": "319595080414",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "1036710512",
-    "game_name": "Palworld",
-    "type": "live",
-    "title": "i'm innocent C: ✧",
-    "viewer_count": 0,
-    "started_at": "2026-07-29T21:22:53Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "vcanada"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86c1253-38fe-43a5-b406-139c80c7d7ca-profile_image-300x300.png"
   }
 ]
