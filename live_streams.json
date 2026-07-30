@@ -1,30 +1,5 @@
 [
   {
-    "id": "315835254482",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "33214",
-    "game_name": "Fortnite",
-    "type": "live",
-    "title": "I lost a bet. Now I am here for 4 hours",
-    "viewer_count": 4,
-    "started_at": "2026-07-30T16:43:30Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
     "id": "317338113890",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -33,7 +8,7 @@
     "game_name": "Space Engineers",
     "type": "live",
     "title": "time for some Space Raven! I remembered desktop audio this time!",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-07-30T17:59:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -50,6 +25,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
+    "id": "315835254482",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "33214",
+    "game_name": "Fortnite",
+    "type": "live",
+    "title": "I lost a bet. Now I am here for 4 hours",
+    "viewer_count": 3,
+    "started_at": "2026-07-30T16:43:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
     "id": "320768496603",
