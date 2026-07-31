@@ -8,7 +8,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "Elden Shark | 18+ | !fishcord !kofi !throne",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-07-31T18:00:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -27,30 +27,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
-    "id": "315867039315",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1458917212",
-    "game_name": "Happy's Humble Burger Cult",
-    "type": "live",
-    "title": "Gilded wanted to be a burger",
-    "viewer_count": 4,
-    "started_at": "2026-07-31T17:04:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
     "id": "320785262555",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -59,7 +35,7 @@
     "game_name": "Happy's Humble Burger Cult",
     "type": "live",
     "title": "I'M the burger grill man?? || !puppers !discord !dnd",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-07-31T17:04:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
@@ -78,5 +54,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "315867039315",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1458917212",
+    "game_name": "Happy's Humble Burger Cult",
+    "type": "live",
+    "title": "Gilded wanted to be a burger",
+    "viewer_count": 3,
+    "started_at": "2026-07-31T17:04:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
