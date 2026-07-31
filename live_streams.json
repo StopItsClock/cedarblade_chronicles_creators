@@ -1,31 +1,5 @@
 [
   {
-    "id": "320788613851",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "1036710512",
-    "game_name": "Palworld",
-    "type": "live",
-    "title": "【 COS AND FRIENDS】We playin' with pals (and my friends butt)! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 8,
-    "started_at": "2026-07-31T21:00:17Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "320619702489",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -34,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "[18+] CHAPTER 5 IS HERE! | DELTARUNE",
-    "viewer_count": 6,
+    "viewer_count": 9,
     "started_at": "2026-07-31T20:52:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -55,6 +29,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
+    "id": "320788613851",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "1036710512",
+    "game_name": "Palworld",
+    "type": "live",
+    "title": "【 COS AND FRIENDS】We playin' with pals (and my friends butt)! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 9,
+    "started_at": "2026-07-31T21:00:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319748619872",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -63,7 +63,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "[Road to 1k] We tier on our lists (Tierlists w/ @Regina_Kardinal)",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-07-31T19:51:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
