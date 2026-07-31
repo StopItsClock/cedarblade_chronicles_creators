@@ -8,7 +8,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "【 COS AND FRIENDS】We playin' with pals (and my friends butt)! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-07-31T21:00:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "[18+] CHAPTER 5 IS HERE! | DELTARUNE",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-07-31T20:52:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -53,35 +53,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317347871714",
-    "user_id": "916904675",
-    "user_login": "articglow_",
-    "user_name": "ArticGlow_",
-    "game_id": "144418804",
-    "game_name": "LOCKDOWN Protocol",
-    "type": "live",
-    "title": "ITS LOCKDOWN TIME!! ||COLLAB|| <3",
-    "viewer_count": 5,
-    "started_at": "2026-07-31T21:01:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "gamer",
-      "SheHer",
-      "Bubbly",
-      "PositiveVibes",
-      "pngtuber",
-      "Anime",
-      "Vtuber",
-      "Cozy",
-      "ASMR"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
     "id": "319748619872",
@@ -108,5 +79,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317347871714",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "144418804",
+    "game_name": "LOCKDOWN Protocol",
+    "type": "live",
+    "title": "ITS LOCKDOWN TIME!! ||COLLAB|| <3",
+    "viewer_count": 4,
+    "started_at": "2026-07-31T21:01:20Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy",
+      "ASMR"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   }
 ]
