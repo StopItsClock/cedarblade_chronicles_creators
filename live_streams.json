@@ -1,32 +1,5 @@
 [
   {
-    "id": "317956147303",
-    "user_id": "169349524",
-    "user_login": "frostvirinightfang",
-    "user_name": "FrostViriNightfang",
-    "game_id": "11386",
-    "game_name": "Metal Gear Solid 2: Sons of Liberty",
-    "type": "live",
-    "title": "☽ Let's try this again ☾ !discord",
-    "viewer_count": 1,
-    "started_at": "2026-08-01T13:03:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostvirinightfang-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "LGBTQFriendly",
-      "DyslexicStreamer",
-      "Vtuber",
-      "chill",
-      "LurkersWelcome",
-      "Omnisexual",
-      "VarietyStreamer"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd676a78-80b9-4398-b322-75bd7fcd2865-profile_image-300x300.png"
-  },
-  {
     "id": "317378071652",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -35,7 +8,7 @@
     "game_name": "Vintage Story",
     "type": "live",
     "title": "time for some relaxation and vintage!",
-    "viewer_count": 0,
+    "viewer_count": 2,
     "started_at": "2026-08-01T15:50:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
