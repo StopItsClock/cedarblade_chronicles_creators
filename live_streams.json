@@ -8,7 +8,7 @@
     "game_name": "NieR: Automata",
     "type": "live",
     "title": "✧ Ghostie returns to Nier!! Finally!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 27,
+    "viewer_count": 29,
     "started_at": "2026-07-31T23:05:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "₊✩‧₊˚౨ yap maxing + taver of tales rp server  ৎ˚₊✩‧₊ | !discord !lurk",
-    "viewer_count": 22,
+    "viewer_count": 21,
     "started_at": "2026-07-31T22:59:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -62,7 +62,7 @@
     "game_name": "Danganronpa 2: Goodbye Despair",
     "type": "live",
     "title": "[18+] Island Full of Weirdos (and Murderers) [Danganronpa 2 - FIRST PLAYTHROUGH]| !throne !socials !lurk !discord",
-    "viewer_count": 12,
+    "viewer_count": 14,
     "started_at": "2026-07-31T23:03:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -81,33 +81,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
-    "id": "319748619872",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "1264310518",
-    "game_name": "Marvel Rivals",
-    "type": "live",
-    "title": "[Road to 1k] Finishing the day w/ Rivals",
-    "viewer_count": 11,
-    "started_at": "2026-07-31T19:51:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "Vtuber",
-      "prismmodel",
-      "seatuber",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "320788613851",
@@ -136,6 +109,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "319748619872",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "[Road to 1k] Finishing the day w/ Rivals",
+    "viewer_count": 9,
+    "started_at": "2026-07-31T19:51:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319751262048",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -144,7 +144,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "Deeping In The Night Until She Reigns | !Clip",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-07-31T23:20:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -161,5 +161,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/528079f7-f1d7-48c4-8b28-7f485c3318f7-profile_image-300x300.png"
+  },
+  {
+    "id": "320680364378",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "982348888",
+    "game_name": "ELDEN RING NIGHTREIGN",
+    "type": "live",
+    "title": "WEEKLY NIGHT REIGN WITH @somanella & @slimechemist",
+    "viewer_count": 1,
+    "started_at": "2026-08-01T00:18:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
   }
 ]
