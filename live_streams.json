@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "315926242026",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Starting our adventures into the Anemon SMP! [!lurk !discord !clip]",
+    "viewer_count": 1,
+    "started_at": "2026-08-01T09:51:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Filipino",
+      "Comfy",
+      "Fudanshi"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
+  }
+]
