@@ -1,29 +1,32 @@
 [
   {
-    "id": "320695402714",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
+    "id": "320809763035",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
     "type": "live",
-    "title": "【 COSMIC PLAYS】I am not feeling Bonita. ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 8,
-    "started_at": "2026-08-01T20:58:44Z",
+    "title": "OFFKAI RECAP -> DIVINE CHAOS PACKS 🧊 !pine !socials !cover🍧 @frostedplague7",
+    "viewer_count": 20,
+    "started_at": "2026-08-01T23:10:05Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "Vtuber",
-      "English",
-      "Crow",
       "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
     "id": "319705718748",
@@ -60,7 +63,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "Locking Dead !discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-08-01T22:58:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -106,34 +109,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "320809763035",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "OFFKAI RECAP -> DIVINE CHAOS PACKS 🧊 !pine !socials !cover🍧 @frostedplague7",
-    "viewer_count": 1,
-    "started_at": "2026-08-01T23:10:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "Hispanic",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   }
 ]
