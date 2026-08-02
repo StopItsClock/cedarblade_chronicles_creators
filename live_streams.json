@@ -4,11 +4,11 @@
     "user_id": "1148563591",
     "user_login": "veroniavvinter",
     "user_name": "VeroniaVvinter",
-    "game_id": "37334917",
-    "game_name": "Wobbledogs",
+    "game_id": "515025",
+    "game_name": "Overwatch",
     "type": "live",
     "title": "worlds worse junkrat main reporting for duty!!! || !discord !dono !lurk !throne",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-08-02T20:38:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Resident Evil 2",
     "type": "live",
     "title": "[RE:2 Remake] Can we Marathon it to completion? Probably not. BUT we'll try! [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-08-02T20:30:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -51,6 +51,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "319649995870",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512923",
+    "game_name": "Baldur's Gate 3",
+    "type": "live",
+    "title": "[Road to 1k] The final act is upon us, this is our curtain call. The finale (Baldur's Gate 3 Finale w/ @Regina_Kardinal)",
+    "viewer_count": 3,
+    "started_at": "2026-08-02T19:39:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "320656783961",
@@ -76,31 +102,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da1a8e7f-e49e-4223-ad61-51ac320a4403-profile_image-300x300.png"
-  },
-  {
-    "id": "319649995870",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "512923",
-    "game_name": "Baldur's Gate 3",
-    "type": "live",
-    "title": "[Road to 1k] The final act is upon us, this is our curtain call. The finale (Baldur's Gate 3 Finale w/ @Regina_Kardinal)",
-    "viewer_count": 2,
-    "started_at": "2026-08-02T19:39:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "Vtuber",
-      "prismmodel",
-      "seatuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   }
 ]
