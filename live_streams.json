@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "worlds worse junkrat main reporting for duty!!! || !discord !dono !lurk !throne",
-    "viewer_count": 17,
+    "viewer_count": 22,
     "started_at": "2026-08-02T20:38:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -113,7 +113,7 @@
     "game_name": "Genshin Impact",
     "type": "live",
     "title": "{ENVTuber 18+} Genshin story quests! | !socials !discord !lurk",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-08-02T20:52:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
@@ -156,5 +156,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
+  },
+  {
+    "id": "319779669856",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "₊✩‧₊˚౨ taver of tales rp server + they had to nearf me i was too strong fr ৎ˚₊✩‧₊ | !discord !lurk",
+    "viewer_count": 2,
+    "started_at": "2026-08-02T22:50:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "brat",
+      "ComfyChaotic",
+      "twinkmaxxing",
+      "femboy",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   }
 ]
