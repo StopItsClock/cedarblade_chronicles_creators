@@ -8,7 +8,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "[Road to 1k] Why Didn't You DODGE!?!?! (Elden Ring Seamless Coop w/ @Regina_Kardinal)",
-    "viewer_count": 11,
+    "viewer_count": 9,
     "started_at": "2026-08-03T20:12:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -24,6 +24,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317370826594",
+    "user_id": "1124868242",
+    "user_login": "karaleuatomic",
+    "user_name": "KaraleuAtomic",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "I Lied. More Elden Ring. @karaleuatomic !kofi !throne",
+    "viewer_count": 4,
+    "started_at": "2026-08-03T17:58:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "BritishStreamer",
+      "English",
+      "TransVtuber",
+      "sharkussy",
+      "sharkvtuber",
+      "lewdtuber",
+      "Tsundere",
+      "DeadWeight"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
     "id": "317411260643",
@@ -47,33 +75,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "317370826594",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "I Lied. More Elden Ring. @karaleuatomic !kofi !throne",
-    "viewer_count": 3,
-    "started_at": "2026-08-03T17:58:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "sharkvtuber",
-      "lewdtuber",
-      "Tsundere",
-      "DeadWeight"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   }
 ]
