@@ -8,7 +8,7 @@
     "game_name": "Resident Evil 2",
     "type": "live",
     "title": "[RE:2 Remake] Can we Marathon it to completion? Probably not. BUT we'll try! [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-08-02T20:30:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -81,34 +81,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "320714357210",
-    "user_id": "193636646",
-    "user_login": "captainyeeticus",
-    "user_name": "captainyeeticus",
-    "game_id": "582430476",
-    "game_name": "Far Far West",
-    "type": "live",
-    "title": "Sub Sundays! Far Far West w/@omegarift5 & @theautumndryad",
-    "viewer_count": 3,
-    "started_at": "2026-08-02T21:55:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "lgbt",
-      "gremlin",
-      "artist",
-      "author",
-      "transgender",
-      "vtuber",
-      "pngtuber",
-      "envtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
-  },
-  {
     "id": "319723476444",
     "user_id": "240610101",
     "user_login": "shatteredsoullive",
@@ -117,7 +89,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "CATCHING WEIRD ANIMALS TO BE MY FRIENDOS! !socials !pronouns !clip",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-08-02T23:59:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
@@ -135,5 +107,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "320714357210",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "582430476",
+    "game_name": "Far Far West",
+    "type": "live",
+    "title": "Sub Sundays! Far Far West w/@omegarift5 & @theautumndryad",
+    "viewer_count": 2,
+    "started_at": "2026-08-02T21:55:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
