@@ -26,29 +26,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "317411260643",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "532988445",
-    "game_name": "PowerWash Simulator 2",
-    "type": "live",
-    "title": "[Starwars Maps] Have you considered support some of Twitch's dead weight?",
-    "viewer_count": 4,
-    "started_at": "2026-08-03T18:46:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
     "id": "320730936154",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -57,7 +34,7 @@
     "game_name": "Denshattack!",
     "type": "live",
     "title": "I like Trains.... wait where is the tra-|| Denshattack! (!lurk, !links, !discord)",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-08-03T21:55:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -82,7 +59,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "【 STARDEW MONDAYS】Gas plus lighter = explosion! I'm alive though! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-08-03T20:59:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -98,5 +75,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "317411260643",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "532988445",
+    "game_name": "PowerWash Simulator 2",
+    "type": "live",
+    "title": "[Starwars Maps] Have you considered support some of Twitch's dead weight?",
+    "viewer_count": 4,
+    "started_at": "2026-08-03T18:46:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
