@@ -1,31 +1,5 @@
 [
   {
-    "id": "318705157463",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "farting around",
-    "viewer_count": 9,
-    "started_at": "2026-08-02T22:06:53Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames",
-      "LIESOFP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
-  },
-  {
     "id": "317364555234",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -55,6 +29,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   },
   {
+    "id": "318705157463",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "farting around",
+    "viewer_count": 7,
+    "started_at": "2026-08-02T22:06:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge",
+      "soulsgames",
+      "LIESOFP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
+  },
+  {
     "id": "319649995870",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -63,7 +63,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[Road to 1k] The final act is upon us, this is our curtain call. The finale (Baldur's Gate 3 Finale w/ @Regina_Kardinal)",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-08-02T19:39:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -89,7 +89,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "CATCHING WEIRD ANIMALS TO BE MY FRIENDOS! !socials !pronouns !clip",
-    "viewer_count": 4,
+    "viewer_count": 2,
     "started_at": "2026-08-02T23:59:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
