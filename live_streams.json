@@ -61,7 +61,7 @@
     "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
     "type": "live",
     "title": "[18+] THIS RUN IS SO CURSED [Modded Crowd Control Skyrim] w/ @dragonekho | !throne !socials !lurk !discord",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-08-04T22:03:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -90,7 +90,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] THE QUEST BEGINS WITH @heyvelleity",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-08-04T21:12:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -139,6 +139,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
+    "id": "319805968224",
+    "user_id": "459187886",
+    "user_login": "starryskiesvt",
+    "user_name": "StarrySkiesVT",
+    "game_id": "676802825",
+    "game_name": "Big Walk",
+    "type": "live",
+    "title": "AHem Buy my daki, PLAYING BIG WALK W/ @zerooftheinfinite !! | !daki !discord",
+    "viewer_count": 2,
+    "started_at": "2026-08-04T22:23:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "VTuber",
+      "English",
+      "LGBTQ",
+      "stinky",
+      "mouse",
+      "cottoncandy",
+      "Trans",
+      "Pisstuber",
+      "VillainTuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/570775aa-f5e0-4c4d-a2fb-39ab2f7ff14d-profile_image-300x300.png"
+  },
+  {
     "id": "317418348131",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -166,33 +194,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "319805968224",
-    "user_id": "459187886",
-    "user_login": "starryskiesvt",
-    "user_name": "StarrySkiesVT",
-    "game_id": "676802825",
-    "game_name": "Big Walk",
-    "type": "live",
-    "title": "AHem Buy my daki, PLAYING BIG WALK W/ @zerooftheinfinite !! | !daki !discord",
-    "viewer_count": 2,
-    "started_at": "2026-08-04T22:23:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "VTuber",
-      "English",
-      "LGBTQ",
-      "stinky",
-      "mouse",
-      "cottoncandy",
-      "Trans",
-      "Pisstuber",
-      "VillainTuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/570775aa-f5e0-4c4d-a2fb-39ab2f7ff14d-profile_image-300x300.png"
   }
 ]
