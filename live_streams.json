@@ -8,7 +8,7 @@
     "game_name": "Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition",
     "type": "live",
     "title": "[18+] what the heck is a xenoblade  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 24,
+    "viewer_count": 26,
     "started_at": "2026-08-04T23:32:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "✧ Shrimping and chatting ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 21,
     "started_at": "2026-08-04T23:03:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Palworld",
     "type": "live",
     "title": "【18+】Eldritch Horror is Sick - Pal MAXXING - Sick Stream ✸Low Energy Sick Pal World Stream✸",
-    "viewer_count": 17,
+    "viewer_count": 16,
     "started_at": "2026-08-04T23:50:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -122,7 +122,7 @@
     "game_name": "Cloverpit",
     "type": "live",
     "title": "IM ADULTING | !Clip",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-08-04T23:02:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -149,7 +149,7 @@
     "game_name": "Danganronpa 2: Goodbye Despair",
     "type": "live",
     "title": "YOU GUYS DON'T GET THE FIRST GAME, I WATCHED INSTEAD........ Danganronpa 2 with Lemon Lillie!!!",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-08-05T01:14:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
@@ -159,29 +159,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
-  },
-  {
-    "id": "318729691351",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "676802825",
-    "game_name": "Big Walk",
-    "type": "live",
-    "title": "First stream since the move! Going for a long walk with friends",
-    "viewer_count": 2,
-    "started_at": "2026-08-05T00:45:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "320753351898",
@@ -211,5 +188,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/86cf0679-8d2e-4fac-a207-cfd6d7b325f2-profile_image-300x300.png"
+  },
+  {
+    "id": "318729691351",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "676802825",
+    "game_name": "Big Walk",
+    "type": "live",
+    "title": "First stream since the move! Going for a long walk with friends",
+    "viewer_count": 1,
+    "started_at": "2026-08-05T00:45:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
