@@ -1,31 +1,5 @@
 [
   {
-    "id": "318003281383",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "STARDEW WEDNESDAY | Feel like a cat sent to the green dimension",
-    "viewer_count": 5,
-    "started_at": "2026-08-05T19:49:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber",
-      "yippee",
-      "LGBTQ",
-      "Comfy",
-      "sleepy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
-  },
-  {
     "id": "320877698779",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -53,6 +27,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "318003281383",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "STARDEW WEDNESDAY | Feel like a cat sent to the green dimension",
+    "viewer_count": 4,
+    "started_at": "2026-08-05T19:49:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber",
+      "yippee",
+      "LGBTQ",
+      "Comfy",
+      "sleepy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   },
   {
     "id": "318738889431",
@@ -83,35 +83,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "317425928291",
-    "user_id": "61839029",
-    "user_login": "everyonelovesrobots",
-    "user_name": "EveryoneLovesRobots",
-    "game_id": "655697363",
-    "game_name": "Abiotic Factor",
-    "type": "live",
-    "title": "[Abiotic Factor] SCIENCE AND PORTALS AND ALIENS AND @lilbathuntie [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 3,
-    "started_at": "2026-08-05T16:30:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "everyonelovesrobots",
-      "SciFiGaming",
-      "PNGtuberEN",
-      "HorrorGaming",
-      "ENG",
-      "VtuberEN",
-      "Robots",
-      "scifi",
-      "Charity"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
     "id": "320707807193",
     "user_id": "813947034",
     "user_login": "starfastwolf",
@@ -134,6 +105,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+  },
+  {
+    "id": "317425928291",
+    "user_id": "61839029",
+    "user_login": "everyonelovesrobots",
+    "user_name": "EveryoneLovesRobots",
+    "game_id": "655697363",
+    "game_name": "Abiotic Factor",
+    "type": "live",
+    "title": "[Abiotic Factor] SCIENCE AND PORTALS AND ALIENS AND @lilbathuntie [18+]| road to 300 | !lurk | !commands",
+    "viewer_count": 2,
+    "started_at": "2026-08-05T16:30:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "everyonelovesrobots",
+      "SciFiGaming",
+      "PNGtuberEN",
+      "HorrorGaming",
+      "ENG",
+      "VtuberEN",
+      "Robots",
+      "scifi",
+      "Charity"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   },
   {
     "id": "319690728158",
@@ -171,7 +171,7 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "1.0 IS OUT ✨ ADELINE MY WIFE 🧊 !pine !socials !submit🍧 @frostedplague7",
+    "title": "1.0 IS OUT \u2728 ADELINE MY WIFE \ud83e\uddca !pine !socials !submit\ud83c\udf67 @frostedplague7",
     "viewer_count": 1,
     "started_at": "2026-08-05T22:19:42Z",
     "language": "en",
