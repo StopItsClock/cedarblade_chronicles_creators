@@ -37,7 +37,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "Elden Rings go brs",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-08-07T19:53:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Halo: Campaign Evolved",
     "type": "live",
     "title": "[18+] MASTER CHIEF THROWS IT BACK!",
-    "viewer_count": 9,
+    "viewer_count": 4,
     "started_at": "2026-08-07T20:54:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -83,6 +83,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "320744095577",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Showing off a new model! Yapping and then Satisfactory!",
+    "viewer_count": 3,
+    "started_at": "2026-08-07T22:54:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   },
   {
     "id": "315868092370",
@@ -106,5 +134,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "319799463132",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "₊✩‧₊˚౨  yapping! + art ৎ˚₊✩‧₊ | !discord !lurk",
+    "viewer_count": 0,
+    "started_at": "2026-08-07T22:59:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "brat",
+      "ComfyChaotic",
+      "twinkmaxxing",
+      "femboy",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a53f7d-d498-4a2d-bc75-00bba3b57821-profile_image-300x300.png"
   }
 ]
