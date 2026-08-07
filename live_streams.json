@@ -8,7 +8,7 @@
     "game_name": "Lobotomy Corporation",
     "type": "live",
     "title": "its been so long i actually forgot how to play this game....|| !discord !dono !lurk !throne",
-    "viewer_count": 14,
+    "viewer_count": 11,
     "started_at": "2026-08-07T19:17:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "We Were Here",
     "type": "live",
     "title": "[Road to 1k] What are directions? only gold feesh",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-08-07T19:53:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -51,29 +51,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "315868092370",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "532988445",
-    "game_name": "PowerWash Simulator 2",
-    "type": "live",
-    "title": "[Starwars Maps] Powerwashing to see if my PC overheats",
-    "viewer_count": 2,
-    "started_at": "2026-08-07T19:50:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
     "id": "319717224414",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -82,7 +59,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[18+] Giant Blue Ogres and Random Loot CHAOS [Crowd Control Modded BG3] | !throne !socials !lurk !discord",
-    "viewer_count": 1,
+    "viewer_count": 7,
     "started_at": "2026-08-07T20:35:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -101,5 +78,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
+    "id": "315868092370",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "532988445",
+    "game_name": "PowerWash Simulator 2",
+    "type": "live",
+    "title": "[Starwars Maps] Powerwashing to see if my PC overheats",
+    "viewer_count": 1,
+    "started_at": "2026-08-07T19:50:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
