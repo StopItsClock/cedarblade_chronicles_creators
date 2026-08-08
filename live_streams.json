@@ -7,8 +7,8 @@
     "game_id": "509660",
     "game_name": "Art",
     "type": "live",
-    "title": "[18+] ART AND YAP? BET! 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 12,
+    "title": "[18+] ART AND YAP? BET! \ud83d\udc99 join for yap!\u26a1!lurk !discord !merch !throne !socials",
+    "viewer_count": 15,
     "started_at": "2026-08-08T14:06:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -26,33 +26,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c560cfb-6876-49fe-8b53-681736855743-profile_image-300x300.png"
   },
   {
-    "id": "317448537827",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
-    "game_id": "498417",
-    "game_name": "Vintage Story",
-    "type": "live",
-    "title": "Time to relax and build some more in vintage story",
-    "viewer_count": 1,
-    "started_at": "2026-08-08T13:59:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
-      "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
-  },
-  {
     "id": "320755570649",
     "user_id": "846373427",
     "user_login": "seraphselkie",
@@ -61,7 +34,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "Charity for good boys and gurls! Dallas Pets Alive Charity Livestream!! !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 0,
+    "viewer_count": 8,
     "started_at": "2026-08-08T15:06:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -80,5 +53,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
+  },
+  {
+    "id": "317448537827",
+    "user_id": "149397923",
+    "user_login": "ravenincarnate",
+    "user_name": "ravenincarnate",
+    "game_id": "498417",
+    "game_name": "Vintage Story",
+    "type": "live",
+    "title": "Time to relax and build some more in vintage story",
+    "viewer_count": 2,
+    "started_at": "2026-08-08T13:59:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "Relaxing",
+      "Chill",
+      "English",
+      "18plusstream",
+      "18pluschannel",
+      "18maturelanguage"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   }
 ]
