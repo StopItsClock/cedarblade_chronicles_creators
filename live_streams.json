@@ -8,7 +8,7 @@
     "game_name": "Nuclear Nightmare",
     "type": "live",
     "title": "Omg the cookie is back must bully (Nuclear Nightmare w/ @Snickerdoodle_Demon @Kiba_Safir and @duskstride",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-08-08T20:03:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -61,7 +61,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Creator Carnage Red Rogues!! w/ @sistersidney @pigeonfuzz and @julzdrawz",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-08-08T18:49:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -77,5 +77,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
+  },
+  {
+    "id": "317839718744",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "Fields of Mistria Spring!! THE FLOWER FESTIVALL",
+    "viewer_count": 1,
+    "started_at": "2026-08-08T21:04:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "Vampire",
+      "fieldsofmistria"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   }
 ]
