@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "Charity for good boys and gurls! Dallas Pets Alive Charity Livestream!! !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-08-08T15:06:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -27,32 +27,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
-  },
-  {
-    "id": "317448537827",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
-    "game_id": "498417",
-    "game_name": "Vintage Story",
-    "type": "live",
-    "title": "Time to relax and build some more in vintage story",
-    "viewer_count": 6,
-    "started_at": "2026-08-08T13:59:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
-      "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   }
 ]
