@@ -37,7 +37,7 @@
     "game_name": "Resident Evil 4",
     "type": "live",
     "title": "SATURDAY SUFFERING |  A RE4 geezer trying out the REm4ke",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-08-08T18:10:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
@@ -53,5 +53,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
+    "id": "318656816117",
+    "user_id": "1275381753",
+    "user_login": "mimiluna2",
+    "user_name": "MimiLuna2",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Creator Carnage Red Rogues!! w/ @sistersidney @pigeonfuzz and @julzdrawz",
+    "viewer_count": 1,
+    "started_at": "2026-08-08T18:49:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ADHD",
+      "Latina",
+      "LGBTQIAPIus",
+      "chill",
+      "Español",
+      "MinecraftEvent"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   }
 ]
