@@ -8,7 +8,7 @@
     "game_name": "ReStory: Chill Electronics Repairs",
     "type": "live",
     "title": "✧ mm repair shopping then meccha chameleon ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
+    "viewer_count": 23,
     "started_at": "2026-08-07T23:02:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[18+] Giant Blue Ogres and Random Loot CHAOS [Crowd Control Modded BG3] | !throne !socials !lurk !discord",
-    "viewer_count": 15,
+    "viewer_count": 13,
     "started_at": "2026-08-07T20:35:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -109,5 +109,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "320747085273",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "You Better Yokai-Watch Out! 🧊 !pine !socials !submit🍧 @frostedplague7",
+    "viewer_count": 1,
+    "started_at": "2026-08-08T01:19:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
+      "English",
+      "Anime",
+      "Twunk",
+      "Hispanic",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   }
 ]
