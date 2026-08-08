@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "[18+] ART AND YAP? BET! 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 16,
+    "viewer_count": 12,
     "started_at": "2026-08-08T14:06:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -51,5 +51,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
+    "id": "320755570649",
+    "user_id": "846373427",
+    "user_login": "seraphselkie",
+    "user_name": "seraphselkie",
+    "game_id": "509663",
+    "game_name": "Special Events",
+    "type": "live",
+    "title": "Charity for good boys and gurls! Dallas Pets Alive Charity Livestream!! !tip !lurk  !throne !discord !dgg",
+    "viewer_count": 0,
+    "started_at": "2026-08-08T15:06:36Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "18pluschannel",
+      "Vtuber",
+      "maturecontent",
+      "Mature",
+      "Chaotic",
+      "LGBTQIAPIus",
+      "Dyslexia",
+      "ADHD",
+      "ENVtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
   }
 ]
