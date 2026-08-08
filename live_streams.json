@@ -35,7 +35,7 @@
     "game_name": "",
     "type": "live",
     "title": "Fields of Mistria Spring!! THE FLOWER FESTIVALL",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-08-08T21:04:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -89,7 +89,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "The Entity stole the lightswitch",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-08-08T21:31:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
@@ -128,5 +128,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
+  },
+  {
+    "id": "317414397282",
+    "user_id": "916904675",
+    "user_login": "articglow_",
+    "user_name": "ArticGlow_",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Late night vibes and chill!! Lets vibe together with the music!! [maybe SCUFF]",
+    "viewer_count": 0,
+    "started_at": "2026-08-08T21:53:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_articglow_-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gamer",
+      "SheHer",
+      "Bubbly",
+      "PositiveVibes",
+      "pngtuber",
+      "Anime",
+      "Vtuber",
+      "Cozy",
+      "ASMR"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   }
 ]
