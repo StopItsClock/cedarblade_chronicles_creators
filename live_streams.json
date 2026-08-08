@@ -27,6 +27,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "317839718744",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "Fields of Mistria Spring!! THE FLOWER FESTIVALL",
+    "viewer_count": 4,
+    "started_at": "2026-08-08T21:04:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "Vampire",
+      "fieldsofmistria"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
     "id": "318176174693",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -35,7 +63,7 @@
     "game_name": "Resident Evil 4",
     "type": "live",
     "title": "SATURDAY SUFFERING |  A RE4 geezer trying out the REm4ke",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-08-08T18:10:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
@@ -61,7 +89,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Creator Carnage Red Rogues!! w/ @sistersidney @pigeonfuzz and @julzdrawz",
-    "viewer_count": 4,
+    "viewer_count": 1,
     "started_at": "2026-08-08T18:49:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -77,33 +105,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
-  },
-  {
-    "id": "317839718744",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "Fields of Mistria Spring!! THE FLOWER FESTIVALL",
-    "viewer_count": 3,
-    "started_at": "2026-08-08T21:04:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "goth",
-      "Vampire",
-      "fieldsofmistria"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   }
 ]
