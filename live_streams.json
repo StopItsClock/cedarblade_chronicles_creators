@@ -35,7 +35,7 @@
     "game_name": "Sea of Stars",
     "type": "live",
     "title": "I do see a sea and some stars but where's a sea of stars? || Sea of Stars (!lurk, !links, !discord)",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-08-08T21:55:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -60,7 +60,7 @@
     "game_name": "Resident Evil 4",
     "type": "live",
     "title": "SATURDAY SUFFERING |  A RE4 geezer trying out the REm4ke",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-08-08T18:10:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
@@ -106,29 +106,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "318774917463",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "1036710512",
-    "game_name": "Palworld",
-    "type": "live",
-    "title": "Chill Palworld time",
-    "viewer_count": 3,
-    "started_at": "2026-08-08T22:18:20Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
     "id": "319732921566",
     "user_id": "171862865",
     "user_login": "kingthekeeper",
@@ -150,33 +127,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
-  },
-  {
-    "id": "318656816117",
-    "user_id": "1275381753",
-    "user_login": "mimiluna2",
-    "user_name": "MimiLuna2",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "Post Creator Carnage Stardew Valley New World",
-    "viewer_count": 2,
-    "started_at": "2026-08-08T18:49:30Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ADHD",
-      "Latina",
-      "LGBTQIAPIus",
-      "chill",
-      "Español",
-      "stardewvalley",
-      "stardewvalleyandchill"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   },
   {
     "id": "317414397282",
@@ -206,5 +156,55 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
+  },
+  {
+    "id": "318656816117",
+    "user_id": "1275381753",
+    "user_login": "mimiluna2",
+    "user_name": "MimiLuna2",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "Post Creator Carnage Stardew Valley New World",
+    "viewer_count": 2,
+    "started_at": "2026-08-08T18:49:30Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ADHD",
+      "Latina",
+      "LGBTQIAPIus",
+      "chill",
+      "Espa\u00f1ol",
+      "stardewvalley",
+      "stardewvalleyandchill"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
+  },
+  {
+    "id": "318774917463",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "1036710512",
+    "game_name": "Palworld",
+    "type": "live",
+    "title": "Chill Palworld time",
+    "viewer_count": 2,
+    "started_at": "2026-08-08T22:18:20Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
