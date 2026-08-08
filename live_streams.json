@@ -35,7 +35,7 @@
     "game_name": "",
     "type": "live",
     "title": "Fields of Mistria Spring!! THE FLOWER FESTIVALL",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-08-08T21:04:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -89,7 +89,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Creator Carnage Red Rogues!! w/ @sistersidney @pigeonfuzz and @julzdrawz",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-08-08T18:49:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -100,10 +100,33 @@
       "Latina",
       "LGBTQIAPIus",
       "chill",
-      "Español",
+      "Espa\u00f1ol",
       "MinecraftEvent"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
+  },
+  {
+    "id": "319732921566",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "The Entity stole the lightswitch",
+    "viewer_count": 0,
+    "started_at": "2026-08-08T21:31:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
