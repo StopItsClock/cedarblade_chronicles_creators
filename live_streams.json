@@ -8,7 +8,7 @@
     "game_name": "ReStory: Chill Electronics Repairs",
     "type": "live",
     "title": "✧ mmmmm comfy saturday ✧ !lurk !merch !throne !clip",
-    "viewer_count": 23,
+    "viewer_count": 26,
     "started_at": "2026-08-08T23:08:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "I choose to suffer",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-08-08T22:43:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -76,5 +76,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "320765072473",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "18809",
+    "game_name": "Sonic Riders: Zero Gravity",
+    "type": "live",
+    "title": "late stream, skating into the abyss",
+    "viewer_count": 0,
+    "started_at": "2026-08-09T01:24:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Retro",
+      "ComfyCafe",
+      "eepy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   }
 ]
