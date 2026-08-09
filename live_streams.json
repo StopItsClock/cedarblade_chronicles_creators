@@ -1,28 +1,5 @@
 [
   {
-    "id": "318784502999",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "676802825",
-    "game_name": "Big Walk",
-    "type": "live",
-    "title": "Gonna finish our big trek today!",
-    "viewer_count": 4,
-    "started_at": "2026-08-09T19:01:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
     "id": "320949261915",
     "user_id": "232460847",
     "user_login": "theomenclature",
@@ -67,6 +44,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
+    "id": "318784502999",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "676802825",
+    "game_name": "Big Walk",
+    "type": "live",
+    "title": "Gonna finish our big trek today!",
+    "viewer_count": 3,
+    "started_at": "2026-08-09T19:01:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
     "id": "320775755481",
     "user_id": "167298417",
     "user_login": "gilded_wolfe",
@@ -90,7 +90,7 @@
       "repogame",
       "repogameplay",
       "repowithfriends",
-      "\uff32\uff25\uff30\uff2f"
+      "ＲＥＰＯ"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
