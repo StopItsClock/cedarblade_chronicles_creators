@@ -7,8 +7,8 @@
     "game_id": "1881949588",
     "game_name": "ReStory: Chill Electronics Repairs",
     "type": "live",
-    "title": "\u2727 mmmmm comfy saturday \u2727 !lurk !merch !throne !clip",
-    "viewer_count": 29,
+    "title": "✧ mmmmm comfy saturday ✧ !lurk !merch !throne !clip",
+    "viewer_count": 30,
     "started_at": "2026-08-08T23:08:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -36,8 +36,8 @@
     "game_id": "490147",
     "game_name": "Hollow Knight",
     "type": "live",
-    "title": "\u301018+\u3011Playing the Baby Game -  1 Death = 5+ Push-ups \u2738HollowKnight Stream\u2738",
-    "viewer_count": 16,
+    "title": "【18+】Playing the Baby Game -  1 Death = 5+ Push-ups ✸HollowKnight Stream✸",
+    "viewer_count": 14,
     "started_at": "2026-08-09T01:53:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -58,6 +58,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
+    "id": "320765072473",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "18809",
+    "game_name": "Sonic Riders: Zero Gravity",
+    "type": "live",
+    "title": "late stream, skating into the abyss",
+    "viewer_count": 11,
+    "started_at": "2026-08-09T01:24:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Retro",
+      "ComfyCafe",
+      "eepy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
     "id": "319815862236",
     "user_id": "254478860",
     "user_login": "ispebble",
@@ -66,7 +90,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Finishing the yokai event today hopefully",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-08-08T22:43:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -82,29 +106,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "320765072473",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "18809",
-    "game_name": "Sonic Riders: Zero Gravity",
-    "type": "live",
-    "title": "late stream, skating into the abyss",
-    "viewer_count": 10,
-    "started_at": "2026-08-09T01:24:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Retro",
-      "ComfyCafe",
-      "eepy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   }
 ]
