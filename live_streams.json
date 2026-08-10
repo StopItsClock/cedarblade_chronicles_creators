@@ -1,5 +1,32 @@
 [
   {
+    "id": "319888569056",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "We are the storm that is APPROACHING [Elden Ring @regina_Kardinal and @snickerdoodle_Demon]",
+    "viewer_count": 9,
+    "started_at": "2026-08-10T20:33:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber",
+      "DeadWeight"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320794338521",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -8,7 +35,7 @@
     "game_name": "Winter Burrow",
     "type": "live",
     "title": "[18+] CABBYMOUSE NEEDS FOOD | WINTER BURROW",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-08-10T20:50:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -70,39 +97,12 @@
       "English",
       "Chaotic",
       "Wolf",
-      "Crınge",
+      "Cr\u0131nge",
       "soulsgames",
       "LIESOFP"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
-  },
-  {
-    "id": "319888569056",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "512953",
-    "game_name": "ELDEN RING",
-    "type": "live",
-    "title": "We are the storm that is APPROACHING [Elden Ring @regina_Kardinal and @snickerdoodle_Demon]",
-    "viewer_count": 7,
-    "started_at": "2026-08-10T20:33:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "Vtuber",
-      "prismmodel",
-      "seatuber",
-      "DeadWeight"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "315880877522",
