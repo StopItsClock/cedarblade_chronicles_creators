@@ -8,7 +8,7 @@
     "game_name": "Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition",
     "type": "live",
     "title": "[18+] WHAT TIME IS IT  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 53,
+    "viewer_count": 54,
     "started_at": "2026-08-10T01:01:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Batomon Showdown",
     "type": "live",
     "title": "Internet is dead again. Let's chat for a bit! [!lurk !discord !clip]",
-    "viewer_count": 12,
+    "viewer_count": 7,
     "started_at": "2026-08-10T00:46:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -54,5 +54,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
+  },
+  {
+    "id": "320849363418",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "【18+】Reading Scary Stuff Till You Fall Asleep ✸Scary ahh Stream✸",
+    "viewer_count": 0,
+    "started_at": "2026-08-10T02:24:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "ENVtuber",
+      "boyfriend",
+      "TentacleMonster",
+      "boyfailure",
+      "feet",
+      "eboy",
+      "DeepVoice",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
