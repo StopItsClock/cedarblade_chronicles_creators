@@ -8,7 +8,7 @@
     "game_name": "Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition",
     "type": "live",
     "title": "[18+] WHAT TIME IS IT  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 49,
+    "viewer_count": 48,
     "started_at": "2026-08-10T01:01:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -33,11 +33,11 @@
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
     "user_name": "SunshiSunshu",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
+    "game_id": "772157971",
+    "game_name": "Writing & Reading",
     "type": "live",
     "title": "【18+】Reading Scary Stuff Till You Fall Asleep ✸Scary ahh Stream✸",
-    "viewer_count": 19,
+    "viewer_count": 22,
     "started_at": "2026-08-10T02:24:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -83,5 +83,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
+  },
+  {
+    "id": "320850315226",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "mining and crafting and NOT dying!!! || !discord !dono !lurk !throne",
+    "viewer_count": 5,
+    "started_at": "2026-08-10T03:06:46Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
   }
 ]
