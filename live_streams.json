@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "319771232606",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "1264310518",
+    "game_name": "Marvel Rivals",
+    "type": "live",
+    "title": "Purple rank and maybe FFXIV story later",
+    "viewer_count": 0,
+    "started_at": "2026-08-11T16:41:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  }
+]
