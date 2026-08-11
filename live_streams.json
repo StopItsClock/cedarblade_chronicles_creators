@@ -1,34 +1,5 @@
 [
   {
-    "id": "319859935324",
-    "user_id": "884094552",
-    "user_login": "magicteahouse",
-    "user_name": "MagicTeaHouse",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[18+] 🌷 Cozy Zen Minecrafternoon~ [Modded Minecraft] | !throne !socials !lurk !discord",
-    "viewer_count": 10,
-    "started_at": "2026-08-11T18:37:08Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "girl",
-      "LGBT",
-      "English",
-      "Canadian",
-      "LGBTQFriendly",
-      "Vtuber",
-      "DeadWeight",
-      "minecraft",
-      "ModdedMinecraftSurvival",
-      "cozygaming"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
     "id": "319771232606",
     "user_id": "254478860",
     "user_login": "ispebble",
@@ -37,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "Purple rank and maybe FFXIV story later",
-    "viewer_count": 8,
+    "viewer_count": 6,
     "started_at": "2026-08-11T16:41:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -77,5 +48,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "319859935324",
+    "user_id": "884094552",
+    "user_login": "magicteahouse",
+    "user_name": "MagicTeaHouse",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[18+] 🌷 Cozy Zen Minecrafternoon~ [Modded Minecraft] | !throne !socials !lurk !discord",
+    "viewer_count": 4,
+    "started_at": "2026-08-11T18:37:08Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "girl",
+      "LGBT",
+      "English",
+      "Canadian",
+      "LGBTQFriendly",
+      "Vtuber",
+      "DeadWeight",
+      "minecraft",
+      "ModdedMinecraftSurvival",
+      "cozygaming"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   }
 ]
