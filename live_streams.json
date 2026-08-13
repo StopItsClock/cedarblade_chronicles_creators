@@ -34,7 +34,7 @@
     "game_name": "7 Days to Die",
     "type": "live",
     "title": "erm drinkin, what we gonna play? | !daki !discord",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-08-13T18:00:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -52,6 +52,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f7311b1-40a0-42e0-aa8e-c0ce14d530cf-profile_image-300x300.png"
+  },
+  {
+    "id": "317453501026",
+    "user_id": "149397923",
+    "user_login": "ravenincarnate",
+    "user_name": "ravenincarnate",
+    "game_id": "391475",
+    "game_name": "Space Engineers",
+    "type": "live",
+    "title": "the space station still needs to be made!",
+    "viewer_count": 1,
+    "started_at": "2026-08-13T18:21:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "Relaxing",
+      "Chill",
+      "English",
+      "18plusstream",
+      "18pluschannel",
+      "18maturelanguage"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   },
   {
     "id": "315892912210",
@@ -76,32 +103,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
-    "id": "317453501026",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
-    "game_id": "391475",
-    "game_name": "Space Engineers",
-    "type": "live",
-    "title": "the space station still needs to be made!",
-    "viewer_count": 0,
-    "started_at": "2026-08-13T18:21:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
-      "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   }
 ]
