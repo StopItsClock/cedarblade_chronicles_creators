@@ -8,7 +8,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "[18+] New Biomes, Same Girlfailure w/ @dragonekho [PEAK + Big Walk] | !throne !socials !lurk !discord",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-08-13T20:01:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "New season ranked gaming w/ @sweetpetitemommy",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-08-13T17:38:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -55,6 +55,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
+    "id": "320844797145",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "Starfastwolf",
+    "game_id": "71375",
+    "game_name": "Star Citizen",
+    "type": "live",
+    "title": "headhunter grind while talking with chat after a long day of work",
+    "viewer_count": 1,
+    "started_at": "2026-08-13T21:15:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "PNGtuberEN",
+      "18pluschannel",
+      "goodevibes",
+      "StarCitizen",
+      "Rerun"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+  },
+  {
     "id": "319927959264",
     "user_id": "459187886",
     "user_login": "starryskiesvt",
@@ -63,7 +88,7 @@
     "game_name": "Fortnite",
     "type": "live",
     "title": "erm drinkin, what we gonna play? | !daki !discord",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-08-13T18:00:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -81,30 +106,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f7311b1-40a0-42e0-aa8e-c0ce14d530cf-profile_image-300x300.png"
-  },
-  {
-    "id": "320844797145",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "Starfastwolf",
-    "game_id": "71375",
-    "game_name": "Star Citizen",
-    "type": "live",
-    "title": "headhunter grind while talking with chat after a long day of work",
-    "viewer_count": 0,
-    "started_at": "2026-08-13T21:15:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "PNGtuberEN",
-      "18pluschannel",
-      "goodevibes",
-      "StarCitizen",
-      "Rerun"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
