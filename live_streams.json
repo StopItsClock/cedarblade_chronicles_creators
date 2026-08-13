@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "New season ranked gaming w/ @sweetpetitemommy",
-    "viewer_count": 3,
+    "viewer_count": 5,
     "started_at": "2026-08-13T17:38:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
@@ -24,5 +24,57 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "315892912210",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "PEAK! FINAL BIOMES UPDATE",
+    "viewer_count": 1,
+    "started_at": "2026-08-13T18:02:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "319927959264",
+    "user_id": "459187886",
+    "user_login": "starryskiesvt",
+    "user_name": "StarrySkiesVT",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "erm drinkin, what we gonna play? | !daki !discord",
+    "viewer_count": 0,
+    "started_at": "2026-08-13T18:00:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "VTuber",
+      "English",
+      "LGBTQ",
+      "mouse",
+      "cottoncandy",
+      "Trans",
+      "Pisstuber",
+      "DeadWeight",
+      "stinky"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f7311b1-40a0-42e0-aa8e-c0ce14d530cf-profile_image-300x300.png"
   }
 ]
