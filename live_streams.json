@@ -29,35 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "321021093467",
-    "user_id": "1153269220",
-    "user_login": "sunshisunshu",
-    "user_name": "SunshiSunshu",
-    "game_id": "509660",
-    "game_name": "Art",
-    "type": "live",
-    "title": "【18+】Come Join Our C-kold Couch Conference  - Art W/ Video ✸3D Art Stream✸",
-    "viewer_count": 25,
-    "started_at": "2026-08-14T02:11:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Eldritch",
-      "ENVtuber",
-      "boyfriend",
-      "TentacleMonster",
-      "boyfailure",
-      "feet",
-      "eboy",
-      "DeepVoice",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
     "id": "320849419609",
     "user_id": "686234820",
     "user_login": "miyuwanchan",
@@ -66,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "becoming this worlds best builder! (day 2) 🍞 cozy minecraft day 🍞 | !hug",
-    "viewer_count": 19,
+    "viewer_count": 20,
     "started_at": "2026-08-14T01:02:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -85,5 +56,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/748526d9-d489-4999-80cc-63cdb2f0fce6-profile_image-300x300.png"
+  },
+  {
+    "id": "321021093467",
+    "user_id": "1153269220",
+    "user_login": "sunshisunshu",
+    "user_name": "SunshiSunshu",
+    "game_id": "509660",
+    "game_name": "Art",
+    "type": "live",
+    "title": "【18+】Come Join Our C-kold Couch Conference  - Art W/ Video ✸3D Art Stream✸",
+    "viewer_count": 18,
+    "started_at": "2026-08-14T02:11:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Eldritch",
+      "ENVtuber",
+      "boyfriend",
+      "TentacleMonster",
+      "boyfailure",
+      "feet",
+      "eboy",
+      "DeepVoice",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   }
 ]
