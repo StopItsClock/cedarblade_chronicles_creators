@@ -8,7 +8,7 @@
     "game_name": "Big Walk",
     "type": "live",
     "title": "✧ Beeeg Steppies time!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 27,
+    "viewer_count": 26,
     "started_at": "2026-08-14T22:57:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -27,31 +27,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
-    "id": "319906606556",
-    "user_id": "883915539",
-    "user_login": "tw_jett",
-    "user_name": "tw_jett",
-    "game_id": "884569009",
-    "game_name": "The Choicer Voicer",
-    "type": "live",
-    "title": "₊✩‧₊˚౨  yapping! + dubbing over videos ! ৎ˚₊✩‧₊ | !discord !lurk",
-    "viewer_count": 18,
-    "started_at": "2026-08-14T23:59:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "english",
-      "brat",
-      "ComfyChaotic",
-      "twinkmaxxing",
-      "femboy",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e07001a2-32f6-46c6-bd59-dedd0db59411-profile_image-300x300.png"
   },
   {
     "id": "319904533468",
@@ -91,7 +66,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "GOTTA CATCH EM ALL! 🧊 !pine !socials !submit🍧 @frostedplague7",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-08-14T23:36:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -147,7 +122,7 @@
     "game_name": "Pikmin",
     "type": "live",
     "title": "Playing Pikmin for the First Time (many pikmin will be harmed in the making of this)",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-08-15T00:30:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
@@ -163,5 +138,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
+  },
+  {
+    "id": "320933890394",
+    "user_id": "87014181",
+    "user_login": "thetactician",
+    "user_name": "TheTactician",
+    "game_id": "1262047844",
+    "game_name": "Marvel's Spider-Man Remastered",
+    "type": "live",
+    "title": "Ain't nothin quite like swinging through the city on a Friday night!",
+    "viewer_count": 1,
+    "started_at": "2026-08-15T01:00:17Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetactician-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "NoBackseating",
+      "Vtuber",
+      "funnymoments",
+      "English",
+      "DeadWeight",
+      "VtuberEN",
+      "SpidermanRemasted",
+      "spiderman",
+      "marvel",
+      "Anime"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec6d262-673c-432c-82da-ecbd4ddf4662-profile_image-300x300.png"
   }
 ]
