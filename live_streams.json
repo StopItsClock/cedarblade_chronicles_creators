@@ -25,6 +25,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
+    "id": "319826621534",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "33437",
+    "game_name": "Resident Evil 6",
+    "type": "live",
+    "title": "Gina... i have a feeling we aren't in faerun anymore (Resident Evil 6 w/ @regina_kardinal)",
+    "viewer_count": 4,
+    "started_at": "2026-08-15T20:04:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber",
+      "DeadWeight",
+      "RE6COOP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320946722266",
     "user_id": "193636646",
     "user_login": "captainyeeticus",
@@ -54,31 +82,26 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   },
   {
-    "id": "319826621534",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "33437",
-    "game_name": "Resident Evil 6",
+    "id": "318854535383",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
     "type": "live",
-    "title": "Gina... i have a feeling we aren't in faerun anymore (Resident Evil 6 w/ @regina_kardinal)",
-    "viewer_count": 0,
-    "started_at": "2026-08-15T20:04:25Z",
+    "title": "Final day of my Cobblemon server! Come join",
+    "viewer_count": 1,
+    "started_at": "2026-08-15T20:08:59Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
+      "Voiceacting",
+      "Backseating",
       "Vtuber",
-      "prismmodel",
-      "seatuber",
-      "DeadWeight",
-      "RE6COOP"
+      "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
