@@ -8,7 +8,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "【18+】Art w/ ✨DRAMA✨ ✸Art Stream✸",
-    "viewer_count": 16,
+    "viewer_count": 17,
     "started_at": "2026-08-15T02:49:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -29,32 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
   },
   {
-    "id": "321034821979",
-    "user_id": "219160446",
-    "user_login": "midasredding",
-    "user_name": "midasredding",
-    "game_id": "2209",
-    "game_name": "Pikmin",
-    "type": "live",
-    "title": "Playing Pikmin for the First Time (many pikmin will be harmed in the making of this)",
-    "viewer_count": 8,
-    "started_at": "2026-08-15T00:30:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Amateur",
-      "gamer",
-      "Vtuber",
-      "Pikmin",
-      "firstplaythgrough",
-      "NoBackseating"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
-  },
-  {
     "id": "317236172919",
     "user_id": "100958651",
     "user_login": "boodawolf",
@@ -63,7 +37,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "double Ds yeah?",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-08-15T05:33:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
@@ -79,5 +53,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
+  },
+  {
+    "id": "321034821979",
+    "user_id": "219160446",
+    "user_login": "midasredding",
+    "user_name": "midasredding",
+    "game_id": "2209",
+    "game_name": "Pikmin",
+    "type": "live",
+    "title": "Playing Pikmin for the First Time (many pikmin will be harmed in the making of this)",
+    "viewer_count": 4,
+    "started_at": "2026-08-15T00:30:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Amateur",
+      "gamer",
+      "Vtuber",
+      "Pikmin",
+      "firstplaythgrough",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
   }
 ]
