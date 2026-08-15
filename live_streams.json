@@ -8,7 +8,7 @@
     "game_name": "Cat Mail Co.",
     "type": "live",
     "title": "✧ Beeeg Steppies time!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 44,
+    "viewer_count": 43,
     "started_at": "2026-08-14T22:57:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "【18+】HORSE GAMBLE!!! ✸FRIDAY Stream✸",
-    "viewer_count": 21,
+    "viewer_count": 18,
     "started_at": "2026-08-15T02:49:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Pikmin",
     "type": "live",
     "title": "Playing Pikmin for the First Time (many pikmin will be harmed in the making of this)",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-08-15T00:30:22Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midasredding-{width}x{height}.jpg",
@@ -82,30 +82,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb222be3-1419-42b1-b8d2-37b609fe24a9-profile_image-300x300.png"
-  },
-  {
-    "id": "320868904153",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "23020",
-    "game_name": "ROBLOX",
-    "type": "live",
-    "title": "Roblox horror games with @zmochlz",
-    "viewer_count": 2,
-    "started_at": "2026-08-15T03:24:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "320867157849",
@@ -135,5 +111,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+  },
+  {
+    "id": "320868904153",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "23020",
+    "game_name": "ROBLOX",
+    "type": "live",
+    "title": "Roblox horror games with @zmochlz",
+    "viewer_count": 1,
+    "started_at": "2026-08-15T03:24:00Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plus",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
