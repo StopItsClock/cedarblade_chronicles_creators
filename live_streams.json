@@ -1,34 +1,5 @@
 [
   {
-    "id": "317507831139",
-    "user_id": "61839029",
-    "user_login": "everyonelovesrobots",
-    "user_name": "EveryoneLovesRobots",
-    "game_id": "1975435479",
-    "game_name": "Luna Abyss",
-    "type": "live",
-    "title": "[Luna Abyss] Back to bullet hell to fight a devil [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 6,
-    "started_at": "2026-08-15T22:05:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "everyonelovesrobots",
-      "SciFiGaming",
-      "PNGtuberEN",
-      "HorrorGaming",
-      "ENG",
-      "VtuberEN",
-      "Robots",
-      "scifi",
-      "Charity"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
     "id": "320948387802",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -37,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "[18+] [ROAD TO 1000] STREAMING FOR 24 HOURS!",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-08-15T20:59:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -58,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
+    "id": "317507831139",
+    "user_id": "61839029",
+    "user_login": "everyonelovesrobots",
+    "user_name": "EveryoneLovesRobots",
+    "game_id": "1975435479",
+    "game_name": "Luna Abyss",
+    "type": "live",
+    "title": "[Luna Abyss] Back to bullet hell to fight a devil [18+]| road to 300 | !lurk | !commands",
+    "viewer_count": 4,
+    "started_at": "2026-08-15T22:05:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "everyonelovesrobots",
+      "SciFiGaming",
+      "PNGtuberEN",
+      "HorrorGaming",
+      "ENG",
+      "VtuberEN",
+      "Robots",
+      "scifi",
+      "Charity"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
     "id": "321050063323",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -66,7 +66,7 @@
     "game_name": "Monster Hunter Wilds",
     "type": "live",
     "title": "Time to some more hunting, I hope || Monster Hunter Wilds (!lurk, !links, !discord)",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-08-15T21:55:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -81,32 +81,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "321049089883",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "1881949588",
-    "game_name": "ReStory: Chill Electronics Repairs",
-    "type": "live",
-    "title": "【 COSMIC PLAYS 】Ive been waiting for this! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 5,
-    "started_at": "2026-08-15T21:00:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "318854535383",
@@ -130,5 +104,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "321049089883",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "1881949588",
+    "game_name": "ReStory: Chill Electronics Repairs",
+    "type": "live",
+    "title": "【 COSMIC PLAYS 】Ive been waiting for this! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 3,
+    "started_at": "2026-08-15T21:00:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   }
 ]
