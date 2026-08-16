@@ -8,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "she delta on my rune until i uuuhmmmm|| !discord !dono !lurk !throne",
-    "viewer_count": 15,
+    "viewer_count": 13,
     "started_at": "2026-08-16T19:11:21Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -53,7 +53,7 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "320966803546",
+    "id": "320966935002",
     "user_id": "934337822",
     "user_login": "gloryettavt",
     "user_name": "GloryettaVT",
@@ -61,8 +61,8 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "Yo solo viene a morir - 08/16/26",
-    "viewer_count": 6,
-    "started_at": "2026-08-16T21:55:41Z",
+    "viewer_count": 3,
+    "started_at": "2026-08-16T22:02:39Z",
     "language": "es",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloryettavt-{width}x{height}.jpg",
     "tag_ids": [],
@@ -77,5 +77,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b32dec61-8a2f-4cb6-9907-435e90d82d8b-profile_image-300x300.png"
+  },
+  {
+    "id": "321067928795",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "2128193047",
+    "game_name": "Super Battle Golf",
+    "type": "live",
+    "title": "Sub Sundays! Super Battle Golf with @theautumndryad and @cubebie !",
+    "viewer_count": 1,
+    "started_at": "2026-08-16T22:02:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English",
+      "Furry"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
