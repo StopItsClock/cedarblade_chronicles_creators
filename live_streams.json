@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "[18+] [ROAD TO 1000] STREAMING FOR 24 HOURS!",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-08-15T20:59:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -22,7 +22,8 @@
       "BackseatGamingAllowed",
       "Vtuber",
       "cute",
-      "English"
+      "English",
+      "DropsEnabled"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
