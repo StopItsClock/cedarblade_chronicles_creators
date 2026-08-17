@@ -8,7 +8,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "I'm Back. Let's Talk. !kofi !throne",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-08-17T18:00:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -36,8 +36,8 @@
     "game_id": "509663",
     "game_name": "Special Events",
     "type": "live",
-    "title": "5 YR ANNIVERSARY | Day 1 | 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 11,
+    "title": "5 YR ANNIVERSARY | Day 1 | \ud83e\uddca !pine !socials !cover \ud83c\udf67 @frostedplague7",
+    "viewer_count": 12,
     "started_at": "2026-08-17T18:06:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -112,5 +112,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f7311b1-40a0-42e0-aa8e-c0ce14d530cf-profile_image-300x300.png"
+  },
+  {
+    "id": "321081614043",
+    "user_id": "781092139",
+    "user_login": "thatuserkai",
+    "user_name": "ThatUserKai",
+    "game_id": "513181",
+    "game_name": "Genshin Impact",
+    "type": "live",
+    "title": "{ENVTuber 18+} Genshin story quests! | !socials !discord !lurk",
+    "viewer_count": 2,
+    "started_at": "2026-08-17T20:43:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatuserkai-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "aroace",
+      "VTuber",
+      "ENVTuber",
+      "HeHim",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da1a8e7f-e49e-4223-ad61-51ac320a4403-profile_image-300x300.png"
   }
 ]
