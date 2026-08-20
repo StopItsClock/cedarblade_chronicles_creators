@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "i physically cant move my left arm! :D || !discord !dono !lurk !throne",
-    "viewer_count": 21,
+    "viewer_count": 17,
     "started_at": "2026-08-20T19:21:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -32,7 +32,7 @@
     "game_name": "Five Nights at Freddy's",
     "type": "live",
     "title": "The fish is now a half dead security guard... (Five Nights At Freddy's w/ Emotional support @Regina_Kardinal)",
-    "viewer_count": 10,
+    "viewer_count": 11,
     "started_at": "2026-08-20T19:46:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -81,6 +81,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "317276826615",
+    "user_id": "265674058",
+    "user_login": "skyla_skydancer",
+    "user_name": "Skyla_SkyDancer",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "I WANT OUT OF A REALM REBORN !discord new redeem",
+    "viewer_count": 5,
+    "started_at": "2026-08-20T20:15:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "AffiliateStreamer",
+      "ChatReader",
+      "Trans",
+      "Transfem",
+      "booba",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
+  },
+  {
     "id": "318915116119",
     "user_id": "100958651",
     "user_login": "boodawolf",
@@ -105,33 +133,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
-  },
-  {
-    "id": "317276826615",
-    "user_id": "265674058",
-    "user_login": "skyla_skydancer",
-    "user_name": "Skyla_SkyDancer",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "I WANT OUT OF A REALM REBORN !discord new redeem",
-    "viewer_count": 2,
-    "started_at": "2026-08-20T20:15:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "AffiliateStreamer",
-      "ChatReader",
-      "Trans",
-      "Transfem",
-      "booba",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   }
 ]
