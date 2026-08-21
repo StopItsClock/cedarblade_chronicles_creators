@@ -5,9 +5,9 @@
     "user_login": "cutenysnys",
     "user_name": "CuteNysNys",
     "game_id": "1183694848",
-    "game_name": "KOT\u00c1MON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
+    "game_name": "KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
     "type": "live",
-    "title": "[18+] waifu stream  \u2665 @cutenysnys \ud83d\udc9a !socials !Merch \ud83d\udc9a",
+    "title": "[18+] waifu stream  ♥ @cutenysnys 💚 !socials !Merch 💚",
     "viewer_count": 44,
     "started_at": "2026-08-21T01:32:11Z",
     "language": "en",
@@ -36,7 +36,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "\u2727 apparently no one reads these damn titles qwq \u2727 !lurk !merch !throne !clip",
+    "title": "✧ apparently no one reads these damn titles qwq ✧ !lurk !merch !throne !clip",
     "viewer_count": 35,
     "started_at": "2026-08-20T22:57:49Z",
     "language": "en",
@@ -56,5 +56,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
+  },
+  {
+    "id": "321136609115",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "2132205352",
+    "game_name": "Deadlock",
+    "type": "live",
+    "title": "Deadlock got me going delulu",
+    "viewer_count": 0,
+    "started_at": "2026-08-21T04:48:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plus",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
