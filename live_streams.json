@@ -1,34 +1,5 @@
 [
   {
-    "id": "318917666775",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "✧ apparently no one reads these damn titles qwq ✧ !lurk !merch !throne !clip",
-    "viewer_count": 39,
-    "started_at": "2026-08-20T22:57:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "YappingEncouraged",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
     "id": "320032356576",
     "user_id": "67504126",
     "user_login": "cutenysnys",
@@ -37,7 +8,7 @@
     "game_name": "KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
     "type": "live",
     "title": "[18+] waifu stream  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 32,
+    "viewer_count": 41,
     "started_at": "2026-08-21T01:32:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -56,5 +27,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d07e7eff-a657-4679-98c8-a9a0d9c5f91a-profile_image-300x300.png"
+  },
+  {
+    "id": "318917666775",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "✧ apparently no one reads these damn titles qwq ✧ !lurk !merch !throne !clip",
+    "viewer_count": 38,
+    "started_at": "2026-08-20T22:57:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Comfy",
+      "LGBT",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "YappingEncouraged",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   }
 ]
