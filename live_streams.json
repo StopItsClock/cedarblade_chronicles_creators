@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "1.0 MODEL DEBUT! Your Hunter has arrived! [!lurk !discord !clip]",
-    "viewer_count": 53,
+    "viewer_count": 59,
     "started_at": "2026-08-22T01:00:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ New Model reveal!!! mmm microplastic ✧ !lurk !merch !throne !clip",
-    "viewer_count": 33,
+    "viewer_count": 32,
     "started_at": "2026-08-21T23:13:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -151,7 +151,7 @@
     "game_name": "Death Road to Canada",
     "type": "live",
     "title": "[18+] I'M IN A VIDEO GAME!!!! | Death Road to Canada MODDED | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-08-21T23:00:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -170,33 +170,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "318931781463",
-    "user_id": "265674058",
-    "user_login": "skyla_skydancer",
-    "user_name": "Skyla_SkyDancer",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "Climbing The Peak !discord new redeem",
-    "viewer_count": 3,
-    "started_at": "2026-08-22T01:04:12Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ENVtuber",
-      "AffiliateStreamer",
-      "ChatReader",
-      "Trans",
-      "Transfem",
-      "booba"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   },
   {
     "id": "320047245152",
@@ -225,5 +198,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
+    "id": "318931781463",
+    "user_id": "265674058",
+    "user_login": "skyla_skydancer",
+    "user_name": "Skyla_SkyDancer",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "Climbing The Peak !discord new redeem",
+    "viewer_count": 3,
+    "started_at": "2026-08-22T01:04:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ENVtuber",
+      "AffiliateStreamer",
+      "ChatReader",
+      "Trans",
+      "Transfem",
+      "booba"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
   }
 ]
