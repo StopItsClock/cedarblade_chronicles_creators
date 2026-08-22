@@ -1,32 +1,5 @@
 [
   {
-    "id": "320016296412",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "655697363",
-    "game_name": "Abiotic Factor",
-    "type": "live",
-    "title": "The guys carry the feesh to victory (Abiotic Factor w/ @Kiba_Safir @Snickerdoodle_Demon @DuskStride @psysly_dvlmn)",
-    "viewer_count": 14,
-    "started_at": "2026-08-22T20:03:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Chaos",
-      "Gremlin",
-      "English",
-      "Crazy",
-      "Vtuber",
-      "prismmodel",
-      "seatuber",
-      "DeadWeight"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
     "id": "321060364378",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -35,7 +8,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "5 YR ANNIVERSARY | FINAL DAY | 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-08-22T18:01:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -56,6 +29,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "320016296412",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "655697363",
+    "game_name": "Abiotic Factor",
+    "type": "live",
+    "title": "The guys carry the feesh to victory (Abiotic Factor w/ @Kiba_Safir @Snickerdoodle_Demon @DuskStride @psysly_dvlmn)",
+    "viewer_count": 11,
+    "started_at": "2026-08-22T20:03:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber",
+      "DeadWeight"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "321160747867",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -64,7 +64,7 @@
     "game_name": "Sonic Unleashed",
     "type": "live",
     "title": "[18+] [ROAD TO 1000] CHATTING AND SONIC UNLEASHED",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-08-22T20:50:34Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -111,32 +111,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
-    "id": "321058523738",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "27284",
-    "game_name": "Retro",
-    "type": "live",
-    "title": "2 brothers fighting the chaos of an archipelago| Mario and luigi: Superstar Saga (!lurk, !links, !discord)",
-    "viewer_count": 5,
-    "started_at": "2026-08-22T15:53:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber",
-      "DeadWeightStreamer"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "320016662108",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -163,6 +137,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "321058523738",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "27284",
+    "game_name": "Retro",
+    "type": "live",
+    "title": "2 brothers fighting the chaos of an archipelago| Mario and luigi: Superstar Saga (!lurk, !links, !discord)",
+    "viewer_count": 5,
+    "started_at": "2026-08-22T15:53:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber",
+      "DeadWeightStreamer"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "318942823127",
