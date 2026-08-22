@@ -8,7 +8,7 @@
     "game_name": "Chibi-Robo!: Photo Finder",
     "type": "live",
     "title": "Hoping to finish Chibi-Robo today c:",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-08-22T17:10:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "FINAL FANTASY XIV ONLINE",
     "type": "live",
     "title": "5 YR ANNIVERSARY | FINAL DAY | 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-08-22T18:01:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -52,6 +52,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "317562628323",
+    "user_id": "149397923",
+    "user_login": "ravenincarnate",
+    "user_name": "ravenincarnate",
+    "game_id": "655697363",
+    "game_name": "Abiotic Factor",
+    "type": "live",
+    "title": "The lab returns! Two birbs in a briefcase!",
+    "viewer_count": 6,
+    "started_at": "2026-08-22T17:08:22Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "Relaxing",
+      "Chill",
+      "English",
+      "18plusstream",
+      "18pluschannel",
+      "18maturelanguage"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   },
   {
     "id": "320016296412",
@@ -79,33 +106,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317562628323",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
-    "game_id": "655697363",
-    "game_name": "Abiotic Factor",
-    "type": "live",
-    "title": "The lab returns! Two birbs in a briefcase!",
-    "viewer_count": 5,
-    "started_at": "2026-08-22T17:08:22Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
-      "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
   },
   {
     "id": "315930966482",
@@ -158,6 +158,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
+    "id": "320016662108",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Setting up the dock! || Lore SMP! Character: Levin Stern",
+    "viewer_count": 2,
+    "started_at": "2026-08-22T20:33:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Silent",
+      "Cozy",
+      "Lore",
+      "Smp",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
     "id": "318942139607",
     "user_id": "574560089",
     "user_login": "kayvender",
@@ -181,33 +209,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
-  },
-  {
-    "id": "320016662108",
-    "user_id": "595484950",
-    "user_login": "thehashibira",
-    "user_name": "TheHashibira",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Setting up the dock! || Lore SMP! Character: Levin Stern",
-    "viewer_count": 1,
-    "started_at": "2026-08-22T20:33:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Friends",
-      "Gaming",
-      "Male",
-      "Vtuber",
-      "Silent",
-      "Cozy",
-      "Lore",
-      "Smp",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   }
 ]
