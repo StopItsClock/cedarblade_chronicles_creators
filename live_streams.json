@@ -32,7 +32,7 @@
     "game_name": "Chibi-Robo!: Photo Finder",
     "type": "live",
     "title": "Hoping to finish Chibi-Robo today c:",
-    "viewer_count": 5,
+    "viewer_count": 8,
     "started_at": "2026-08-22T17:10:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -47,6 +47,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
+    "id": "321058523738",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "27284",
+    "game_name": "Retro",
+    "type": "live",
+    "title": "2 brothers fighting the chaos of an archipelago| Mario and luigi: Superstar Saga (!lurk, !links, !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-08-22T15:53:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber",
+      "DeadWeightStreamer"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "315930966482",
@@ -71,32 +97,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
-    "id": "321058523738",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "27284",
-    "game_name": "Retro",
-    "type": "live",
-    "title": "2 brothers fighting the chaos of an archipelago| Mario and luigi: Superstar Saga (!lurk, !links, !discord)",
-    "viewer_count": 3,
-    "started_at": "2026-08-22T15:53:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber",
-      "DeadWeightStreamer"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "317562628323",
