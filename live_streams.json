@@ -85,32 +85,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
-    "id": "320999403353",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "1036710512",
-    "game_name": "Palworld",
-    "type": "live",
-    "title": "【 COSMIC PLAYS 】Base Building Boi! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 5,
-    "started_at": "2026-08-22T20:58:56Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "321058523738",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -145,7 +119,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "[DELTARUNE CHAPTER 5 CONT] dude that flower guy is my dads best friend",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-08-22T20:59:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -163,6 +137,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
+    "id": "320999403353",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "1036710512",
+    "game_name": "Palworld",
+    "type": "live",
+    "title": "【 COSMIC PLAYS 】Base Building Boi! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 4,
+    "started_at": "2026-08-22T20:58:56Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "320016662108",
@@ -225,7 +225,7 @@
     "game_name": "Miniatures & Models",
     "type": "live",
     "title": "[18+] So I may have lied about Super Robot Wars... | MG Guntank | !lurk !throne !tip !discord",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-08-22T23:00:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
