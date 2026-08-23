@@ -7,7 +7,7 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "\u208a\u2729\u2027\u208a\u02da\u0c68  Birthday Stream!  ! \u09ce\u02da\u208a\u2729\u2027\u208a | !discord !lurk",
+    "title": "₊✩‧₊˚౨  Birthday Stream!  ! ৎ˚₊✩‧₊ | !discord !lurk",
     "viewer_count": 17,
     "started_at": "2026-08-23T22:58:06Z",
     "language": "en",
@@ -23,6 +23,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e07001a2-32f6-46c6-bd59-dedd0db59411-profile_image-300x300.png"
+  },
+  {
+    "id": "321179982811",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "460630",
+    "game_name": "Rainbow Six Siege",
+    "type": "live",
+    "title": "Sub Sundays! Broke Wizards and then R6 Siege with @theautumndryad @cubebie and @omegarift5",
+    "viewer_count": 2,
+    "started_at": "2026-08-23T22:04:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English",
+      "Furry"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   },
   {
     "id": "318720469878",
@@ -44,41 +73,12 @@
       "Latina",
       "LGBTQIAPIus",
       "chill",
-      "Espa\u00f1ol",
+      "Español",
       "minecraft",
       "MinecraftEvent",
       "cosmochampionships"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
-  },
-  {
-    "id": "321179982811",
-    "user_id": "193636646",
-    "user_login": "captainyeeticus",
-    "user_name": "captainyeeticus",
-    "game_id": "460630",
-    "game_name": "Rainbow Six Siege",
-    "type": "live",
-    "title": "Sub Sundays! Broke Wizards and then R6 Siege with @theautumndryad @cubebie and @omegarift5",
-    "viewer_count": 1,
-    "started_at": "2026-08-23T22:04:35Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "lgbt",
-      "gremlin",
-      "artist",
-      "author",
-      "transgender",
-      "vtuber",
-      "pngtuber",
-      "envtuber",
-      "English",
-      "Furry"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
