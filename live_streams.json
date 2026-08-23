@@ -27,6 +27,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "317958555096",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Operation: Chicken Nugget | Wild West: Gold Rush Event",
+    "viewer_count": 3,
+    "started_at": "2026-08-23T19:48:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Deadweight",
+      "goldrush",
+      "elf",
+      "vtuber",
+      "adhd",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
     "id": "321179982811",
     "user_id": "193636646",
     "user_login": "captainyeeticus",
@@ -56,31 +81,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   },
   {
-    "id": "317958555096",
-    "user_id": "574560089",
-    "user_login": "kayvender",
-    "user_name": "kayvender",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Operation: Chicken Nugget | Wild West: Gold Rush Event",
-    "viewer_count": 2,
-    "started_at": "2026-08-23T19:48:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Deadweight",
-      "goldrush",
-      "elf",
-      "vtuber",
-      "adhd",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
-  },
-  {
     "id": "318720469878",
     "user_id": "1275381753",
     "user_login": "mimiluna2",
@@ -89,7 +89,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Cosmo Championships x ProfPie Green Globes POV!!",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-08-23T22:25:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
