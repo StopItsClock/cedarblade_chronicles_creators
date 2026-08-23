@@ -35,7 +35,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Operation: Chicken Nugget | Wild West: Gold Rush Event",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-08-23T19:48:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
@@ -50,5 +50,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
+    "id": "321179982811",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "100117520",
+    "game_name": "Broke Wizards",
+    "type": "live",
+    "title": "Sub Sundays! Broke Wizards with @theautumndryad @cubebie and @omegarift5",
+    "viewer_count": 0,
+    "started_at": "2026-08-23T22:04:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English",
+      "Furry"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
