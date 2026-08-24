@@ -8,7 +8,7 @@
     "game_name": "It Takes Two",
     "type": "live",
     "title": "Nana doesn't want divorce Gina.. she gonna burn the papers (It takes 2 w/ @regina_kardinal)",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-08-24T20:30:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -56,32 +56,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
-    "id": "321195141211",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "【 STARDEW MONDAYS 】Short stream, Let's talk! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 6,
-    "started_at": "2026-08-24T21:00:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "316712774741",
     "user_id": "176596310",
     "user_login": "kage_rokkr",
@@ -107,6 +81,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
   },
   {
+    "id": "321195141211",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "490744",
+    "game_name": "Stardew Valley",
+    "type": "live",
+    "title": "【 STARDEW MONDAYS 】Short stream, Let's talk! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 4,
+    "started_at": "2026-08-24T21:00:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320081501792",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -115,7 +115,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Learning how to tame a.. DRAGON!? || Lore SMP! Character: Levin Stern",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-08-24T17:42:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
