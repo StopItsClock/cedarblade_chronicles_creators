@@ -8,7 +8,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "I Elden her Ring til she Tarnished !kofi !throne",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-08-24T18:57:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Learning how to tame a.. DRAGON!? || Lore SMP! Character: Levin Stern",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-08-24T17:42:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -54,5 +54,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "315939930834",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "494099",
+    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "type": "live",
+    "title": "Ok Donald, Let's get a little Goofy",
+    "viewer_count": 1,
+    "started_at": "2026-08-24T19:33:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber",
+      "BlindPlaythrough",
+      "firstplaythgrough"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
