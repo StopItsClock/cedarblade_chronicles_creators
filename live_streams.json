@@ -36,7 +36,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Learning how to tame a.. DRAGON!? || Lore SMP! Character: Levin Stern",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-08-24T17:42:50Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -54,6 +54,58 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "319948784478",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "512953",
+    "game_name": "ELDEN RING",
+    "type": "live",
+    "title": "Gina was napping and cookie woke her... now dragon eepy (Elden Ring w/  @Regina_Kardinal @Snickerdoodle_demon)",
+    "viewer_count": 4,
+    "started_at": "2026-08-24T20:30:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Chaos",
+      "Gremlin",
+      "English",
+      "Crazy",
+      "Vtuber",
+      "prismmodel",
+      "seatuber",
+      "DeadWeight"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "319948767198",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "Pain and Agony simulator",
+    "viewer_count": 3,
+    "started_at": "2026-08-24T20:29:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
     "id": "315939930834",
@@ -79,30 +131,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "319948767198",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Pain and Agony simulator",
-    "viewer_count": 0,
-    "started_at": "2026-08-24T20:29:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
