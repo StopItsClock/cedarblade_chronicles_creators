@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ whimsical witch has to learn industrialization and machines ✧ !lurk !merch !throne !clip",
-    "viewer_count": 32,
+    "viewer_count": 29,
     "started_at": "2026-08-25T17:51:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Art",
     "type": "live",
     "title": "Editor: Effects and sounds",
-    "viewer_count": 1,
+    "viewer_count": 3,
     "started_at": "2026-08-25T19:05:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
@@ -79,5 +79,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "318981184471",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "1581126534",
+    "game_name": "DREDGE",
+    "type": "live",
+    "title": "[DREDGE] THE DEVILS NECK, BACK AND CRACK",
+    "viewer_count": 1,
+    "started_at": "2026-08-25T21:02:20Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "fujoshi",
+      "concubine",
+      "LGBTQFriendly",
+      "goth",
+      "Vampire",
+      "Dredge"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   }
 ]
