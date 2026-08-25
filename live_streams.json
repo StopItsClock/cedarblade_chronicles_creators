@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "✧ becoming the best store ever ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 38,
     "started_at": "2026-08-24T23:04:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "♡ how long can i play ranked until i lose my mind",
-    "viewer_count": 26,
+    "viewer_count": 23,
     "started_at": "2026-08-24T22:03:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -139,31 +139,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   },
   {
-    "id": "316712774741",
-    "user_id": "176596310",
-    "user_login": "kage_rokkr",
-    "user_name": "kage_rokkr",
-    "game_id": "1183694848",
-    "game_name": "KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
-    "type": "live",
-    "title": "Time Bound Dragon Chill",
-    "viewer_count": 1,
-    "started_at": "2026-08-24T20:48:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "English",
-      "ᴀʀᴛ",
-      "dragon",
-      "DumbDragon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
-  },
-  {
     "id": "321099507162",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -190,5 +165,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+  },
+  {
+    "id": "316712774741",
+    "user_id": "176596310",
+    "user_login": "kage_rokkr",
+    "user_name": "kage_rokkr",
+    "game_id": "1183694848",
+    "game_name": "KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
+    "type": "live",
+    "title": "Time Bound Dragon Chill",
+    "viewer_count": 1,
+    "started_at": "2026-08-24T20:48:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "English",
+      "ᴀʀᴛ",
+      "dragon",
+      "DumbDragon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
   }
 ]
