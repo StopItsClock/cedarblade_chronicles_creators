@@ -1,34 +1,5 @@
 [
   {
-    "id": "316364119794",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Yap with me! [!lurk !discord !clip]",
-    "viewer_count": 34,
-    "started_at": "2026-08-25T00:18:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Comfy",
-      "Fudanshi",
-      "Hunter",
-      "Forever21",
-      "Filipino",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
-  },
-  {
     "id": "317967234264",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -37,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "✧ becoming the best store ever ✧ !lurk !merch !throne !clip",
-    "viewer_count": 29,
+    "viewer_count": 31,
     "started_at": "2026-08-24T23:04:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,30 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "321202479579",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "Help me decide what to do!!! || !discord !dono !lurk !throne",
-    "viewer_count": 15,
-    "started_at": "2026-08-25T02:57:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
-  },
-  {
     "id": "321202391259",
     "user_id": "1153269220",
     "user_login": "sunshisunshu",
@@ -90,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "【18+】Chatters go into my Jar and perish. ✸Jar Stream✸ !lurk !daily",
-    "viewer_count": 7,
+    "viewer_count": 17,
     "started_at": "2026-08-25T02:53:14Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -109,6 +56,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
+  },
+  {
+    "id": "321202479579",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "Help me decide what to do!!! || !discord !dono !lurk !throne",
+    "viewer_count": 14,
+    "started_at": "2026-08-25T02:57:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
   },
   {
     "id": "321097069914",
@@ -140,6 +111,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "316712774741",
+    "user_id": "176596310",
+    "user_login": "kage_rokkr",
+    "user_name": "kage_rokkr",
+    "game_id": "1183694848",
+    "game_name": "KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
+    "type": "live",
+    "title": "Time Bound Dragon Chill",
+    "viewer_count": 3,
+    "started_at": "2026-08-24T20:48:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "English",
+      "ᴀʀᴛ",
+      "dragon",
+      "DumbDragon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
+  },
+  {
     "id": "321099507162",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -166,30 +162,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "316712774741",
-    "user_id": "176596310",
-    "user_login": "kage_rokkr",
-    "user_name": "kage_rokkr",
-    "game_id": "1183694848",
-    "game_name": "KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
-    "type": "live",
-    "title": "Time Bound Dragon Chill",
-    "viewer_count": 2,
-    "started_at": "2026-08-24T20:48:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "English",
-      "ᴀʀᴛ",
-      "dragon",
-      "DumbDragon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
   }
 ]
