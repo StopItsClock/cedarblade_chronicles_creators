@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "[Costreaming Future Games Show!] Let's react to new games together! I'm Excited!",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-08-26T16:53:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -82,5 +82,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
+    "id": "320108227168",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Dragon Stuff Ig IDK MAN IM RUNNING OUT OF IDEAS || Lore SMP! Character: Levin Stern",
+    "viewer_count": 0,
+    "started_at": "2026-08-26T18:47:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Silent",
+      "Cozy",
+      "Lore",
+      "Smp",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   }
 ]
