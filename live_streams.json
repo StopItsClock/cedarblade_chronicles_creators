@@ -29,34 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
-    "id": "320109614688",
-    "user_id": "595484950",
-    "user_login": "thehashibira",
-    "user_name": "TheHashibira",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Dragon Stuff Ig IDK MAN IM RUNNING OUT OF IDEAS || Lore SMP! Character: Levin Stern",
-    "viewer_count": 6,
-    "started_at": "2026-08-26T20:49:50Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Friends",
-      "Gaming",
-      "Male",
-      "Vtuber",
-      "Silent",
-      "Cozy",
-      "Lore",
-      "Smp",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
-  },
-  {
     "id": "320069999708",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -65,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] 🌷 Minty Witch Hunts Wardens + Yaps [Cozy Zen Modded Minecraft] | !throne !socials !lurk !discord",
-    "viewer_count": 5,
+    "viewer_count": 7,
     "started_at": "2026-08-26T21:34:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -84,5 +56,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
+    "id": "320109614688",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Dragon Stuff Ig IDK MAN IM RUNNING OUT OF IDEAS || Lore SMP! Character: Levin Stern",
+    "viewer_count": 4,
+    "started_at": "2026-08-26T20:49:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Silent",
+      "Cozy",
+      "Lore",
+      "Smp",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   }
 ]
