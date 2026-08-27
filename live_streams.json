@@ -37,7 +37,7 @@
     "game_name": "DREDGE",
     "type": "live",
     "title": "[DREDGE] TRAWLALAAAAA",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-08-27T21:10:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -57,35 +57,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "317609497187",
-    "user_id": "61839029",
-    "user_login": "everyonelovesrobots",
-    "user_name": "EveryoneLovesRobots",
-    "game_id": "1820378900",
-    "game_name": "Resident Evil 4",
-    "type": "live",
-    "title": "[Resident Evil 4] VIVA ESPAÑA-Oop wait that's a brain parasite right there [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 4,
-    "started_at": "2026-08-27T22:05:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "everyonelovesrobots",
-      "SciFiGaming",
-      "PNGtuberEN",
-      "HorrorGaming",
-      "ENG",
-      "VtuberEN",
-      "Robots",
-      "scifi",
-      "Charity"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
     "id": "315978264531",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -94,7 +65,7 @@
     "game_name": "Jagged Alliance 3",
     "type": "live",
     "title": "Jagged Alliance 3",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-08-27T17:02:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
@@ -138,6 +109,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
+    "id": "320123396192",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "Finishing Stormblood I think",
+    "viewer_count": 4,
+    "started_at": "2026-08-27T21:14:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
     "id": "321247877595",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -164,28 +160,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
-    "id": "320123396192",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
+    "id": "317609497187",
+    "user_id": "61839029",
+    "user_login": "everyonelovesrobots",
+    "user_name": "EveryoneLovesRobots",
+    "game_id": "1820378900",
+    "game_name": "Resident Evil 4",
     "type": "live",
-    "title": "Finishing Stormblood I think",
+    "title": "[Resident Evil 4] VIVA ESPAÑA-Oop wait that's a brain parasite right there [18+]| road to 300 | !lurk | !commands",
     "viewer_count": 3,
-    "started_at": "2026-08-27T21:14:24Z",
+    "started_at": "2026-08-27T22:05:37Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
+      "everyonelovesrobots",
+      "SciFiGaming",
+      "PNGtuberEN",
+      "HorrorGaming",
+      "ENG",
+      "VtuberEN",
+      "Robots",
+      "scifi",
+      "Charity"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   }
 ]
