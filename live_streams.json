@@ -8,7 +8,7 @@
     "game_name": "Jagged Alliance 3",
     "type": "live",
     "title": "Jagged Alliance 3",
-    "viewer_count": 8,
+    "viewer_count": 5,
     "started_at": "2026-08-27T17:02:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
@@ -22,5 +22,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "320121772512",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "New Project! || Lore SMP! Character: Levin Stern",
+    "viewer_count": 1,
+    "started_at": "2026-08-27T19:02:36Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Silent",
+      "Cozy",
+      "Lore",
+      "Smp",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   }
 ]
