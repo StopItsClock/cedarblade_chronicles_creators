@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Ghost is gaming today ahhhhhhh ✧ !lurk !merch !throne !clip",
-    "viewer_count": 32,
+    "viewer_count": 34,
     "started_at": "2026-08-26T22:55:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Pokémon",
     "type": "live",
     "title": "Pokemannnnnnssss Rip my starter !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 17,
+    "viewer_count": 18,
     "started_at": "2026-08-26T23:01:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -123,7 +123,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "\"Its Minewaftin Time!\" - Morbius | !Kofi to help with my 2.0 | !Clip",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-08-26T22:56:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -140,29 +140,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/528079f7-f1d7-48c4-8b28-7f485c3318f7-profile_image-300x300.png"
-  },
-  {
-    "id": "318997595735",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "508455",
-    "game_name": "Valheim",
-    "type": "live",
-    "title": "We're Valheiming it with @dizzytheeclown",
-    "viewer_count": 5,
-    "started_at": "2026-08-27T01:54:35Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "321064657113",
@@ -192,6 +169,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "318997595735",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "508455",
+    "game_name": "Valheim",
+    "type": "live",
+    "title": "We're Valheiming it with @dizzytheeclown",
+    "viewer_count": 4,
+    "started_at": "2026-08-27T01:54:35Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "318995915735",
