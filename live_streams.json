@@ -1,34 +1,5 @@
 [
   {
-    "id": "317981662168",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "✧ Ghost is gaming today ahhhhhhh ✧ !lurk !merch !throne !clip",
-    "viewer_count": 25,
-    "started_at": "2026-08-26T22:55:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "LGBT",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "YappingEncouraged",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
     "id": "320075643740",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -37,7 +8,7 @@
     "game_name": "Magic: The Gathering",
     "type": "live",
     "title": "Hopefully the people this time don't jump me like the cat did (Mtg w/ @defaultcube_va and @Kiba_Safir)",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-08-27T03:16:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
