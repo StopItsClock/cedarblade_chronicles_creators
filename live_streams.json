@@ -54,58 +54,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
   },
   {
-    "id": "315983281619",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "494099",
-    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-    "type": "live",
-    "title": "[KH1] Well we managed to keep our heads, time for another world",
-    "viewer_count": 2,
-    "started_at": "2026-08-28T19:56:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "321264903899",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1397210469",
-    "game_name": "Miniatures & Models",
-    "type": "live",
-    "title": "[18+] I'm enjoying Gunpla building too much rn, we doing it again | !lurk !throne !tip !discord",
-    "viewer_count": 1,
-    "started_at": "2026-08-28T23:00:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
     "id": "320003224926",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -114,7 +62,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[18+] 🌷 First Durge Run + Bonus Spells and Bosses!! [Crowd Control Modded BG3] | !throne !socials !lurk !discord",
-    "viewer_count": 0,
+    "viewer_count": 4,
     "started_at": "2026-08-28T23:11:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -133,5 +81,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
+    "id": "321264903899",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1397210469",
+    "game_name": "Miniatures & Models",
+    "type": "live",
+    "title": "[18+] I'm enjoying Gunpla building too much rn, we doing it again | !lurk !throne !tip !discord",
+    "viewer_count": 2,
+    "started_at": "2026-08-28T23:00:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
