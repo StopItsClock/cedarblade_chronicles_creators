@@ -7,7 +7,7 @@
     "game_id": "27471",
     "game_name": "Minecraft",
     "type": "live",
-    "title": "\u2727 Last stream before Slushies 3 day vacay \u2727 !lurk !merch !throne !clip",
+    "title": "✧ Last stream before Slushies 3 day vacay ✧ !lurk !merch !throne !clip",
     "viewer_count": 27,
     "started_at": "2026-08-27T23:01:02Z",
     "language": "en",
@@ -36,7 +36,7 @@
     "game_id": "509658",
     "game_name": "Just Chatting",
     "type": "live",
-    "title": "\u301018+\u3011NEW MOD? Every Death is a Pushup. \u2738Hollow Knight Stream\u2738 !lurk !daily",
+    "title": "【18+】NEW MOD? Every Death is a Pushup. ✸Hollow Knight Stream✸ !lurk !daily",
     "viewer_count": 15,
     "started_at": "2026-08-27T23:54:51Z",
     "language": "en",
@@ -226,35 +226,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "317609497187",
-    "user_id": "61839029",
-    "user_login": "everyonelovesrobots",
-    "user_name": "EveryoneLovesRobots",
-    "game_id": "1820378900",
-    "game_name": "Resident Evil 4",
-    "type": "live",
-    "title": "[Resident Evil 4] VIVA ESPA\u00d1A-Oop wait that's a brain parasite right there [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 3,
-    "started_at": "2026-08-27T22:05:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "everyonelovesrobots",
-      "SciFiGaming",
-      "PNGtuberEN",
-      "HorrorGaming",
-      "ENG",
-      "VtuberEN",
-      "Robots",
-      "scifi",
-      "Charity"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
     "id": "321247877595",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -279,5 +250,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
+    "id": "317609497187",
+    "user_id": "61839029",
+    "user_login": "everyonelovesrobots",
+    "user_name": "EveryoneLovesRobots",
+    "game_id": "1820378900",
+    "game_name": "Resident Evil 4",
+    "type": "live",
+    "title": "[Resident Evil 4] VIVA ESPAÑA-Oop wait that's a brain parasite right there [18+]| road to 300 | !lurk | !commands",
+    "viewer_count": 3,
+    "started_at": "2026-08-27T22:05:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "everyonelovesrobots",
+      "SciFiGaming",
+      "PNGtuberEN",
+      "HorrorGaming",
+      "ENG",
+      "VtuberEN",
+      "Robots",
+      "scifi",
+      "Charity"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   }
 ]
