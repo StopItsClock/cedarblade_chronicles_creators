@@ -8,7 +8,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "Is today the day we become the Lord of Frenzied Flame?! !kofi !throne",
-    "viewer_count": 8,
+    "viewer_count": 7,
     "started_at": "2026-08-28T18:00:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "New Day New Me! oh and the Potluck Ig || Lore SMP! Character: Levin Stern",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-08-28T19:10:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -109,6 +109,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
+    "id": "317334790647",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Building HQ | Wild West: Gold Rush Event",
+    "viewer_count": 2,
+    "started_at": "2026-08-28T19:47:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Deadweight",
+      "goldrush",
+      "elf",
+      "vtuber",
+      "adhd",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
     "id": "317580881634",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -117,7 +142,7 @@
     "game_name": "RimWorld",
     "type": "live",
     "title": "Onto the Rim once more and trying to keep our colonies alive!",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-08-28T18:27:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -161,30 +186,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
-  },
-  {
-    "id": "317334790647",
-    "user_id": "574560089",
-    "user_login": "kayvender",
-    "user_name": "kayvender",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Building HQ | Wild West: Gold Rush Event",
-    "viewer_count": 0,
-    "started_at": "2026-08-28T19:47:41Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Deadweight",
-      "goldrush",
-      "elf",
-      "vtuber",
-      "adhd",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
