@@ -1,33 +1,5 @@
 [
   {
-    "id": "320000111454",
-    "user_id": "595484950",
-    "user_login": "thehashibira",
-    "user_name": "TheHashibira",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "New Day New Me! oh and the Potluck Ig || Lore SMP! Character: Levin Stern",
-    "viewer_count": 5,
-    "started_at": "2026-08-28T19:10:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Friends",
-      "Gaming",
-      "Male",
-      "Vtuber",
-      "Silent",
-      "Cozy",
-      "Lore",
-      "Smp",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
-  },
-  {
     "id": "321158112474",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -54,6 +26,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "320000111454",
+    "user_id": "595484950",
+    "user_login": "thehashibira",
+    "user_name": "TheHashibira",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "New Day New Me! oh and the Potluck Ig || Lore SMP! Character: Levin Stern",
+    "viewer_count": 4,
+    "started_at": "2026-08-28T19:10:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Friends",
+      "Gaming",
+      "Male",
+      "Vtuber",
+      "Silent",
+      "Cozy",
+      "Lore",
+      "Smp",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
     "id": "315983281619",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -62,7 +62,7 @@
     "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
     "type": "live",
     "title": "[KH1] Well we managed to keep our heads, time for another world",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-08-28T19:56:01Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
