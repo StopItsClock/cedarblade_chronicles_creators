@@ -106,5 +106,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "320016237918",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "Finding My Place in the New MMR System",
+    "viewer_count": 0,
+    "started_at": "2026-08-29T21:14:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq",
+      "AIFree",
+      "TransRights"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
