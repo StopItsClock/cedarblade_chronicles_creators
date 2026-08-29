@@ -1,5 +1,30 @@
 [
   {
+    "id": "321172904538",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "313098",
+    "game_name": "Chibi-Robo!: Photo Finder",
+    "type": "live",
+    "title": "hoping to finally finish photo finder today. Please. Smile. c:",
+    "viewer_count": 10,
+    "started_at": "2026-08-29T17:14:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Retro",
+      "ComfyCafe",
+      "eepy",
+      "FirstPlaythrough"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
     "id": "317588566754",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -8,7 +33,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "2 YEAR AFFILIATE-VERSARY CELEBRATIONS LET'S GOO!!  [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 10,
+    "viewer_count": 9,
     "started_at": "2026-08-29T16:00:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -27,31 +52,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "321172904538",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "313098",
-    "game_name": "Chibi-Robo!: Photo Finder",
-    "type": "live",
-    "title": "hoping to finally finish photo finder today. Please. Smile. c:",
-    "viewer_count": 9,
-    "started_at": "2026-08-29T17:14:16Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Retro",
-      "ComfyCafe",
-      "eepy",
-      "FirstPlaythrough"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
     "id": "320150622816",
