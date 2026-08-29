@@ -8,7 +8,7 @@
     "game_name": "Chibi-Robo!: Photo Finder",
     "type": "live",
     "title": "hoping to finally finish photo finder today. Please. Smile. c:",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-08-29T17:14:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -101,5 +101,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
+    "id": "319033381847",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "The Biggest Heist Yet | Wild West: Gold Rush Event",
+    "viewer_count": 2,
+    "started_at": "2026-08-29T19:48:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Deadweight",
+      "goldrush",
+      "elf",
+      "vtuber",
+      "adhd",
+      "roleplay",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
