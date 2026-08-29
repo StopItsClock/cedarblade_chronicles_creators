@@ -8,7 +8,7 @@
     "game_name": "Special Events",
     "type": "live",
     "title": "2 YEAR AFFILIATE-VERSARY CELEBRATIONS LET'S GOO!!  [18+]| road to 300 | !lurk | !commands",
-    "viewer_count": 10,
+    "viewer_count": 12,
     "started_at": "2026-08-29T16:00:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -55,31 +55,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
-    "id": "320016237918",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "491487",
-    "game_name": "Dead by Daylight",
-    "type": "live",
-    "title": "Finding My Place in the New MMR System",
-    "viewer_count": 3,
-    "started_at": "2026-08-29T21:14:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq",
-      "AIFree",
-      "TransRights",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
-  },
-  {
     "id": "318003745368",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -108,6 +83,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
+    "id": "320016237918",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "Finding My Place in the New MMR System",
+    "viewer_count": 3,
+    "started_at": "2026-08-29T21:14:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "VTuber",
+      "lgbtq",
+      "AIFree",
+      "TransRights",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
+  },
+  {
     "id": "319033381847",
     "user_id": "574560089",
     "user_login": "kayvender",
@@ -132,5 +132,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
+    "id": "320155038816",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "₊✩‧₊˚౨  Tavern of tales smp + yapping!  ! ৎ˚₊✩‧₊ | !discord !lurk",
+    "viewer_count": 0,
+    "started_at": "2026-08-29T22:58:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "brat",
+      "ComfyChaotic",
+      "twinkmaxxing",
+      "femboy",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e07001a2-32f6-46c6-bd59-dedd0db59411-profile_image-300x300.png"
   }
 ]
