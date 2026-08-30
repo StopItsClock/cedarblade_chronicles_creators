@@ -8,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "ohohoho!!! more delta rune || !discord !dono !lurk !throne",
-    "viewer_count": 11,
+    "viewer_count": 12,
     "started_at": "2026-08-30T20:51:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -52,6 +52,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "321196611290",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "2312",
+    "game_name": "Sonic and the Secret Rings",
+    "type": "live",
+    "title": "[18+] [ROAD TO 1000] SPEED... I AM SPEED... (and approaching rapidly)",
+    "viewer_count": 5,
+    "started_at": "2026-08-30T20:51:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Catboy",
+      "BoyWife",
+      "LGBTQ",
+      "femboy",
+      "Chatting",
+      "BackseatGamingAllowed",
+      "Vtuber",
+      "cute",
+      "sonic",
+      "smallstrreamer"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
     "id": "318280929255",
     "user_id": "96403825",
     "user_login": "burnium",
@@ -60,7 +89,7 @@
     "game_name": "Resident Evil 4",
     "type": "live",
     "title": "SUNDAY SUFFERING | My sister really hates this Kennedy guy",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-08-30T18:23:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
@@ -80,33 +109,27 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   },
   {
-    "id": "321196611290",
-    "user_id": "952513348",
-    "user_login": "cabbytat",
-    "user_name": "CabbyTat",
-    "game_id": "493877",
-    "game_name": "Sonic Mania",
+    "id": "321300753243",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "Starfastwolf",
+    "game_id": "2128193047",
+    "game_name": "Super Battle Golf",
     "type": "live",
-    "title": "[18+] [ROAD TO 1000] SPEED... I AM SPEED... (and approaching rapidly)",
-    "viewer_count": 2,
-    "started_at": "2026-08-30T20:51:39Z",
+    "title": "smacking balls with friend and doing some new maps with them @globegurobuvt @emituga @BanBanBan @aceavenger @tinglerotunda !discord",
+    "viewer_count": 1,
+    "started_at": "2026-08-30T20:00:40Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Catboy",
-      "BoyWife",
-      "LGBTQ",
-      "femboy",
-      "Chatting",
-      "BackseatGamingAllowed",
-      "Vtuber",
-      "cute",
-      "sonic",
-      "smallstrreamer"
+      "English",
+      "PNGtuberEN",
+      "18pluschannel",
+      "goodevibes"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   },
   {
     "id": "319047925207",
@@ -133,28 +156,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
-  },
-  {
-    "id": "321300753243",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "Starfastwolf",
-    "game_id": "2128193047",
-    "game_name": "Super Battle Golf",
-    "type": "live",
-    "title": "smacking balls with friend and doing some new maps with them @globegurobuvt @emituga @BanBanBan @aceavenger @tinglerotunda !discord",
-    "viewer_count": 1,
-    "started_at": "2026-08-30T20:00:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "PNGtuberEN",
-      "18pluschannel",
-      "goodevibes"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
