@@ -8,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "ohohoho!!! more delta rune || !discord !dono !lurk !throne",
-    "viewer_count": 17,
+    "viewer_count": 16,
     "started_at": "2026-08-30T20:51:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -60,7 +60,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "₊✩‧₊˚౨  Tavern of tales smp day 3 + yapping!  ! ৎ˚₊✩‧₊ | !discord !lurk",
-    "viewer_count": 2,
+    "viewer_count": 5,
     "started_at": "2026-08-30T22:58:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -106,6 +106,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   },
   {
+    "id": "321196611290",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "1976753210",
+    "game_name": "Sonic: Project Hero",
+    "type": "live",
+    "title": "[18+] [ROAD TO 1000] SPEED... I AM SPEED... (and approaching rapidly)",
+    "viewer_count": 1,
+    "started_at": "2026-08-30T20:51:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Catboy",
+      "BoyWife",
+      "LGBTQ",
+      "femboy",
+      "Chatting",
+      "BackseatGamingAllowed",
+      "Vtuber",
+      "cute",
+      "sonic",
+      "smallstrreamer"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
     "id": "319047925207",
     "user_id": "574560089",
     "user_login": "kayvender",
@@ -130,34 +159,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
-  },
-  {
-    "id": "321196611290",
-    "user_id": "952513348",
-    "user_login": "cabbytat",
-    "user_name": "CabbyTat",
-    "game_id": "2312",
-    "game_name": "Sonic and the Secret Rings",
-    "type": "live",
-    "title": "[18+] [ROAD TO 1000] SPEED... I AM SPEED... (and approaching rapidly)",
-    "viewer_count": 1,
-    "started_at": "2026-08-30T20:51:39Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Catboy",
-      "BoyWife",
-      "LGBTQ",
-      "femboy",
-      "Chatting",
-      "BackseatGamingAllowed",
-      "Vtuber",
-      "cute",
-      "sonic",
-      "smallstrreamer"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   }
 ]
