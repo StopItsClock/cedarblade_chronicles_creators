@@ -1,31 +1,5 @@
 [
   {
-    "id": "321212141402",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "1846293708",
-    "game_name": "Fields of Mistria",
-    "type": "live",
-    "title": "【 MISTRIA MONDAYS】The start of a new saga! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 19,
-    "started_at": "2026-08-31T21:19:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "320136650460",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -34,7 +8,7 @@
     "game_name": "Schedule I",
     "type": "live",
     "title": "[preload our timer] So let's do some botany right? (schedule 1 w/ @snickerdoodle_demon and @regina_kardinal @Kiba_Safir)",
-    "viewer_count": 19,
+    "viewer_count": 17,
     "started_at": "2026-08-31T20:33:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -52,6 +26,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "321212141402",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "1846293708",
+    "game_name": "Fields of Mistria",
+    "type": "live",
+    "title": "【 MISTRIA MONDAYS】The start of a new saga! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 15,
+    "started_at": "2026-08-31T21:19:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "321147009753",
@@ -91,7 +91,7 @@
     "game_name": "Star Citizen",
     "type": "live",
     "title": "Moving boxes from station to staion and being a delivery pilot for guilds in star citizen !discord",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-08-31T21:00:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
