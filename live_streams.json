@@ -65,7 +65,7 @@
     "game_name": "Dark Souls: Remastered",
     "type": "live",
     "title": "lets get it on",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-08-31T20:24:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
@@ -91,7 +91,7 @@
     "game_name": "Fields of Mistria",
     "type": "live",
     "title": "【 MISTRIA MONDAYS】The start of a new saga! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-08-31T21:19:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -107,6 +107,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "321148317401",
+    "user_id": "813947034",
+    "user_login": "starfastwolf",
+    "user_name": "Starfastwolf",
+    "game_id": "71375",
+    "game_name": "Star Citizen",
+    "type": "live",
+    "title": "Moving boxes from station to staion and being a delivery pilot for guilds in star citizen !discord",
+    "viewer_count": 2,
+    "started_at": "2026-08-31T21:00:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "18pluschannel",
+      "goodevibes",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   },
   {
     "id": "315949235921",
@@ -130,28 +153,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "321148317401",
-    "user_id": "813947034",
-    "user_login": "starfastwolf",
-    "user_name": "Starfastwolf",
-    "game_id": "71375",
-    "game_name": "Star Citizen",
-    "type": "live",
-    "title": "Moving boxes from station to staion and being a delivery pilot for guilds in star citizen !discord",
-    "viewer_count": 1,
-    "started_at": "2026-08-31T21:00:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starfastwolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "18pluschannel",
-      "goodevibes",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
   }
 ]
