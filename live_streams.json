@@ -8,7 +8,7 @@
     "game_name": "Schedule I",
     "type": "live",
     "title": "[preload our timer] So let's do some botany right? (schedule 1 w/ @snickerdoodle_demon and @regina_kardinal @Kiba_Safir)",
-    "viewer_count": 9,
+    "viewer_count": 10,
     "started_at": "2026-08-31T20:33:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "Fields of Mistria",
     "type": "live",
     "title": "【 MISTRIA MONDAYS】The start of a new saga! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-08-31T21:19:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -81,32 +81,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317356115191",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "1122982998",
-    "game_name": "Dark Souls: Remastered",
-    "type": "live",
-    "title": "lets get it on",
-    "viewer_count": 3,
-    "started_at": "2026-08-31T20:24:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames",
-      "LIESOFP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
   },
   {
     "id": "321148317401",
@@ -130,6 +104,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c1f727-32b2-483b-a46f-d4d7dc929b13-profile_image-300x300.png"
+  },
+  {
+    "id": "317356115191",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "1122982998",
+    "game_name": "Dark Souls: Remastered",
+    "type": "live",
+    "title": "lets get it on",
+    "viewer_count": 2,
+    "started_at": "2026-08-31T20:24:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge",
+      "soulsgames",
+      "LIESOFP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
   },
   {
     "id": "315949235921",
