@@ -29,6 +29,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "320055604190",
+    "user_id": "240610101",
+    "user_login": "shatteredsoullive",
+    "user_name": "shatteredsoullive",
+    "game_id": "1028198402",
+    "game_name": "Dead Space",
+    "type": "live",
+    "title": "(+18) BIRTHDAY BASH LETS PLAY GAMES!",
+    "viewer_count": 4,
+    "started_at": "2026-09-01T21:08:24Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "Variety",
+      "English",
+      "TwitchGuildUnity",
+      "LatinUnityGuild",
+      "Chaotic",
+      "PCOS",
+      "fansly",
+      "TTRPG"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
     "id": "320192764128",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -83,33 +111,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
-    "id": "320055604190",
-    "user_id": "240610101",
-    "user_login": "shatteredsoullive",
-    "user_name": "shatteredsoullive",
-    "game_id": "1028198402",
-    "game_name": "Dead Space",
-    "type": "live",
-    "title": "(+18) BIRTHDAY BASH LETS PLAY GAMES!",
-    "viewer_count": 1,
-    "started_at": "2026-09-01T21:08:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "Variety",
-      "English",
-      "TwitchGuildUnity",
-      "LatinUnityGuild",
-      "Chaotic",
-      "PCOS",
-      "fansly",
-      "TTRPG"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
   }
 ]
