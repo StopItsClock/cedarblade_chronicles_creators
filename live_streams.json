@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Quick Stream Today But We Gaming Fr || Lore SMP! Character: Levin Stern",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-09-01T18:17:23Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -26,35 +26,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
-  },
-  {
-    "id": "320193376992",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "417749",
-    "game_name": "Tabletop Simulator",
-    "type": "live",
-    "title": "[Subathon Preload] You Might be able to teach a dog new tricks (Warhammer 11th w/ @defaultcube_va",
-    "viewer_count": 5,
-    "started_at": "2026-09-01T19:18:42Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Crazy",
-      "prismmodel",
-      "seatuber",
-      "DeadWeight",
-      "ChaosGremlin",
-      "ENVtuber",
-      "streamtogether",
-      "English",
-      "subathon",
-      "warhammer40k"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
     "id": "315952391505",
@@ -79,5 +50,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
+    "id": "320193376992",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "417749",
+    "game_name": "Tabletop Simulator",
+    "type": "live",
+    "title": "[Subathon Preload] You Might be able to teach a dog new tricks (Warhammer 11th w/ @defaultcube_va",
+    "viewer_count": 4,
+    "started_at": "2026-09-01T19:18:42Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Crazy",
+      "prismmodel",
+      "seatuber",
+      "DeadWeight",
+      "ChaosGremlin",
+      "ENVtuber",
+      "streamtogether",
+      "English",
+      "subathon",
+      "warhammer40k"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   }
 ]
