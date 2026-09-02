@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ we're going to da moon pwincess ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 20,
     "started_at": "2026-09-02T23:00:16Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[18+] 💎 RANDOM LOOT + Surprise Encounters??[Crowd Control Modded BG3] | !throne !socials !lurk !discord",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-09-02T21:55:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -87,6 +87,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "321180164185",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1397210469",
+    "game_name": "Miniatures & Models",
+    "type": "live",
+    "title": "[18+] We are so close to finishing | RG Miku Gramps | !lurk !throne !tip !discord",
+    "viewer_count": 2,
+    "started_at": "2026-09-02T23:00:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
     "id": "320070295390",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -113,34 +142,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
-  },
-  {
-    "id": "321180164185",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1397210469",
-    "game_name": "Miniatures & Models",
-    "type": "live",
-    "title": "[18+] We are so close to finishing | RG Miku Gramps | !lurk !throne !tip !discord",
-    "viewer_count": 1,
-    "started_at": "2026-09-02T23:00:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
