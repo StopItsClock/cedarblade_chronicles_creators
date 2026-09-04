@@ -8,7 +8,7 @@
     "game_name": "The Legend of Zelda: Ocarina of Time",
     "type": "live",
     "title": "[ENVtuber] Ocarina of Time Randomiser practice| !kofi !throne",
-    "viewer_count": 9,
+    "viewer_count": 7,
     "started_at": "2026-09-04T16:19:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -28,6 +28,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
   },
   {
+    "id": "318469795941",
+    "user_id": "96403825",
+    "user_login": "burnium",
+    "user_name": "Burnium",
+    "game_id": "394568",
+    "game_name": "RimWorld",
+    "type": "live",
+    "title": "PHOENIX CARAVAN | UNLIMITED POWAHH",
+    "viewer_count": 3,
+    "started_at": "2026-09-04T17:03:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "pngtuber",
+      "yippee",
+      "LGBTQ",
+      "Comfy",
+      "sleepy",
+      "rimworld",
+      "rimworldmodded"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
+  },
+  {
     "id": "317677067107",
     "user_id": "149397923",
     "user_login": "ravenincarnate",
@@ -36,7 +64,7 @@
     "game_name": "RimWorld",
     "type": "live",
     "title": "multi faction rimworld returns!",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-09-04T17:12:48Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
@@ -77,33 +105,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
-    "id": "318469795941",
-    "user_id": "96403825",
-    "user_login": "burnium",
-    "user_name": "Burnium",
-    "game_id": "394568",
-    "game_name": "RimWorld",
-    "type": "live",
-    "title": "PHOENIX CARAVAN | UNLIMITED POWAHH",
-    "viewer_count": 1,
-    "started_at": "2026-09-04T17:03:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "pngtuber",
-      "yippee",
-      "LGBTQ",
-      "Comfy",
-      "sleepy",
-      "rimworld",
-      "rimworldmodded"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
   }
 ]
