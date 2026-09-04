@@ -28,6 +28,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "320232915936",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1242462656",
+    "game_name": "Grimshire",
+    "type": "live",
+    "title": "♡ stardew but everyone is only alive because of me c:",
+    "viewer_count": 7,
+    "started_at": "2026-09-04T21:16:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
+  },
+  {
     "id": "321381044059",
     "user_id": "952513348",
     "user_login": "cabbytat",
@@ -36,7 +62,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] [ROAD TO 1000] MINECRAFT CHAOS MOD LIVE: Can I SURVIVE This?! 💀 [EN]",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-09-04T20:51:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
