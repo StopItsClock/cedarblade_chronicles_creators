@@ -8,7 +8,7 @@
     "game_name": "The Legend of Zelda: Ocarina of Time",
     "type": "live",
     "title": "[ENVtuber] Ocarina of Time Randomiser practice| !kofi !throne",
-    "viewer_count": 11,
+    "viewer_count": 10,
     "started_at": "2026-09-04T16:19:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "It Takes Two",
     "type": "live",
     "title": "[Subathon Preload] Wife fast, Nana go is faster maybe? (It takes 2 pt.3 w/ @Regina_Kardinal)",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-09-04T19:37:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -80,5 +80,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
+  },
+  {
+    "id": "317643919202",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "494099",
+    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "type": "live",
+    "title": "[KH1] Holy puppet in a whale Jiminy, Let's fight some heartless",
+    "viewer_count": 0,
+    "started_at": "2026-09-04T20:18:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
