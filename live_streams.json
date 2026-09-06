@@ -8,7 +8,7 @@
     "game_name": "Grand Theft Auto V",
     "type": "live",
     "title": "[18+] WHAT WILL Y0SH1 DO #LODESTAR 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 22,
+    "viewer_count": 21,
     "started_at": "2026-09-05T14:24:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -34,7 +34,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Evermon stress test! Cobblemon excitement",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-09-06T19:36:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
@@ -47,5 +47,31 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "319132540503",
+    "user_id": "574560089",
+    "user_login": "kayvender",
+    "user_name": "kayvender",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "War | Wild West: Gold Rush Event",
+    "viewer_count": 0,
+    "started_at": "2026-09-06T19:52:39Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kayvender-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Deadweight",
+      "goldrush",
+      "elf",
+      "vtuber",
+      "adhd",
+      "roleplay",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbbfd62f-9842-450d-8f1f-6e181ae7fa4e-profile_image-300x300.png"
   }
 ]
