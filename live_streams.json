@@ -8,7 +8,7 @@
     "game_name": "Grand Theft Auto V",
     "type": "live",
     "title": "[18+] WHAT WILL Y0SH1 DO #LODESTAR 💙 join for yap!⚡!lurk !discord !merch !throne !socials",
-    "viewer_count": 24,
+    "viewer_count": 21,
     "started_at": "2026-09-05T14:24:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zachibee-{width}x{height}.jpg",
@@ -24,5 +24,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc1e0deb-b2bf-4f9e-a223-9a5d9a838ae0-profile_image-300x300.png"
+  },
+  {
+    "id": "317397985911",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Evermon stress test! Cobblemon excitement",
+    "viewer_count": 1,
+    "started_at": "2026-09-06T19:36:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
