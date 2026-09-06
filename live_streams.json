@@ -8,7 +8,7 @@
     "game_name": "NieR: Automata",
     "type": "live",
     "title": "✧ Starting ending C! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 39,
+    "viewer_count": 36,
     "started_at": "2026-09-05T23:02:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "ASMR",
     "type": "live",
     "title": "【18+】Horror ASMR Readings ✸Dead Night Society✸ !lurk !daily",
-    "viewer_count": 19,
+    "viewer_count": 18,
     "started_at": "2026-09-06T01:59:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunshisunshu-{width}x{height}.jpg",
@@ -56,35 +56,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f02d0da-23b0-4957-ad12-ad6a52750b67-profile_image-300x300.png"
-  },
-  {
-    "id": "316417905906",
-    "user_id": "956203886",
-    "user_login": "liefaurelius",
-    "user_name": "LiefAurelius",
-    "game_id": "1954784138",
-    "game_name": "Final Fantasy Resonance",
-    "type": "live",
-    "title": "Checking out the new FF Resonance DEMO! [!lurk !discord !clip]",
-    "viewer_count": 15,
-    "started_at": "2026-09-06T00:00:14Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "PHVtuber",
-      "ENVtuber",
-      "chillguy",
-      "Comfy",
-      "Fudanshi",
-      "Hunter",
-      "Forever21",
-      "Filipino",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
     "id": "316785576661",
@@ -111,5 +82,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc1e0deb-b2bf-4f9e-a223-9a5d9a838ae0-profile_image-300x300.png"
+  },
+  {
+    "id": "316417905906",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "1954784138",
+    "game_name": "Final Fantasy Resonance",
+    "type": "live",
+    "title": "Checking out the new FF Resonance DEMO! [!lurk !discord !clip]",
+    "viewer_count": 13,
+    "started_at": "2026-09-06T00:00:14Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Comfy",
+      "Fudanshi",
+      "Hunter",
+      "Forever21",
+      "Filipino",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   }
 ]
