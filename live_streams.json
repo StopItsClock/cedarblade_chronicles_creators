@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "♡ just chatting into doomed yuri!",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-09-07T20:59:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -35,7 +35,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "[Subathon Preload] What now? We are confused (Elden ring w/ @snickerdoodle_Demon and @regina_kardinal)",
-    "viewer_count": 8,
+    "viewer_count": 10,
     "started_at": "2026-09-07T21:03:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Fields of Mistria",
     "type": "live",
     "title": "【 MISTRIA MONDAYS】Getting used to it all! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-09-07T21:31:09Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -83,6 +83,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
+    "id": "317692960868",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "494099",
+    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "type": "live",
+    "title": "[KH1] I don't have a clever title tonight, I just need to Kick Ursula's ass",
+    "viewer_count": 3,
+    "started_at": "2026-09-07T19:11:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
     "id": "321323370202",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -91,7 +114,7 @@
     "game_name": "SCARLET NEXUS",
     "type": "live",
     "title": "My Mind is breaking, hopefully no weird things happen|| Scarlet Nexus (!lurk, !links, !discord)",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-09-07T20:55:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -108,28 +131,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "317692960868",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "494099",
-    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-    "type": "live",
-    "title": "[KH1] I don't have a clever title tonight, I just need to Kick Ursula's ass",
-    "viewer_count": 2,
-    "started_at": "2026-09-07T19:11:23Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
