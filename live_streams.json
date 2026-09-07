@@ -1,5 +1,32 @@
 [
   {
+    "id": "320231616604",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "♡ just chatting into doomed yuri!",
+    "viewer_count": 8,
+    "started_at": "2026-09-07T20:59:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "vcanada",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
+  },
+  {
     "id": "320274283360",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -29,33 +56,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "320231616604",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "♡ just chatting into doomed yuri!",
-    "viewer_count": 6,
-    "started_at": "2026-09-07T20:59:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "vcanada",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
-  },
-  {
     "id": "321323370202",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -64,7 +64,7 @@
     "game_name": "SCARLET NEXUS",
     "type": "live",
     "title": "My Mind is breaking, hopefully no weird things happen|| Scarlet Nexus (!lurk, !links, !discord)",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-09-07T20:55:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
