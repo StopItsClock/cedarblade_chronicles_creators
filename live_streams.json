@@ -8,7 +8,7 @@
     "game_name": "ReStory: Chill Electronics Repairs",
     "type": "live",
     "title": "[ENVtuber] Cosy Chill Stream fixing old electronics! (Road to 500) | !kofi !throne",
-    "viewer_count": 8,
+    "viewer_count": 9,
     "started_at": "2026-09-07T17:58:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
@@ -36,7 +36,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "Surprise Monday Stream? Yes! Peaking Feat. @marrowmoss @goldnvt @sharxaria @slaterdevil [18+]| road to 400 | !lurk | !commands",
-    "viewer_count": 7,
+    "viewer_count": 5,
     "started_at": "2026-09-07T17:55:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -55,5 +55,28 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "317692960868",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "494099",
+    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "type": "live",
+    "title": "[KH1] I don't have a clever title tonight, I just need to Kick Ursula's ass",
+    "viewer_count": 1,
+    "started_at": "2026-09-07T19:11:23Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
