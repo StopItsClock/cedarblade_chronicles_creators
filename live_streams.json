@@ -8,7 +8,7 @@
     "game_name": "Hide and Moo!",
     "type": "live",
     "title": "|Headphone Warning| 8 Streamers pretend to be animals! !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-09-08T21:58:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Danganronpa 2: Goodbye Despair",
     "type": "live",
     "title": "[18+] FIRST PLAYTHROUGH 👀 (And They Were Roomates...)[Danganronpa 2] | !throne !socials !lurk !discord",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-09-08T22:32:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -58,6 +58,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
+    "id": "320148622174",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "Post Stormblood MSQ",
+    "viewer_count": 6,
+    "started_at": "2026-09-08T22:14:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
     "id": "319158447575",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -66,7 +91,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "[ELDEN RING] Straight up TARNISHED",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-09-08T21:01:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -85,30 +110,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
-    "id": "320148622174",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "Post Stormblood MSQ",
-    "viewer_count": 4,
-    "started_at": "2026-09-08T22:14:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
