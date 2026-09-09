@@ -1,28 +1,5 @@
 [
   {
-    "id": "320154778846",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "2085980140",
-    "game_name": "Lethal Company",
-    "type": "live",
-    "title": "Playing Lethal company with the Aumi Saki community",
-    "viewer_count": 6,
-    "started_at": "2026-09-09T04:31:47Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
-  },
-  {
     "id": "318585616230",
     "user_id": "176717390",
     "user_login": "calmarvt",
@@ -31,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "[ENVtuber] Sleep deprived overwatch >:3 @kiiroichii",
-    "viewer_count": 1,
+    "viewer_count": 3,
     "started_at": "2026-09-09T08:57:17Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calmarvt-{width}x{height}.jpg",
