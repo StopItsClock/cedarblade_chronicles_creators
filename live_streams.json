@@ -37,7 +37,7 @@
     "game_name": "Destiny 2",
     "type": "live",
     "title": "[18+] The Agony Stream.  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 27,
+    "viewer_count": 28,
     "started_at": "2026-09-09T01:55:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "VALORANT",
     "type": "live",
     "title": "IM BACK AND HERE TO PLAY....valorant. | !hug | @emopumpkinspicelatte",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-09-09T01:27:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "omg Lore? AHHHHHH",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-09-09T00:56:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -169,30 +169,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "320148622174",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "Post Stormblood MSQ",
-    "viewer_count": 2,
-    "started_at": "2026-09-08T22:14:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
