@@ -58,35 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
-    "id": "321464974043",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "💙 Yapping -> Deadlock -> Nintendo Direct React 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 7,
-    "started_at": "2026-09-09T22:38:36Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "18plus",
-      "DeadWeight"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
     "id": "320163040222",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -114,6 +85,31 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/528079f7-f1d7-48c4-8b28-7f485c3318f7-profile_image-300x300.png"
   },
   {
+    "id": "320259141724",
+    "user_id": "254478860",
+    "user_login": "ispebble",
+    "user_name": "IsPebble",
+    "game_id": "24241",
+    "game_name": "FINAL FANTASY XIV ONLINE",
+    "type": "live",
+    "title": "New event and maybe some MSQ",
+    "viewer_count": 4,
+    "started_at": "2026-09-09T22:51:19Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Gaming",
+      "PC",
+      "rock",
+      "LurkerFriendly",
+      "BackseatingaIIowed"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
+  },
+  {
     "id": "320303215200",
     "user_id": "620490598",
     "user_login": "bryanuwus",
@@ -122,7 +118,7 @@
     "game_name": "Lethal Company",
     "type": "live",
     "title": "Playing Lethal company with friendos | !collab",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-09-10T01:37:27Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
@@ -145,7 +141,7 @@
     "game_name": "Miniatures & Models",
     "type": "live",
     "title": "[18+] I HATE SPRINGS I HATE SPRINGS I HATE SPRINGS | RG Miku Zaku | !lurk !throne !tip !discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-09-10T01:28:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -164,30 +160,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "320259141724",
-    "user_id": "254478860",
-    "user_login": "ispebble",
-    "user_name": "IsPebble",
-    "game_id": "24241",
-    "game_name": "FINAL FANTASY XIV ONLINE",
-    "type": "live",
-    "title": "New event and maybe some MSQ",
-    "viewer_count": 2,
-    "started_at": "2026-09-09T22:51:19Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ispebble-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Gaming",
-      "PC",
-      "rock",
-      "LurkerFriendly",
-      "BackseatingaIIowed"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
   }
 ]
