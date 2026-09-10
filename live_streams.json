@@ -8,7 +8,7 @@
     "game_name": "Valheim",
     "type": "live",
     "title": "Alone in this new world, Maybe the Norse phanteon|| Valheim (!lurk, !links, !discord)",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-09-10T20:55:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -25,35 +25,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
-    "id": "321304019161",
-    "user_id": "952513348",
-    "user_login": "cabbytat",
-    "user_name": "CabbyTat",
-    "game_id": "32982",
-    "game_name": "Grand Theft Auto V",
-    "type": "live",
-    "title": "[18+] [ROAD TO 1000] GRAND THEFT AUTO CHAOS!! CAN CABBY COME OUT ON TOP???",
-    "viewer_count": 3,
-    "started_at": "2026-09-10T20:51:33Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LGBTQ",
-      "Vtuber",
-      "chill",
-      "gaming",
-      "Anime",
-      "ADHD",
-      "AMA",
-      "Chatty",
-      "Cozy",
-      "femoboy"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
     "id": "317424092791",
@@ -83,5 +54,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
+    "id": "321304019161",
+    "user_id": "952513348",
+    "user_login": "cabbytat",
+    "user_name": "CabbyTat",
+    "game_id": "32982",
+    "game_name": "Grand Theft Auto V",
+    "type": "live",
+    "title": "[18+] [ROAD TO 1000] GRAND THEFT AUTO CHAOS!! CAN CABBY COME OUT ON TOP???",
+    "viewer_count": 1,
+    "started_at": "2026-09-10T20:51:33Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LGBTQ",
+      "Vtuber",
+      "chill",
+      "gaming",
+      "Anime",
+      "ADHD",
+      "AMA",
+      "Chatty",
+      "Cozy",
+      "femoboy"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   }
 ]
