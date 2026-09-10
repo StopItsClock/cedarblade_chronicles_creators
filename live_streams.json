@@ -8,7 +8,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "✧ Aging Countdown: 2 days - Playing league to spite my mod ✧ !lurk !merch !throne !clip",
-    "viewer_count": 44,
+    "viewer_count": 42,
     "started_at": "2026-09-09T23:00:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Deadlock Practice! [!lurk !discord !clip]",
-    "viewer_count": 13,
+    "viewer_count": 16,
     "started_at": "2026-09-10T00:17:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -58,33 +58,27 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
-    "id": "321357525210",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1397210469",
-    "game_name": "Miniatures & Models",
+    "id": "320303215200",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "2085980140",
+    "game_name": "Lethal Company",
     "type": "live",
-    "title": "[18+] I HATE SPRINGS I HATE SPRINGS I HATE SPRINGS | RG Miku Zaku | !lurk !throne !tip !discord",
-    "viewer_count": 4,
-    "started_at": "2026-09-10T01:28:28Z",
+    "title": "Playing Lethal company with friendos | !collab",
+    "viewer_count": 6,
+    "started_at": "2026-09-10T01:37:27Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
+      "Seiso",
       "pngtuber",
       "English",
-      "Scuff"
+      "18plus"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "320259141724",
@@ -110,28 +104,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29139e0e-05c7-4109-a321-73aeea9777c2-profile_image-300x300.png"
-  },
-  {
-    "id": "320303215200",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "2085980140",
-    "game_name": "Lethal Company",
-    "type": "live",
-    "title": "Playing Lethal company with friendos | !collab",
-    "viewer_count": 3,
-    "started_at": "2026-09-10T01:37:27Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
