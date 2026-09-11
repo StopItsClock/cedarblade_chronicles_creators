@@ -1,5 +1,34 @@
 [
   {
+    "id": "321316652249",
+    "user_id": "167298417",
+    "user_login": "gilded_wolfe",
+    "user_name": "Gilded_Wolfe",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "PLANE DOWN || !puppers !discord !dnd",
+    "viewer_count": 2,
+    "started_at": "2026-09-11T17:07:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "catgirl",
+      "english",
+      "cat",
+      "chattingwithviewers",
+      "English",
+      "peak",
+      "peakgame",
+      "PeakGamplay",
+      "peakthegame",
+      "peakclimbing"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
+  },
+  {
     "id": "315984524241",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -8,7 +37,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "Gilded Caravan: Trying to get the secret ending",
-    "viewer_count": 0,
+    "viewer_count": 1,
     "started_at": "2026-09-11T17:08:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
@@ -32,7 +61,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "PHOENIX CARAVAN: CATGIRL EDITION | We be crashing the plane for today",
-    "viewer_count": 0,
+    "viewer_count": 1,
     "started_at": "2026-09-11T17:08:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burnium-{width}x{height}.jpg",
@@ -49,34 +78,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc8d51a5-a656-4e89-8f85-61d3224946b9-profile_image-300x300.png"
-  },
-  {
-    "id": "321316652249",
-    "user_id": "167298417",
-    "user_login": "gilded_wolfe",
-    "user_name": "Gilded_Wolfe",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "PLANE DOWN || !puppers !discord !dnd",
-    "viewer_count": 0,
-    "started_at": "2026-09-11T17:07:31Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gilded_wolfe-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "catgirl",
-      "english",
-      "cat",
-      "chattingwithviewers",
-      "English",
-      "peak",
-      "peakgame",
-      "PeakGamplay",
-      "peakthegame",
-      "peakclimbing"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e06f465f-bbc3-4f4e-a0b6-374db3c16778-profile_image-300x300.png"
   }
 ]
