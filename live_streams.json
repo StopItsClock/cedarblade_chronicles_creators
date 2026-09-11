@@ -8,7 +8,7 @@
     "game_name": "Worming from Home",
     "type": "live",
     "title": "✧ Is my birthday!!! Slushie's 12 hr Birthday Bash!! ✧ !lurk !merch !throne !clip",
-    "viewer_count": 40,
+    "viewer_count": 38,
     "started_at": "2026-09-11T19:00:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "[Subathon Preload] The dragon told me to get in the fog.. (Dead by Daylight w/ @Regina_Kardinal)",
-    "viewer_count": 9,
+    "viewer_count": 11,
     "started_at": "2026-09-11T19:58:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -134,5 +134,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "321320901849",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "2030977008",
+    "game_name": "Avatar Legends: The Fighting Game",
+    "type": "live",
+    "title": "[18+] Toph 5C.... | Avatar Legends | !lurk !throne !tip !discord",
+    "viewer_count": 0,
+    "started_at": "2026-09-11T23:00:16Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
