@@ -37,7 +37,7 @@
     "game_name": "Resident Evil 4",
     "type": "live",
     "title": "[RE:4] Please tell Ashley to be useful... [18+]| road to 400 | !lurk | !commands",
-    "viewer_count": 10,
+    "viewer_count": 12,
     "started_at": "2026-09-10T22:15:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Borderlands 4",
     "type": "live",
     "title": "[Subathon Preload] Oh mah god! Nana is back on da borderlands! (Borderlands 4 w/ @xxangelheroxx)",
-    "viewer_count": 8,
+    "viewer_count": 10,
     "started_at": "2026-09-10T22:42:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -95,7 +95,7 @@
     "game_name": "PEAK",
     "type": "live",
     "title": "[18+]🤝 NO BRAINCELL LEFT BEHIND w/ @sonatika @godric_lionheart @mercurio_deleone_en [PEAK] | !throne !socials !lurk !discord",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-09-10T22:57:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -116,34 +116,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
-    "id": "317425719799",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "2132205352",
-    "game_name": "Deadlock",
-    "type": "live",
-    "title": "[Deadlock] Cooling off after Elden RIng",
-    "viewer_count": 4,
-    "started_at": "2026-09-11T01:16:38Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "fujoshi",
-      "concubine",
-      "LGBTQFriendly",
-      "DeadWeight",
-      "deadlock",
-      "Shooter"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
-  },
-  {
     "id": "321368503514",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -152,7 +124,7 @@
     "game_name": "Miniatures & Models",
     "type": "live",
     "title": "[18+] PLEASE GOD MAKE IT END THIS KIT IS TERRIBLE | RG Miku Zaku | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-09-10T23:00:10Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -171,5 +143,25 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "321482989403",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "89297",
+    "game_name": "Danganronpa 2: Goodbye Despair",
+    "type": "live",
+    "title": "Did you miss me???? Danganronpa Returns with @lemonlilliee",
+    "viewer_count": 1,
+    "started_at": "2026-09-11T01:22:31Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
   }
 ]
