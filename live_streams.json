@@ -23,6 +23,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   },
   {
+    "id": "316082392682",
+    "user_id": "956203886",
+    "user_login": "liefaurelius",
+    "user_name": "LiefAurelius",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "My Evermon adventure begins! [!lurk !discord !clip]",
+    "viewer_count": 11,
+    "started_at": "2026-09-12T20:25:51Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "PHVtuber",
+      "ENVtuber",
+      "chillguy",
+      "Comfy",
+      "Fudanshi",
+      "Hunter",
+      "Forever21",
+      "Filipino",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
+  },
+  {
     "id": "317746024291",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
