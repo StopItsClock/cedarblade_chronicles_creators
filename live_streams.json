@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "My Evermon adventure begins! [!lurk !discord !clip]",
-    "viewer_count": 22,
+    "viewer_count": 21,
     "started_at": "2026-09-12T20:25:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Co-working & Studying",
     "type": "live",
     "title": "♡ tunes and productivity~",
-    "viewer_count": 15,
+    "viewer_count": 10,
     "started_at": "2026-09-12T21:58:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -85,35 +85,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac3096a-88ca-4109-b2bf-adba21a328e4-profile_image-300x300.png"
   },
   {
-    "id": "321400953946",
-    "user_id": "119893530",
-    "user_login": "frostedplague7",
-    "user_name": "FrostedPlague7",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "[Sprout 🌱]💙 Post ShB Here I Come 🫵 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 3,
-    "started_at": "2026-09-12T23:00:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "MaleVtuber",
-      "Himbo",
-      "ENVtuber",
-      "Veteran",
-      "English",
-      "Anime",
-      "Twunk",
-      "18plus",
-      "DeadWeight"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
     "id": "318111067608",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -143,28 +114,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "317438474743",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
+    "id": "321400953946",
+    "user_id": "119893530",
+    "user_login": "frostedplague7",
+    "user_name": "FrostedPlague7",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
     "type": "live",
-    "title": "First day of #Evermon time to be Cobblemon's best!",
-    "viewer_count": 1,
-    "started_at": "2026-09-12T21:55:12Z",
+    "title": "[Sprout 🌱]💙 Post ShB Here I Come 🫵 🧊 !pine !socials !cover 🍧 @frostedplague7",
+    "viewer_count": 2,
+    "started_at": "2026-09-12T23:00:45Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Voiceacting",
-      "Backseating",
       "Vtuber",
+      "MaleVtuber",
+      "Himbo",
+      "ENVtuber",
+      "Veteran",
       "English",
-      "DropsEnabled"
+      "Anime",
+      "Twunk",
+      "18plus",
+      "DeadWeight"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
     "id": "321340775001",
@@ -194,5 +170,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
+    "id": "317438474743",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "First day of #Evermon time to be Cobblemon's best!",
+    "viewer_count": 1,
+    "started_at": "2026-09-12T21:55:12Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
