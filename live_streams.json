@@ -52,35 +52,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
-    "id": "317746024291",
-    "user_id": "61839029",
-    "user_login": "everyonelovesrobots",
-    "user_name": "EveryoneLovesRobots",
-    "game_id": "655697363",
-    "game_name": "Abiotic Factor",
-    "type": "live",
-    "title": "[Abiotic Factor] Now where exactly where me and @LilBatHuntie at? [18+]| road to 400 | !lurk | !commands",
-    "viewer_count": 2,
-    "started_at": "2026-09-12T17:45:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "everyonelovesrobots",
-      "SciFiGaming",
-      "PNGtuberEN",
-      "HorrorGaming",
-      "ENG",
-      "VtuberEN",
-      "scifi",
-      "Charity",
-      "NoAI"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
     "id": "317437748343",
     "user_id": "1106409619",
     "user_login": "wannabe__va",
@@ -103,5 +74,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "317746024291",
+    "user_id": "61839029",
+    "user_login": "everyonelovesrobots",
+    "user_name": "EveryoneLovesRobots",
+    "game_id": "655697363",
+    "game_name": "Abiotic Factor",
+    "type": "live",
+    "title": "[Abiotic Factor] Now where exactly where me and @LilBatHuntie at? [18+]| road to 400 | !lurk | !commands",
+    "viewer_count": 1,
+    "started_at": "2026-09-12T17:45:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "everyonelovesrobots",
+      "SciFiGaming",
+      "PNGtuberEN",
+      "HorrorGaming",
+      "ENG",
+      "VtuberEN",
+      "scifi",
+      "Charity",
+      "NoAI"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
   }
 ]
