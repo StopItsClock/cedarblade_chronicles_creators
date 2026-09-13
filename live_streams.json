@@ -8,7 +8,7 @@
     "game_name": "Slime Rancher",
     "type": "live",
     "title": "ough im so sick and slimey right now || !discord !dono !lurk !throne",
-    "viewer_count": 22,
+    "viewer_count": 18,
     "started_at": "2026-09-13T20:58:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -80,7 +80,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "no study? no worries! [18+] [!discord] [!merch]",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-09-13T21:00:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -136,7 +136,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[18+] [ROAD TO 1000] NEW COBBLEMON UPDATE WITH @66grimdemise66 AND @heyvelleity",
-    "viewer_count": 5,
+    "viewer_count": 3,
     "started_at": "2026-09-13T20:51:32Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -155,6 +155,27 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
+  },
+  {
+    "id": "318444528871",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "Playing Overwatch after 2 months of inactivity. The way to go",
+    "viewer_count": 3,
+    "started_at": "2026-09-13T21:43:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   },
   {
     "id": "317722754402",
@@ -184,26 +205,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "318444528871",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Playing Overwatch after 2 months of inactivity. The way to go",
-    "viewer_count": 1,
-    "started_at": "2026-09-13T21:43:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
