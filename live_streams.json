@@ -1,32 +1,5 @@
 [
   {
-    "id": "320299992924",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "1599346425",
-    "game_name": "Co-working & Studying",
-    "type": "live",
-    "title": "♡ tunes and productivity~",
-    "viewer_count": 9,
-    "started_at": "2026-09-12T21:58:51Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "vcanada",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
-  },
-  {
     "id": "321400953946",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -64,7 +37,7 @@
     "game_name": "SUPER ROBOT WARS Y",
     "type": "live",
     "title": "[18+] The Will of Getter! | Super Robot Wars Y| !lurk !throne !tip !discord",
-    "viewer_count": 3,
+    "viewer_count": 1,
     "started_at": "2026-09-12T23:00:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
