@@ -8,7 +8,7 @@
     "game_name": "Slime Rancher",
     "type": "live",
     "title": "ough im so sick and slimey right now || !discord !dono !lurk !throne",
-    "viewer_count": 20,
+    "viewer_count": 21,
     "started_at": "2026-09-13T20:58:20Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -31,8 +31,8 @@
     "game_id": "516575",
     "game_name": "VALORANT",
     "type": "live",
-    "title": "\u208a\u2729\u2027\u208a\u02da\u0c68  yapping + hand cam \u09ce\u02da\u208a\u2729\u2027\u208a | !discord !lurk",
-    "viewer_count": 15,
+    "title": "₊✩‧₊˚౨  yapping + hand cam ৎ˚₊✩‧₊ | !discord !lurk",
+    "viewer_count": 14,
     "started_at": "2026-09-13T22:59:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
@@ -57,7 +57,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "#Evermon Challenging the gym today?! Cobblemon time",
-    "viewer_count": 9,
+    "viewer_count": 8,
     "started_at": "2026-09-13T21:56:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
@@ -80,7 +80,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "no study? no worries! [18+] [!discord] [!merch]",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-09-13T21:00:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -99,33 +99,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
-  },
-  {
-    "id": "319218488535",
-    "user_id": "495919620",
-    "user_login": "66grimdemise66",
-    "user_name": "66GrimDemise66",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[18+] its Cobbletime",
-    "viewer_count": 5,
-    "started_at": "2026-09-13T20:58:44Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "gaming",
-      "ENVtuber",
-      "clowning",
-      "undeadvtuber",
-      "Vtuber",
-      "clowngirl",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7719f2d3-a671-481f-9584-015a36869473-profile_image-300x300.png"
   },
   {
     "id": "321357829849",
@@ -157,6 +130,54 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
+    "id": "319218488535",
+    "user_id": "495919620",
+    "user_login": "66grimdemise66",
+    "user_name": "66GrimDemise66",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[18+] its Cobbletime",
+    "viewer_count": 4,
+    "started_at": "2026-09-13T20:58:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "gaming",
+      "ENVtuber",
+      "clowning",
+      "undeadvtuber",
+      "Vtuber",
+      "clowngirl",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7719f2d3-a671-481f-9584-015a36869473-profile_image-300x300.png"
+  },
+  {
+    "id": "318444528871",
+    "user_id": "174585401",
+    "user_login": "yumein",
+    "user_name": "Yumein",
+    "game_id": "515025",
+    "game_name": "Overwatch",
+    "type": "live",
+    "title": "Playing Overwatch after 2 months of inactivity. The way to go",
+    "viewer_count": 1,
+    "started_at": "2026-09-13T21:43:40Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
+  },
+  {
     "id": "317722754402",
     "user_id": "61839029",
     "user_login": "everyonelovesrobots",
@@ -184,26 +205,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "318444528871",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Playing Overwatch after 2 months of inactivity. The way to go",
-    "viewer_count": 1,
-    "started_at": "2026-09-13T21:43:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
