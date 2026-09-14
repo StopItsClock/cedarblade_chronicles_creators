@@ -33,7 +33,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "no study? no worries! [18+] [!discord] [!merch]",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-09-13T21:00:30Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -62,7 +62,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "#Evermon Challenging the gym today?! Cobblemon time",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-09-13T21:56:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
@@ -85,7 +85,7 @@
     "game_name": "Super Battle Golf",
     "type": "live",
     "title": "BATTLE BEGINS! WITH A BIG OL' GOLF COLLAB AND @MaxArgesVT 's BIRTHDAY! [18+]| road to 400 | !lurk | !commands",
-    "viewer_count": 1,
+    "viewer_count": 3,
     "started_at": "2026-09-13T22:45:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
@@ -104,26 +104,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
-  },
-  {
-    "id": "318444528871",
-    "user_id": "174585401",
-    "user_login": "yumein",
-    "user_name": "Yumein",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "Playing Overwatch after 2 months of inactivity. The way to go",
-    "viewer_count": 1,
-    "started_at": "2026-09-13T21:43:40Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yumein-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
   }
 ]
