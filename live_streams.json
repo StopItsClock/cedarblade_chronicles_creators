@@ -8,7 +8,7 @@
     "game_name": "Clair Obscur: Expedition 33",
     "type": "live",
     "title": "♡ just don't get hit....",
-    "viewer_count": 17,
+    "viewer_count": 18,
     "started_at": "2026-09-14T21:55:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -24,6 +24,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
+  },
+  {
+    "id": "317728738530",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "494099",
+    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "type": "live",
+    "title": "[KH-CoM] Finishing KH1 and starting Re-Chain of memories. Also it was my birthday yesterrday, I guess",
+    "viewer_count": 4,
+    "started_at": "2026-09-14T19:28:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "321429466714",
@@ -55,56 +78,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/653014f5-f4ef-4b21-ab71-333a28ca8cc8-profile_image-300x300.jpeg"
   },
   {
-    "id": "317728738530",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "494099",
-    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-    "type": "live",
-    "title": "[KH-CoM] Finishing KH1 and starting Re-Chain of memories. Also it was my birthday yesterrday, I guess",
-    "viewer_count": 4,
-    "started_at": "2026-09-14T19:28:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
-  },
-  {
-    "id": "321372336217",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "1846293708",
-    "game_name": "Fields of Mistria",
-    "type": "live",
-    "title": "【 MISTRIA MONDAYS】Refreshed and ready to start again! ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 3,
-    "started_at": "2026-09-14T21:02:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
     "id": "321429484378",
     "user_id": "405460237",
     "user_login": "nokoadragon",
@@ -132,6 +105,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
+    "id": "321372336217",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "1846293708",
+    "game_name": "Fields of Mistria",
+    "type": "live",
+    "title": "【 MISTRIA MONDAYS】Refreshed and ready to start again! ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 2,
+    "started_at": "2026-09-14T21:02:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
+  },
+  {
     "id": "316065983849",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -140,7 +140,7 @@
     "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
     "type": "live",
     "title": "about to be that arrow in the knee there bud. [18+] [!discord] [!merch]",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-09-14T22:00:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
