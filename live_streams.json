@@ -8,7 +8,7 @@
     "game_name": "Deltarune",
     "type": "live",
     "title": "[Subathon Preload] CHRIS?!?!? Wait... wrong game... KRIS?!?! Better. (Deltarune W/ @acecygnus @buttonSynheart and @snickerdoodle_demon)",
-    "viewer_count": 16,
+    "viewer_count": 14,
     "started_at": "2026-09-15T20:30:08Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "guys i bought the whole bundle..... || !discord !dono !lurk !throne",
-    "viewer_count": 10,
+    "viewer_count": 8,
     "started_at": "2026-09-15T22:23:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -53,6 +53,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
   },
   {
+    "id": "320380496480",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "36799602",
+    "game_name": "Clair Obscur: Expedition 33",
+    "type": "live",
+    "title": "♡ give me your feet!!!!",
+    "viewer_count": 7,
+    "started_at": "2026-09-15T22:37:45Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
+  },
+  {
     "id": "320242846174",
     "user_id": "595484950",
     "user_login": "thehashibira",
@@ -61,7 +87,7 @@
     "game_name": "REMATCH",
     "type": "live",
     "title": "Hey Nerds. . It. . Its my birbday- Birthday stream teehee",
-    "viewer_count": 9,
+    "viewer_count": 6,
     "started_at": "2026-09-15T22:02:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thehashibira-{width}x{height}.jpg",
@@ -78,6 +104,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4cc1337-f0a7-41c2-b0df-b6109294a28c-profile_image-300x300.png"
+  },
+  {
+    "id": "319239310039",
+    "user_id": "686883069",
+    "user_login": "eepysoma",
+    "user_name": "EepySoma",
+    "game_id": "866287127",
+    "game_name": "Welcome to Elderfield",
+    "type": "live",
+    "title": "[Welcome to Elderfield] Spooky Farmingg OOOOOWOWOOWWOOO",
+    "viewer_count": 5,
+    "started_at": "2026-09-15T21:02:25Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "ENVtuber",
+      "concubine",
+      "LGBTQFriendly",
+      "DeadWeight",
+      "welcometoelderfield",
+      "farmingsim",
+      "Horror"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
     "id": "320243337438",
@@ -107,34 +161,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
-  },
-  {
-    "id": "319239310039",
-    "user_id": "686883069",
-    "user_login": "eepysoma",
-    "user_name": "EepySoma",
-    "game_id": "866287127",
-    "game_name": "Welcome to Elderfield",
-    "type": "live",
-    "title": "[Welcome to Elderfield] Spooky Farmingg OOOOOWOWOOWWOOO",
-    "viewer_count": 4,
-    "started_at": "2026-09-15T21:02:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "ENVtuber",
-      "concubine",
-      "LGBTQFriendly",
-      "DeadWeight",
-      "welcometoelderfield",
-      "farmingsim",
-      "Horror"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
     "id": "316093179754",
@@ -189,31 +215,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
-  },
-  {
-    "id": "320380496480",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "36799602",
-    "game_name": "Clair Obscur: Expedition 33",
-    "type": "live",
-    "title": "♡ give me your feet!!!!",
-    "viewer_count": 2,
-    "started_at": "2026-09-15T22:37:45Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "vcanada"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
   }
 ]
