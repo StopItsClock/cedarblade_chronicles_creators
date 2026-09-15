@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ mmmm block game ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 34,
     "started_at": "2026-09-14T23:04:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -27,6 +27,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
+  },
+  {
+    "id": "320332833372",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "762292943",
+    "game_name": "MIMESIS",
+    "type": "live",
+    "title": "Mimesis with @aumi_saki @tiffanyroseflamevt and friends",
+    "viewer_count": 2,
+    "started_at": "2026-09-15T04:25:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   },
   {
     "id": "320233145694",
@@ -55,28 +78,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
-  },
-  {
-    "id": "320332833372",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "762292943",
-    "game_name": "MIMESIS",
-    "type": "live",
-    "title": "Mimesis with @aumi_saki @tiffanyroseflamevt and friends",
-    "viewer_count": 1,
-    "started_at": "2026-09-15T04:25:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
