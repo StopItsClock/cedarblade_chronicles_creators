@@ -8,7 +8,7 @@
     "game_name": "The Outlast Trials",
     "type": "live",
     "title": "✧ Time to run scream and hide weeee ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 38,
     "started_at": "2026-09-16T22:49:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -29,35 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "321403372889",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1787091957",
-    "game_name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-    "type": "live",
-    "title": "[18+] Zohar Mamdani has graced Under Night In-Birth with her presence | UNI2 | !lurk !throne !tip !discord",
-    "viewer_count": 16,
-    "started_at": "2026-09-16T23:00:09Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
     "id": "316073527657",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -66,7 +37,7 @@
     "game_name": "Aniimo",
     "type": "live",
     "title": "Hot new game just dropped. Guess who got FOMO again? [!lurk !discord !clip]",
-    "viewer_count": 16,
+    "viewer_count": 19,
     "started_at": "2026-09-17T00:24:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liefaurelius-{width}x{height}.jpg",
@@ -87,6 +58,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
+    "id": "321403372889",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1787091957",
+    "game_name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+    "type": "live",
+    "title": "[18+] Zohar Mamdani has graced Under Night In-Birth with her presence | UNI2 | !lurk !throne !tip !discord",
+    "viewer_count": 11,
+    "started_at": "2026-09-16T23:00:09Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
+  },
+  {
     "id": "321459059674",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -95,7 +95,7 @@
     "game_name": "Apex Legends",
     "type": "live",
     "title": "💙 PEW PEW TIME 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-09-16T23:06:29Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -114,27 +114,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "321577848027",
-    "user_id": "265606341",
-    "user_login": "nozomienv",
-    "user_name": "NozomiENV",
-    "game_id": "743893402",
-    "game_name": "WARDOGS",
-    "type": "live",
-    "title": "I got a war dog in my pants",
-    "viewer_count": 7,
-    "started_at": "2026-09-17T02:24:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   },
   {
     "id": "320256711902",
@@ -162,5 +141,26 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
+    "id": "321577848027",
+    "user_id": "265606341",
+    "user_login": "nozomienv",
+    "user_name": "NozomiENV",
+    "game_id": "743893402",
+    "game_name": "WARDOGS",
+    "type": "live",
+    "title": "I got a war dog in my pants",
+    "viewer_count": 5,
+    "started_at": "2026-09-17T02:24:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
   }
 ]
