@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "skyblock moments [18+] [!discord] [!merch]",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-09-17T21:00:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Welcome to Elderfield",
     "type": "live",
     "title": "[Welcome to Elderfield] Hopefully no more Bag Boy",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-09-17T21:04:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -57,33 +57,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "321415204185",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "476439",
-    "game_name": "Ys VIII: Lacrimosa of Dana",
-    "type": "live",
-    "title": "Time for us to explore these ruins|| YS VIII: Lacrimosa of DANA (!lurk, !links, !discord)",
-    "viewer_count": 5,
-    "started_at": "2026-09-17T20:55:55Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber",
-      "DeadWeightStreamer",
-      "vcanada"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "320268713310",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -92,7 +65,7 @@
     "game_name": "Baldur's Gate 3",
     "type": "live",
     "title": "[18+] 🩸 FIRST DURGE + New Bosses, Chat Spawns, and Random Loot?! [Crowd Control Modded BG3] | !throne !socials !lurk !discord",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-09-17T22:08:15Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -111,5 +84,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
+  },
+  {
+    "id": "321415204185",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "476439",
+    "game_name": "Ys VIII: Lacrimosa of Dana",
+    "type": "live",
+    "title": "Time for us to explore these ruins|| YS VIII: Lacrimosa of DANA (!lurk, !links, !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-09-17T20:55:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber",
+      "DeadWeightStreamer",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   }
 ]
