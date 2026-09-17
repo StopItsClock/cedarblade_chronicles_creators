@@ -1,5 +1,30 @@
 [
   {
+    "id": "316050954579",
+    "user_id": "454452972",
+    "user_login": "edwardp22",
+    "user_name": "EdwardP22",
+    "game_id": "1357871551",
+    "game_name": "The Blood of Dawnwalker",
+    "type": "live",
+    "title": "Walking in the dawn doing the Vampy Daddy's work",
+    "viewer_count": 5,
+    "started_at": "2026-09-17T16:53:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "Nonbinary",
+      "English",
+      "LGBTQIAPlus",
+      "CultLeader",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
+  },
+  {
     "id": "320404619872",
     "user_id": "459187886",
     "user_login": "starryskiesvt",
@@ -8,7 +33,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "LEGOS AND WORLD OF WARCRAFT: FOREVER!!! | !discord",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-09-17T18:02:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
@@ -27,30 +52,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f7311b1-40a0-42e0-aa8e-c0ce14d530cf-profile_image-300x300.png"
-  },
-  {
-    "id": "316050954579",
-    "user_id": "454452972",
-    "user_login": "edwardp22",
-    "user_name": "EdwardP22",
-    "game_id": "1357871551",
-    "game_name": "The Blood of Dawnwalker",
-    "type": "live",
-    "title": "Walking in the dawn doing the Vampy Daddy's work",
-    "viewer_count": 3,
-    "started_at": "2026-09-17T16:53:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edwardp22-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "Nonbinary",
-      "English",
-      "LGBTQIAPlus",
-      "CultLeader",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   }
 ]
