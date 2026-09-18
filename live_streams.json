@@ -8,7 +8,7 @@
     "game_name": "Magic: The Gathering",
     "type": "live",
     "title": "[Subathon Preload] But do we magic on our the til we gathering hearts (MTG w/ @fievol @Kiba_safir @Snickerdoodle_Demon)",
-    "viewer_count": 17,
+    "viewer_count": 12,
     "started_at": "2026-09-18T20:09:31Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Sonic Heroes",
     "type": "live",
     "title": "[18+] [ROAD TO 1000] SONIC HEROES WITH CABBY (YOUR hero)",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-09-18T21:06:51Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabbytat-{width}x{height}.jpg",
@@ -83,28 +83,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "317761878114",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "532988445",
-    "game_name": "PowerWash Simulator 2",
-    "type": "live",
-    "title": "I want a simple night of Music and Powerwashing. Why not join me.",
-    "viewer_count": 2,
-    "started_at": "2026-09-18T19:19:54Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
