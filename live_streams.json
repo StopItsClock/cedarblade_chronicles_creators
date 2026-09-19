@@ -8,7 +8,7 @@
     "game_name": "Destiny 2",
     "type": "live",
     "title": "[18+] Actually getting mogged by a meatball ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 35,
+    "viewer_count": 37,
     "started_at": "2026-09-19T18:45:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -58,26 +58,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "319283391319",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
+    "id": "321445535193",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "491870",
+    "game_name": "ASTRONEER",
     "type": "live",
-    "title": "The adventures of Cobblemons best trainer! #Evermon",
-    "viewer_count": 2,
-    "started_at": "2026-09-19T20:31:54Z",
+    "title": "【 COSMIC PLAYS】Lost in space or lost in the sauce? ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 0,
+    "started_at": "2026-09-19T21:00:11Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Voiceacting",
-      "Backseating",
       "Vtuber",
-      "English"
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie",
+      "Chatty"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   }
 ]
