@@ -23,7 +23,7 @@
       "streamtogether",
       "English",
       "subathon",
-      "\uff24BD"
+      "ＤBD"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
@@ -36,8 +36,8 @@
     "game_id": "491870",
     "game_name": "ASTRONEER",
     "type": "live",
-    "title": "\u3010 COSMIC PLAYS\u3011Lost in space or lost in the sauce? \u2307 18+ \u2307 !clip !discord !social",
-    "viewer_count": 4,
+    "title": "【 COSMIC PLAYS】Lost in space or lost in the sauce? ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 5,
     "started_at": "2026-09-19T21:00:11Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -56,33 +56,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
-    "id": "321618627675",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1286077738",
-    "game_name": "Monster Hunter Wilds",
-    "type": "live",
-    "title": "Things are in a frenzy, lets stop it|| Monster Hunter: Wilds (!lurk, !links, !discord)",
-    "viewer_count": 3,
-    "started_at": "2026-09-19T21:02:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber",
-      "DeadWeightStreamer",
-      "vcanada"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
-  },
-  {
     "id": "318164746328",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -91,7 +64,7 @@
     "game_name": "Welcome to Elderfield",
     "type": "live",
     "title": "[Welcome to Elderfield] Avoiding bag boy the best I can",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-09-19T21:04:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -109,6 +82,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
+  },
+  {
+    "id": "321618627675",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1286077738",
+    "game_name": "Monster Hunter Wilds",
+    "type": "live",
+    "title": "Things are in a frenzy, lets stop it|| Monster Hunter: Wilds (!lurk, !links, !discord)",
+    "viewer_count": 4,
+    "started_at": "2026-09-19T21:02:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber",
+      "DeadWeightStreamer",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
     "id": "321447289817",
