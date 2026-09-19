@@ -8,7 +8,7 @@
     "game_name": "Marvel Rivals",
     "type": "live",
     "title": "Dewey-ng Something Stupid!🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-09-19T15:11:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -29,6 +29,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "320434890080",
+    "user_id": "67504126",
+    "user_login": "cutenysnys",
+    "user_name": "CuteNysNys",
+    "game_id": "497057",
+    "game_name": "Destiny 2",
+    "type": "live",
+    "title": "[18+] Actually getting mogged by a meatball ♥ @cutenysnys 💚 !socials !Merch 💚",
+    "viewer_count": 8,
+    "started_at": "2026-09-19T18:45:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "PuertoRican",
+      "LGBTQIAPlus",
+      "Woman",
+      "ESOStreamTeam",
+      "YuriAddict",
+      "bigbitties",
+      "NiceHands",
+      "Spituber",
+      "AskMeAboutMyWorm"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d07e7eff-a657-4679-98c8-a9a0d9c5f91a-profile_image-300x300.png"
+  },
+  {
     "id": "320393460316",
     "user_id": "710026427",
     "user_login": "wallowsett",
@@ -37,7 +66,7 @@
     "game_name": "Rumble Roses",
     "type": "live",
     "title": "Only Women's Wrestling can fix me now.",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-09-19T17:37:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
@@ -51,6 +80,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
+    "id": "319281273047",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Blood on the clocktower!",
+    "viewer_count": 1,
+    "started_at": "2026-09-19T17:16:50Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "318952368886",
@@ -78,28 +130,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
-  },
-  {
-    "id": "319281273047",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Blood on the clocktower!",
-    "viewer_count": 1,
-    "started_at": "2026-09-19T17:16:50Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
