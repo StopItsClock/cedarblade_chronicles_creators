@@ -8,7 +8,7 @@
     "game_name": "TCG Card Shop Simulator",
     "type": "live",
     "title": "✧ This finally has a 1.0??? NEW SHOP ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 32,
     "started_at": "2026-09-18T23:02:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,35 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "321602775771",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1280007947",
-    "game_name": "Limbus Company",
-    "type": "live",
-    "title": "[18+] LET US BEGIN THE NEW CANTO!!!! | Limbus Company | !lurk !throne !tip !discord",
-    "viewer_count": 3,
-    "started_at": "2026-09-18T23:00:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
     "id": "316104585066",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -114,5 +85,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
+  },
+  {
+    "id": "321602775771",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1280007947",
+    "game_name": "Limbus Company",
+    "type": "live",
+    "title": "[18+] LET US BEGIN THE NEW CANTO!!!! | Limbus Company | !lurk !throne !tip !discord",
+    "viewer_count": 1,
+    "started_at": "2026-09-18T23:00:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
