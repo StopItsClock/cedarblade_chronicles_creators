@@ -1,33 +1,5 @@
 [
   {
-    "id": "320399455324",
-    "user_id": "240610101",
-    "user_login": "shatteredsoullive",
-    "user_name": "shatteredsoullive",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "(+18) MIKEY TRYNA GRAB OUR DAIRY AIRS w/@joekerr019 @vampyvampire_vt",
-    "viewer_count": 5,
-    "started_at": "2026-09-20T00:12:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ADHD",
-      "Variety",
-      "English",
-      "TwitchGuildUnity",
-      "LatinUnityGuild",
-      "Chaotic",
-      "PCOS",
-      "fansly",
-      "TTRPG"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
-  },
-  {
     "id": "321447289817",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -84,6 +56,34 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
+    "id": "320399455324",
+    "user_id": "240610101",
+    "user_login": "shatteredsoullive",
+    "user_name": "shatteredsoullive",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "(+18) MIKEY TRYNA GRAB OUR DAIRY AIRS w/@joekerr019 @vampyvampire_vt",
+    "viewer_count": 4,
+    "started_at": "2026-09-20T00:12:26Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shatteredsoullive-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ADHD",
+      "Variety",
+      "English",
+      "TwitchGuildUnity",
+      "LatinUnityGuild",
+      "Chaotic",
+      "PCOS",
+      "fansly",
+      "TTRPG"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7de01ff8-4534-4756-8acc-64c7796d17a3-profile_image-300x300.png"
+  },
+  {
     "id": "321449667673",
     "user_id": "265606341",
     "user_login": "nozomienv",
@@ -92,7 +92,7 @@
     "game_name": "WARDOGS",
     "type": "live",
     "title": "I got a war dog in my pants, BArk Bark",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-09-20T01:29:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nozomienv-{width}x{height}.jpg",
