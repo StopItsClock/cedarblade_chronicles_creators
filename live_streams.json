@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Reclamation! [18+] [!discord] [!merch]",
-    "viewer_count": 5,
+    "viewer_count": 4,
     "started_at": "2026-09-20T21:00:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -66,7 +66,7 @@
     "game_name": "Scrap Mechanic",
     "type": "live",
     "title": "Damn these Mechanics sure are Scrappy",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-09-20T21:53:54Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
@@ -85,6 +85,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
+  },
+  {
+    "id": "318172671448",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "The adventures of Cobblemons best trainer! #Evermon",
+    "viewer_count": 1,
+    "started_at": "2026-09-20T19:29:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "319020446453",
@@ -114,28 +137,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
-  },
-  {
-    "id": "318172671448",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "The adventures of Cobblemons best trainer! #Evermon",
-    "viewer_count": 1,
-    "started_at": "2026-09-20T19:29:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
