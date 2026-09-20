@@ -37,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Reclamation! [18+] [!discord] [!merch]",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-09-20T21:00:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -77,7 +77,7 @@
       "Latina",
       "LGBTQIAPIus",
       "chill",
-      "Espa\u00f1ol",
+      "Español",
       "AIOptedOut",
       "CharityStream",
       "streamersfordreamers",
@@ -108,5 +108,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
+    "id": "321462714457",
+    "user_id": "193636646",
+    "user_login": "captainyeeticus",
+    "user_name": "captainyeeticus",
+    "game_id": "491189",
+    "game_name": "Scrap Mechanic",
+    "type": "live",
+    "title": "Damn these Mechanics sure are Scrappy",
+    "viewer_count": 0,
+    "started_at": "2026-09-20T21:53:54Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_captainyeeticus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "lgbt",
+      "gremlin",
+      "artist",
+      "author",
+      "transgender",
+      "vtuber",
+      "pngtuber",
+      "envtuber",
+      "English",
+      "Furry"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d86efb6-3440-45f1-aa15-38be19b0cfdd-profile_image-300x300.png"
   }
 ]
