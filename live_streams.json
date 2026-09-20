@@ -8,7 +8,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "[Subathon Preload] Killing our friends til daylight? (DBD w/ @fievol @Kiba_safir @Snickerdoodle_Demon and @DuskStride)",
-    "viewer_count": 12,
+    "viewer_count": 13,
     "started_at": "2026-09-19T22:25:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -29,6 +29,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "321618627675",
+    "user_id": "405460237",
+    "user_login": "nokoadragon",
+    "user_name": "NokoADragon",
+    "game_id": "1286077738",
+    "game_name": "Monster Hunter Wilds",
+    "type": "live",
+    "title": "Things are in a frenzy, lets stop it|| Monster Hunter: Wilds (!lurk, !links, !discord)",
+    "viewer_count": 5,
+    "started_at": "2026-09-19T21:02:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Eldritch",
+      "EnPNGTuber",
+      "ADHD",
+      "LGBTQFriendly",
+      "Vtuber",
+      "DeadWeightStreamer",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+  },
+  {
     "id": "321447289817",
     "user_id": "1229718627",
     "user_login": "huanyavt",
@@ -37,7 +64,7 @@
     "game_name": "SUPER ROBOT WARS Y",
     "type": "live",
     "title": "[18+] Im running out of titles | Super Robot Wars Y | !lurk !throne !tip !discord",
-    "viewer_count": 6,
+    "viewer_count": 4,
     "started_at": "2026-09-19T23:00:28Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -56,33 +83,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "321445535193",
-    "user_id": "1185217143",
-    "user_login": "zecosmiccrow",
-    "user_name": "ZeCosmicCrow",
-    "game_id": "491870",
-    "game_name": "ASTRONEER",
-    "type": "live",
-    "title": "【 COSMIC PLAYS】Lost in space or lost in the sauce? ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 5,
-    "started_at": "2026-09-19T21:00:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "Crow",
-      "MaleVtuber",
-      "Cosmic",
-      "Yapper",
-      "indie",
-      "Chatty"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   },
   {
     "id": "318164746328",
@@ -113,31 +113,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54b0a59e-59d3-42e5-bc7d-76b571f15c78-profile_image-300x300.png"
   },
   {
-    "id": "321618627675",
-    "user_id": "405460237",
-    "user_login": "nokoadragon",
-    "user_name": "NokoADragon",
-    "game_id": "1286077738",
-    "game_name": "Monster Hunter Wilds",
+    "id": "320437910752",
+    "user_id": "171862865",
+    "user_login": "kingthekeeper",
+    "user_name": "KingTheKeeper",
+    "game_id": "866287127",
+    "game_name": "Welcome to Elderfield",
     "type": "live",
-    "title": "Things are in a frenzy, lets stop it|| Monster Hunter: Wilds (!lurk, !links, !discord)",
+    "title": "Settling In to Elderfield",
     "viewer_count": 2,
-    "started_at": "2026-09-19T21:02:34Z",
+    "started_at": "2026-09-19T21:45:41Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
       "English",
-      "Eldritch",
-      "EnPNGTuber",
-      "ADHD",
-      "LGBTQFriendly",
-      "Vtuber",
-      "DeadWeightStreamer",
-      "vcanada"
+      "VTuber",
+      "lgbtq",
+      "AIFree",
+      "TransRights",
+      "DeadWeight"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   },
   {
     "id": "318709208166",
@@ -160,30 +158,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc3d00aa-5560-4489-857c-804ae5c2d59a-profile_image-300x300.png"
-  },
-  {
-    "id": "320437910752",
-    "user_id": "171862865",
-    "user_login": "kingthekeeper",
-    "user_name": "KingTheKeeper",
-    "game_id": "866287127",
-    "game_name": "Welcome to Elderfield",
-    "type": "live",
-    "title": "Settling In to Elderfield",
-    "viewer_count": 1,
-    "started_at": "2026-09-19T21:45:41Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingthekeeper-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "VTuber",
-      "lgbtq",
-      "AIFree",
-      "TransRights",
-      "DeadWeight"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d897685-7b22-405d-9f96-b8a116d7f41a-profile_image-300x300.png"
   }
 ]
