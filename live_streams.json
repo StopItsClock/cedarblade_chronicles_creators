@@ -8,7 +8,7 @@
     "game_name": "ELDEN RING",
     "type": "live",
     "title": "[Subathon Preload] Rhaban more like Rhabye am i right? (Elden ring w/ @regina_kardinal @Snickerdoodle_Demon)",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-09-20T20:33:06Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -29,29 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "318172671448",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "The adventures of Cobblemons best trainer! #Evermon",
-    "viewer_count": 2,
-    "started_at": "2026-09-20T19:29:43Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
-  },
-  {
     "id": "319020446453",
     "user_id": "1275381753",
     "user_login": "mimiluna2",
@@ -60,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "BLUE TEAM! Streamers For Dreamers charity stream!",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-09-20T19:58:44Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimiluna2-{width}x{height}.jpg",
@@ -81,6 +58,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
   },
   {
+    "id": "318172671448",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "The adventures of Cobblemons best trainer! #Evermon",
+    "viewer_count": 1,
+    "started_at": "2026-09-20T19:29:43Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
+  },
+  {
     "id": "316088323945",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -89,7 +89,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Reclamation! [18+] [!discord] [!merch]",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-09-20T21:00:58Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
