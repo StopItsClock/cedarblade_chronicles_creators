@@ -29,6 +29,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
   },
   {
+    "id": "320413797852",
+    "user_id": "883915539",
+    "user_login": "tw_jett",
+    "user_name": "tw_jett",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "₊✩‧₊˚౨  yapping + being gay! ৎ˚₊✩‧₊ | !discord !lurk",
+    "viewer_count": 3,
+    "started_at": "2026-09-20T22:58:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tw_jett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "english",
+      "brat",
+      "ComfyChaotic",
+      "twinkmaxxing",
+      "femboy",
+      "English",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e07001a2-32f6-46c6-bd59-dedd0db59411-profile_image-300x300.png"
+  },
+  {
     "id": "321462714457",
     "user_id": "193636646",
     "user_login": "captainyeeticus",
@@ -66,7 +92,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "The adventures of Cobblemons best trainer! #Evermon",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-09-20T19:29:43Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
