@@ -1,34 +1,5 @@
 [
   {
-    "id": "320471013216",
-    "user_id": "67504126",
-    "user_login": "cutenysnys",
-    "user_name": "CuteNysNys",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "[18+] Beguiled by the vilest of slimes @umi_majo @kittychan4  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 41,
-    "started_at": "2026-09-22T01:03:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "PuertoRican",
-      "LGBTQIAPlus",
-      "Woman",
-      "ESOStreamTeam",
-      "YuriAddict",
-      "bigbitties",
-      "NiceHands",
-      "Spituber",
-      "AskMeAboutMyWorm"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d07e7eff-a657-4679-98c8-a9a0d9c5f91a-profile_image-300x300.png"
-  },
-  {
     "id": "319307855831",
     "user_id": "133400606",
     "user_login": "slushieghost",
@@ -58,31 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "321482092505",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "who up chatting? || !discord !dono !lurk !throne",
-    "viewer_count": 13,
-    "started_at": "2026-09-22T02:35:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating",
-      "DropsEnabled"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
-  },
-  {
     "id": "321533559770",
     "user_id": "686234820",
     "user_login": "miyuwanchan",
@@ -91,7 +37,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "creating the biggest freaking greatest factory muahahahahhah  !hug |",
-    "viewer_count": 10,
+    "viewer_count": 13,
     "started_at": "2026-09-22T01:45:47Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
@@ -112,32 +58,28 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/748526d9-d489-4999-80cc-63cdb2f0fce6-profile_image-300x300.png"
   },
   {
-    "id": "321480341081",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "1294658629",
-    "game_name": "R.E.P.O.",
+    "id": "321651272411",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "1286077738",
+    "game_name": "Monster Hunter Wilds",
     "type": "live",
-    "title": "18+ | REPO WITH FRIENDS - NEW MONITOR HYPE | PC | R.E.P.O. | !discord !Blacklyte !Throne !SUBtember",
-    "viewer_count": 5,
-    "started_at": "2026-09-22T01:03:07Z",
+    "title": "MONSTER HUNTER MONDAY!!!!! w/@noveyvtt & @fluffy_j3sus",
+    "viewer_count": 3,
+    "started_at": "2026-09-22T02:13:37Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Vtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "VTuberUprising",
-      "18maturelanguage",
-      "feet",
-      "NoGenerativeAI"
+      "Transfem",
+      "LGBTQAIplus",
+      "vtuber",
+      "mothgirl",
+      "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
   },
   {
     "id": "321530442458",
@@ -167,29 +109,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
-  },
-  {
-    "id": "321651272411",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "1286077738",
-    "game_name": "Monster Hunter Wilds",
-    "type": "live",
-    "title": "MONSTER HUNTER MONDAY!!!!! w/@noveyvtt & @fluffy_j3sus",
-    "viewer_count": 1,
-    "started_at": "2026-09-22T02:13:37Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Transfem",
-      "LGBTQAIplus",
-      "vtuber",
-      "mothgirl",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
   }
 ]
