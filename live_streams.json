@@ -8,7 +8,7 @@
     "game_name": "Stardew Valley",
     "type": "live",
     "title": "[18+] Beguiled by the vilest of slimes @umi_majo @kittychan4  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 45,
+    "viewer_count": 41,
     "started_at": "2026-09-22T01:03:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Monster Hunter Wilds",
     "type": "live",
     "title": "✧ Finally back on MonHun ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 38,
     "started_at": "2026-09-21T22:59:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -87,6 +87,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/748526d9-d489-4999-80cc-63cdb2f0fce6-profile_image-300x300.png"
   },
   {
+    "id": "321482092505",
+    "user_id": "1148563591",
+    "user_login": "veroniavvinter",
+    "user_name": "VeroniaVvinter",
+    "game_id": "809641519",
+    "game_name": "Peaks of Yore",
+    "type": "live",
+    "title": "who up peaking they yore? short stream today!! || !discord !dono !lurk !throne",
+    "viewer_count": 9,
+    "started_at": "2026-09-22T02:35:34Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "Vtuber",
+      "Penguin",
+      "ENVtuber",
+      "NoBackseating"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
+  },
+  {
     "id": "320333713758",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -95,7 +119,7 @@
     "game_name": "FATAL FRAME II: Crimson Butterfly REMAKE",
     "type": "live",
     "title": "[Subathon Preload] Dolls? We hate dolls... (Fatal Frame Crimson Butterfly Finale)",
-    "viewer_count": 6,
+    "viewer_count": 7,
     "started_at": "2026-09-22T01:13:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -116,33 +140,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
-    "id": "320334355166",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
-    "game_id": "921298138",
-    "game_name": "BOMBANANA!",
-    "type": "live",
-    "title": "Ren is on the case : D| !Discord !lurk | 🐉🧟",
-    "viewer_count": 5,
-    "started_at": "2026-09-22T01:49:52Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
     "id": "320331316318",
     "user_id": "1142519722",
     "user_login": "triagesylphiel",
@@ -151,7 +148,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "WOOOO REIGN | !Kofi help with my 2.0 rig | !Clip",
-    "viewer_count": 5,
+    "viewer_count": 6,
     "started_at": "2026-09-21T23:01:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -178,7 +175,7 @@
     "game_name": "Monster Hunter Wilds",
     "type": "live",
     "title": "MONSTER HUNTER MONDAY!!!!! w/@noveyvtt & @fluffy_j3sus",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-09-22T02:13:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
@@ -192,6 +189,33 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
+  },
+  {
+    "id": "320334355166",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "921298138",
+    "game_name": "BOMBANANA!",
+    "type": "live",
+    "title": "Ren is on the case : D| !Discord !lurk | 🐉🧟",
+    "viewer_count": 4,
+    "started_at": "2026-09-22T01:49:52Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   },
   {
     "id": "321480341081",
@@ -274,29 +298,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e39ece7-efb9-4e9a-974d-eeaf86c14ba2-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "321482092505",
-    "user_id": "1148563591",
-    "user_login": "veroniavvinter",
-    "user_name": "VeroniaVvinter",
-    "game_id": "809641519",
-    "game_name": "Peaks of Yore",
-    "type": "live",
-    "title": "who up peaking they yore? short stream today!! || !discord !dono !lurk !throne",
-    "viewer_count": 0,
-    "started_at": "2026-09-22T02:35:34Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "Vtuber",
-      "Penguin",
-      "ENVtuber",
-      "NoBackseating"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6fc8b75d-f9f6-45b1-bc39-e4e74f510fb1-profile_image-300x300.png"
   }
 ]
