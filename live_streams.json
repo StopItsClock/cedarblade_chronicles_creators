@@ -8,7 +8,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "✧ Teaching Dark how to overwatch ✧ !lurk !merch !throne !clip",
-    "viewer_count": 35,
+    "viewer_count": 37,
     "started_at": "2026-09-22T23:02:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "ELDEN RING NIGHTREIGN",
     "type": "live",
     "title": "WOOOO REIGN | !Kofi help with my 2.0 rig | !Clip",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "started_at": "2026-09-22T23:41:24Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -85,6 +85,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "321494974681",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "66082",
+    "game_name": "Games + Demos",
+    "type": "live",
+    "title": "When I sloppy my friends ... burburs on a Tuesday night. @noveyvtt and @bluberrycow",
+    "viewer_count": 2,
+    "started_at": "2026-09-23T02:13:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Transfem",
+      "LGBTQAIplus",
+      "vtuber",
+      "mothgirl",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
+  },
+  {
     "id": "321493908313",
     "user_id": "265606341",
     "user_login": "nozomienv",
@@ -104,29 +128,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05c94ce4-80f5-43e5-b6d5-46cf44e7fec7-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "321494974681",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "66082",
-    "game_name": "Games + Demos",
-    "type": "live",
-    "title": "When I sloppy my friends ... burburs on a Tuesday night. @noveyvtt and @bluberrycow",
-    "viewer_count": 1,
-    "started_at": "2026-09-23T02:13:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Transfem",
-      "LGBTQAIplus",
-      "vtuber",
-      "mothgirl",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
   }
 ]
