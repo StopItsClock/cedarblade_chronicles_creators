@@ -37,7 +37,7 @@
     "game_name": "Fallout 76",
     "type": "live",
     "title": "[18+] Theyre putting me in the \"Machine that obliterates you\" later  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 31,
+    "viewer_count": 30,
     "started_at": "2026-09-25T01:30:45Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -58,35 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d07e7eff-a657-4679-98c8-a9a0d9c5f91a-profile_image-300x300.png"
   },
   {
-    "id": "320513543392",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "517645",
-    "game_name": "Gunfire Reborn",
-    "type": "live",
-    "title": "[Subathon Preload] So a Vampire and a siren walk into a bar Guns Blazing (Gunfire Reborn w/ @lucyroselle)",
-    "viewer_count": 9,
-    "started_at": "2026-09-25T03:28:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Crazy",
-      "prismmodel",
-      "seatuber",
-      "DeadWeight",
-      "ChaosGremlin",
-      "ENVtuber",
-      "streamtogether",
-      "English",
-      "subathon",
-      "GunFireReborn"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
     "id": "321689438555",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -95,7 +66,7 @@
     "game_name": "League of Legends",
     "type": "live",
     "title": "THE RIFT CALLS!🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 8,
+    "viewer_count": 12,
     "started_at": "2026-09-25T00:58:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -114,5 +85,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
+  },
+  {
+    "id": "320513543392",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "517645",
+    "game_name": "Gunfire Reborn",
+    "type": "live",
+    "title": "[Subathon Preload] So a Vampire and a siren walk into a bar Guns Blazing (Gunfire Reborn w/ @lucyroselle)",
+    "viewer_count": 10,
+    "started_at": "2026-09-25T03:28:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Crazy",
+      "prismmodel",
+      "seatuber",
+      "DeadWeight",
+      "ChaosGremlin",
+      "ENVtuber",
+      "streamtogether",
+      "English",
+      "subathon",
+      "GunFireReborn"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   }
 ]
