@@ -8,7 +8,7 @@
     "game_name": "Aniimo",
     "type": "live",
     "title": "【 ANIIMO】 baby's first amiino~ ♡ ₊˚⊹ !discord !socials",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-09-25T22:07:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -31,11 +31,11 @@
     "user_id": "686883069",
     "user_login": "eepysoma",
     "user_name": "EepySoma",
-    "game_id": "509663",
-    "game_name": "Special Events",
+    "game_id": "1945673289",
+    "game_name": "The Mortuary Assistant",
     "type": "live",
     "title": "[Mortuary Assistant Model Debut] The Moruge  is open to visitors",
-    "viewer_count": 6,
+    "viewer_count": 8,
     "started_at": "2026-09-25T21:12:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -49,33 +49,10 @@
       "DeadWeight",
       "Horror",
       "DebutVtuber",
-      "DropsEnabled"
+      "TheMortuaryAssistant"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/352bcd0f-053d-4f73-aaeb-220b8c12d55b-profile_image-300x300.png"
-  },
-  {
-    "id": "317846707428",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "494099",
-    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-    "type": "live",
-    "title": "[Re-CoM] Completed or not, this is the last stream I play Chain of Memories. I can't keep doing this to myself",
-    "viewer_count": 4,
-    "started_at": "2026-09-25T19:27:06Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "321581340506",
@@ -114,7 +91,7 @@
     "game_name": "Terrible Lizards",
     "type": "live",
     "title": "Friday Chilling (demo and museum time)",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "started_at": "2026-09-25T22:11:42Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
@@ -129,6 +106,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
+  },
+  {
+    "id": "317846707428",
+    "user_id": "85124538",
+    "user_login": "vaneros_lunpo",
+    "user_name": "Vaneros_Lunpo",
+    "game_id": "494099",
+    "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "type": "live",
+    "title": "[Re-CoM] Completed or not, this is the last stream I play Chain of Memories. I can't keep doing this to myself",
+    "viewer_count": 3,
+    "started_at": "2026-09-25T19:27:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Pirate",
+      "English",
+      "Penguin",
+      "Vtuber"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   },
   {
     "id": "317822462434",
@@ -158,5 +158,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d3cd171-39f1-49ec-95ae-86eb470d41ed-profile_image-300x300.png"
+  },
+  {
+    "id": "320522060896",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "(NeoSora Opening day) I hope i don't get lost.. | !Discord !lurk | 🐉🧟",
+    "viewer_count": 1,
+    "started_at": "2026-09-25T22:35:10Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
   }
 ]
