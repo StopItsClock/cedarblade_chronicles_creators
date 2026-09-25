@@ -1,29 +1,5 @@
 [
   {
-    "id": "321527725145",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "89297",
-    "game_name": "Danganronpa 2: Goodbye Despair",
-    "type": "live",
-    "title": "WOW, can't believe we lost two people, surely nothing else will happen. Danganronpa 2: Goodbye Despair w/@lemonlilliee",
-    "viewer_count": 7,
-    "started_at": "2026-09-25T19:04:25Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Transfem",
-      "LGBTQAIplus",
-      "vtuber",
-      "mothgirl",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
-  },
-  {
     "id": "317846707428",
     "user_id": "85124538",
     "user_login": "vaneros_lunpo",
@@ -55,7 +31,7 @@
     "game_name": "Resident Evil",
     "type": "live",
     "title": "[RE:1 1996] Can we beat this in one sitting? We'll definitely try! [18+]| road to 400 | !lurk | !commands",
-    "viewer_count": 1,
+    "viewer_count": 2,
     "started_at": "2026-09-25T16:51:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
