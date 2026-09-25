@@ -8,7 +8,7 @@
     "game_name": "SILENT HILL: townfall",
     "type": "live",
     "title": "✧ ITS TIMEEEE AHHHH ✧ !lurk !merch !throne !clip",
-    "viewer_count": 37,
+    "viewer_count": 35,
     "started_at": "2026-09-24T22:58:46Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -58,35 +58,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d07e7eff-a657-4679-98c8-a9a0d9c5f91a-profile_image-300x300.png"
   },
   {
-    "id": "320513543392",
-    "user_id": "1082049326",
-    "user_login": "nanami_eiko",
-    "user_name": "Nanami_Eiko",
-    "game_id": "517645",
-    "game_name": "Gunfire Reborn",
-    "type": "live",
-    "title": "[Subathon Preload] So a Vampire and a siren walk into a bar Guns Blazing (Gunfire Reborn w/ @lucyroselle)",
-    "viewer_count": 10,
-    "started_at": "2026-09-25T03:28:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Crazy",
-      "prismmodel",
-      "seatuber",
-      "DeadWeight",
-      "ChaosGremlin",
-      "ENVtuber",
-      "streamtogether",
-      "English",
-      "subathon",
-      "GunFireReborn"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
     "id": "321689438555",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -116,6 +87,35 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
+    "id": "320513543392",
+    "user_id": "1082049326",
+    "user_login": "nanami_eiko",
+    "user_name": "Nanami_Eiko",
+    "game_id": "517645",
+    "game_name": "Gunfire Reborn",
+    "type": "live",
+    "title": "[Subathon Preload] So a Vampire and a siren walk into a bar Guns Blazing (Gunfire Reborn w/ @lucyroselle)",
+    "viewer_count": 6,
+    "started_at": "2026-09-25T03:28:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Crazy",
+      "prismmodel",
+      "seatuber",
+      "DeadWeight",
+      "ChaosGremlin",
+      "ENVtuber",
+      "streamtogether",
+      "English",
+      "subathon",
+      "GunFireReborn"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
+  },
+  {
     "id": "320511045472",
     "user_id": "620490598",
     "user_login": "bryanuwus",
@@ -137,33 +137,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
-  },
-  {
-    "id": "321520771417",
-    "user_id": "116714793",
-    "user_login": "marioairheart",
-    "user_name": "MarioAirheart",
-    "game_id": "490744",
-    "game_name": "Stardew Valley",
-    "type": "live",
-    "title": "18+ | Words cant describe how much i missed my farm | PC | Stardew Valley | !discord !Blacklyte !Throne !SUBtember",
-    "viewer_count": 2,
-    "started_at": "2026-09-25T02:03:00Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marioairheart-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "VtuberEN",
-      "PNGtuberEN",
-      "Variety",
-      "English",
-      "VTuberUprising",
-      "18maturelanguage",
-      "feet",
-      "NoGenerativeAI"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
   }
 ]
