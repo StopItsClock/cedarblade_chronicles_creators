@@ -29,6 +29,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
   },
   {
+    "id": "320537858272",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[Elysium SMP] Ioanna the one with a work VISA c:",
+    "viewer_count": 6,
+    "started_at": "2026-09-26T22:12:36Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ComfyCafe",
+      "eepy",
+      "Roleplay"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
+  },
+  {
     "id": "321714500699",
     "user_id": "1185217143",
     "user_login": "zecosmiccrow",
@@ -83,30 +107,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d641617-28b1-41b5-a00a-254dc59d3ca0-profile_image-300x300.png"
   },
   {
-    "id": "320537858272",
-    "user_id": "710026427",
-    "user_login": "wallowsett",
-    "user_name": "WallowSett",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "[Elysium SMP] Ioanna the one with a work VISA c:",
-    "viewer_count": 4,
-    "started_at": "2026-09-26T22:12:36Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "English",
-      "ComfyCafe",
-      "eepy",
-      "Roleplay"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
-  },
-  {
     "id": "319364679639",
     "user_id": "1106409619",
     "user_login": "wannabe__va",
@@ -115,7 +115,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "The End is open! Shiny weekend! #Evermon",
-    "viewer_count": 1,
+    "viewer_count": 3,
     "started_at": "2026-09-26T22:13:04Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
