@@ -29,32 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
   },
   {
-    "id": "318211248216",
-    "user_id": "100958651",
-    "user_login": "boodawolf",
-    "user_name": "Boodawolf",
-    "game_id": "27127",
-    "game_name": "Amnesia: The Dark Descent",
-    "type": "live",
-    "title": "SPOOPY SEASON",
-    "viewer_count": 19,
-    "started_at": "2026-09-26T01:00:01Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "vtuber",
-      "English",
-      "Chaotic",
-      "Wolf",
-      "Crınge",
-      "soulsgames",
-      "LIESOFP"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
-  },
-  {
     "id": "321699672283",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -63,7 +37,7 @@
     "game_name": "Danganronpa 2: Goodbye Despair",
     "type": "live",
     "title": "[18+] 🔪 Obsession, but it's Just Nagito [FIRST PLAYTHROUGH Danganronpa 2] | !throne !socials !lurk !discord",
-    "viewer_count": 18,
+    "viewer_count": 20,
     "started_at": "2026-09-25T22:42:33Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -84,6 +58,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36487cf1-f49e-4a62-bfd6-0554b21f3a9d-profile_image-300x300.png"
   },
   {
+    "id": "318211248216",
+    "user_id": "100958651",
+    "user_login": "boodawolf",
+    "user_name": "Boodawolf",
+    "game_id": "27127",
+    "game_name": "Amnesia: The Dark Descent",
+    "type": "live",
+    "title": "SPOOPY SEASON",
+    "viewer_count": 18,
+    "started_at": "2026-09-26T01:00:01Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "vtuber",
+      "English",
+      "Chaotic",
+      "Wolf",
+      "Crınge",
+      "soulsgames",
+      "LIESOFP"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28728a69-4cb8-4784-9c47-a08843ee26b3-profile_image-300x300.png"
+  },
+  {
     "id": "321582676698",
     "user_id": "73150212",
     "user_login": "xionfox",
@@ -92,7 +92,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "[NEOSORA SMP] New School New Beginnings #NeoSoraSMP",
-    "viewer_count": 11,
+    "viewer_count": 13,
     "started_at": "2026-09-25T22:41:52Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
@@ -111,6 +111,30 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93d2ee3a-dc14-4abb-abd7-c6a5922d568b-profile_image-300x300.jpeg"
   },
   {
+    "id": "321701733595",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "1286077738",
+    "game_name": "Monster Hunter Wilds",
+    "type": "live",
+    "title": "Monster Hunter Wilds: Getting the slime boy to HR 100 w/@slimechemist",
+    "viewer_count": 5,
+    "started_at": "2026-09-26T00:43:55Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Transfem",
+      "LGBTQAIplus",
+      "vtuber",
+      "mothgirl",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
+  },
+  {
     "id": "321585187418",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -119,7 +143,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Vtuber Con Buys A Yacht??? 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-09-26T01:06:40Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -140,28 +164,27 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "321701733595",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "1286077738",
-    "game_name": "Monster Hunter Wilds",
+    "id": "317527993719",
+    "user_id": "1106409619",
+    "user_login": "wannabe__va",
+    "user_name": "Wannabe__va",
+    "game_id": "27471",
+    "game_name": "Minecraft",
     "type": "live",
-    "title": "Monster Hunter Wilds: Getting the slime boy to HR 100 w/@slimechemist",
-    "viewer_count": 4,
-    "started_at": "2026-09-26T00:43:55Z",
+    "title": "Cobblemon training up the team on #Evermon",
+    "viewer_count": 1,
+    "started_at": "2026-09-26T02:33:11Z",
     "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
     "tag_ids": [],
     "tags": [
-      "Transfem",
-      "LGBTQAIplus",
-      "vtuber",
-      "mothgirl",
+      "Voiceacting",
+      "Backseating",
+      "Vtuber",
       "English"
     ],
     "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   },
   {
     "id": "321703224155",
@@ -190,28 +213,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
-  },
-  {
-    "id": "317527993719",
-    "user_id": "1106409619",
-    "user_login": "wannabe__va",
-    "user_name": "Wannabe__va",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "Cobblemon training up the team on #Evermon",
-    "viewer_count": 0,
-    "started_at": "2026-09-26T02:33:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wannabe__va-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Voiceacting",
-      "Backseating",
-      "Vtuber",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1e4485-2ec8-4fdb-b6c8-24d3cd85e1f7-profile_image-300x300.png"
   }
 ]
