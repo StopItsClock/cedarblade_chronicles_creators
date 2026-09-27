@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "|HHVT Fundraiser! | Two Gremlins linked together Day3 !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "started_at": "2026-09-27T17:00:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -64,7 +64,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "back to reclaiming! [18+] [!discord] [!merch]",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-09-27T20:01:03Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -83,5 +83,30 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
+  },
+  {
+    "id": "318799264486",
+    "user_id": "176596310",
+    "user_login": "kage_rokkr",
+    "user_name": "kage_rokkr",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "The Bday Suffering stream",
+    "viewer_count": 1,
+    "started_at": "2026-09-27T20:26:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "English",
+      "ᴀʀᴛ",
+      "dragon",
+      "DumbDragon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
   }
 ]
