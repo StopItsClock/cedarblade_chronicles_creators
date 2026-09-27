@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "|HHVT Fundraiser! | Two Gremlins linked together Day3 !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 14,
+    "viewer_count": 13,
     "started_at": "2026-09-27T17:00:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -29,33 +29,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
   },
   {
-    "id": "317872638691",
-    "user_id": "1124868242",
-    "user_login": "karaleuatomic",
-    "user_name": "KaraleuAtomic",
-    "game_id": "745589378",
-    "game_name": "Balatro",
-    "type": "live",
-    "title": "[ENVtuber] Slot Lock Rando Day 2! | !games !ap !kofi !throne",
-    "viewer_count": 11,
-    "started_at": "2026-09-27T14:11:24Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karaleuatomic-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "BritishStreamer",
-      "English",
-      "TransVtuber",
-      "sharkussy",
-      "Tsundere",
-      "DeadWeight",
-      "NoAI",
-      "IdiotStreamer"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d8c35d-ff05-43d6-a10e-9ec5c4c354a8-profile_image-300x300.png"
-  },
-  {
     "id": "318799400038",
     "user_id": "176596310",
     "user_login": "kage_rokkr",
@@ -64,7 +37,7 @@
     "game_name": "Deep Rock Galactic",
     "type": "live",
     "title": "The Bday Suffering stream",
-    "viewer_count": 3,
+    "viewer_count": 6,
     "started_at": "2026-09-27T20:39:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
@@ -108,5 +81,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
+  },
+  {
+    "id": "320552267616",
+    "user_id": "710026427",
+    "user_login": "wallowsett",
+    "user_name": "WallowSett",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "[Elysium SMP Finale] Ioanna the lost",
+    "viewer_count": 0,
+    "started_at": "2026-09-27T20:53:06Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "ComfyCafe",
+      "eepy",
+      "Roleplay"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ca58bc11-b3fa-4d36-b0d1-cc772c642e3a-profile_image-300x300.png"
   }
 ]
