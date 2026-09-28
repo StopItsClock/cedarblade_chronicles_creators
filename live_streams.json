@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "✧ Running it back ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
+    "viewer_count": 24,
     "started_at": "2026-09-28T22:38:26Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Overwatch",
     "type": "live",
     "title": "Quickest of Play Warriors UNITE!!! w/ @boredarts | !Kofi help with my 2.0 rig | !Clip",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-09-28T23:03:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triagesylphiel-{width}x{height}.jpg",
@@ -54,6 +54,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/528079f7-f1d7-48c4-8b28-7f485c3318f7-profile_image-300x300.png"
+  },
+  {
+    "id": "321745666779",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1280007947",
+    "game_name": "Limbus Company",
+    "type": "live",
+    "title": "[18+] When in doubt just punch things | DotW + Limbus | !lurk !throne !tip !discord",
+    "viewer_count": 3,
+    "started_at": "2026-09-28T23:01:49Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
     "id": "317547525623",
@@ -83,34 +112,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/352bcd0f-053d-4f73-aaeb-220b8c12d55b-profile_image-300x300.png"
-  },
-  {
-    "id": "321745666779",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1280007947",
-    "game_name": "Limbus Company",
-    "type": "live",
-    "title": "[18+] When in doubt just punch things | DotW + Limbus | !lurk !throne !tip !discord",
-    "viewer_count": 2,
-    "started_at": "2026-09-28T23:01:49Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
