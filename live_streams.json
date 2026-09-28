@@ -8,7 +8,7 @@
     "game_name": "Pokémon Scarlet/Violet",
     "type": "live",
     "title": "Time to gain an egg, and do some grinding|| Pokemon White (!lurk, !links, !discord)",
-    "viewer_count": 7,
+    "viewer_count": 5,
     "started_at": "2026-09-28T20:55:39Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nokoadragon-{width}x{height}.jpg",
@@ -32,10 +32,10 @@
     "user_id": "686883069",
     "user_login": "eepysoma",
     "user_name": "EepySoma",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
+    "game_id": "866287127",
+    "game_name": "Welcome to Elderfield",
     "type": "live",
-    "title": "[No Sleep/Creepy Pasta reading] Finishing Stairs in the woods going into candle cove!",
+    "title": "[Welcome to Elderfield] GETTING AN AXE",
     "viewer_count": 2,
     "started_at": "2026-09-28T21:04:54Z",
     "language": "en",
@@ -49,34 +49,11 @@
       "LGBTQFriendly",
       "DeadWeight",
       "goth",
-      "NoSleep",
-      "creepypasta",
-      "DropsEnabled"
+      "welcometoelderfield",
+      "Cozy",
+      "farmsim"
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/352bcd0f-053d-4f73-aaeb-220b8c12d55b-profile_image-300x300.png"
-  },
-  {
-    "id": "317852198498",
-    "user_id": "85124538",
-    "user_login": "vaneros_lunpo",
-    "user_name": "Vaneros_Lunpo",
-    "game_id": "513143",
-    "game_name": "Teamfight Tactics",
-    "type": "live",
-    "title": "Taking a break from Kingdom Hearts, with some nice relaxing TFT",
-    "viewer_count": 1,
-    "started_at": "2026-09-28T19:26:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaneros_lunpo-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Pirate",
-      "English",
-      "Penguin",
-      "Vtuber"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
   }
 ]
