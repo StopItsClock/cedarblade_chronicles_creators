@@ -1,5 +1,30 @@
 [
   {
+    "id": "318799400038",
+    "user_id": "176596310",
+    "user_login": "kage_rokkr",
+    "user_name": "kage_rokkr",
+    "game_id": "1081998272",
+    "game_name": "PEAK",
+    "type": "live",
+    "title": "The Bday Suffering stream",
+    "viewer_count": 6,
+    "started_at": "2026-09-27T20:39:13Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "pngtuber",
+      "English",
+      "ᴀʀᴛ",
+      "dragon",
+      "DumbDragon"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
+  },
+  {
     "id": "321568406105",
     "user_id": "119893530",
     "user_login": "frostedplague7",
@@ -8,7 +33,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "Socializing then Maybe Games? 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "started_at": "2026-09-28T00:28:56Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -27,31 +52,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "318799400038",
-    "user_id": "176596310",
-    "user_login": "kage_rokkr",
-    "user_name": "kage_rokkr",
-    "game_id": "1081998272",
-    "game_name": "PEAK",
-    "type": "live",
-    "title": "The Bday Suffering stream",
-    "viewer_count": 5,
-    "started_at": "2026-09-27T20:39:13Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kage_rokkr-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "pngtuber",
-      "English",
-      "ᴀʀᴛ",
-      "dragon",
-      "DumbDragon"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb99611e-bad6-4931-b6e5-4dfd7bbf7837-profile_image-300x300.png"
   },
   {
     "id": "320515741020",
@@ -89,7 +89,7 @@
     "game_name": "Resident Evil 2",
     "type": "live",
     "title": "[RE:2 1998] Leon be lookin' mighty retro in the classics [18+]| road to 400 | !lurk | !commands",
-    "viewer_count": 4,
+    "viewer_count": 3,
     "started_at": "2026-09-27T23:05:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_everyonelovesrobots-{width}x{height}.jpg",
