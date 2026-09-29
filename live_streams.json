@@ -8,7 +8,7 @@
     "game_name": "Little Goody Two Shoes",
     "type": "live",
     "title": "i dont like scary games but i love cute girls... || !discord !dono !lurk !throne",
-    "viewer_count": 13,
+    "viewer_count": 11,
     "started_at": "2026-09-29T19:47:36Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_veroniavvinter-{width}x{height}.jpg",
@@ -33,7 +33,7 @@
     "game_name": "Minecraft Dungeons II",
     "type": "live",
     "title": "DUNGEONS 2 RELEASE DAY !discord throwables off",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-09-29T20:38:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -78,33 +78,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
-    "id": "320445042142",
-    "user_id": "243161944",
-    "user_login": "dracolicheren",
-    "user_name": "DracolicheRen",
-    "game_id": "27471",
-    "game_name": "Minecraft",
-    "type": "live",
-    "title": "(NeoSora SMP) Class day! time to learn lots! | !Discord !lurk | 🐉🧟",
-    "viewer_count": 4,
-    "started_at": "2026-09-29T21:32:03Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "English",
-      "ENVtuber",
-      "sillyvtuber",
-      "MaleVtuber",
-      "VTuberUprising",
-      "dragonvtuber",
-      "undeadvtuber",
-      "Horror"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
-  },
-  {
     "id": "316123182825",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -134,6 +107,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
   },
   {
+    "id": "320445042142",
+    "user_id": "243161944",
+    "user_login": "dracolicheren",
+    "user_name": "DracolicheRen",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "(NeoSora SMP) Class day! time to learn lots! | !Discord !lurk | 🐉🧟",
+    "viewer_count": 4,
+    "started_at": "2026-09-29T21:32:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "English",
+      "ENVtuber",
+      "sillyvtuber",
+      "MaleVtuber",
+      "VTuberUprising",
+      "dragonvtuber",
+      "undeadvtuber",
+      "Horror"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
     "id": "318242623832",
     "user_id": "686883069",
     "user_login": "eepysoma",
@@ -142,7 +142,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "[Deadlock] YOSHI COOKED I WANT THE NURSE SO BAD",
-    "viewer_count": 2,
+    "viewer_count": 3,
     "started_at": "2026-09-29T21:40:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eepysoma-{width}x{height}.jpg",
@@ -159,5 +159,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/352bcd0f-053d-4f73-aaeb-220b8c12d55b-profile_image-300x300.png"
+  },
+  {
+    "id": "320539365596",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1288749557",
+    "game_name": "Dressmaker",
+    "type": "live",
+    "title": "【 DRESSMAKER 】 give the fox a needle!!! ♡ ₊˚⊹ !discord !socials",
+    "viewer_count": 0,
+    "started_at": "2026-09-29T22:00:44Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "vcanada",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
   }
 ]
