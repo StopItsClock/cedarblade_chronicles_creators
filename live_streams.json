@@ -1,34 +1,5 @@
 [
   {
-    "id": "319388543959",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "515025",
-    "game_name": "Overwatch",
-    "type": "live",
-    "title": "✧ Running it back ✧ !lurk !merch !throne !clip",
-    "viewer_count": 28,
-    "started_at": "2026-09-28T22:38:26Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "YappingEncouraged",
-      "English",
-      "ChillCozyChaotic"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
     "id": "316119716457",
     "user_id": "956203886",
     "user_login": "liefaurelius",
@@ -66,7 +37,7 @@
     "game_name": "Limbus Company",
     "type": "live",
     "title": "[18+] When in doubt just punch things | DotW + Limbus | !lurk !throne !tip !discord",
-    "viewer_count": 6,
+    "viewer_count": 5,
     "started_at": "2026-09-28T23:01:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
