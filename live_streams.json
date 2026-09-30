@@ -8,7 +8,7 @@
     "game_name": "Black Mesa",
     "type": "live",
     "title": "[18+] hihihihihihihihihihihihihihi *licks you*  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 35,
+    "viewer_count": 41,
     "started_at": "2026-09-29T23:48:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Pratfall",
     "type": "live",
     "title": "✧ Holy shit we're back?? ✧ !lurk !merch !throne !clip",
-    "viewer_count": 21,
+    "viewer_count": 22,
     "started_at": "2026-09-29T22:53:19Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -56,35 +56,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
-    "id": "321758287835",
-    "user_id": "1229718627",
-    "user_login": "huanyavt",
-    "user_name": "HuanyaVT",
-    "game_id": "1397210469",
-    "game_name": "Miniatures & Models",
-    "type": "live",
-    "title": "[18+] We finishing HG Psycho Zaku! | !lurk !throne !tip !discord",
-    "viewer_count": 6,
-    "started_at": "2026-09-29T23:06:04Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "dinosaur",
-      "Dinotuber",
-      "ADHD",
-      "Vtuber",
-      "LGBTQIAPIus",
-      "ENVTubers",
-      "18pluschannel",
-      "pngtuber",
-      "English",
-      "Scuff"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
     "id": "320544745820",
@@ -112,5 +83,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9ccd82f-2952-4bdd-aef2-41755db04f69-profile_image-300x300.png"
+  },
+  {
+    "id": "321758287835",
+    "user_id": "1229718627",
+    "user_login": "huanyavt",
+    "user_name": "HuanyaVT",
+    "game_id": "1397210469",
+    "game_name": "Miniatures & Models",
+    "type": "live",
+    "title": "[18+] We finishing HG Psycho Zaku! | !lurk !throne !tip !discord",
+    "viewer_count": 4,
+    "started_at": "2026-09-29T23:06:04Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "dinosaur",
+      "Dinotuber",
+      "ADHD",
+      "Vtuber",
+      "LGBTQIAPIus",
+      "ENVTubers",
+      "18pluschannel",
+      "pngtuber",
+      "English",
+      "Scuff"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   }
 ]
