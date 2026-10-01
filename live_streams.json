@@ -1,5 +1,31 @@
 [
   {
+    "id": "320566483676",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1288749557",
+    "game_name": "Dressmaker (2026)",
+    "type": "live",
+    "title": "【 DRESSMAKER 】 I'VE NEVER WASTED A PIECE OF FABRIC IN MY LIFE ♡ ₊˚⊹ !discord !socials",
+    "viewer_count": 13,
+    "started_at": "2026-10-01T22:01:18Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
+  },
+  {
     "id": "320469314142",
     "user_id": "1082049326",
     "user_login": "nanami_eiko",
@@ -8,7 +34,7 @@
     "game_name": "Rust",
     "type": "live",
     "title": "[Subathon Preload] Happy Birthday Feesh! (Rust w/ @regina_kardinal and @smugsucc)",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-10-01T19:37:00Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -27,32 +53,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
-  },
-  {
-    "id": "320566483676",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "1288749557",
-    "game_name": "Dressmaker (2026)",
-    "type": "live",
-    "title": "【 DRESSMAKER 】 I'VE NEVER WASTED A PIECE OF FABRIC IN MY LIFE ♡ ₊˚⊹ !discord !socials",
-    "viewer_count": 11,
-    "started_at": "2026-10-01T22:01:18Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "vcanada"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
   },
   {
     "id": "321666757722",
