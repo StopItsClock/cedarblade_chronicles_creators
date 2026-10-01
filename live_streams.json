@@ -37,7 +37,7 @@
     "game_name": "Your Only Move Is HUSTLE",
     "type": "live",
     "title": "[Subathon Preload] Yo, mi and you hustle? (Yomi Hustle w/ @smugsucc",
-    "viewer_count": 11,
+    "viewer_count": 9,
     "started_at": "2026-10-01T03:10:57Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanami_eiko-{width}x{height}.jpg",
@@ -58,6 +58,29 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6907cd2-440e-4ccf-8a16-209281f59cd4-profile_image-300x300.jpeg"
   },
   {
+    "id": "320600291296",
+    "user_id": "620490598",
+    "user_login": "bryanuwus",
+    "user_name": "Bryanuwus",
+    "game_id": "1143686580",
+    "game_name": "Gamble With Your Friends",
+    "type": "live",
+    "title": "Gambling with @ashara_drakzar @eldrid_shatner , and @aumi_saki @ariraakai might join in later. as always LET IT RIDE",
+    "viewer_count": 5,
+    "started_at": "2026-10-01T06:00:58Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Seiso",
+      "pngtuber",
+      "English",
+      "18plus"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
+  },
+  {
     "id": "321658295386",
     "user_id": "232460847",
     "user_login": "theomenclature",
@@ -66,7 +89,7 @@
     "game_name": "Dead by Daylight",
     "type": "live",
     "title": "Friend sloppy Night w/ @noveyvtt @bluberrycow",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "started_at": "2026-10-01T02:23:05Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
@@ -80,28 +103,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
-  },
-  {
-    "id": "320600291296",
-    "user_id": "620490598",
-    "user_login": "bryanuwus",
-    "user_name": "Bryanuwus",
-    "game_id": "1143686580",
-    "game_name": "Gamble With Your Friends",
-    "type": "live",
-    "title": "Gambling with @ashara_drakzar @eldrid_shatner , and @aumi_saki @ariraakai might join in later. as always LET IT RIDE",
-    "viewer_count": 2,
-    "started_at": "2026-10-01T06:00:58Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bryanuwus-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Seiso",
-      "pngtuber",
-      "English",
-      "18plus"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/131f9a84-ce9e-4b32-af0f-fc1d98fc5b15-profile_image-300x300.png"
   }
 ]
