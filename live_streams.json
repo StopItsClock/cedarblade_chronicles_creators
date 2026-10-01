@@ -8,7 +8,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "✧ Deadlock training arc ✧ !lurk !merch !throne !clip",
-    "viewer_count": 26,
+    "viewer_count": 29,
     "started_at": "2026-10-01T01:46:07Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -87,30 +87,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
   },
   {
-    "id": "321658295386",
-    "user_id": "232460847",
-    "user_login": "theomenclature",
-    "user_name": "TheOmenclature",
-    "game_id": "491487",
-    "game_name": "Dead by Daylight",
-    "type": "live",
-    "title": "Friend sloppy Night w/ @noveyvtt @bluberrycow",
-    "viewer_count": 1,
-    "started_at": "2026-10-01T02:23:05Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Transfem",
-      "LGBTQAIplus",
-      "vtuber",
-      "mothgirl",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
-  },
-  {
     "id": "321610968281",
     "user_id": "116714793",
     "user_login": "marioairheart",
@@ -137,5 +113,29 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e43739ee-d429-4340-88c8-628568299371-profile_image-300x300.png"
+  },
+  {
+    "id": "321658295386",
+    "user_id": "232460847",
+    "user_login": "theomenclature",
+    "user_name": "TheOmenclature",
+    "game_id": "491487",
+    "game_name": "Dead by Daylight",
+    "type": "live",
+    "title": "Friend sloppy Night w/ @noveyvtt @bluberrycow",
+    "viewer_count": 1,
+    "started_at": "2026-10-01T02:23:05Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theomenclature-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Transfem",
+      "LGBTQAIplus",
+      "vtuber",
+      "mothgirl",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
   }
 ]
