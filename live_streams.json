@@ -8,7 +8,7 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "lets get spoopy :3",
-    "viewer_count": 12,
+    "viewer_count": 11,
     "started_at": "2026-10-02T18:41:38Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boodawolf-{width}x{height}.jpg",
@@ -35,7 +35,7 @@
     "game_name": "Deadlock",
     "type": "live",
     "title": "Deadlock waiting for the new character! discord throwables off",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-10-02T20:15:25Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skyla_skydancer-{width}x{height}.jpg",
@@ -52,6 +52,35 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30d9900c-9d9c-4434-9d57-6cddb02c1967-profile_image-300x300.png"
+  },
+  {
+    "id": "316134684265",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "Weekend Shenanigans [18+] [!discord] [!merch]",
+    "viewer_count": 1,
+    "started_at": "2026-10-02T21:00:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "Anime",
+      "NoAI",
+      "DeadWeight"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
   },
   {
     "id": "316075235666",
@@ -75,5 +104,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "321798170459",
+    "user_id": "1185217143",
+    "user_login": "zecosmiccrow",
+    "user_name": "ZeCosmicCrow",
+    "game_id": "27471",
+    "game_name": "Minecraft",
+    "type": "live",
+    "title": "【 COSMIC PLAYS】Mine ze Crafts ⌇ 18+ ⌇ !clip !discord !social",
+    "viewer_count": 0,
+    "started_at": "2026-10-02T21:03:37Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "English",
+      "Crow",
+      "MaleVtuber",
+      "Cosmic",
+      "Yapper",
+      "indie",
+      "Chatty"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/836df522-58d3-4a0e-a534-9b1695156746-profile_image-300x300.jpeg"
   }
 ]
