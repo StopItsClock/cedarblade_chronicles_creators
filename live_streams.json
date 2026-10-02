@@ -8,7 +8,7 @@
     "game_name": "Well Dweller",
     "type": "live",
     "title": "[18+] Youre right! I DO deserve to see horrors beyond imagination!  ♥ @cutenysnys 💚 !socials !Merch 💚",
-    "viewer_count": 31,
+    "viewer_count": 33,
     "started_at": "2026-10-02T01:34:02Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cutenysnys-{width}x{height}.jpg",
@@ -37,7 +37,7 @@
     "game_name": "Control",
     "type": "live",
     "title": "✧ First playthrough! ITS OCTOBER YEAHHHH ✧ !lurk !merch !throne !clip",
-    "viewer_count": 30,
+    "viewer_count": 31,
     "started_at": "2026-10-01T23:04:41Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
@@ -65,7 +65,7 @@
     "game_name": "SILENT HILL: townfall",
     "type": "live",
     "title": "[18+] WE ARE STARTIN SPOOKY MONTH OFF RIGHT! | Silent Hill: townfall | !lurk !throne !tip !discord",
-    "viewer_count": 4,
+    "viewer_count": 6,
     "started_at": "2026-10-01T23:19:55Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_huanyavt-{width}x{height}.jpg",
@@ -110,33 +110,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b16e3302-5bfe-4ada-945d-2f4d293f8209-profile_image-300x300.png"
   },
   {
-    "id": "321622717913",
-    "user_id": "431657944",
-    "user_login": "saltyfarzi",
-    "user_name": "SaltyFarzi",
-    "game_id": "155820977",
-    "game_name": "MISERY",
-    "type": "live",
-    "title": "Adventures in MISERY with DarkrockGunner",
-    "viewer_count": 1,
-    "started_at": "2026-10-02T01:40:11Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saltyfarzi-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "ChillnGame",
-      "English",
-      "vtuber",
-      "FPS",
-      "Shooter",
-      "RPG",
-      "RTS",
-      "extractionshooter"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/86cf0679-8d2e-4fac-a207-cfd6d7b325f2-profile_image-300x300.png"
-  },
-  {
     "id": "320608846048",
     "user_id": "459187886",
     "user_login": "starryskiesvt",
@@ -162,5 +135,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f7311b1-40a0-42e0-aa8e-c0ce14d530cf-profile_image-300x300.png"
+  },
+  {
+    "id": "321622717913",
+    "user_id": "431657944",
+    "user_login": "saltyfarzi",
+    "user_name": "SaltyFarzi",
+    "game_id": "155820977",
+    "game_name": "MISERY",
+    "type": "live",
+    "title": "Adventures in MISERY with DarkrockGunner",
+    "viewer_count": 1,
+    "started_at": "2026-10-02T01:40:11Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saltyfarzi-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "ChillnGame",
+      "English",
+      "vtuber",
+      "FPS",
+      "Shooter",
+      "RPG",
+      "RTS",
+      "extractionshooter"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/86cf0679-8d2e-4fac-a207-cfd6d7b325f2-profile_image-300x300.png"
   }
 ]
