@@ -1,5 +1,33 @@
 [
   {
+    "id": "317568607351",
+    "user_id": "133400606",
+    "user_login": "slushieghost",
+    "user_name": "SlushieGhost",
+    "game_id": "506462",
+    "game_name": "Control",
+    "type": "live",
+    "title": "✧ First playthrough! ITS OCTOBER YEAHHHH ✧ !lurk !merch !throne !clip",
+    "viewer_count": 25,
+    "started_at": "2026-10-01T23:04:41Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Comfy",
+      "Nonbinary",
+      "VTuber",
+      "SpanishAndEnglish",
+      "ENVtuber",
+      "Hispanic",
+      "ADHD",
+      "YappingEncouraged",
+      "English"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
+  },
+  {
     "id": "321619506265",
     "user_id": "846373427",
     "user_login": "seraphselkie",
@@ -8,7 +36,7 @@
     "game_name": "Slay the Princess",
     "type": "live",
     "title": "Spooky scary season begins!!! Slay the Princess First time playthrough!  !tip !lurk  !throne !discord !dgg",
-    "viewer_count": 24,
+    "viewer_count": 23,
     "started_at": "2026-10-01T23:00:49Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seraphselkie-{width}x{height}.jpg",
@@ -29,34 +57,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37903493-46bc-431d-a9b3-36953d584e22-profile_image-300x300.png"
   },
   {
-    "id": "317568607351",
-    "user_id": "133400606",
-    "user_login": "slushieghost",
-    "user_name": "SlushieGhost",
-    "game_id": "506462",
-    "game_name": "Control",
-    "type": "live",
-    "title": "✧ First playthrough! ITS OCTOBER YEAHHHH ✧ !lurk !merch !throne !clip",
-    "viewer_count": 22,
-    "started_at": "2026-10-01T23:04:41Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slushieghost-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Comfy",
-      "Nonbinary",
-      "VTuber",
-      "SpanishAndEnglish",
-      "ENVtuber",
-      "Hispanic",
-      "ADHD",
-      "YappingEncouraged",
-      "English"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e8d14cb-b743-44f6-a457-b73f99024157-profile_image-300x300.png"
-  },
-  {
     "id": "320566483676",
     "user_id": "100422083",
     "user_login": "plompers",
@@ -65,7 +65,7 @@
     "game_name": "Dressmaker (2026)",
     "type": "live",
     "title": "【 DRESSMAKER 】 I'VE NEVER WASTED A PIECE OF FABRIC IN MY LIFE ♡ ₊˚⊹ !discord !socials",
-    "viewer_count": 14,
+    "viewer_count": 15,
     "started_at": "2026-10-01T22:01:18Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
@@ -112,6 +112,33 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
+    "id": "320608846048",
+    "user_id": "459187886",
+    "user_login": "starryskiesvt",
+    "user_name": "StarrySkiesVT",
+    "game_id": "2085980140",
+    "game_name": "Lethal Company",
+    "type": "live",
+    "title": "LETHAL COMPANY WITH HEARTMONITOR| !discord",
+    "viewer_count": 1,
+    "started_at": "2026-10-02T00:28:59Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "VTuber",
+      "English",
+      "LGBTQ",
+      "mouse",
+      "cottoncandy",
+      "Trans",
+      "Pisstuber",
+      "stinky"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f7311b1-40a0-42e0-aa8e-c0ce14d530cf-profile_image-300x300.png"
+  },
+  {
     "id": "316091823464",
     "user_id": "95084465",
     "user_login": "deltarious5",
@@ -139,32 +166,5 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
-  },
-  {
-    "id": "320608846048",
-    "user_id": "459187886",
-    "user_login": "starryskiesvt",
-    "user_name": "StarrySkiesVT",
-    "game_id": "2085980140",
-    "game_name": "Lethal Company",
-    "type": "live",
-    "title": "LETHAL COMPANY WITH HEARTMONITOR| !discord",
-    "viewer_count": 1,
-    "started_at": "2026-10-02T00:28:59Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starryskiesvt-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "VTuber",
-      "English",
-      "LGBTQ",
-      "mouse",
-      "cottoncandy",
-      "Trans",
-      "Pisstuber",
-      "stinky"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f7311b1-40a0-42e0-aa8e-c0ce14d530cf-profile_image-300x300.png"
   }
 ]
