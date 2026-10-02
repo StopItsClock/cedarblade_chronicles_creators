@@ -8,7 +8,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "【 COSMIC PLAYS】Mine ze Crafts ⌇ 18+ ⌇ !clip !discord !social",
-    "viewer_count": 7,
+    "viewer_count": 8,
     "started_at": "2026-10-02T21:03:37Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zecosmiccrow-{width}x{height}.jpg",
@@ -35,7 +35,7 @@
     "game_name": "Minecraft",
     "type": "live",
     "title": "Weekend Shenanigans [18+] [!discord] [!merch]",
-    "viewer_count": 3,
+    "viewer_count": 4,
     "started_at": "2026-10-02T21:00:53Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
@@ -77,5 +77,32 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5d8f57e-c41d-412f-a00b-6d48e5ba4b86-profile_image-300x300.png"
+  },
+  {
+    "id": "320620376544",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1599346425",
+    "game_name": "Co-working & Studying",
+    "type": "live",
+    "title": "【 CAMPAIGN PREP 】 working on CAIN game prep~ ♡ ₊˚⊹ !discord !socials",
+    "viewer_count": 0,
+    "started_at": "2026-10-02T22:21:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "vcanada",
+      "DropsEnabled"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
   }
 ]
