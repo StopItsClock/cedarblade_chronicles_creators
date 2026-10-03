@@ -36,7 +36,7 @@
     "game_name": "How to Fish",
     "type": "live",
     "title": "What's Your Most Nostalgic Game? 🧊 !pine !socials !cover 🍧 @frostedplague7",
-    "viewer_count": 14,
+    "viewer_count": 11,
     "started_at": "2026-10-02T23:02:13Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
@@ -55,32 +55,6 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad594c8e-7fbf-4a17-a2fd-3695b739ff74-profile_image-300x300.png"
-  },
-  {
-    "id": "320620376544",
-    "user_id": "100422083",
-    "user_login": "plompers",
-    "user_name": "Plompers",
-    "game_id": "1288749557",
-    "game_name": "Dressmaker (2026)",
-    "type": "live",
-    "title": "【 DRESSMAKER 】 going broke for toxic yuri weeee ♡ ₊˚⊹ !discord !socials",
-    "viewer_count": 11,
-    "started_at": "2026-10-02T22:21:48Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "LurkerFriendly",
-      "SafeSpace",
-      "English",
-      "Vtuber",
-      "Comfy",
-      "Cozy",
-      "vcanada"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
   },
   {
     "id": "316161014634",
@@ -112,6 +86,32 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdf5c4c0-1a90-41cb-9c1f-9d2a76dbc26d-profile_image-300x300.png"
   },
   {
+    "id": "320620376544",
+    "user_id": "100422083",
+    "user_login": "plompers",
+    "user_name": "Plompers",
+    "game_id": "1288749557",
+    "game_name": "Dressmaker (2026)",
+    "type": "live",
+    "title": "【 DRESSMAKER 】 going broke for toxic yuri weeee ♡ ₊˚⊹ !discord !socials",
+    "viewer_count": 11,
+    "started_at": "2026-10-02T22:21:48Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_plompers-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "LurkerFriendly",
+      "SafeSpace",
+      "English",
+      "Vtuber",
+      "Comfy",
+      "Cozy",
+      "vcanada"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6618711-67d4-46e0-b549-b57268a1893f-profile_image-300x300.png"
+  },
+  {
     "id": "320620789088",
     "user_id": "884094552",
     "user_login": "magicteahouse",
@@ -120,7 +120,7 @@
     "game_name": "Danganronpa 2: Goodbye Despair",
     "type": "live",
     "title": "[18+] 💙👻~SPOOKY OUTFIT DEBUT~[Danganronpa 2] | !throne !socials !lurk !discord",
-    "viewer_count": 7,
+    "viewer_count": 9,
     "started_at": "2026-10-02T22:50:59Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magicteahouse-{width}x{height}.jpg",
@@ -170,35 +170,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9649510b-f84f-4fb5-9f9c-d50ef3159a51-profile_image-300x300.png"
   },
   {
-    "id": "316134684265",
-    "user_id": "95084465",
-    "user_login": "deltarious5",
-    "user_name": "Deltarious5",
-    "game_id": "1414860634",
-    "game_name": "The Binding of Isaac: Repentance",
-    "type": "live",
-    "title": "Weekend Shenanigans [18+] [!discord] [!merch]",
-    "viewer_count": 2,
-    "started_at": "2026-10-02T21:00:53Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Casual",
-      "ADHD",
-      "English",
-      "Vtuber",
-      "NoBackseatingUnlessAsked",
-      "18pluschannel",
-      "cosplayer",
-      "Anime",
-      "NoAI",
-      "DeadWeight"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
-  },
-  {
     "id": "319125771381",
     "user_id": "1275381753",
     "user_login": "mimiluna2",
@@ -226,5 +197,34 @@
     ],
     "is_mature": false,
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6944d3e6-9910-4b3e-99bd-ea13861f8a2e-profile_image-300x300.png"
+  },
+  {
+    "id": "316134684265",
+    "user_id": "95084465",
+    "user_login": "deltarious5",
+    "user_name": "Deltarious5",
+    "game_id": "1414860634",
+    "game_name": "The Binding of Isaac: Repentance",
+    "type": "live",
+    "title": "Weekend Shenanigans [18+] [!discord] [!merch]",
+    "viewer_count": 1,
+    "started_at": "2026-10-02T21:00:53Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deltarious5-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Casual",
+      "ADHD",
+      "English",
+      "Vtuber",
+      "NoBackseatingUnlessAsked",
+      "18pluschannel",
+      "cosplayer",
+      "Anime",
+      "NoAI",
+      "DeadWeight"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9349acb1-9aa6-41f0-b1f8-6347284c8bee-profile_image-300x300.png"
   }
 ]
