@@ -1,5 +1,32 @@
 [
   {
+    "id": "317917892452",
+    "user_id": "149397923",
+    "user_login": "ravenincarnate",
+    "user_name": "ravenincarnate",
+    "game_id": "490436",
+    "game_name": "Software Inc.",
+    "type": "live",
+    "title": "Corporate Espionage! It's legal if the IRS doesn't see! Part 2!",
+    "viewer_count": 5,
+    "started_at": "2026-10-03T17:08:29Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "Vtuber",
+      "ENVtuber",
+      "Relaxing",
+      "Chill",
+      "English",
+      "18plusstream",
+      "18pluschannel",
+      "18maturelanguage"
+    ],
+    "is_mature": false,
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
+  },
+  {
     "id": "316105056979",
     "user_id": "454452972",
     "user_login": "edwardp22",
@@ -24,33 +51,6 @@
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/984d6200-2192-41a5-85ae-49ebc314923d-profile_image-300x300.png"
   },
   {
-    "id": "317917892452",
-    "user_id": "149397923",
-    "user_login": "ravenincarnate",
-    "user_name": "ravenincarnate",
-    "game_id": "490436",
-    "game_name": "Software Inc.",
-    "type": "live",
-    "title": "Corporate Espionage! It's legal if the IRS doesn't see! Part 2!",
-    "viewer_count": 3,
-    "started_at": "2026-10-03T17:08:29Z",
-    "language": "en",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ravenincarnate-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "Vtuber",
-      "ENVtuber",
-      "Relaxing",
-      "Chill",
-      "English",
-      "18plusstream",
-      "18pluschannel",
-      "18maturelanguage"
-    ],
-    "is_mature": false,
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d68c5fa-7f3c-4a3d-b1bd-f3fb6273f7aa-profile_image-300x300.png"
-  },
-  {
     "id": "320592558300",
     "user_id": "710026427",
     "user_login": "wallowsett",
@@ -59,7 +59,7 @@
     "game_name": "Super Mario Odyssey",
     "type": "live",
     "title": "Seeing how fast I can beat Odyssey c:",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "started_at": "2026-10-03T17:13:12Z",
     "language": "en",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallowsett-{width}x{height}.jpg",
